@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "2013020045",
+      "utcStart": "2013-10-10 00:00:00+0000",
+      "summary": "Blues beat Blackhawks on late Steen goal",
+      "h": "STL",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020046",
+      "utcStart": "2013-10-10 00:00:00+0000",
+      "summary": "Monahan scores again; Flames defeat Canadiens",
+      "h": "CGY",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020047",
+      "utcStart": "2013-10-10 02:30:00+0000",
+      "summary": "Carter's OT goal helps Kings hold off Senators",
+      "h": "LAK",
+      "a": "OTT"
+    }
+  ]
+}

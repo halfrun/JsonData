@@ -1,0 +1,24 @@
+{
+  "id": "2013020090",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0090",
+  "utcStart": "2013-10-16 00:00:00+0000",
+  "easternStart": "2013-10-15 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NSH",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

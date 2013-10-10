@@ -1,0 +1,24 @@
+{
+  "id": "2013020059",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0059",
+  "utcStart": "2013-10-11 23:00:00+0000",
+  "easternStart": "2013-10-11 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CAR",
+    "record": "1-1-1",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

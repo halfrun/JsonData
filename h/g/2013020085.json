@@ -1,0 +1,24 @@
+{
+  "id": "2013020085",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0085",
+  "utcStart": "2013-10-15 23:00:00+0000",
+  "easternStart": "2013-10-15 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PIT",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "EDM",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

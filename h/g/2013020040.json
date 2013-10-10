@@ -1,0 +1,65 @@
+{
+  "id": "2013020040",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0040",
+  "utcStart": "2013-10-08 23:00:00+0000",
+  "easternStart": "2013-10-08 19:00:00",
+  "summary": "Penguins' Jokinen gets hat trick against former team",
+  "h": {
+    "ab": "PIT",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "1-1-1",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "PIT679",
+      "summary": "N. Gerbe (2) Wrist Shot, assists: P. Dwyer (1), A. Sekera (2)"
+    },
+    {
+      "key": "PIT60",
+      "summary": "J. Vitale Slap Shot saved by C. Ward"
+    },
+    {
+      "key": "PIT54",
+      "summary": "R. Scuderi Wrist Shot saved by C. Ward"
+    },
+    {
+      "key": "PIT92",
+      "summary": "J. Jokinen (1) Backhand, assists: S. Crosby (1), C. Kunitz (1)"
+    },
+    {
+      "key": "PIT267",
+      "summary": "P. Martin (1) Backhand, assists: B. Orpik (1), S. Crosby (2)"
+    },
+    {
+      "key": "PIT702",
+      "summary": "T. Glass (1) Backhand, assists: J. Vitale (1)"
+    },
+    {
+      "key": "PIT719",
+      "summary": "J. Jokinen (3) Snap Shot, assists: O. Maatta (2), B. Sutter (3)"
+    },
+    {
+      "key": "PIT456",
+      "summary": "E. Staal (1) Tip-In, assists: J. Faulk (3), A. Sekera (1)"
+    },
+    {
+      "key": "PIT684",
+      "summary": "J. Jokinen (2) Wrist Shot, assists: E. Malkin (2), O. Maatta (1)"
+    },
+    {
+      "key": "PIT57",
+      "summary": "B. Sutter Wrist Shot saved by C. Ward"
+    }
+  ]
+}

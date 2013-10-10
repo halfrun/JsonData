@@ -1,0 +1,24 @@
+{
+  "id": "2013020093",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0093",
+  "utcStart": "2013-10-16 02:00:00+0000",
+  "easternStart": "2013-10-15 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PHX",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "1-0-2",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

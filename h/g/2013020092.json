@@ -1,0 +1,24 @@
+{
+  "id": "2013020092",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0092",
+  "utcStart": "2013-10-16 01:00:00+0000",
+  "easternStart": "2013-10-15 21:00:00",
+  "summary": "",
+  "h": {
+    "ab": "COL",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "DAL",
+    "record": "1-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

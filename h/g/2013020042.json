@@ -1,0 +1,53 @@
+{
+  "id": "2013020042",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0042",
+  "utcStart": "2013-10-09 00:00:00+0000",
+  "easternStart": "2013-10-08 20:00:00",
+  "summary": "Predators top Wild as Forsberg, Jones get first points",
+  "h": {
+    "ab": "NSH",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "0-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "NSH243",
+      "summary": "J. Spurgeon (1) Wrist Shot, assists: N. Niederreiter (2), M. Granlund (3)"
+    },
+    {
+      "key": "NSH21",
+      "summary": "F. Forsberg (1) Snap Shot, assists: P. Hornqvist (2), S. Jones (1)"
+    },
+    {
+      "key": "NSH15",
+      "summary": "Z. Parise (3) Tip-In, assists: M. Koivu (2), R. Suter (2)"
+    },
+    {
+      "key": "NSH11",
+      "summary": "K. Klein Wrist Shot saved by N. Backstrom"
+    },
+    {
+      "key": "NSH14",
+      "summary": "J. Pominville Slap Shot saved by P. Rinne"
+    },
+    {
+      "key": "NSH41",
+      "summary": "E. Nystrom (1) Wrist Shot, assists: none"
+    },
+    {
+      "key": "NSH23",
+      "summary": "C. Wilson (1) Wrist Shot, assists: M. Cullen (1), M. Fisher (2)"
+    }
+  ]
+}

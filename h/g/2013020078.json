@@ -1,0 +1,24 @@
+{
+  "id": "2013020078",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0078",
+  "utcStart": "2013-10-14 00:00:00+0000",
+  "easternStart": "2013-10-13 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "ANA",
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "1-0-2",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

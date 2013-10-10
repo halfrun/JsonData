@@ -1,0 +1,53 @@
+{
+  "id": "2013020037",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0037",
+  "utcStart": "2013-10-08 23:00:00+0000",
+  "easternStart": "2013-10-08 19:00:00",
+  "summary": "Avalanche extend win streak to three under Roy",
+  "h": {
+    "ab": "TOR",
+    "record": "3-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "COL",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "TOR10",
+      "summary": "P. Kessel Wrist Shot saved by S. Varlamov"
+    },
+    {
+      "key": "TOR603",
+      "summary": "P. Parenteau (3) Snap Shot, assists: J. McGinn (2), N. MacKinnon (4)"
+    },
+    {
+      "key": "TOR153",
+      "summary": "C. Orr hit N. MacKinnon"
+    },
+    {
+      "key": "TOR430",
+      "summary": "C. Sarich (1) Snap Shot, assists: S. Downie (2), M. Duchene (1)"
+    },
+    {
+      "key": "TOR415",
+      "summary": "J. Lupul (2) Snap Shot, assists: C. Ashton (1)"
+    },
+    {
+      "key": "TOR20",
+      "summary": "G. Landeskog Wrist Shot saved by J. Bernier"
+    },
+    {
+      "key": "TOR16",
+      "summary": "J. Lupul Backhand saved by S. Varlamov"
+    }
+  ]
+}

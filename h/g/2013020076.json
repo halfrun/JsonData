@@ -1,0 +1,24 @@
+{
+  "id": "2013020076",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0076",
+  "utcStart": "2013-10-13 19:00:00+0000",
+  "easternStart": "2013-10-13 15:00:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2013020041",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0041",
+  "utcStart": "2013-10-08 23:30:00+0000",
+  "easternStart": "2013-10-08 19:30:00",
+  "summary": "Lightning knock off Sabres in overtime",
+  "h": {
+    "ab": "BUF",
+    "record": "0-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": [
+    {
+      "key": "BUF403",
+      "summary": "J. McBain (1) Wrist Shot, assists: C. Hodgson (2), T. Vanek (2)"
+    },
+    {
+      "key": "BUF429",
+      "summary": "T. Purcell (2) Wrist Shot, assists: R. Malone (1), M. St Louis (2)"
+    },
+    {
+      "key": "BUF332",
+      "summary": "C. Hodgson (1) Wrist Shot, assists: T. Vanek (1), J. McBain (1)"
+    },
+    {
+      "key": "BUF673",
+      "summary": "A. Killorn (1) Backhand, assists: E. Brewer (2), V. Filppula (1)"
+    },
+    {
+      "key": "BUF60",
+      "summary": "B. Flynn Wrist Shot saved by B. Bishop"
+    },
+    {
+      "key": "BUF12",
+      "summary": "M. Foligno hit V. Filppula"
+    },
+    {
+      "key": "BUF340",
+      "summary": "T. Johnson (1) Wrist Shot, assists: V. Hedman (1), O. Palat (1)"
+    }
+  ]
+}

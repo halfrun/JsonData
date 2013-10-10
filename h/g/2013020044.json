@@ -1,0 +1,73 @@
+{
+  "id": "2013020044",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0044",
+  "utcStart": "2013-10-09 02:30:00+0000",
+  "easternStart": "2013-10-08 22:30:00",
+  "summary": "Hertl's four goals power Sharks past Rangers",
+  "h": {
+    "ab": "SJS",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "S.J441",
+      "summary": "T. Hertl (4) Wrist Shot, assists: J. Thornton (2)"
+    },
+    {
+      "key": "S.J15",
+      "summary": "B. Richards (3) Deflected, assists: D. Brassard (1), D. Stepan (3)"
+    },
+    {
+      "key": "S.J715",
+      "summary": "T. Hertl (6) Wrist Shot, assists: J. Demers (3), A. Niemi (1)"
+    },
+    {
+      "key": "S.J17",
+      "summary": "M. Vlasic (1) Wrist Shot, assists: J. Pavelski (3)"
+    },
+    {
+      "key": "S.J425",
+      "summary": "L. Couture (2) Slap Shot, assists: P. Marleau (1), M. Irwin (2)"
+    },
+    {
+      "key": "S.J419",
+      "summary": "T. Hertl (3) Deflected, assists: A. Desjardins (2), J. Demers (1)"
+    },
+    {
+      "key": "S.J705",
+      "summary": "D. Dorsett (1) Backhand, assists: B. Boyle (2), A. Stralman (1)"
+    },
+    {
+      "key": "S.J413",
+      "summary": "M. Nieto (1) Snap Shot, assists: T. Wingels (1), J. Pavelski (5)"
+    },
+    {
+      "key": "S.J35",
+      "summary": "D. Boyle (1) Slap Shot, assists: M. Nieto (1), J. Pavelski (4)"
+    },
+    {
+      "key": "S.J724",
+      "summary": "J. Braun (2) Wrist Shot, assists: M. Nieto (2), T. Wingels (2)"
+    },
+    {
+      "key": "S.J10",
+      "summary": "T. Hertl Snap Shot saved by H. Lundqvist"
+    },
+    {
+      "key": "S.J710",
+      "summary": "T. Hertl (5) Slap Shot, assists: J. Demers (2), T. Kennedy (1)"
+    }
+  ]
+}

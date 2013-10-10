@@ -1,0 +1,24 @@
+{
+  "id": "2013020050",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0050",
+  "utcStart": "2013-10-10 23:00:00+0000",
+  "easternStart": "2013-10-10 19:00:00",
+  "summary": "Hurricanes, Capitals seek more scoring",
+  "h": {
+    "ab": "WSH",
+    "record": "1-2-0",
+    "live": "144",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "1-1-1",
+    "live": "145",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2013020047",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0047",
+  "utcStart": "2013-10-10 02:30:00+0000",
+  "easternStart": "2013-10-09 22:30:00",
+  "summary": "Carter's OT goal helps Kings hold off Senators",
+  "h": {
+    "ab": "LAK",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "1-0-2",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "L.A598",
+      "summary": "M. Michalek (1) Wrist Shot, assists: J. Corvo (2), B. Ryan (2)"
+    },
+    {
+      "key": "L.A744",
+      "summary": "J. Carter (4) Tip-In, assists: M. Richards (3), A. Kopitar (4)"
+    },
+    {
+      "key": "L.A258",
+      "summary": "D. Brown (2) Tip-In, assists: J. Carter (1), A. Kopitar (3)"
+    },
+    {
+      "key": "L.A280",
+      "summary": "J. Pageau (1) Slap Shot, assists: E. Condra (1), J. Corvo (1)"
+    },
+    {
+      "key": "L.A9",
+      "summary": "K. Clifford hit J. Corvo"
+    },
+    {
+      "key": "L.A91",
+      "summary": "J. Carter (3) Wrist Shot, assists: M. Richards (2)"
+    },
+    {
+      "key": "L.A60",
+      "summary": "K. Turris Wrist Shot saved by J. Quick"
+    },
+    {
+      "key": "L.A542",
+      "summary": "B. Ryan (1) Snap Shot, assists: E. Karlsson (1), C. Phillips (1)"
+    },
+    {
+      "key": "L.A71",
+      "summary": "D. Brown (1) Snap Shot, assists: none"
+    }
+  ]
+}

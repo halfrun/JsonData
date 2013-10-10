@@ -1,0 +1,57 @@
+{
+  "id": "2013020038",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0038",
+  "utcStart": "2013-10-08 23:00:00+0000",
+  "easternStart": "2013-10-08 19:00:00",
+  "summary": "Tavares scores twice, Islanders rout Coyotes",
+  "h": {
+    "ab": "NYI",
+    "record": "2-0-1",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "NYI536",
+      "summary": "J. Bailey (1) Snap Shot, assists: F. Nielsen (4), M. Grabner (4)"
+    },
+    {
+      "key": "NYI382",
+      "summary": "M. Hanzal (1) Slap Shot, assists: M. Boedker (1), R. Vrbata (1)"
+    },
+    {
+      "key": "NYI501",
+      "summary": "C. McDonald (1) Wrist Shot, assists: F. Nielsen (3), M. Grabner (3)"
+    },
+    {
+      "key": "NYI106",
+      "summary": "P. Regin (1) Wrist Shot, assists: B. Nelson (1)"
+    },
+    {
+      "key": "NYI379",
+      "summary": "M. Donovan (1) Snap Shot, assists: P. Regin (1), J. Bailey (2)"
+    },
+    {
+      "key": "NYI134",
+      "summary": "J. Tavares (1) Snap Shot, assists: F. Nielsen (2), K. Okposo (1)"
+    },
+    {
+      "key": "NYI107",
+      "summary": "D. Moss Backhand saved by E. Nabokov"
+    },
+    {
+      "key": "NYI391",
+      "summary": "J. Tavares (2) Wrist Shot, assists: M. Grabner (2), J. Bailey (3)"
+    }
+  ]
+}

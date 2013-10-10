@@ -1,0 +1,65 @@
+{
+  "id": "2013020045",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0045",
+  "utcStart": "2013-10-10 00:00:00+0000",
+  "easternStart": "2013-10-09 20:00:00",
+  "summary": "Blues beat Blackhawks on late Steen goal",
+  "h": {
+    "ab": "STL",
+    "record": "3-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "1-1-1",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": [
+    {
+      "key": "STL64",
+      "summary": "N. Leddy Wrist Shot saved by J. Halak"
+    },
+    {
+      "key": "STL53",
+      "summary": "M. Handzus Wrist Shot saved by J. Halak"
+    },
+    {
+      "key": "STL90",
+      "summary": "V. Tarasenko (2) Wrist Shot, assists: P. Berglund (2)"
+    },
+    {
+      "key": "STL619",
+      "summary": "A. Steen (3) Slap Shot, assists: A. Pietrangelo (5), J. Bouwmeester (2)"
+    },
+    {
+      "key": "STL293",
+      "summary": "J. Toews (1) Wrist Shot, assists: P. Kane (1), P. Sharp (2)"
+    },
+    {
+      "key": "STL290",
+      "summary": "D. Backes (2) Tip-In, assists: A. Pietrangelo (4), T. Oshie (1)"
+    },
+    {
+      "key": "STL59",
+      "summary": "J. Oduya Slap Shot saved by J. Halak"
+    },
+    {
+      "key": "STL62",
+      "summary": "J. Schwartz Snap Shot saved by C. Crawford"
+    },
+    {
+      "key": "STL94",
+      "summary": "P. Kane (3) Wrist Shot, assists: P. Sharp (1), J. Toews (2)"
+    },
+    {
+      "key": "STL12",
+      "summary": "R. Reaves hit J. Nordstrom"
+    }
+  ]
+}

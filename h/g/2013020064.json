@@ -1,0 +1,24 @@
+{
+  "id": "2013020064",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0064",
+  "utcStart": "2013-10-12 23:00:00+0000",
+  "easternStart": "2013-10-12 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "TOR",
+    "record": "3-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "EDM",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

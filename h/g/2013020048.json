@@ -1,0 +1,24 @@
+{
+  "id": "2013020048",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0048",
+  "utcStart": "2013-10-10 23:00:00+0000",
+  "easternStart": "2013-10-10 19:00:00",
+  "summary": "Avalanche continue road trip in Boston",
+  "h": {
+    "ab": "BOS",
+    "record": "2-0-0",
+    "live": "138",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "COL",
+    "record": "3-0-0",
+    "live": "141",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

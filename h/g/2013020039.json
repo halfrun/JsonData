@@ -1,0 +1,45 @@
+{
+  "id": "2013020039",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0039",
+  "utcStart": "2013-10-08 23:00:00+0000",
+  "easternStart": "2013-10-08 19:00:00",
+  "summary": "Flyers win first game under new coach Berube",
+  "h": {
+    "ab": "PHI",
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "PHI69",
+      "summary": "B. Schenn (2) Wrist Shot, assists: J. Voracek (1), V. Lecavalier (2)"
+    },
+    {
+      "key": "PHI493",
+      "summary": "B. Boyes (1) Wrist Shot, assists: B. Campbell (3), A. Barkov (1)"
+    },
+    {
+      "key": "PHI79",
+      "summary": "B. Coburn (1) Wrist Shot, assists: S. Couturier (1)"
+    },
+    {
+      "key": "PHI56",
+      "summary": "J. Huberdeau Wrist Shot saved by S. Mason"
+    },
+    {
+      "key": "PHI12",
+      "summary": "K. Versteeg Wrist Shot saved by S. Mason"
+    }
+  ]
+}

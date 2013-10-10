@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "2013020035",
+      "utcStart": "2013-10-08 01:30:00+0000",
+      "summary": "Oilers rally in third, beat Devils in shootout",
+      "h": "EDM",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020036",
+      "utcStart": "2013-10-08 02:30:00+0000",
+      "summary": "Richards leads Rangers to Vigneault's first win",
+      "h": "LAK",
+      "a": "NYR"
+    }
+  ]
+}

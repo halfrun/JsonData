@@ -1,0 +1,24 @@
+{
+  "id": "2013020088",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0088",
+  "utcStart": "2013-10-15 23:30:00+0000",
+  "easternStart": "2013-10-15 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "TBL",
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

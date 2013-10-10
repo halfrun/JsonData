@@ -1,0 +1,24 @@
+{
+  "id": "2013020069",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0069",
+  "utcStart": "2013-10-13 00:00:00+0000",
+  "easternStart": "2013-10-12 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CHI",
+    "record": "1-1-1",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "BUF",
+    "record": "0-3-1",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}

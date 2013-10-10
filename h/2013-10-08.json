@@ -1,0 +1,60 @@
+{
+  "games": [
+    {
+      "id": "2013020037",
+      "utcStart": "2013-10-08 23:00:00+0000",
+      "summary": "Avalanche extend win streak to three under Roy",
+      "h": "TOR",
+      "a": "COL"
+    },
+    {
+      "id": "2013020038",
+      "utcStart": "2013-10-08 23:00:00+0000",
+      "summary": "Tavares scores twice, Islanders rout Coyotes",
+      "h": "NYI",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020039",
+      "utcStart": "2013-10-08 23:00:00+0000",
+      "summary": "Flyers win first game under new coach Berube",
+      "h": "PHI",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020040",
+      "utcStart": "2013-10-08 23:00:00+0000",
+      "summary": "Penguins' Jokinen gets hat trick against former team",
+      "h": "PIT",
+      "a": "CAR"
+    },
+    {
+      "id": "2013020041",
+      "utcStart": "2013-10-08 23:30:00+0000",
+      "summary": "Lightning knock off Sabres in overtime",
+      "h": "BUF",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020042",
+      "utcStart": "2013-10-09 00:00:00+0000",
+      "summary": "Predators top Wild as Forsberg, Jones get first points",
+      "h": "NSH",
+      "a": "MIN"
+    },
+    {
+      "id": "2013020043",
+      "utcStart": "2013-10-09 02:00:00+0000",
+      "summary": "Canucks top Devils in OT, spoil Schneider's return",
+      "h": "VAN",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020044",
+      "utcStart": "2013-10-09 02:30:00+0000",
+      "summary": "Hertl's four goals power Sharks past Rangers",
+      "h": "SJS",
+      "a": "NYR"
+    }
+  ]
+}

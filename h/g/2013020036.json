@@ -1,0 +1,49 @@
+{
+  "id": "2013020036",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0036",
+  "utcStart": "2013-10-08 02:30:00+0000",
+  "easternStart": "2013-10-07 22:30:00",
+  "summary": "Richards leads Rangers to Vigneault's first win",
+  "h": {
+    "ab": "LAK",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "L.A530",
+      "summary": "R. McDonagh (1) Wrist Shot, assists: B. Boyle (1)"
+    },
+    {
+      "key": "L.A297",
+      "summary": "J. Muzzin (1) Slap Shot, assists: M. Richards (1)"
+    },
+    {
+      "key": "L.A54",
+      "summary": "B. Boyle Backhand saved by J. Quick"
+    },
+    {
+      "key": "L.A90",
+      "summary": "B. Richards (1) Wrist Shot, assists: R. Nash (2), D. Stepan (2)"
+    },
+    {
+      "key": "L.A57",
+      "summary": "J. Muzzin Slap Shot saved by H. Lundqvist"
+    },
+    {
+      "key": "L.A293",
+      "summary": "B. Richards (2) Backhand, assists: R. Nash (3)"
+    }
+  ]
+}

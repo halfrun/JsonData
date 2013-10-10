@@ -1,0 +1,57 @@
+{
+  "id": "2013020046",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0046",
+  "utcStart": "2013-10-10 00:00:00+0000",
+  "easternStart": "2013-10-09 20:00:00",
+  "summary": "Monahan scores again; Flames defeat Canadiens",
+  "h": {
+    "ab": "CGY",
+    "record": "2-0-2",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "MTL",
+    "record": "1-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": [
+    {
+      "key": "CGY56",
+      "summary": "J. Tinordi hit B. Street"
+    },
+    {
+      "key": "CGY614",
+      "summary": "L. Eller (4) Wrist Shot, assists: A. Galchenyuk (5), P. Subban (2)"
+    },
+    {
+      "key": "CGY418",
+      "summary": "P. Subban (1) Slap Shot, assists: M. Pacioretty (1), A. Markov (1)"
+    },
+    {
+      "key": "CGY15",
+      "summary": "T. Brodie Wrist Shot saved by C. Price"
+    },
+    {
+      "key": "CGY20",
+      "summary": "B. Gallagher Backhand saved by J. MacDonald"
+    },
+    {
+      "key": "CGY207",
+      "summary": "S. Baertschi (1) Wrist Shot, assists: S. Monahan (2)"
+    },
+    {
+      "key": "CGY413",
+      "summary": "C. Glencross (2) Deflected, assists: D. Wideman (1), J. Hudler (3)"
+    },
+    {
+      "key": "CGY29",
+      "summary": "S. Monahan (3) Wrist Shot, assists: L. Stempniak (3)"
+    }
+  ]
+}

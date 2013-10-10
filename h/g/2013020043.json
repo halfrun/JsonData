@@ -1,0 +1,53 @@
+{
+  "id": "2013020043",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0043",
+  "utcStart": "2013-10-09 02:00:00+0000",
+  "easternStart": "2013-10-08 22:00:00",
+  "summary": "Canucks top Devils in OT, spoil Schneider's return",
+  "h": {
+    "ab": "VAN",
+    "record": "3-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "0-1-3",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
+  },
+  "pbp": [
+    {
+      "key": "VAN384",
+      "summary": "A. Edler (1) Wrist Shot, assists: D. Sedin (4), H. Sedin (6)"
+    },
+    {
+      "key": "VAN549",
+      "summary": "J. Garrison (3) Wrist Shot, assists: D. Booth (1)"
+    },
+    {
+      "key": "VAN94",
+      "summary": "J. Jagr (2) Deflected, assists: P. Elias (1), M. Zidlicky (4)"
+    },
+    {
+      "key": "VAN371",
+      "summary": "P. Elias (2) Wrist Shot, assists: A. Volchenkov (2), J. Jagr (1)"
+    },
+    {
+      "key": "VAN373",
+      "summary": "D. Sedin (2) Wrist Shot, assists: C. Tanev (1), R. Stanton (2)"
+    },
+    {
+      "key": "VAN56",
+      "summary": "P. Elias Deflected saved by R. Luongo"
+    },
+    {
+      "key": "VAN61",
+      "summary": "T. Zajac Backhand saved by R. Luongo"
+    }
+  ]
+}

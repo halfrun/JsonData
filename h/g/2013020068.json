@@ -1,0 +1,24 @@
+{
+  "id": "2013020068",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0068",
+  "utcStart": "2013-10-12 18:00:00+0000",
+  "easternStart": "2013-10-12 14:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CBJ",
+    "record": "1-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "2-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayFull": ""
+  },
+  "pbp": []
+}
