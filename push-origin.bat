@@ -1,7 +1,9 @@
-@ECHO OFF
-REM Change to the right directory first...
-cd C:\Programming\JsonData
 
-git commit -a -m "daily update"
+echo [%date% - %time%] Log Start > C:\programming\pushlog.txt
+echo Current Directory: %CD% > C:\Programming\pushlog.txt
 
-git push origin master
+call git add . >> c:\programming\pushlog.txt 2>&1
+
+call git commit -m "daily update" >> c:\programming\pushlog.txt 2>&1
+
+call git push origin master >> c:\programming\pushlog.txt 2>&1

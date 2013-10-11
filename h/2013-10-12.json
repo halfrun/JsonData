@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "id": "2013020068",
+      "utcStart": "2013-10-12 18:00:00+0000",
+      "summary": "Blue Jackets welcome in Bruins for Saturday matinee",
+      "h": "CBJ",
+      "a": "BOS"
+    },
+    {
+      "id": "2013020064",
+      "utcStart": "2013-10-12 23:00:00+0000",
+      "summary": "Oilers get lengthy road trip started vs. Maple Leafs",
+      "h": "TOR",
+      "a": "EDM"
+    },
+    {
+      "id": "2013020065",
+      "utcStart": "2013-10-12 23:00:00+0000",
+      "summary": "",
+      "h": "DET",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020066",
+      "utcStart": "2013-10-12 23:00:00+0000",
+      "summary": "",
+      "h": "TBL",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020067",
+      "utcStart": "2013-10-12 23:00:00+0000",
+      "summary": "",
+      "h": "WSH",
+      "a": "COL"
+    },
+    {
+      "id": "2013020069",
+      "utcStart": "2013-10-13 00:00:00+0000",
+      "summary": "",
+      "h": "CHI",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020070",
+      "utcStart": "2013-10-13 00:00:00+0000",
+      "summary": "Rangers try to get back on track vs. undefeated Blues",
+      "h": "STL",
+      "a": "NYR"
+    },
+    {
+      "id": "2013020071",
+      "utcStart": "2013-10-13 00:00:00+0000",
+      "summary": "",
+      "h": "NSH",
+      "a": "NYI"
+    },
+    {
+      "id": "2013020072",
+      "utcStart": "2013-10-13 00:00:00+0000",
+      "summary": "",
+      "h": "MIN",
+      "a": "DAL"
+    },
+    {
+      "id": "2013020073",
+      "utcStart": "2013-10-13 02:00:00+0000",
+      "summary": "",
+      "h": "VAN",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020074",
+      "utcStart": "2013-10-13 02:00:00+0000",
+      "summary": "",
+      "h": "SJS",
+      "a": "OTT"
+    }
+  ]
+}
