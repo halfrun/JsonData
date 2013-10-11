@@ -11,14 +11,18 @@
     "record": "2-1-1",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "a": {
     "ab": "PHX",
     "record": "2-2-0",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": []
 }

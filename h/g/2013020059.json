@@ -11,14 +11,18 @@
     "record": "2-1-1",
     "live": "143",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "a": {
     "ab": "LAK",
     "record": "2-2-0",
     "live": "138",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": []
 }

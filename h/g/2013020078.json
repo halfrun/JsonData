@@ -11,14 +11,18 @@
     "record": "3-1-0",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "a": {
     "ab": "OTT",
     "record": "1-0-2",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": []
 }

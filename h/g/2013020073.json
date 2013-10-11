@@ -5,20 +5,24 @@
   "gn": "0073",
   "utcStart": "2013-10-13 02:00:00+0000",
   "easternStart": "2013-10-12 22:00:00",
-  "summary": "",
+  "summary": "Canadiens, Canucks renew acquaintances in Vancouver",
   "h": {
     "ab": "VAN",
     "record": "3-2-0",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "a": {
     "ab": "MTL",
     "record": "2-2-0",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": []
 }

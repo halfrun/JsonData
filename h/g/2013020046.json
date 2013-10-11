@@ -11,14 +11,18 @@
     "record": "2-0-2",
     "live": "",
     "replayShort": "150",
-    "replayFull": "150"
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
     "record": "2-2-0",
     "live": "",
     "replayShort": "",
-    "replayFull": ""
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": [
     {

@@ -11,14 +11,18 @@
     "record": "3-2-0",
     "live": "",
     "replayShort": "150",
-    "replayFull": "150"
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "SJS",
     "record": "4-0-0",
     "live": "",
     "replayShort": "150",
-    "replayFull": ""
+    "replayShortNumber": 1,
+    "replayFull": "",
+    "replayFullNumber": 0
   },
   "pbp": [
     {
