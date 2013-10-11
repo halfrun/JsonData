@@ -5,20 +5,53 @@
   "gn": "0057",
   "utcStart": "2013-10-11 02:00:00+0000",
   "easternStart": "2013-10-10 22:00:00",
-  "summary": "Rangers aim to rebound as trip continues vs. Ducks",
+  "summary": "Ducks rout Rangers in home opener",
   "h": {
     "ab": "ANA",
-    "record": "2-1-0",
-    "live": "1",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "3-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "NYR",
-    "record": "1-2-0",
-    "live": "67",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA409",
+      "summary": "S. Koivu (2) Wrist Shot, assists: D. Winnik (2), A. Cogliano (2)"
+    },
+    {
+      "key": "ANA433",
+      "summary": "D. Penner (1) Tip-In, assists: C. Perry (3), B. Allen (1)"
+    },
+    {
+      "key": "ANA67",
+      "summary": "R. Getzlaf (1) Wrist Shot, assists: C. Perry (2), D. Penner (2)"
+    },
+    {
+      "key": "ANA54",
+      "summary": "B. Allen Slap Shot saved by H. Lundqvist"
+    },
+    {
+      "key": "ANA282",
+      "summary": "J. Silfverberg (4) Wrist Shot, assists: T. Selanne (2), M. Perreault (3)"
+    },
+    {
+      "key": "ANA88",
+      "summary": "J. Silfverberg (3) Tip-In, assists: T. Selanne (1), M. Perreault (2)"
+    },
+    {
+      "key": "ANA62",
+      "summary": "B. Lovejoy Wrist Shot saved by H. Lundqvist"
+    },
+    {
+      "key": "ANA100",
+      "summary": "D. Winnik (1) Wrist Shot, assists: S. Vatanen (1)"
+    }
+  ]
 }

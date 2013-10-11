@@ -1,21 +1,21 @@
 {
-  "id": "2013020084",
+  "id": "2013020094",
   "sid": "2013",
   "t": "02",
-  "gn": "0084",
-  "utcStart": "2013-10-15 23:00:00+0000",
-  "easternStart": "2013-10-15 19:00:00",
+  "gn": "0094",
+  "utcStart": "2013-10-17 00:00:00+0000",
+  "easternStart": "2013-10-16 20:00:00",
   "summary": "",
   "h": {
-    "ab": "PHI",
+    "ab": "WSH",
     "record": "1-3-0",
     "live": "",
     "replayShort": "",
     "replayFull": ""
   },
   "a": {
-    "ab": "VAN",
-    "record": "3-2-0",
+    "ab": "NYR",
+    "record": "1-3-0",
     "live": "",
     "replayShort": "",
     "replayFull": ""

@@ -5,20 +5,45 @@
   "gn": "0054",
   "utcStart": "2013-10-11 00:00:00+0000",
   "easternStart": "2013-10-10 20:00:00",
-  "summary": "Wild chase first win in Central clash with Jets",
+  "summary": "Wild defense grounds Jets for first win",
   "h": {
     "ab": "MIN",
-    "record": "0-1-2",
-    "live": "91",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "1-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "WPG",
-    "record": "2-1-0",
-    "live": "89",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN424",
+      "summary": "M. Cooke (2) Wrist Shot, assists: T. Mitchell (1), C. Stoner (1)"
+    },
+    {
+      "key": "MIN35",
+      "summary": "J. Brodin (2) Deflected, assists: M. Cooke (1), K. Brodziak (2)"
+    },
+    {
+      "key": "MIN329",
+      "summary": "B. Little (3) Tip-In, assists: T. Enstrom (5), D. Byfuglien (5)"
+    },
+    {
+      "key": "MIN15",
+      "summary": "E. Tangradi Wrist Shot saved by J. Harding"
+    },
+    {
+      "key": "MIN16",
+      "summary": "M. Dumba Slap Shot saved by O. Pavelec"
+    },
+    {
+      "key": "MIN13",
+      "summary": "J. Fontaine Wrist Shot saved by O. Pavelec"
+    }
+  ]
 }

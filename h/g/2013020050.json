@@ -5,20 +5,49 @@
   "gn": "0050",
   "utcStart": "2013-10-10 23:00:00+0000",
   "easternStart": "2013-10-10 19:00:00",
-  "summary": "Hurricanes, Capitals seek more scoring",
+  "summary": "Hurricanes edge Capitals on Gerbe's goal",
   "h": {
     "ab": "WSH",
-    "record": "1-2-0",
-    "live": "144",
-    "replayShort": "",
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
     "replayFull": ""
   },
   "a": {
     "ab": "CAR",
-    "record": "1-1-1",
-    "live": "145",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-1-1",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH21",
+      "summary": "J. Chimera (1) Wrist Shot, assists: E. Fehr (1), J. Carlson (1)"
+    },
+    {
+      "key": "WSH459",
+      "summary": "A. Semin (1) Slap Shot, assists: E. Staal (1), J. Skinner (5)"
+    },
+    {
+      "key": "WSH299",
+      "summary": "E. Lindholm (1) Deflected, assists: J. Skinner (4), R. Murphy (2)"
+    },
+    {
+      "key": "WSH13",
+      "summary": "E. Fehr Snap Shot saved by A. Khudobin"
+    },
+    {
+      "key": "WSH652",
+      "summary": "N. Gerbe (3) Wrist Shot, assists: J. Staal (1), J. Faulk (4)"
+    },
+    {
+      "key": "WSH454",
+      "summary": "A. Ovechkin (5) Tip-In, assists: S. Oleksy (1), N. Backstrom (4)"
+    },
+    {
+      "key": "WSH15",
+      "summary": "M. Grabovski Tip-In saved by A. Khudobin"
+    }
+  ]
 }

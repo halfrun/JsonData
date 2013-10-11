@@ -5,20 +5,37 @@
   "gn": "0048",
   "utcStart": "2013-10-10 23:00:00+0000",
   "easternStart": "2013-10-10 19:00:00",
-  "summary": "Avalanche continue road trip in Boston",
+  "summary": "Avalanche stay perfect as Giguere shuts out Bruins",
   "h": {
     "ab": "BOS",
-    "record": "2-0-0",
-    "live": "138",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "COL",
-    "record": "3-0-0",
-    "live": "141",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "4-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS59",
+      "summary": "N. MacKinnon Tip-In saved by T. Rask"
+    },
+    {
+      "key": "BOS304",
+      "summary": "R. O'Reilly (2) Tip-In, assists: A. Benoit (1), M. Duchene (2)"
+    },
+    {
+      "key": "BOS54",
+      "summary": "P. Stastny Snap Shot saved by T. Rask"
+    },
+    {
+      "key": "BOS695",
+      "summary": "M. Duchene (2) Wrist Shot, assists: none"
+    }
+  ]
 }

@@ -5,20 +5,49 @@
   "gn": "0051",
   "utcStart": "2013-10-10 23:30:00+0000",
   "easternStart": "2013-10-10 19:30:00",
-  "summary": "Coyotes, Wings both look to recover from tough losses.",
+  "summary": "Coyotes bounce back to beat Red Wings",
   "h": {
     "ab": "DET",
-    "record": "2-1-0",
-    "live": "49",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "PHX",
-    "record": "1-2-0",
-    "live": "142",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET290",
+      "summary": "M. Boedker (1) Wrist Shot, assists: D. Morris (2)"
+    },
+    {
+      "key": "DET54",
+      "summary": "H. Zetterberg Wrist Shot saved by M. Smith"
+    },
+    {
+      "key": "DET713",
+      "summary": "M. Stone (1) Slap Shot, assists: M. Ribeiro (1), M. Hanzal (3)"
+    },
+    {
+      "key": "DET62",
+      "summary": "D. Morris (1) Slap Shot, assists: A. Vermette (2)"
+    },
+    {
+      "key": "DET282",
+      "summary": "J. Andersson (1) Wrist Shot, assists: J. Kindl (1), T. Bertuzzi (1)"
+    },
+    {
+      "key": "DET285",
+      "summary": "J. Ericsson (1) Snap Shot, assists: none"
+    },
+    {
+      "key": "DET724",
+      "summary": "A. Vermette (1) Wrist Shot, assists: M. Boedker (2)"
+    }
+  ]
 }

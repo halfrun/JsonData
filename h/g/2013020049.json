@@ -5,20 +5,53 @@
   "gn": "0049",
   "utcStart": "2013-10-10 23:00:00+0000",
   "easternStart": "2013-10-10 19:00:00",
-  "summary": "Sabres looking for first win of season against Columbus",
+  "summary": "Blue Jackets score early, keep Sabres winless",
   "h": {
     "ab": "BUF",
-    "record": "0-3-1",
-    "live": "140",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "0-4-1",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "CBJ",
-    "record": "1-1-0",
-    "live": "136",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF209",
+      "summary": "B. Dubinsky (1) Backhand, assists: D. Savard (2), M. Gaborik (3)"
+    },
+    {
+      "key": "BUF61",
+      "summary": "J. Johnson Wrist Shot saved by R. Miller"
+    },
+    {
+      "key": "BUF63",
+      "summary": "T. Myers Slap Shot saved by S. Bobrovsky"
+    },
+    {
+      "key": "BUF96",
+      "summary": "N. Foligno (2) Backhand, assists: R. Johansen (1), R. Umberger (2)"
+    },
+    {
+      "key": "BUF58",
+      "summary": "C. Atkinson (1) Wrist Shot, assists: M. Gaborik (2), J. Wisniewski (2)"
+    },
+    {
+      "key": "BUF99",
+      "summary": "M. Gaborik (2) Slap Shot, assists: C. Atkinson (2), R. Murray (1)"
+    },
+    {
+      "key": "BUF77",
+      "summary": "T. Vanek (2) Wrist Shot, assists: S. Ott (1), C. Hodgson (3)"
+    },
+    {
+      "key": "BUF65",
+      "summary": "D. Stafford Slap Shot saved by S. Bobrovsky"
+    }
+  ]
 }

@@ -5,20 +5,73 @@
   "gn": "0052",
   "utcStart": "2013-10-10 23:30:00+0000",
   "easternStart": "2013-10-10 19:30:00",
-  "summary": "Florida rivals face off as Lightning host Panthers",
+  "summary": "Stamkos' hat trick powers Lightning past Panthers",
   "h": {
     "ab": "TBL",
-    "record": "2-1-0",
-    "live": "143",
-    "replayShort": "",
+    "record": "3-1-0",
+    "live": "",
+    "replayShort": "150",
     "replayFull": ""
   },
   "a": {
     "ab": "FLA",
-    "record": "1-2-0",
-    "live": "135",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B447",
+      "summary": "V. Filppula (3) Backhand, assists: T. Purcell (2), S. Salo (1)"
+    },
+    {
+      "key": "T.B23",
+      "summary": "M. St Louis (2) Wrist Shot, assists: S. Stamkos (3), T. Purcell (1)"
+    },
+    {
+      "key": "T.B19",
+      "summary": "V. Filppula Wrist Shot saved by J. Markstrom"
+    },
+    {
+      "key": "T.B606",
+      "summary": "S. Stamkos (3) Slap Shot, assists: S. Salo (2), T. Purcell (3)"
+    },
+    {
+      "key": "T.B12",
+      "summary": "S. Matthias Wrist Shot saved by B. Bishop"
+    },
+    {
+      "key": "T.B211",
+      "summary": "B. Boyes (2) Wrist Shot, assists: B. Campbell (4), T. Fleischmann (2)"
+    },
+    {
+      "key": "T.B15",
+      "summary": "T. Johnson Wrist Shot saved by J. Markstrom"
+    },
+    {
+      "key": "T.B406",
+      "summary": "O. Palat (1) Slap Shot, assists: A. Killorn (2), B. Bishop (1)"
+    },
+    {
+      "key": "T.B40",
+      "summary": "S. Stamkos (1) Tip-In, assists: M. St Louis (3), V. Hedman (2)"
+    },
+    {
+      "key": "T.B441",
+      "summary": "V. Filppula (2) Wrist Shot, assists: M. Carle (3), A. Killorn (3)"
+    },
+    {
+      "key": "T.B430",
+      "summary": "J. Huberdeau (1) Wrist Shot, assists: S. Gomez (1), K. Versteeg (1)"
+    },
+    {
+      "key": "T.B13",
+      "summary": "B. Boyes Wrist Shot saved by B. Bishop"
+    },
+    {
+      "key": "T.B244",
+      "summary": "S. Stamkos (2) Wrist Shot, assists: M. Carle (2), R. Malone (2)"
+    }
+  ]
 }

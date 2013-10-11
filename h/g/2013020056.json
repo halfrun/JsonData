@@ -5,20 +5,49 @@
   "gn": "0056",
   "utcStart": "2013-10-11 02:00:00+0000",
   "easternStart": "2013-10-10 22:00:00",
-  "summary": "Sharks, Hertl look to stay hot against Canucks",
+  "summary": "Sharks use balanced attack to beat Canucks again",
   "h": {
     "ab": "VAN",
-    "record": "3-1-0",
-    "live": "9",
-    "replayShort": "",
-    "replayFull": ""
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayFull": "150"
   },
   "a": {
     "ab": "SJS",
-    "record": "3-0-0",
-    "live": "149",
-    "replayShort": "",
+    "record": "4-0-0",
+    "live": "",
+    "replayShort": "150",
     "replayFull": ""
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN79",
+      "summary": "M. Vlasic (2) Wrist Shot, assists: B. Burns (2), J. Thornton (3)"
+    },
+    {
+      "key": "VAN59",
+      "summary": "T. Kennedy Backhand saved by R. Luongo"
+    },
+    {
+      "key": "VAN374",
+      "summary": "M. Santorelli (4) Deflected, assists: R. Stanton (3), C. Tanev (2)"
+    },
+    {
+      "key": "VAN583",
+      "summary": "B. Burns (2) Wrist Shot, assists: J. Thornton (4), L. Couture (4)"
+    },
+    {
+      "key": "VAN352",
+      "summary": "M. Pelech (1) Wrist Shot, assists: J. Sheppard (1)"
+    },
+    {
+      "key": "VAN380",
+      "summary": "P. Marleau (3) Slap Shot, assists: T. Kennedy (2), L. Couture (3)"
+    },
+    {
+      "key": "VAN53",
+      "summary": "P. Marleau Snap Shot saved by R. Luongo"
+    }
+  ]
 }
