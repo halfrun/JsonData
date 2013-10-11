@@ -1,6 +1,4 @@
 @ECHO OFF
-git add .
-
-git commit -m "daily update"
+git commit -a -m "daily update"
 
 git push origin master
