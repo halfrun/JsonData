@@ -27,31 +27,59 @@
   "pbp": [
     {
       "key": "VAN79",
-      "summary": "M. Vlasic (2) Wrist Shot, assists: B. Burns (2), J. Thornton (3)"
+      "summary": "M. Vlasic (2) Wrist Shot, assists: B. Burns (2), J. Thornton (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "VAN59",
-      "summary": "T. Kennedy Backhand saved by R. Luongo"
+      "summary": "T. Kennedy Backhand saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "VAN374",
-      "summary": "M. Santorelli (4) Deflected, assists: R. Stanton (3), C. Tanev (2)"
+      "summary": "M. Santorelli (4) Deflected, assists: R. Stanton (3), C. Tanev (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "VAN583",
-      "summary": "B. Burns (2) Wrist Shot, assists: J. Thornton (4), L. Couture (4)"
+      "summary": "B. Burns (2) Wrist Shot, assists: J. Thornton (4), L. Couture (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "VAN352",
-      "summary": "M. Pelech (1) Wrist Shot, assists: J. Sheppard (1)"
+      "summary": "M. Pelech (1) Wrist Shot, assists: J. Sheppard (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "VAN380",
-      "summary": "P. Marleau (3) Slap Shot, assists: T. Kennedy (2), L. Couture (3)"
+      "summary": "P. Marleau (3) Slap Shot, assists: T. Kennedy (2), L. Couture (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "VAN53",
-      "summary": "P. Marleau Snap Shot saved by R. Luongo"
+      "summary": "P. Marleau Snap Shot saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     }
   ]
 }

@@ -27,35 +27,67 @@
   "pbp": [
     {
       "key": "CGY56",
-      "summary": "J. Tinordi hit B. Street"
+      "summary": "J. Tinordi hit B. Street",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY614",
-      "summary": "L. Eller (4) Wrist Shot, assists: A. Galchenyuk (5), P. Subban (2)"
+      "summary": "L. Eller (4) Wrist Shot, assists: A. Galchenyuk (5), P. Subban (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY418",
-      "summary": "P. Subban (1) Slap Shot, assists: M. Pacioretty (1), A. Markov (1)"
+      "summary": "P. Subban (1) Slap Shot, assists: M. Pacioretty (1), A. Markov (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY15",
-      "summary": "T. Brodie Wrist Shot saved by C. Price"
+      "summary": "T. Brodie Wrist Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY20",
-      "summary": "B. Gallagher Backhand saved by J. MacDonald"
+      "summary": "B. Gallagher Backhand saved by J. MacDonald",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY207",
-      "summary": "S. Baertschi (1) Wrist Shot, assists: S. Monahan (2)"
+      "summary": "S. Baertschi (1) Wrist Shot, assists: S. Monahan (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY413",
-      "summary": "C. Glencross (2) Deflected, assists: D. Wideman (1), J. Hudler (3)"
+      "summary": "C. Glencross (2) Deflected, assists: D. Wideman (1), J. Hudler (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "CGY29",
-      "summary": "S. Monahan (3) Wrist Shot, assists: L. Stempniak (3)"
+      "summary": "S. Monahan (3) Wrist Shot, assists: L. Stempniak (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     }
   ]
 }

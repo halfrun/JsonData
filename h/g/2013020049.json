@@ -27,35 +27,67 @@
   "pbp": [
     {
       "key": "BUF209",
-      "summary": "B. Dubinsky (1) Backhand, assists: D. Savard (2), M. Gaborik (3)"
+      "summary": "B. Dubinsky (1) Backhand, assists: D. Savard (2), M. Gaborik (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BUF61",
-      "summary": "J. Johnson Wrist Shot saved by R. Miller"
+      "summary": "J. Johnson Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "BUF63",
-      "summary": "T. Myers Slap Shot saved by S. Bobrovsky"
+      "summary": "T. Myers Slap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "BUF96",
-      "summary": "N. Foligno (2) Backhand, assists: R. Johansen (1), R. Umberger (2)"
+      "summary": "N. Foligno (2) Backhand, assists: R. Johansen (1), R. Umberger (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BUF58",
-      "summary": "C. Atkinson (1) Wrist Shot, assists: M. Gaborik (2), J. Wisniewski (2)"
+      "summary": "C. Atkinson (1) Wrist Shot, assists: M. Gaborik (2), J. Wisniewski (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BUF99",
-      "summary": "M. Gaborik (2) Slap Shot, assists: C. Atkinson (2), R. Murray (1)"
+      "summary": "M. Gaborik (2) Slap Shot, assists: C. Atkinson (2), R. Murray (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BUF77",
-      "summary": "T. Vanek (2) Wrist Shot, assists: S. Ott (1), C. Hodgson (3)"
+      "summary": "T. Vanek (2) Wrist Shot, assists: S. Ott (1), C. Hodgson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BUF65",
-      "summary": "D. Stafford Slap Shot saved by S. Bobrovsky"
+      "summary": "D. Stafford Slap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     }
   ]
 }

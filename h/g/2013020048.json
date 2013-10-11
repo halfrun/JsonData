@@ -27,19 +27,35 @@
   "pbp": [
     {
       "key": "BOS59",
-      "summary": "N. MacKinnon Tip-In saved by T. Rask"
+      "summary": "N. MacKinnon Tip-In saved by T. Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "BOS304",
-      "summary": "R. O'Reilly (2) Tip-In, assists: A. Benoit (1), M. Duchene (2)"
+      "summary": "R. O'Reilly (2) Tip-In, assists: A. Benoit (1), M. Duchene (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "BOS54",
-      "summary": "P. Stastny Snap Shot saved by T. Rask"
+      "summary": "P. Stastny Snap Shot saved by T. Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "BOS695",
-      "summary": "M. Duchene (2) Wrist Shot, assists: none"
+      "summary": "M. Duchene (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     }
   ]
 }

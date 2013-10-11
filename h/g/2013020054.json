@@ -27,27 +27,51 @@
   "pbp": [
     {
       "key": "MIN424",
-      "summary": "M. Cooke (2) Wrist Shot, assists: T. Mitchell (1), C. Stoner (1)"
+      "summary": "M. Cooke (2) Wrist Shot, assists: T. Mitchell (1), C. Stoner (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "MIN35",
-      "summary": "J. Brodin (2) Deflected, assists: M. Cooke (1), K. Brodziak (2)"
+      "summary": "J. Brodin (2) Deflected, assists: M. Cooke (1), K. Brodziak (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "MIN329",
-      "summary": "B. Little (3) Tip-In, assists: T. Enstrom (5), D. Byfuglien (5)"
+      "summary": "B. Little (3) Tip-In, assists: T. Enstrom (5), D. Byfuglien (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "MIN15",
-      "summary": "E. Tangradi Wrist Shot saved by J. Harding"
+      "summary": "E. Tangradi Wrist Shot saved by J. Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "MIN16",
-      "summary": "M. Dumba Slap Shot saved by O. Pavelec"
+      "summary": "M. Dumba Slap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "MIN13",
-      "summary": "J. Fontaine Wrist Shot saved by O. Pavelec"
+      "summary": "J. Fontaine Wrist Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     }
   ]
 }

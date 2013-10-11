@@ -27,43 +27,83 @@
   "pbp": [
     {
       "key": "STL64",
-      "summary": "N. Leddy Wrist Shot saved by J. Halak"
+      "summary": "N. Leddy Wrist Shot saved by J. Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL53",
-      "summary": "M. Handzus Wrist Shot saved by J. Halak"
+      "summary": "M. Handzus Wrist Shot saved by J. Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL90",
-      "summary": "V. Tarasenko (2) Wrist Shot, assists: P. Berglund (2)"
+      "summary": "V. Tarasenko (2) Wrist Shot, assists: P. Berglund (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL619",
-      "summary": "A. Steen (3) Slap Shot, assists: A. Pietrangelo (5), J. Bouwmeester (2)"
+      "summary": "A. Steen (3) Slap Shot, assists: A. Pietrangelo (5), J. Bouwmeester (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL293",
-      "summary": "J. Toews (1) Wrist Shot, assists: P. Kane (1), P. Sharp (2)"
+      "summary": "J. Toews (1) Wrist Shot, assists: P. Kane (1), P. Sharp (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL290",
-      "summary": "D. Backes (2) Tip-In, assists: A. Pietrangelo (4), T. Oshie (1)"
+      "summary": "D. Backes (2) Tip-In, assists: A. Pietrangelo (4), T. Oshie (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL59",
-      "summary": "J. Oduya Slap Shot saved by J. Halak"
+      "summary": "J. Oduya Slap Shot saved by J. Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL62",
-      "summary": "J. Schwartz Snap Shot saved by C. Crawford"
+      "summary": "J. Schwartz Snap Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL94",
-      "summary": "P. Kane (3) Wrist Shot, assists: P. Sharp (1), J. Toews (2)"
+      "summary": "P. Kane (3) Wrist Shot, assists: P. Sharp (1), J. Toews (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     },
     {
       "key": "STL12",
-      "summary": "R. Reaves hit J. Nordstrom"
+      "summary": "R. Reaves hit J. Nordstrom",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
     }
   ]
 }

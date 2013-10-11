@@ -27,31 +27,59 @@
   "pbp": [
     {
       "key": "WSH21",
-      "summary": "J. Chimera (1) Wrist Shot, assists: E. Fehr (1), J. Carlson (1)"
+      "summary": "J. Chimera (1) Wrist Shot, assists: E. Fehr (1), J. Carlson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "WSH459",
-      "summary": "A. Semin (1) Slap Shot, assists: E. Staal (1), J. Skinner (5)"
+      "summary": "A. Semin (1) Slap Shot, assists: E. Staal (1), J. Skinner (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "WSH299",
-      "summary": "E. Lindholm (1) Deflected, assists: J. Skinner (4), R. Murphy (2)"
+      "summary": "E. Lindholm (1) Deflected, assists: J. Skinner (4), R. Murphy (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "WSH13",
-      "summary": "E. Fehr Snap Shot saved by A. Khudobin"
+      "summary": "E. Fehr Snap Shot saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "WSH652",
-      "summary": "N. Gerbe (3) Wrist Shot, assists: J. Staal (1), J. Faulk (4)"
+      "summary": "N. Gerbe (3) Wrist Shot, assists: J. Staal (1), J. Faulk (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "WSH454",
-      "summary": "A. Ovechkin (5) Tip-In, assists: S. Oleksy (1), N. Backstrom (4)"
+      "summary": "A. Ovechkin (5) Tip-In, assists: S. Oleksy (1), N. Backstrom (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "WSH15",
-      "summary": "M. Grabovski Tip-In saved by A. Khudobin"
+      "summary": "M. Grabovski Tip-In saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     }
   ]
 }

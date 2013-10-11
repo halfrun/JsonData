@@ -27,35 +27,67 @@
   "pbp": [
     {
       "key": "ANA409",
-      "summary": "S. Koivu (2) Wrist Shot, assists: D. Winnik (2), A. Cogliano (2)"
+      "summary": "S. Koivu (2) Wrist Shot, assists: D. Winnik (2), A. Cogliano (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "ANA433",
-      "summary": "D. Penner (1) Tip-In, assists: C. Perry (3), B. Allen (1)"
+      "summary": "D. Penner (1) Tip-In, assists: C. Perry (3), B. Allen (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "ANA67",
-      "summary": "R. Getzlaf (1) Wrist Shot, assists: C. Perry (2), D. Penner (2)"
+      "summary": "R. Getzlaf (1) Wrist Shot, assists: C. Perry (2), D. Penner (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "ANA54",
-      "summary": "B. Allen Slap Shot saved by H. Lundqvist"
+      "summary": "B. Allen Slap Shot saved by H. Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "ANA282",
-      "summary": "J. Silfverberg (4) Wrist Shot, assists: T. Selanne (2), M. Perreault (3)"
+      "summary": "J. Silfverberg (4) Wrist Shot, assists: T. Selanne (2), M. Perreault (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "ANA88",
-      "summary": "J. Silfverberg (3) Tip-In, assists: T. Selanne (1), M. Perreault (2)"
+      "summary": "J. Silfverberg (3) Tip-In, assists: T. Selanne (1), M. Perreault (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "ANA62",
-      "summary": "B. Lovejoy Wrist Shot saved by H. Lundqvist"
+      "summary": "B. Lovejoy Wrist Shot saved by H. Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "ANA100",
-      "summary": "D. Winnik (1) Wrist Shot, assists: S. Vatanen (1)"
+      "summary": "D. Winnik (1) Wrist Shot, assists: S. Vatanen (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     }
   ]
 }

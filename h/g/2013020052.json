@@ -27,55 +27,107 @@
   "pbp": [
     {
       "key": "T.B447",
-      "summary": "V. Filppula (3) Backhand, assists: T. Purcell (2), S. Salo (1)"
+      "summary": "V. Filppula (3) Backhand, assists: T. Purcell (2), S. Salo (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B23",
-      "summary": "M. St Louis (2) Wrist Shot, assists: S. Stamkos (3), T. Purcell (1)"
+      "summary": "M. St Louis (2) Wrist Shot, assists: S. Stamkos (3), T. Purcell (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B19",
-      "summary": "V. Filppula Wrist Shot saved by J. Markstrom"
+      "summary": "V. Filppula Wrist Shot saved by J. Markstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "T.B606",
-      "summary": "S. Stamkos (3) Slap Shot, assists: S. Salo (2), T. Purcell (3)"
+      "summary": "S. Stamkos (3) Slap Shot, assists: S. Salo (2), T. Purcell (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B12",
-      "summary": "S. Matthias Wrist Shot saved by B. Bishop"
+      "summary": "S. Matthias Wrist Shot saved by B. Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "T.B211",
-      "summary": "B. Boyes (2) Wrist Shot, assists: B. Campbell (4), T. Fleischmann (2)"
+      "summary": "B. Boyes (2) Wrist Shot, assists: B. Campbell (4), T. Fleischmann (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B15",
-      "summary": "T. Johnson Wrist Shot saved by J. Markstrom"
+      "summary": "T. Johnson Wrist Shot saved by J. Markstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "T.B406",
-      "summary": "O. Palat (1) Slap Shot, assists: A. Killorn (2), B. Bishop (1)"
+      "summary": "O. Palat (1) Slap Shot, assists: A. Killorn (2), B. Bishop (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B40",
-      "summary": "S. Stamkos (1) Tip-In, assists: M. St Louis (3), V. Hedman (2)"
+      "summary": "S. Stamkos (1) Tip-In, assists: M. St Louis (3), V. Hedman (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B441",
-      "summary": "V. Filppula (2) Wrist Shot, assists: M. Carle (3), A. Killorn (3)"
+      "summary": "V. Filppula (2) Wrist Shot, assists: M. Carle (3), A. Killorn (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B430",
-      "summary": "J. Huberdeau (1) Wrist Shot, assists: S. Gomez (1), K. Versteeg (1)"
+      "summary": "J. Huberdeau (1) Wrist Shot, assists: S. Gomez (1), K. Versteeg (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "T.B13",
-      "summary": "B. Boyes Wrist Shot saved by B. Bishop"
+      "summary": "B. Boyes Wrist Shot saved by B. Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "T.B244",
-      "summary": "S. Stamkos (2) Wrist Shot, assists: M. Carle (2), R. Malone (2)"
+      "summary": "S. Stamkos (2) Wrist Shot, assists: M. Carle (2), R. Malone (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     }
   ]
 }

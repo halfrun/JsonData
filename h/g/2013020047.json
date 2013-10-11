@@ -27,39 +27,75 @@
   "pbp": [
     {
       "key": "L.A598",
-      "summary": "M. Michalek (1) Wrist Shot, assists: J. Corvo (2), B. Ryan (2)"
+      "summary": "M. Michalek (1) Wrist Shot, assists: J. Corvo (2), B. Ryan (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "L.A744",
-      "summary": "J. Carter (4) Tip-In, assists: M. Richards (3), A. Kopitar (4)"
+      "summary": "J. Carter (4) Tip-In, assists: M. Richards (3), A. Kopitar (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "L.A258",
-      "summary": "D. Brown (2) Tip-In, assists: J. Carter (1), A. Kopitar (3)"
+      "summary": "D. Brown (2) Tip-In, assists: J. Carter (1), A. Kopitar (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
     },
     {
       "key": "L.A280",
-      "summary": "J. Pageau (1) Slap Shot, assists: E. Condra (1), J. Corvo (1)"
+      "summary": "J. Pageau (1) Slap Shot, assists: E. Condra (1), J. Corvo (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "L.A9",
-      "summary": "K. Clifford hit J. Corvo"
+      "summary": "K. Clifford hit J. Corvo",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
     },
     {
       "key": "L.A91",
-      "summary": "J. Carter (3) Wrist Shot, assists: M. Richards (2)"
+      "summary": "J. Carter (3) Wrist Shot, assists: M. Richards (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
     },
     {
       "key": "L.A60",
-      "summary": "K. Turris Wrist Shot saved by J. Quick"
+      "summary": "K. Turris Wrist Shot saved by J. Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
     },
     {
       "key": "L.A542",
-      "summary": "B. Ryan (1) Snap Shot, assists: E. Karlsson (1), C. Phillips (1)"
+      "summary": "B. Ryan (1) Snap Shot, assists: E. Karlsson (1), C. Phillips (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
     },
     {
       "key": "L.A71",
-      "summary": "D. Brown (1) Snap Shot, assists: none"
+      "summary": "D. Brown (1) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
     }
   ]
 }

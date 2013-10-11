@@ -27,35 +27,67 @@
   "pbp": [
     {
       "key": "EDM742",
-      "summary": "M. Pacioretty (1) Wrist Shot, assists: D. Briere (1), P. Subban (5)"
+      "summary": "M. Pacioretty (1) Wrist Shot, assists: D. Briere (1), P. Subban (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "EDM64",
-      "summary": "B. Gionta Wrist Shot saved by D. Dubnyk"
+      "summary": "B. Gionta Wrist Shot saved by D. Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "EDM60",
-      "summary": "N. Yakupov Wrap-around saved by P. Budaj"
+      "summary": "N. Yakupov Wrap-around saved by P. Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "EDM721",
-      "summary": "A. Galchenyuk (1) Wrist Shot, assists: B. Gallagher (2)"
+      "summary": "A. Galchenyuk (1) Wrist Shot, assists: B. Gallagher (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "EDM456",
-      "summary": "B. Prust (1) Wrist Shot, assists: T. Moen (1), P. Subban (4)"
+      "summary": "B. Prust (1) Wrist Shot, assists: T. Moen (1), P. Subban (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "EDM56",
-      "summary": "B. Gallagher Wrist Shot saved by D. Dubnyk"
+      "summary": "B. Gallagher Wrist Shot saved by D. Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
     },
     {
       "key": "EDM230",
-      "summary": "R. Smyth (1) Wrist Shot, assists: T. Hall (2), R. Nugent-Hopkins (1)"
+      "summary": "R. Smyth (1) Wrist Shot, assists: T. Hall (2), R. Nugent-Hopkins (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     },
     {
       "key": "EDM248",
-      "summary": "B. Gallagher (3) Wrist Shot, assists: A. Galchenyuk (6), P. Subban (3)"
+      "summary": "B. Gallagher (3) Wrist Shot, assists: A. Galchenyuk (6), P. Subban (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
     }
   ]
 }
