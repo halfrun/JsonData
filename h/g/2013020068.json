@@ -5,24 +5,73 @@
   "gn": "0068",
   "utcStart": "2013-10-12 18:00:00+0000",
   "easternStart": "2013-10-12 14:00:00",
-  "summary": "Blue Jackets welcome in Bruins for Saturday matinee",
+  "summary": "Eriksson's first with Bruins leads to win over Jackets",
   "h": {
     "ab": "CBJ",
-    "record": "2-1-0",
+    "record": "2-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BOS",
-    "record": "2-1-0",
+    "record": "3-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ16",
+      "summary": "Z. Chara hit J. Boll",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ57",
+      "summary": "L. Eriksson Backhand saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ517",
+      "summary": "L. Eriksson (1) Backhand, assists: P. Bergeron (1), R. Smith (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ503",
+      "summary": "C. Kelly (2) Slap Shot, assists: J. Iginla (1), D. Krejci (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ732",
+      "summary": "M. Lucic (2) Backhand, assists: Z. Chara (1), J. Boychuk (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ93",
+      "summary": "J. Johnson (2) Slap Shot, assists: J. Wisniewski (3), M. Gaborik (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

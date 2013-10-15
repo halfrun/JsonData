@@ -5,24 +5,73 @@
   "gn": "0061",
   "utcStart": "2013-10-12 00:00:00+0000",
   "easternStart": "2013-10-11 20:00:00",
-  "summary": "Khabibulin back in net as Blackhawks host Islanders",
+  "summary": "Blackhawks get back on track with win over Islanders",
   "h": {
     "ab": "CHI",
-    "record": "1-1-1",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-1-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYI",
-    "record": "2-0-1",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-2-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI310",
+      "summary": "K. Okposo (1) Backhand, assists: J. Tavares (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI343",
+      "summary": "M. Handzus (1) Wrist Shot, assists: D. Keith (3), B. Smith (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI77",
+      "summary": "J. Nordstrom (1) Wrist Shot, assists: N. Hjalmarsson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI99",
+      "summary": "J. Toews (2) Wrist Shot, assists: D. Keith (2), B. Seabrook (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI60",
+      "summary": "M. Hossa Wrist Shot saved by K. Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI308",
+      "summary": "J. Bailey (2) Wrist Shot, assists: M. Grabner (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

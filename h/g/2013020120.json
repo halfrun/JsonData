@@ -1,0 +1,28 @@
+{
+  "id": "2013020120",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0120",
+  "utcStart": "2013-10-20 01:00:00+0000",
+  "easternStart": "2013-10-19 21:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PHX",
+    "record": "4-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "DET",
+    "record": "4-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

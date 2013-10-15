@@ -5,24 +5,105 @@
   "gn": "0066",
   "utcStart": "2013-10-12 23:00:00+0000",
   "easternStart": "2013-10-12 19:00:00",
-  "summary": "",
+  "summary": "Crosby's hat trick, Niskanen's late goal lift Penguins",
   "h": {
     "ab": "TBL",
-    "record": "3-1-0",
+    "record": "3-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "3-0-0",
+    "record": "4-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B645",
+      "summary": "M. Niskanen (1) Slap Shot, assists: E. Malkin (4), S. Crosby (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B240",
+      "summary": "S. Crosby (3) Wrist Shot, assists: J. Jokinen (1), C. Kunitz (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B12",
+      "summary": "T. Johnson Slap Shot saved by M. Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B50",
+      "summary": "V. Filppula (4) Tip-In, assists: A. Killorn (4), R. Panik (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B446",
+      "summary": "S. Crosby (4) Tip-In, assists: R. Scuderi (1), M. Niskanen (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B425",
+      "summary": "T. Purcell (3) Tip-In, assists: S. Salo (3), M. St Louis (5)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B617",
+      "summary": "S. Crosby (5) Wrist Shot, assists: J. Jokinen (2), E. Malkin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B402",
+      "summary": "B. Orpik (1) Tip-In, assists: P. Dupuis (3), C. Kunitz (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B243",
+      "summary": "S. Stamkos (4) Wrist Shot, assists: M. St Louis (4), V. Hedman (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B636",
+      "summary": "A. Killorn (2) Tip-In, assists: R. Panik (2), T. Johnson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

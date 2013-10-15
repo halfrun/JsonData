@@ -5,24 +5,65 @@
   "gn": "0058",
   "utcStart": "2013-10-11 23:00:00+0000",
   "easternStart": "2013-10-11 19:00:00",
-  "summary": "Flyers go for second straight as Coyotes visit",
+  "summary": "Goalie Greiss helps Coyotes defeat Flyers",
   "h": {
     "ab": "PHI",
-    "record": "1-3-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "2-2-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI498",
+      "summary": "O. Ekman-Larsson (2) Wrist Shot, assists: M. Ribeiro (2), M. Hanzal (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI64",
+      "summary": "R. Klinkhammer (1) Deflected, assists: D. Morris (3), T. Kennedy (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI492",
+      "summary": "M. Talbot (1) Deflected, assists: Z. Rinaldo (1), S. Couturier (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI59",
+      "summary": "B. Schenn Backhand saved by T. Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI53",
+      "summary": "B. Coburn Snap Shot saved by T. Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

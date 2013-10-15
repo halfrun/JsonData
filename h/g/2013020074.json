@@ -5,24 +5,89 @@
   "gn": "0074",
   "utcStart": "2013-10-13 02:00:00+0000",
   "easternStart": "2013-10-12 22:00:00",
-  "summary": "",
+  "summary": "Sharks edge Senators for fifth straight win",
   "h": {
     "ab": "SJS",
-    "record": "4-0-0",
+    "record": "5-0-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "OTT",
-    "record": "1-0-2",
+    "record": "1-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "S.J431",
+      "summary": "P. Marleau (4) Backhand, assists: J. Pavelski (6), M. Irwin (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J223",
+      "summary": "B. Ryan (2) Snap Shot, assists: J. Spezza (1), P. Wiercioch (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "S.J12",
+      "summary": "T. Hertl (7) Wrist Shot, assists: D. Boyle (1), B. Burns (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "S.J626",
+      "summary": "B. Burns (3) Slap Shot, assists: J. Thornton (5), M. Nieto (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J9",
+      "summary": "M. Irwin Slap Shot saved by R. Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J17",
+      "summary": "C. Greening Wrist Shot saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J212",
+      "summary": "Z. Smith (1) Wrist Shot, assists: C. Phillips (2), C. Greening (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "S.J7",
+      "summary": "L. Couture Wrist Shot saved by R. Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

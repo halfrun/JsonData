@@ -1,0 +1,28 @@
+{
+  "id": "2013020117",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0117",
+  "utcStart": "2013-10-19 23:00:00+0000",
+  "easternStart": "2013-10-19 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NYI",
+    "record": "2-2-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "2-2-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

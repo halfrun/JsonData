@@ -5,24 +5,121 @@
   "gn": "0070",
   "utcStart": "2013-10-13 00:00:00+0000",
   "easternStart": "2013-10-12 20:00:00",
-  "summary": "Rangers try to get back on track vs. undefeated Blues",
+  "summary": "Top line leads Blues past Rangers",
   "h": {
     "ab": "STL",
-    "record": "3-0-0",
+    "record": "4-0-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "1-3-0",
+    "record": "1-4-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL213",
+      "summary": "R. Callahan (1) Backhand, assists: D. Brassard (2), D. Stepan (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL64",
+      "summary": "J. Bouwmeester Slap Shot saved by M. Biron",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL421",
+      "summary": "B. Richards (4) Slap Shot, assists: D. Brassard (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL604",
+      "summary": "V. Tarasenko (3) Snap Shot, assists: K. Shattenkirk (3), D. Roy (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL75",
+      "summary": "A. Steen (4) Wrist Shot, assists: T. Oshie (2), D. Backes (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL236",
+      "summary": "D. Backes (3) Wrist Shot, assists: A. Steen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL407",
+      "summary": "D. Roy (2) Slap Shot, assists: K. Shattenkirk (2), A. Steen (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL59",
+      "summary": "C. Stewart Wrist Shot saved by M. Biron",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL424",
+      "summary": "D. Backes (4) Deflected, assists: T. Oshie (3), A. Steen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL437",
+      "summary": "R. Callahan (2) Wrist Shot, assists: B. Richards (1), D. Stepan (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL56",
+      "summary": "D. Backes Snap Shot saved by M. Biron",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL65",
+      "summary": "J. Schwartz Wrist Shot saved by M. Biron",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

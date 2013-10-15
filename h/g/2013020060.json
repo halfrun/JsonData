@@ -5,24 +5,105 @@
   "gn": "0060",
   "utcStart": "2013-10-11 23:30:00+0000",
   "easternStart": "2013-10-11 19:30:00",
-  "summary": "Panthers face tough test in home opener",
+  "summary": "Panthers beat Penguins in home opener",
   "h": {
     "ab": "FLA",
-    "record": "1-3-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "3-0-0",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA418",
+      "summary": "P. Dupuis (1) Wrist Shot, assists: S. Crosby (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA93",
+      "summary": "K. Versteeg (1) Snap Shot, assists: S. Gomez (2), S. Matthias (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA221",
+      "summary": "C. Adams (3) Tip-In, assists: T. Glass (2), J. Vitale (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA408",
+      "summary": "A. Barkov (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA61",
+      "summary": "B. Boyes (3) Snap Shot, assists: T. Fleischmann (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA54",
+      "summary": "T. Fleischmann Wrist Shot saved by J. Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA77",
+      "summary": "E. Malkin (1) Snap Shot, assists: B. Bennett (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA635",
+      "summary": "B. Boyes (4) Snap Shot, assists: A. Barkov (3), T. Fleischmann (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA405",
+      "summary": "J. Huberdeau (2) Wrist Shot, assists: K. Versteeg (2), T. Fleischmann (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA447",
+      "summary": "T. Fleischmann (1) Tip-In, assists: A. Barkov (2), B. Boyes (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

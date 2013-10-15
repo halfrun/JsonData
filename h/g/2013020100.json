@@ -1,0 +1,28 @@
+{
+  "id": "2013020100",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0100",
+  "utcStart": "2013-10-17 23:30:00+0000",
+  "easternStart": "2013-10-17 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "MTL",
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

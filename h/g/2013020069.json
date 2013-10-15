@@ -5,24 +5,81 @@
   "gn": "0069",
   "utcStart": "2013-10-13 00:00:00+0000",
   "easternStart": "2013-10-12 20:00:00",
-  "summary": "",
+  "summary": "Blackhawks hold off winless Sabres",
   "h": {
     "ab": "CHI",
-    "record": "1-1-1",
+    "record": "3-1-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "0-4-1",
+    "record": "0-5-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI18",
+      "summary": "B. Smith Snap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI15",
+      "summary": "A. Shaw Wrap-around saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "CHI756",
+      "summary": "D. Stafford (1) Wrist Shot, assists: C. Hodgson (4), M. Pysyk (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI31",
+      "summary": "B. Smith (1) Tip-In, assists: B. Seabrook (2), D. Keith (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI7",
+      "summary": "T. Vanek Snap Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "CHI612",
+      "summary": "P. Kane (4) Slap Shot, assists: P. Sharp (3), A. Shaw (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI8",
+      "summary": "S. Brookbank Slap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,81 @@
   "gn": "0072",
   "utcStart": "2013-10-13 00:00:00+0000",
   "easternStart": "2013-10-12 20:00:00",
-  "summary": "",
+  "summary": "Third line helps Wild cruise past Stars",
   "h": {
     "ab": "MIN",
-    "record": "1-1-2",
+    "record": "2-1-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "1-1-0",
+    "record": "2-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN511",
+      "summary": "N. Niederreiter (1) Wrist Shot, assists: M. Koivu (3), J. Spurgeon (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN504",
+      "summary": "M. Dumba (1) Snap Shot, assists: D. Heatley (1), J. Brodin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN36",
+      "summary": "M. Cooke (3) Wrap-around, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN17",
+      "summary": "C. Stoner Wrist Shot saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN521",
+      "summary": "J. Benn (1) Snap Shot, assists: T. Seguin (4), A. Chiasson (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN7",
+      "summary": "J. Fontaine (1) Backhand, assists: M. Cooke (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN579",
+      "summary": "Z. Parise (4) Wrist Shot, assists: J. Spurgeon (2), R. Suter (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

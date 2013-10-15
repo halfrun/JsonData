@@ -5,24 +5,121 @@
   "gn": "0075",
   "utcStart": "2013-10-13 17:00:00+0000",
   "easternStart": "2013-10-13 13:00:00",
-  "summary": "",
+  "summary": "Klinkhammer's pair leads Coyotes past Hurricanes",
   "h": {
     "ab": "CAR",
-    "record": "2-1-1",
+    "record": "2-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "2-2-0",
+    "record": "4-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR15",
+      "summary": "R. Vrbata Snap Shot saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CAR242",
+      "summary": "R. Nash (1) Deflected, assists: R. Murphy (3), J. Harrison (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR436",
+      "summary": "R. Klinkhammer (2) Snap Shot, assists: Z. Michalek (2), M. Smith (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR55",
+      "summary": "D. Morris hit J. Staal",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CAR246",
+      "summary": "R. Klinkhammer (1) Wrist Shot, assists: P. Bissonnette (2), T. Kennedy (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR606",
+      "summary": "S. Doan (1) Wrist Shot, assists: R. Vrbata (2), D. Schlemko (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR50",
+      "summary": "E. Staal (2) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR427",
+      "summary": "J. Skinner (2) Snap Shot, assists: N. Gerbe (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR19",
+      "summary": "M. Boedker (2) Backhand, assists: S. Doan (1), D. Morris (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR7",
+      "summary": "K. Yandle Backhand saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CAR423",
+      "summary": "L. Korpikoski (1) Snap Shot, assists: M. Ribeiro (3), D. Moss (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR53",
+      "summary": "S. Doan hit R. Hainsey",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

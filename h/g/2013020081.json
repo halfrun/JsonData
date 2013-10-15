@@ -5,24 +5,65 @@
   "gn": "0081",
   "utcStart": "2013-10-14 23:30:00+0000",
   "easternStart": "2013-10-14 19:30:00",
-  "summary": "",
+  "summary": "Sabres' skid hits seven in loss to Wild",
   "h": {
     "ab": "BUF",
-    "record": "0-4-1",
+    "record": "0-6-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MIN",
-    "record": "1-1-2",
+    "record": "3-1-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF65",
+      "summary": "K. Brodziak (1) Wrist Shot, assists: M. Cooke (3), J. Brodin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF54",
+      "summary": "J. Pominville Wrist Shot saved by J. Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF299",
+      "summary": "J. Pominville (2) Wrist Shot, assists: M. Koivu (4), J. Spurgeon (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF60",
+      "summary": "S. Veilleux Wrist Shot saved by J. Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF279",
+      "summary": "B. Flynn (1) Wrist Shot, assists: Z. Girgensons (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

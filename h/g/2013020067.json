@@ -5,24 +5,105 @@
   "gn": "0067",
   "utcStart": "2013-10-12 23:00:00+0000",
   "easternStart": "2013-10-12 19:00:00",
-  "summary": "",
+  "summary": "Avalanche beat Capitals for fifth straight win",
   "h": {
     "ab": "WSH",
-    "record": "1-3-0",
+    "record": "1-4-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "4-0-0",
+    "record": "5-0-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH25",
+      "summary": "A. Tanguay (1) Snap Shot, assists: G. Landeskog (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH11",
+      "summary": "N. Schmidt Wrist Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH558",
+      "summary": "J. McGinn (3) Wrist Shot, assists: P. Parenteau (2), N. MacKinnon (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH431",
+      "summary": "N. MacKinnon (1) Snap Shot, assists: P. Stastny (2), G. Landeskog (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH48",
+      "summary": "M. Duchene (3) Snap Shot, assists: R. O'Reilly (2), A. Benoit (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH557",
+      "summary": "E. Fehr (1) Wrist Shot, assists: J. Chimera (1), J. Ward (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH9",
+      "summary": "S. Downie Wrist Shot saved by M. Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH7",
+      "summary": "P. Stastny Wrist Shot saved by M. Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH14",
+      "summary": "E. Fehr Wrist Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH554",
+      "summary": "A. Tanguay (2) Wrist Shot, assists: P. Stastny (3), A. Benoit (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

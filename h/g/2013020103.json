@@ -1,0 +1,28 @@
+{
+  "id": "2013020103",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0103",
+  "utcStart": "2013-10-17 23:30:00+0000",
+  "easternStart": "2013-10-17 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "2-4-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

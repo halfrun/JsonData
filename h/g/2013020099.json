@@ -1,0 +1,28 @@
+{
+  "id": "2013020099",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0099",
+  "utcStart": "2013-10-17 23:00:00+0000",
+  "easternStart": "2013-10-17 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PHI",
+    "record": "1-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "4-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

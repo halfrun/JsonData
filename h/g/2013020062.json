@@ -5,24 +5,97 @@
   "gn": "0062",
   "utcStart": "2013-10-12 00:00:00+0000",
   "easternStart": "2013-10-11 20:00:00",
-  "summary": "Stars open road trip against Jets",
+  "summary": "Seguin at center of Stars' win against Jets",
   "h": {
     "ab": "WPG",
-    "record": "2-2-0",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "1-1-0",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG90",
+      "summary": "A. Chiasson (3) Backhand, assists: T. Seguin (2), S. Gonchar (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG53",
+      "summary": "D. Byfuglien Snap Shot saved by K. Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG60",
+      "summary": "O. Jokinen Wrist Shot saved by K. Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG58",
+      "summary": "S. Gonchar Snap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG256",
+      "summary": "J. Benn (1) Wrist Shot, assists: B. Dillon (2), T. Seguin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG498",
+      "summary": "B. Wheeler (1) Tip-In, assists: D. Byfuglien (6), T. Enstrom (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG66",
+      "summary": "C. Eakin Snap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG282",
+      "summary": "T. Seguin (2) Slap Shot, assists: J. Benn (3), A. Chiasson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG94",
+      "summary": "T. Seguin (1) Snap Shot, assists: R. Peverley (1), J. Benn (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2013020108",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0108",
+  "utcStart": "2013-10-19 00:00:00+0000",
+  "easternStart": "2013-10-18 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WPG",
+    "record": "3-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "STL",
+    "record": "4-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

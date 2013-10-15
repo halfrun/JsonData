@@ -5,9 +5,18 @@
   "gn": "0073",
   "utcStart": "2013-10-13 02:00:00+0000",
   "easternStart": "2013-10-12 22:00:00",
-  "summary": "Habs, Canucks renew acquaintances in Vancouver",
+  "summary": "Price leads Canadiens past Canucks",
   "h": {
     "ab": "VAN",
+    "record": "3-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MTL",
     "record": "3-2-0",
     "live": "",
     "replayShort": "",
@@ -15,14 +24,70 @@
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "a": {
-    "ab": "MTL",
-    "record": "2-2-0",
-    "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
-  },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN438",
+      "summary": "T. Plekanec (1) Slap Shot, assists: A. Markov (2), P. Subban (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN661",
+      "summary": "J. Gorges (1) Wrist Shot, assists: R. Diaz (3), T. Moen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN75",
+      "summary": "M. Pacioretty (2) Wrist Shot, assists: F. Bouillon (1), R. Diaz (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN410",
+      "summary": "L. Eller (5) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN62",
+      "summary": "M. Bournival Wrist Shot saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN401",
+      "summary": "H. Sedin (1) Wrist Shot, assists: D. Sedin (5), J. Garrison (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN56",
+      "summary": "D. Hamhuis Slap Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN58",
+      "summary": "C. Higgins Wrist Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

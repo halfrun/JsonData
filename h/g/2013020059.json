@@ -5,24 +5,73 @@
   "gn": "0059",
   "utcStart": "2013-10-11 23:00:00+0000",
   "easternStart": "2013-10-11 19:00:00",
-  "summary": "Kings take on Hurricanes to begin road trip",
+  "summary": "Kings beat Hurricanes on Carter's SO goal",
   "h": {
     "ab": "CAR",
-    "record": "2-1-1",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "LAK",
-    "record": "2-2-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR644",
+      "summary": "D. King (1) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR13",
+      "summary": "T. Lewis Wrist Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR9",
+      "summary": "E. Staal Wrist Shot saved by J. Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR12",
+      "summary": "J. Nolan Wrist Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR7",
+      "summary": "A. Kopitar Wrap-around saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR671",
+      "summary": "J. Skinner (1) Slap Shot, assists: A. Sekera (3), N. Gerbe (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

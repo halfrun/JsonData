@@ -1,0 +1,28 @@
+{
+  "id": "2013020101",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0101",
+  "utcStart": "2013-10-17 23:30:00+0000",
+  "easternStart": "2013-10-17 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "OTT",
+    "record": "1-2-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "0-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

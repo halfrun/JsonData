@@ -1,0 +1,28 @@
+{
+  "id": "2013020116",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0116",
+  "utcStart": "2013-10-19 23:00:00+0000",
+  "easternStart": "2013-10-19 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NJD",
+    "record": "0-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "1-4-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

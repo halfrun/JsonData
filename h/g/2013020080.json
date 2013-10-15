@@ -5,24 +5,113 @@
   "gn": "0080",
   "utcStart": "2013-10-14 23:00:00+0000",
   "easternStart": "2013-10-14 19:00:00",
-  "summary": "",
+  "summary": "Three-goal second sparks Capitals past Oilers",
   "h": {
     "ab": "WSH",
-    "record": "1-3-0",
+    "record": "2-4-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "1-3-0",
+    "record": "1-4-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH31",
+      "summary": "B. Gordon (4) Wrist Shot, assists: J. Schultz (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH43",
+      "summary": "B. Laich (1) Wrist Shot, assists: S. Oleksy (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH250",
+      "summary": "T. Brouwer (1) Wrist Shot, assists: M. Grabovski (3), N. Backstrom (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH6",
+      "summary": "M. Grabovski won against R. Nugent-Hopkins",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH10",
+      "summary": "J. Joensuu Snap Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH237",
+      "summary": "J. Ward (1) Slap Shot, assists: N. Backstrom (5), A. Ovechkin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH8",
+      "summary": "A. Hemsky Backhand saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH615",
+      "summary": "W. Acton (1) Wrist Shot, assists: J. Petry (1), D. Perron (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH61",
+      "summary": "A. Ovechkin hit J. Petry",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH7",
+      "summary": "T. Hall Tip-In saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH246",
+      "summary": "A. Ovechkin (6) Wrist Shot, assists: M. Johansson (5), N. Backstrom (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

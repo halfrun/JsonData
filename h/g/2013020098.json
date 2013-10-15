@@ -1,0 +1,28 @@
+{
+  "id": "2013020098",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0098",
+  "utcStart": "2013-10-17 23:00:00+0000",
+  "easternStart": "2013-10-17 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NYI",
+    "record": "2-2-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "EDM",
+    "record": "1-4-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

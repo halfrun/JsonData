@@ -1,0 +1,28 @@
+{
+  "id": "2013020106",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0106",
+  "utcStart": "2013-10-18 00:30:00+0000",
+  "easternStart": "2013-10-17 20:30:00",
+  "summary": "",
+  "h": {
+    "ab": "DAL",
+    "record": "2-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "5-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

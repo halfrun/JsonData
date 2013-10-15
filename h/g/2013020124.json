@@ -1,0 +1,28 @@
+{
+  "id": "2013020124",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0124",
+  "utcStart": "2013-10-21 00:00:00+0000",
+  "easternStart": "2013-10-20 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WPG",
+    "record": "3-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "2-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

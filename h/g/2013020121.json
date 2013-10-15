@@ -1,0 +1,28 @@
+{
+  "id": "2013020121",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0121",
+  "utcStart": "2013-10-20 02:00:00+0000",
+  "easternStart": "2013-10-19 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "SJS",
+    "record": "5-0-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "3-0-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

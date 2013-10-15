@@ -1,0 +1,28 @@
+{
+  "id": "2013020096",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0096",
+  "utcStart": "2013-10-17 23:00:00+0000",
+  "easternStart": "2013-10-17 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "BUF",
+    "record": "0-6-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "3-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}
