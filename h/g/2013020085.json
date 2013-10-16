@@ -5,24 +5,113 @@
   "gn": "0085",
   "utcStart": "2013-10-15 23:00:00+0000",
   "easternStart": "2013-10-15 19:00:00",
-  "summary": "Struggling Oilers set to face Penguins",
+  "summary": "Malkin's goal leads Penguins past Oilers",
   "h": {
     "ab": "PIT",
-    "record": "4-1-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "1-4-1",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT55",
+      "summary": "R. Scuderi Wrist Shot saved by J. LaBarbera",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT434",
+      "summary": "E. Malkin (2) Snap Shot, assists: P. Martin (2), S. Crosby (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PIT344",
+      "summary": "C. Kunitz (2) Wrist Shot, assists: S. Crosby (6), P. Dupuis (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PIT60",
+      "summary": "P. Dupuis (2) Wrist Shot, assists: S. Crosby (5), C. Kunitz (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT413",
+      "summary": "J. Eberle (2) Backhand, assists: T. Hall (5), M. Arcobello (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PIT65",
+      "summary": "N. Yakupov Wrist Shot saved by M. Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT9",
+      "summary": "D. Engelland hit R. Smyth",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT314",
+      "summary": "A. Hemsky (2) Wrist Shot, assists: D. Perron (5), J. Petry (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "null57",
+      "summary": "J. Vitale Wrist Shot saved by J. LaBarbera",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "null60",
+      "summary": "P. Dupuis (2) Wrist Shot, assists: S. Crosby (5), C. Kunitz (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT57",
+      "summary": "J. Vitale Wrist Shot saved by J. LaBarbera",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

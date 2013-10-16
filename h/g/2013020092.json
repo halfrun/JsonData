@@ -5,24 +5,81 @@
   "gn": "0092",
   "utcStart": "2013-10-16 01:00:00+0000",
   "easternStart": "2013-10-15 21:00:00",
-  "summary": "Avalanche aim to extend win streak vs. Stars",
+  "summary": "Duchene's pair leads Avalanche past Stars",
   "h": {
     "ab": "COL",
-    "record": "5-0-0",
-    "live": "26",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "2-2-0",
-    "live": "9",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL242",
+      "summary": "M. Duchene (5) Wrist Shot, assists: P. Parenteau (4), E. Johnson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL201",
+      "summary": "J. Hejda (1) Slap Shot, assists: N. MacKinnon (6), P. Parenteau (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL67",
+      "summary": "V. Fiddler Wrist Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL64",
+      "summary": "R. Peverley (1) Wrist Shot, assists: T. Seguin (5), J. Benn (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL57",
+      "summary": "N. MacKinnon Tip-In saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL229",
+      "summary": "C. Eakin (1) Wrist Shot, assists: R. Whitney (2), E. Cole (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL87",
+      "summary": "M. Duchene (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

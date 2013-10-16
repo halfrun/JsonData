@@ -5,24 +5,121 @@
   "gn": "0083",
   "utcStart": "2013-10-15 23:00:00+0000",
   "easternStart": "2013-10-15 19:00:00",
-  "summary": "Sabres seek first win against Islanders",
+  "summary": "Sabres beat Islanders in shootout for first win",
   "h": {
     "ab": "NYI",
-    "record": "2-2-1",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "0-6-1",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYI249",
+      "summary": "M. Martin (1) Snap Shot, assists: C. Cizikas (1), E. Boulton (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI403",
+      "summary": "T. Vanek (3) Tip-In, assists: C. Hodgson (5), C. Ehrhoff (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI242",
+      "summary": "T. Ennis (1) Wrist Shot, assists: D. Stafford (1), C. Ehrhoff (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI650",
+      "summary": "M. Foligno (1) Wrist Shot, assists: T. Myers (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI116",
+      "summary": "K. Okposo Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI627",
+      "summary": "M. Moulson (2) Slap Shot, assists: J. Tavares (4), L. Visnovsky (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI107",
+      "summary": "R. Ristolainen Wrist Shot saved by E. Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI117",
+      "summary": "L. Visnovsky Slap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI113",
+      "summary": "Z. Girgensons Snap Shot saved by E. Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI149",
+      "summary": "F. Nielsen (3) Wrist Shot, assists: J. Bailey (4), P. Bouchard (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI108",
+      "summary": "M. Pysyk Snap Shot saved by E. Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI118",
+      "summary": "P. Bouchard Backhand saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

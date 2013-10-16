@@ -1,14 +1,14 @@
 {
-  "id": "2013020101",
+  "id": "2013020128",
   "sid": "2013",
   "t": "02",
-  "gn": "0101",
-  "utcStart": "2013-10-17 23:30:00+0000",
-  "easternStart": "2013-10-17 19:30:00",
+  "gn": "0128",
+  "utcStart": "2013-10-22 02:30:00+0000",
+  "easternStart": "2013-10-21 22:30:00",
   "summary": "",
   "h": {
-    "ab": "OTT",
-    "record": "2-2-2",
+    "ab": "LAK",
+    "record": "4-3-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "NJD",
-    "record": "0-3-3",
+    "ab": "CGY",
+    "record": "3-0-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

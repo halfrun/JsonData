@@ -5,24 +5,65 @@
   "gn": "0091",
   "utcStart": "2013-10-16 00:00:00+0000",
   "easternStart": "2013-10-15 20:00:00",
-  "summary": "Canadiens wrap up road trip against Jets",
+  "summary": "Canadiens, Price blank Jets to end road trip",
   "h": {
     "ab": "WPG",
-    "record": "3-3-0",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "3-2-0",
-    "live": "148",
+    "record": "4-2-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG86",
+      "summary": "P. Subban (2) Slap Shot, assists: D. Desharnais (1), J. Gorges (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG55",
+      "summary": "M. Pacioretty Snap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG16",
+      "summary": "J. Gorges hit E. Kane",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG756",
+      "summary": "D. Briere (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG63",
+      "summary": "B. Prust (2) Backhand, assists: D. Briere (2), F. Bouillon (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

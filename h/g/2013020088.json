@@ -5,24 +5,105 @@
   "gn": "0088",
   "utcStart": "2013-10-15 23:30:00+0000",
   "easternStart": "2013-10-15 19:30:00",
-  "summary": "Kings attempt to slow down Lightning attack",
+  "summary": "St. Louis, Bishop help Lightning conquer Kings",
   "h": {
     "ab": "TBL",
-    "record": "3-2-0",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "LAK",
-    "record": "4-2-0",
-    "live": "3",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B8",
+      "summary": "R. Malone (1) Slap Shot, assists: S. Salo (4), M. St Louis (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B409",
+      "summary": "M. St Louis (3) Wrist Shot, assists: S. Stamkos (4), A. Sustr (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B622",
+      "summary": "M. St Louis (4) Wrist Shot, assists: R. Malone (3), S. Stamkos (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B36",
+      "summary": "T. Purcell (4) Wrist Shot, assists: O. Palat (2), M. Carle (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B614",
+      "summary": "S. Voynov (1) Wrist Shot, assists: M. Frattin (3), J. Stoll (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B636",
+      "summary": "O. Palat (2) Wrist Shot, assists: T. Purcell (4), T. Johnson (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B21",
+      "summary": "S. Stamkos Backhand saved by J. Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B10",
+      "summary": "A. Kopitar Tip-In saved by B. Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B15",
+      "summary": "J. Carter Wrist Shot saved by B. Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B13",
+      "summary": "J. Carter Slap Shot saved by B. Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

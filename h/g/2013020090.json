@@ -5,11 +5,11 @@
   "gn": "0090",
   "utcStart": "2013-10-16 00:00:00+0000",
   "easternStart": "2013-10-15 20:00:00",
-  "summary": "Panthers look to get offense going against Predators",
+  "summary": "Predators hold on to beat Panthers",
   "h": {
     "ab": "NSH",
-    "record": "2-3-0",
-    "live": "67",
+    "record": "3-3-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
@@ -17,12 +17,101 @@
   },
   "a": {
     "ab": "FLA",
-    "record": "2-4-0",
-    "live": "12",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NSH404",
+      "summary": "M. Goc (3) Slap Shot, assists: J. Winchester (1), S. Matthias (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH436",
+      "summary": "C. Smith (1) Backhand, assists: G. Bourque (1), S. Weber (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH615",
+      "summary": "M. Gilroy (1) Wrist Shot, assists: T. Fleischmann (6), B. Boyes (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH219",
+      "summary": "J. Huberdeau (3) Wrist Shot, assists: S. Gomez (3), M. Weaver (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH449",
+      "summary": "P. Hornqvist (2) Backhand, assists: D. Legwand (2), F. Forsberg (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH7",
+      "summary": "E. Gudbranson Wrist Shot saved by P. Rinne",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH13",
+      "summary": "T. Fleischmann Wrist Shot saved by P. Rinne",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH32",
+      "summary": "S. Weber (1) Slap Shot, assists: M. Fisher (3), C. Wilson (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH14",
+      "summary": "A. Barkov Wrist Shot saved by P. Rinne",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH402",
+      "summary": "M. Fisher (2) Backhand, assists: C. Smith (3), S. Jones (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH18",
+      "summary": "E. Nystrom Wrist Shot saved by J. Markstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

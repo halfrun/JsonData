@@ -5,24 +5,81 @@
   "gn": "0086",
   "utcStart": "2013-10-15 23:00:00+0000",
   "easternStart": "2013-10-15 19:00:00",
-  "summary": "Hurricanes aim to bounce back vs. Blackhawks",
+  "summary": "Blackhawks beat Hurricanes in shootout",
   "h": {
     "ab": "CAR",
-    "record": "2-2-2",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "3-1-1",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-1-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR15",
+      "summary": "A. Semin Snap Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR675",
+      "summary": "R. Hainsey (1) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR5",
+      "summary": "J. Tlusty Wrist Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR32",
+      "summary": "M. Hossa (2) Backhand, assists: B. Saad (3), A. Shaw (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR449",
+      "summary": "A. Semin (2) Wrist Shot, assists: E. Staal (2), T. Ruutu (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR17",
+      "summary": "M. Handzus Wrist Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR28",
+      "summary": "P. Sharp (1) Wrist Shot, assists: M. Handzus (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
