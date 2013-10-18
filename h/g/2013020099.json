@@ -5,24 +5,97 @@
   "gn": "0099",
   "utcStart": "2013-10-17 23:00:00+0000",
   "easternStart": "2013-10-17 19:00:00",
-  "summary": "",
+  "summary": "Penguins keep rolling, beat Flyers in Philly",
   "h": {
     "ab": "PHI",
-    "record": "1-6-0",
+    "record": "1-7-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "5-1-0",
+    "record": "6-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI55",
+      "summary": "M. Niskanen Snap Shot saved by S. Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI64",
+      "summary": "B. Sutter Snap Shot saved by S. Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI428",
+      "summary": "C. Kunitz (3) Snap Shot, assists: P. Dupuis (5), M. Niskanen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI61",
+      "summary": "E. Malkin Snap Shot saved by S. Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI411",
+      "summary": "J. Jokinen (4) Snap Shot, assists: E. Malkin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI71",
+      "summary": "E. Gustafsson Wrist Shot saved by M. Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI602",
+      "summary": "W. Simmonds (1) Tip-In, assists: C. Giroux (3), B. Schenn (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI773",
+      "summary": "S. Crosby (6) Tip-In, assists: P. Dupuis (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI783",
+      "summary": "E. Malkin (3) Wrist Shot, assists: C. Adams (1), S. Crosby (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

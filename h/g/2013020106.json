@@ -5,24 +5,121 @@
   "gn": "0106",
   "utcStart": "2013-10-18 00:30:00+0000",
   "easternStart": "2013-10-17 20:30:00",
-  "summary": "",
+  "summary": "Stars hand Sharks first loss in shootout",
   "h": {
     "ab": "DAL",
-    "record": "2-3-0",
+    "record": "3-3-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "SJS",
-    "record": "6-0-0",
+    "record": "6-0-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL257",
+      "summary": "M. Nieto (2) Slap Shot, assists: J. Pavelski (7), T. Wingels (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL57",
+      "summary": "V. Fiddler Wrist Shot saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL402",
+      "summary": "C. Eakin (2) Snap Shot, assists: A. Chiasson (3), R. Whitney (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL299",
+      "summary": "P. Marleau (6) Wrap-around, assists: M. Vlasic (4), A. Niemi (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL267",
+      "summary": "T. Daley (1) Wrist Shot, assists: C. Eakin (2), R. Whitney (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL66",
+      "summary": "J. Benn Wrist Shot saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL54",
+      "summary": "M. Vlasic Wrist Shot saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL63",
+      "summary": "J. Benn Slap Shot saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL256",
+      "summary": "T. Seguin (3) Wrist Shot, assists: J. Benn (5), S. Robidas (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL64",
+      "summary": "J. Pavelski Slap Shot saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL53",
+      "summary": "T. Kennedy (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL59",
+      "summary": "S. Robidas Slap Shot saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

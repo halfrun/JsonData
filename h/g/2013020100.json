@@ -5,24 +5,121 @@
   "gn": "0100",
   "utcStart": "2013-10-17 23:30:00+0000",
   "easternStart": "2013-10-17 19:30:00",
-  "summary": "",
+  "summary": "Canadiens recover to beat Blue Jackets",
   "h": {
     "ab": "MTL",
-    "record": "4-2-0",
+    "record": "5-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CBJ",
-    "record": "2-3-0",
+    "record": "2-4-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL634",
+      "summary": "T. Plekanec (3) Wrist Shot, assists: B. Prust (1), R. Diaz (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL631",
+      "summary": "T. Plekanec (2) Wrist Shot, assists: B. Gionta (2), J. Gorges (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "Replay_54",
+      "summary": "R. Umberger Wrist Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "MTL232",
+      "summary": "B. Jenner (1) Wrist Shot, assists: R. Johansen (2), D. Savard (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL65",
+      "summary": "T. Plekanec Wrist Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL68",
+      "summary": "R. Bourque (2) Wrist Shot, assists: P. Subban (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL80",
+      "summary": "M. Bournival (1) Snap Shot, assists: A. Markov (3), P. Subban (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL54",
+      "summary": "R. Umberger Wrist Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL460",
+      "summary": "R. Johansen (1) Wrist Shot, assists: F. Tyutin (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL57",
+      "summary": "P. Subban Slap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL228",
+      "summary": "A. Markov (1) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL482",
+      "summary": "B. Jenner (2) Backhand, assists: M. Letestu (1), A. Anisimov (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

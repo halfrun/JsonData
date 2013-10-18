@@ -5,24 +5,89 @@
   "gn": "0101",
   "utcStart": "2013-10-17 23:30:00+0000",
   "easternStart": "2013-10-17 19:30:00",
-  "summary": "",
+  "summary": "Karlsson, Spezza help Senators win home opener",
   "h": {
     "ab": "OTT",
-    "record": "2-2-2",
+    "record": "3-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "0-3-3",
+    "record": "0-4-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT692",
+      "summary": "S. Bernier (1) Wrist Shot, assists: S. Gionta (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT716",
+      "summary": "J. Spezza (5) Wrist Shot, assists: E. Condra (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT440",
+      "summary": "Z. Smith (2) Wrist Shot, assists: E. Karlsson (3), J. Spezza (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT659",
+      "summary": "T. Zajac (1) Wrist Shot, assists: M. Zidlicky (5), P. Elias (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT702",
+      "summary": "M. Michalek (2) Slap Shot, assists: J. Spezza (3), E. Karlsson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT26",
+      "summary": "B. Ryan (4) Wrist Shot, assists: K. Turris (5), C. MacArthur (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT17",
+      "summary": "M. Methot hit S. Gionta",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT21",
+      "summary": "E. Karlsson (2) Slap Shot, assists: B. Ryan (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

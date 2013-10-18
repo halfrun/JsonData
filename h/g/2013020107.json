@@ -5,24 +5,89 @@
   "gn": "0107",
   "utcStart": "2013-10-18 01:00:00+0000",
   "easternStart": "2013-10-17 21:00:00",
-  "summary": "",
+  "summary": "Red Wings hand Avalanche first loss",
   "h": {
     "ab": "COL",
-    "record": "6-0-0",
+    "record": "6-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "5-2-0",
+    "record": "6-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL97",
+      "summary": "P. Datsyuk (3) Wrist Shot, assists: D. DeKeyser (1), D. Alfredsson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL475",
+      "summary": "J. Franzen (2) Wrist Shot, assists: J. Abdelkader (2), D. Alfredsson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL70",
+      "summary": "J. Franzen (1) Wrist Shot, assists: H. Zetterberg (4), J. Kindl (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL269",
+      "summary": "E. Johnson (1) Wrist Shot, assists: S. Varlamov (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL293",
+      "summary": "G. Landeskog (1) Snap Shot, assists: P. Stastny (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL54",
+      "summary": "N. MacKinnon Backhand saved by J. Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL62",
+      "summary": "B. Lashoff Slap Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL497",
+      "summary": "P. Datsyuk (4) Wrist Shot, assists: D. Alfredsson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

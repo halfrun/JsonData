@@ -5,24 +5,81 @@
   "gn": "0096",
   "utcStart": "2013-10-17 23:00:00+0000",
   "easternStart": "2013-10-17 19:00:00",
-  "summary": "",
+  "summary": "Luongo, Canucks shut out struggling Sabres",
   "h": {
     "ab": "BUF",
-    "record": "1-6-1",
+    "record": "1-7-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "VAN",
-    "record": "4-3-0",
+    "record": "5-3-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF448",
+      "summary": "R. Stanton (1) Snap Shot, assists: D. Sedin (6), H. Sedin (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF67",
+      "summary": "C. Tanev Slap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "R. Kesler Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF56",
+      "summary": "J. Garrison Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF204",
+      "summary": "C. Higgins (2) Snap Shot, assists: M. Santorelli (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF249",
+      "summary": "B. Richardson (2) Deflected, assists: J. Garrison (6), M. Santorelli (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF65",
+      "summary": "C. Hodgson Backhand saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

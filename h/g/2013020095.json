@@ -5,24 +5,89 @@
   "gn": "0095",
   "utcStart": "2013-10-17 02:00:00+0000",
   "easternStart": "2013-10-16 22:00:00",
-  "summary": "Flames, Ducks try to continue solid start",
+  "summary": "Ducks beat Flames for fifth straight win",
   "h": {
     "ab": "ANA",
-    "record": "4-1-0",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "3-0-2",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA486",
+      "summary": "T. Selanne (1) Wrist Shot, assists: J. Silfverberg (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA211",
+      "summary": "K. Palmieri (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA218",
+      "summary": "L. Stempniak (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA571",
+      "summary": "J. Hudler (3) Deflected, assists: K. Russell (1), J. Colborne (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA7",
+      "summary": "S. O'Brien hit D. Winnik",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "ANA66",
+      "summary": "J. Colborne Wrist Shot saved by V. Fasth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "ANA70",
+      "summary": "M. Backlund Wrist Shot saved by V. Fasth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "ANA68",
+      "summary": "D. Penner (2) Tip-In, assists: R. Getzlaf (3), B. Allen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

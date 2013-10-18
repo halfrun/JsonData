@@ -5,24 +5,97 @@
   "gn": "0098",
   "utcStart": "2013-10-17 23:00:00+0000",
   "easternStart": "2013-10-17 19:00:00",
-  "summary": "",
+  "summary": "Tavares goal helps Islanders rally past Oilers",
   "h": {
     "ab": "NYI",
-    "record": "2-2-2",
+    "record": "3-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "1-5-1",
+    "record": "1-6-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYI322",
+      "summary": "K. Okposo (2) Snap Shot, assists: M. Moulson (1), J. Tavares (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI126",
+      "summary": "J. Bailey (3) Snap Shot, assists: T. Hamonic (3), P. Bouchard (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI103",
+      "summary": "A. Hemsky Snap Shot saved by E. Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI114",
+      "summary": "P. Bouchard Tip-In saved by D. Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI145",
+      "summary": "T. Hall (3) Snap Shot, assists: M. Arcobello (8), J. Eberle (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI141",
+      "summary": "T. Hall (2) Snap Shot, assists: J. Schultz (5), M. Arcobello (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI116",
+      "summary": "T. Hall Wrist Shot saved by E. Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI462",
+      "summary": "J. Tavares (4) Snap Shot, assists: K. Okposo (4), M. Grabner (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI112",
+      "summary": "J. Bailey Tip-In saved by D. Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

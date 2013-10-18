@@ -5,24 +5,73 @@
   "gn": "0104",
   "utcStart": "2013-10-18 00:00:00+0000",
   "easternStart": "2013-10-17 20:00:00",
-  "summary": "",
+  "summary": "Oshie, Halak help Blues beat Blackhawks in SO",
   "h": {
     "ab": "CHI",
-    "record": "4-1-1",
+    "record": "4-1-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "4-1-0",
+    "record": "5-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI430",
+      "summary": "M. Hossa (3) Slap Shot, assists: N. Hjalmarsson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI46",
+      "summary": "D. Backes (5) Tip-In, assists: J. Bouwmeester (3), A. Pietrangelo (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI10",
+      "summary": "B. Pirri Slap Shot saved by J. Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI433",
+      "summary": "A. Steen (5) Tip-In, assists: J. Bouwmeester (4), T. Oshie (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI9",
+      "summary": "D. Keith Slap Shot saved by J. Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI33",
+      "summary": "B. Pirri (1) Wrist Shot, assists: M. Hossa (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

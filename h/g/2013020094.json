@@ -5,24 +5,57 @@
   "gn": "0094",
   "utcStart": "2013-10-17 00:00:00+0000",
   "easternStart": "2013-10-16 20:00:00",
-  "summary": "Rangers, Capitals look to get on right path",
+  "summary": "Lundqvist, Rangers shut out Capitals",
   "h": {
     "ab": "WSH",
-    "record": "2-4-0",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "NYR",
-    "record": "1-4-0",
-    "live": "145",
+    "record": "2-4-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH418",
+      "summary": "J. Moore (1) Snap Shot, assists: B. Richards (2), R. McDonagh (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH8",
+      "summary": "A. Stralman Snap Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH425",
+      "summary": "R. Callahan (3) Snap Shot, assists: B. Richards (3), D. Brassard (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH107",
+      "summary": "R. Callahan hit S. Oleksy",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "id": "2013020126",
+  "id": "2013020129",
   "sid": "2013",
   "t": "02",
-  "gn": "0126",
-  "utcStart": "2013-10-21 23:30:00+0000",
-  "easternStart": "2013-10-21 19:30:00",
+  "gn": "0129",
+  "utcStart": "2013-10-22 23:00:00+0000",
+  "easternStart": "2013-10-22 19:00:00",
   "summary": "",
   "h": {
-    "ab": "DET",
+    "ab": "TOR",
     "record": "6-2-0",
     "live": "",
     "replayShort": "",
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "SJS",
-    "record": "6-0-1",
+    "ab": "ANA",
+    "record": "5-1-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

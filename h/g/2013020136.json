@@ -1,14 +1,14 @@
 {
-  "id": "2013020126",
+  "id": "2013020136",
   "sid": "2013",
   "t": "02",
-  "gn": "0126",
-  "utcStart": "2013-10-21 23:30:00+0000",
-  "easternStart": "2013-10-21 19:30:00",
+  "gn": "0136",
+  "utcStart": "2013-10-23 02:00:00+0000",
+  "easternStart": "2013-10-22 22:00:00",
   "summary": "",
   "h": {
-    "ab": "DET",
-    "record": "6-2-0",
+    "ab": "PHX",
+    "record": "4-2-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "SJS",
-    "record": "6-0-1",
+    "ab": "CGY",
+    "record": "3-1-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
