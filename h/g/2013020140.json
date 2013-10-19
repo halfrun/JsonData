@@ -1,14 +1,14 @@
 {
-  "id": "2013020125",
+  "id": "2013020140",
   "sid": "2013",
   "t": "02",
-  "gn": "0125",
-  "utcStart": "2013-10-21 00:00:00+0000",
-  "easternStart": "2013-10-20 20:00:00",
+  "gn": "0140",
+  "utcStart": "2013-10-24 23:00:00+0000",
+  "easternStart": "2013-10-24 19:00:00",
   "summary": "",
   "h": {
-    "ab": "ANA",
-    "record": "6-1-0",
+    "ab": "NJD",
+    "record": "0-4-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "DAL",
-    "record": "3-3-0",
+    "ab": "VAN",
+    "record": "5-3-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

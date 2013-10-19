@@ -5,24 +5,89 @@
   "gn": "0108",
   "utcStart": "2013-10-19 00:00:00+0000",
   "easternStart": "2013-10-18 20:00:00",
-  "summary": "Jets continue homestand by hosting Blues",
+  "summary": "Jets rally in third, defeat Blues in shootout",
   "h": {
     "ab": "WPG",
-    "record": "3-4-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "5-1-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-1-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG632",
+      "summary": "T. Enstrom (1) Slap Shot, assists: D. Byfuglien (7), B. Wheeler (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG60",
+      "summary": "J. Trouba Snap Shot saved by B. Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG448",
+      "summary": "A. Steen (7) Wrist Shot, assists: D. Backes (3), J. Bouwmeester (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG89",
+      "summary": "D. Backes (6) Snap Shot, assists: T. Oshie (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG207",
+      "summary": "O. Jokinen (2) Slap Shot, assists: M. Halischuk (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG216",
+      "summary": "A. Steen (6) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG54",
+      "summary": "A. Steen Snap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG618",
+      "summary": "E. Kane (4) Slap Shot, assists: B. Little (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,73 @@
   "gn": "0109",
   "utcStart": "2013-10-19 02:00:00+0000",
   "easternStart": "2013-10-18 22:00:00",
-  "summary": "Coyotes try to cool off Ducks",
+  "summary": "Ducks rally to beat Coyotes in shootout",
   "h": {
     "ab": "ANA",
-    "record": "5-1-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "4-2-1",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA65",
+      "summary": "K. Yandle Wrist Shot saved by J. Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA486",
+      "summary": "R. Klesla (1) Slap Shot, assists: M. Hanzal (6), S. Doan (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA423",
+      "summary": "A. Vermette (2) Deflected, assists: K. Yandle (2), M. Ribeiro (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA70",
+      "summary": "R. Klesla Slap Shot saved by J. Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA670",
+      "summary": "N. Bonino (3) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA78",
+      "summary": "T. Selanne (2) Wrist Shot, assists: M. Perreault (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

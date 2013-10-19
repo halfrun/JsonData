@@ -10,28 +10,28 @@
     {
       "id": "2013020111",
       "utcStart": "2013-10-19 18:00:00+0000",
-      "summary": "Oilers chase two points as trip continues in Ottawa",
+      "summary": "Oilers chase two points as trip continues vs. Senators",
       "h": "OTT",
       "a": "EDM"
     },
     {
       "id": "2013020112",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Avalanche aim to get back in win column vs. Sabres",
       "h": "BUF",
       "a": "COL"
     },
     {
       "id": "2013020113",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Canadiens look to extend win streak against Nashville",
       "h": "MTL",
       "a": "NSH"
     },
     {
       "id": "2013020114",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Bruins go for third road win vs. home-happy Lightning",
       "h": "TBL",
       "a": "BOS"
     },
@@ -45,35 +45,35 @@
     {
       "id": "2013020116",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "Rangers go for two straight, renew rivalry with Devils",
+      "summary": "Rangers try to keep Devils winless",
       "h": "NJD",
       "a": "NYR"
     },
     {
       "id": "2013020117",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Islanders continue homestand against Hurricanes",
       "h": "NYI",
       "a": "CAR"
     },
     {
       "id": "2013020118",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Blue Jackets, Capitals consider line changes",
       "h": "WSH",
       "a": "CBJ"
     },
     {
       "id": "2013020119",
       "utcStart": "2013-10-19 23:00:00+0000",
-      "summary": "",
+      "summary": "Blackhaws look to rebound against Maple Leafs",
       "h": "CHI",
       "a": "TOR"
     },
     {
       "id": "2013020120",
       "utcStart": "2013-10-20 01:00:00+0000",
-      "summary": "",
+      "summary": "Red Wings aim to avenge earlier loss to Coyotes",
       "h": "PHX",
       "a": "DET"
     },
@@ -87,7 +87,7 @@
     {
       "id": "2013020122",
       "utcStart": "2013-10-20 02:30:00+0000",
-      "summary": "Stars are first opponent on Kings' homestand",
+      "summary": "Kings open homestand against Stars",
       "h": "LAK",
       "a": "DAL"
     }
