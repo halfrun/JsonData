@@ -5,24 +5,73 @@
   "gn": "0114",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Bruins go for third road win vs. home-happy Lightning",
+  "summary": "Bruins breeze past Lightning with Rask shutout",
   "h": {
     "ab": "TBL",
-    "record": "5-2-0",
-    "live": "146",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BOS",
-    "record": "4-2-0",
-    "live": "89",
+    "record": "5-2-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B10",
+      "summary": "R. Malone Slap Shot saved by T. Rask",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "T.B249",
+      "summary": "P. Bergeron (2) Wrist Shot, assists: R. Smith (4), L. Eriksson (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "T.B402",
+      "summary": "C. Kelly (3) Wrist Shot, assists: B. Marchand (1), C. Soderberg (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "T.B11",
+      "summary": "D. Krejci (1) Wrist Shot, assists: M. Lucic (3), J. Iginla (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "T.B224",
+      "summary": "A. McQuaid (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "T.B419",
+      "summary": "S. Thornton (1) Wrist Shot, assists: D. Paille (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

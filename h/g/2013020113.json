@@ -5,24 +5,73 @@
   "gn": "0113",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Canadiens look to extend win streak against Nashville",
+  "summary": "Jones scores late game-winner for Predators",
   "h": {
     "ab": "MTL",
-    "record": "5-2-0",
-    "live": "91",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "3-3-1",
-    "live": "148",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL90",
+      "summary": "S. Weber (2) Wrist Shot, assists: D. Legwand (3), F. Forsberg (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL629",
+      "summary": "S. Jones (2) Wrist Shot, assists: D. Legwand (4), C. Wilson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL53",
+      "summary": "B. Gallagher Wrist Shot saved by P. Rinne",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL237",
+      "summary": "B. Gallagher (4) Wrist Shot, assists: M. Bournival (1), L. Eller (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL14",
+      "summary": "G. Bourque hit J. Gorges",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL58",
+      "summary": "C. Wilson Wrist Shot saved by C. Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

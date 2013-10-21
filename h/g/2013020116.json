@@ -5,24 +5,65 @@
   "gn": "0116",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Rangers try to keep Devils winless",
+  "summary": "Schneider shuts out Rangers for Devils' first win",
   "h": {
     "ab": "NJD",
-    "record": "0-4-3",
-    "live": "9",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "2-4-0",
-    "live": "1",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J358",
+      "summary": "M. Ryder (3) Slap Shot, assists: J. Jagr (3), M. Zidlicky (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J24",
+      "summary": "A. Henrique (2) Slap Shot, assists: R. Olesz (1), J. Jagr (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J17",
+      "summary": "A. Loktionov (1) Snap Shot, assists: A. Volchenkov (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J6",
+      "summary": "S. Bernier Snap Shot saved by H. Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J372",
+      "summary": "D. Zubrus (2) Backhand, assists: B. Salvador (2), M. Zidlicky (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

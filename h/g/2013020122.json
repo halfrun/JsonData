@@ -5,24 +5,97 @@
   "gn": "0122",
   "utcStart": "2013-10-20 02:30:00+0000",
   "easternStart": "2013-10-19 22:30:00",
-  "summary": "Kings open homestand against Stars",
+  "summary": "Veterans lead Kings past Stars",
   "h": {
     "ab": "LAK",
-    "record": "5-3-0",
-    "live": "67",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "DAL",
-    "record": "3-3-0",
-    "live": "43",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "L.A58",
+      "summary": "T. Lewis Wrist Shot saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A13",
+      "summary": "C. Fraser Wrist Shot saved by D. Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A289",
+      "summary": "R. Peverley (2) Wrist Shot, assists: J. Benn (7), T. Seguin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A805",
+      "summary": "K. Clifford (1) Snap Shot, assists: M. Greene (1), J. Muzzin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A316",
+      "summary": "J. Williams (4) Backhand, assists: A. Kopitar (7), D. Doughty (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A582",
+      "summary": "D. Doughty (2) Backhand, assists: J. Williams (1), A. Kopitar (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A827",
+      "summary": "M. Greene (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A81",
+      "summary": "T. Seguin (4) Tip-In, assists: J. Benn (6), R. Peverley (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A98",
+      "summary": "J. Williams (3) Deflected, assists: J. Muzzin (2), A. Kopitar (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

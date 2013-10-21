@@ -5,24 +5,105 @@
   "gn": "0117",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Islanders continue homestand against Hurricanes",
+  "summary": "Tlusty's pair leads Hurricanes past Islanders",
   "h": {
     "ab": "NYI",
-    "record": "3-2-2",
-    "live": "6",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-3-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "3-2-3",
-    "live": "107",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYI498",
+      "summary": "J. Tlusty (2) Wrist Shot, assists: A. Semin (2), E. Staal (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI665",
+      "summary": "K. Okposo (3) Snap Shot, assists: P. Bouchard (3), M. Moulson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI294",
+      "summary": "J. Skinner (3) Backhand, assists: R. Nash (1), T. Ruutu (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI258",
+      "summary": "J. Tlusty (1) Backhand, assists: E. Staal (3), A. Semin (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI103",
+      "summary": "J. Tavares Snap Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI271",
+      "summary": "J. Staal (1) Snap Shot, assists: R. Murphy (4), N. Gerbe (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI113",
+      "summary": "P. Regin Snap Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI461",
+      "summary": "M. Moulson (3) Snap Shot, assists: A. MacDonald (1), J. Tavares (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI110",
+      "summary": "P. Regin Slap Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI654",
+      "summary": "F. Nielsen (4) Snap Shot, assists: K. Okposo (5), M. Moulson (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

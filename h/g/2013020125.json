@@ -5,24 +5,105 @@
   "gn": "0125",
   "utcStart": "2013-10-21 00:00:00+0000",
   "easternStart": "2013-10-20 20:00:00",
-  "summary": "",
+  "summary": "Getzlaf leads Ducks to seventh straight win",
   "h": {
     "ab": "ANA",
-    "record": "6-1-0",
+    "record": "7-1-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "3-3-0",
+    "record": "3-5-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA686",
+      "summary": "M. Perreault (3) Deflected, assists: E. Etem (1), C. Fowler (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA441",
+      "summary": "C. Perry (5) Deflected, assists: C. Fowler (2), R. Getzlaf (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA516",
+      "summary": "E. Etem (1) Tip-In, assists: A. Cogliano (3), B. Allen (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA544",
+      "summary": "R. Getzlaf (3) Wrist Shot, assists: C. Perry (4), K. Palmieri (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA202",
+      "summary": "R. Garbutt (1) Wrist Shot, assists: V. Fiddler (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA63",
+      "summary": "C. Perry Tip-In saved by J. Campbell",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA66",
+      "summary": "T. Selanne (3) Wrist Shot, assists: R. Getzlaf (4), S. Vatanen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA217",
+      "summary": "B. Dillon (2) Deflected, assists: V. Nichushkin (1), S. Horcoff (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA241",
+      "summary": "C. Perry (4) Deflected, assists: R. Getzlaf (5), D. Winnik (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA235",
+      "summary": "S. Horcoff (1) Deflected, assists: E. Cole (2), J. Benn (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

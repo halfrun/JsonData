@@ -5,24 +5,97 @@
   "gn": "0112",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Avalanche aim to get back in win column vs. Sabres",
+  "summary": "Sabres' struggles continue with loss to Avalanche",
   "h": {
     "ab": "BUF",
-    "record": "1-7-1",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-8-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "6-1-0",
-    "live": "26",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF9",
+      "summary": "P. Bordeleau hit M. Weber",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF326",
+      "summary": "C. Hodgson (2) Slap Shot, assists: D. Stafford (2), T. Vanek (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF414",
+      "summary": "M. Foligno (2) Wrist Shot, assists: H. Tallinder (1), T. Myers (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "P. Parenteau Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF307",
+      "summary": "M. Duchene (6) Deflected, assists: R. O'Reilly (3), A. Benoit (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF331",
+      "summary": "P. Stastny (1) Wrist Shot, assists: G. Landeskog (3), R. Wilson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF76",
+      "summary": "R. O'Reilly (3) Wrist Shot, assists: M. Duchene (3), S. Downie (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF53",
+      "summary": "R. O'Reilly Slap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF82",
+      "summary": "G. Landeskog (2) Wrap-around, assists: E. Johnson (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

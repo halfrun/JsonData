@@ -5,24 +5,105 @@
   "gn": "0121",
   "utcStart": "2013-10-20 02:00:00+0000",
   "easternStart": "2013-10-19 22:00:00",
-  "summary": "Sharks host new Pacific Division rival Flames",
+  "summary": "Streaking Sharks douse Flames",
   "h": {
     "ab": "SJS",
-    "record": "6-0-1",
-    "live": "153",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-0-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "3-1-2",
-    "live": "8",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "S.J445",
+      "summary": "P. Marleau (7) Snap Shot, assists: J. Pavelski (9), J. Thornton (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J15",
+      "summary": "T. Kennedy Snap Shot saved by K. Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J636",
+      "summary": "J. Pavelski (3) Deflected, assists: L. Couture (7), J. Demers (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J617",
+      "summary": "M. Backlund (2) Slap Shot, assists: L. Stempniak (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J11",
+      "summary": "B. Burns (4) Snap Shot, assists: J. Pavelski (8), B. Stuart (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J239",
+      "summary": "S. Monahan (5) Slap Shot, assists: S. Baertschi (3), K. Russell (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J221",
+      "summary": "S. Hannan (2) Slap Shot, assists: J. Thornton (9), T. Hertl (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J414",
+      "summary": "J. Pavelski (2) Deflected, assists: P. Marleau (4), M. Irwin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J621",
+      "summary": "J. Hudler (4) Slap Shot, assists: S. Monahan (3), M. Giordano (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J716",
+      "summary": "L. Couture (4) Snap Shot, assists: T. Wingels (4), M. Vlasic (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

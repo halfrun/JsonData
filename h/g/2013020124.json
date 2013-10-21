@@ -5,24 +5,81 @@
   "gn": "0124",
   "utcStart": "2013-10-21 00:00:00+0000",
   "easternStart": "2013-10-20 20:00:00",
-  "summary": "",
+  "summary": "Backup goalie Hutton leads Predators to win",
   "h": {
     "ab": "WPG",
-    "record": "4-4-0",
+    "record": "4-5-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "3-3-1",
+    "record": "5-3-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG489",
+      "summary": "E. Kane (5) Tip-In, assists: O. Jokinen (3), D. Setoguchi (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG106",
+      "summary": "D. Byfuglien Snap Shot saved by C. Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG258",
+      "summary": "E. Nystrom (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG296",
+      "summary": "P. Hornqvist (3) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG453",
+      "summary": "M. Cullen (2) Snap Shot, assists: C. Smith (5), C. Wilson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG103",
+      "summary": "D. Legwand Snap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG105",
+      "summary": "E. Kane Snap Shot saved by C. Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

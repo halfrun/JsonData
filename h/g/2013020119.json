@@ -5,24 +5,81 @@
   "gn": "0119",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Blackhaws look to rebound against Maple Leafs",
+  "summary": "Pirri's two points lift Blackhawks past Maple Leafs",
   "h": {
     "ab": "CHI",
-    "record": "4-1-2",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TOR",
-    "record": "6-2-0",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI519",
+      "summary": "B. Pirri (2) Tip-In, assists: B. Saad (4), N. Leddy (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI249",
+      "summary": "M. Kostka (1) Wrist Shot, assists: B. Pirri (1), N. Leddy (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI16",
+      "summary": "J. van Riemsdyk Wrist Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI10",
+      "summary": "N. Hjalmarsson Snap Shot saved by J. Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI22",
+      "summary": "P. Sharp Wrist Shot saved by J. Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI238",
+      "summary": "N. Kadri (3) Tip-In, assists: J. Lupul (4), C. Franson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI228",
+      "summary": "B. Bickell (1) Wrist Shot, assists: A. Shaw (3), M. Kruger (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

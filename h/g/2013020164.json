@@ -1,14 +1,14 @@
 {
-  "id": "2013020129",
+  "id": "2013020164",
   "sid": "2013",
   "t": "02",
-  "gn": "0129",
-  "utcStart": "2013-10-22 23:00:00+0000",
-  "easternStart": "2013-10-22 19:00:00",
+  "gn": "0164",
+  "utcStart": "2013-10-26 19:00:00+0000",
+  "easternStart": "2013-10-26 15:00:00",
   "summary": "",
   "h": {
-    "ab": "TOR",
-    "record": "6-3-0",
+    "ab": "PHX",
+    "record": "5-2-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "ANA",
-    "record": "7-1-0",
+    "ab": "EDM",
+    "record": "2-6-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

@@ -5,24 +5,97 @@
   "gn": "0110",
   "utcStart": "2013-10-19 17:00:00+0000",
   "easternStart": "2013-10-19 13:00:00",
-  "summary": "Metro-leading Penguins host Canucks in matinee",
+  "summary": "Malkin's shootout goal lifts Penguins past Canucks",
   "h": {
     "ab": "PIT",
-    "record": "6-1-0",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "VAN",
-    "record": "5-3-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-4-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT86",
+      "summary": "A. Edler (2) Slap Shot, assists: K. Bieksa (2), H. Sedin (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PIT446",
+      "summary": "O. Maatta (1) Wrist Shot, assists: C. Kunitz (6), S. Crosby (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT331",
+      "summary": "C. Kunitz (4) Wrist Shot, assists: E. Malkin (6), S. Crosby (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT443",
+      "summary": "Z. Kassian (1) Tip-In, assists: D. Booth (2), K. Bieksa (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT343",
+      "summary": "B. Richardson (3) Wrist Shot, assists: D. Weise (1), K. Bieksa (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT95",
+      "summary": "S. Crosby (7) Wrist Shot, assists: C. Kunitz (5), P. Dupuis (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT60",
+      "summary": "C. Kunitz Snap Shot saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT62",
+      "summary": "C. Higgins Wrist Shot saved by M. Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT57",
+      "summary": "K. Bieksa Wrist Shot saved by M. Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

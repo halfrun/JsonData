@@ -5,24 +5,81 @@
   "gn": "0118",
   "utcStart": "2013-10-19 23:00:00+0000",
   "easternStart": "2013-10-19 19:00:00",
-  "summary": "Blue Jackets, Capitals consider line changes",
+  "summary": "Capitals hand Blue Jackets fourth straight loss",
   "h": {
     "ab": "WSH",
-    "record": "2-5-0",
-    "live": "45",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CBJ",
-    "record": "2-4-0",
-    "live": "39",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH466",
+      "summary": "T. Brouwer (2) Wrist Shot, assists: M. Erat (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH470",
+      "summary": "A. Ovechkin (7) Slap Shot, assists: M. Green (5), M. Erat (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH12",
+      "summary": "M. Johansson Snap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH233",
+      "summary": "J. Ward (2) Snap Shot, assists: M. Johansson (6), N. Backstrom (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH20",
+      "summary": "R. Umberger Wrist Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH407",
+      "summary": "B. Laich (2) Backhand, assists: S. Oleksy (3), M. Erat (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH497",
+      "summary": "A. Anisimov (2) Wrist Shot, assists: M. Gaborik (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
