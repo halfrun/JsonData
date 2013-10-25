@@ -5,24 +5,81 @@
   "gn": "0136",
   "utcStart": "2013-10-23 02:00:00+0000",
   "easternStart": "2013-10-22 22:00:00",
-  "summary": "",
+  "summary": "Coyotes top Flames, extend points streak to seven",
   "h": {
     "ab": "PHX",
-    "record": "5-2-2",
+    "record": "6-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "CGY",
-    "record": "3-2-2",
+    "record": "4-3-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX482",
+      "summary": "J. Colborne (1) Backhand, assists: J. Hudler (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX470",
+      "summary": "L. Stempniak (3) Wrist Shot, assists: K. Russell (3), T. Galiardi (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX675",
+      "summary": "R. Klinkhammer (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX493",
+      "summary": "M. Ribeiro (5) Wrist Shot, assists: K. Yandle (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX15",
+      "summary": "B. Yip hit T. Brodie",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX393",
+      "summary": "M. Ribeiro (4) Tip-In, assists: M. Boedker (6), D. Moss (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX67",
+      "summary": "R. Vrbata (5) Wrist Shot, assists: K. Yandle (3), O. Ekman-Larsson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

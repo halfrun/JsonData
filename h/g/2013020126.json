@@ -5,24 +5,49 @@
   "gn": "0126",
   "utcStart": "2013-10-21 23:30:00+0000",
   "easternStart": "2013-10-21 19:30:00",
-  "summary": "Red Wings back home, looking to slow down Sharks",
+  "summary": "Sharks edge Red Wings in shootout",
   "h": {
     "ab": "DET",
-    "record": "6-3-0",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "SJS",
-    "record": "7-0-1",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-0-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET58",
+      "summary": "L. Couture Wrist Shot saved by J. Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET66",
+      "summary": "J. Tootoo Backhand saved by A. Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET14",
+      "summary": "J. Tootoo hit J. Sheppard",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

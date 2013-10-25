@@ -1,10 +1,10 @@
 {
-  "id": "2013020154",
+  "id": "2013020169",
   "sid": "2013",
   "t": "02",
-  "gn": "0154",
-  "utcStart": "2013-10-26 01:00:00+0000",
-  "easternStart": "2013-10-25 21:00:00",
+  "gn": "0169",
+  "utcStart": "2013-10-28 00:00:00+0000",
+  "easternStart": "2013-10-27 20:00:00",
   "summary": "",
   "h": {
     "ab": "COL",
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CAR",
-    "record": "4-2-3",
+    "ab": "WPG",
+    "record": "4-5-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

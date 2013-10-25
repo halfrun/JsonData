@@ -5,24 +5,105 @@
   "gn": "0137",
   "utcStart": "2013-10-23 23:30:00+0000",
   "easternStart": "2013-10-23 19:30:00",
-  "summary": "",
+  "summary": "Senators beat Red Wings in first game vs. Alfredsson",
   "h": {
     "ab": "DET",
-    "record": "6-3-0",
+    "record": "6-4-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "OTT",
-    "record": "3-3-2",
+    "record": "4-3-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET92",
+      "summary": "T. Bertuzzi (3) Wrap-around, assists: H. Zetterberg (6), N. Kronwall (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET66",
+      "summary": "E. Gryba (1) Wrist Shot, assists: M. Zibanejad (1), E. Condra (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET54",
+      "summary": "J. Abdelkader Wrist Shot saved by C. Anderson",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET321",
+      "summary": "J. Spezza (7) Wrist Shot, assists: E. Karlsson (6), M. Methot (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET524",
+      "summary": "J. Cowen (2) Wrist Shot, assists: Z. Smith (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET540",
+      "summary": "B. Ryan (6) Wrist Shot, assists: C. MacArthur (5), K. Turris (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET60",
+      "summary": "K. Turris Backhand saved by J. Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET76",
+      "summary": "J. Spezza (6) Slap Shot, assists: C. Phillips (3), E. Karlsson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET81",
+      "summary": "B. Ryan (5) Wrist Shot, assists: J. Corvo (4), K. Turris (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET55",
+      "summary": "S. Weiss Wrist Shot saved by C. Anderson",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,113 @@
   "gn": "0138",
   "utcStart": "2013-10-24 00:00:00+0000",
   "easternStart": "2013-10-23 20:00:00",
-  "summary": "",
+  "summary": "Eriksson injured in Bruins' third straight win",
   "h": {
     "ab": "BUF",
-    "record": "1-8-1",
+    "record": "1-9-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
   "a": {
     "ab": "BOS",
-    "record": "5-2-0",
+    "record": "6-2-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF373",
+      "summary": "C. Hodgson (3) Tip-In, assists: T. Vanek (4), M. Foligno (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF54",
+      "summary": "R. Smith Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF476",
+      "summary": "T. Krug (2) Wrist Shot, assists: R. Smith (5), C. Soderberg (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF61",
+      "summary": "R. Smith Slap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF63",
+      "summary": "M. Lucic Wrist Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF73",
+      "summary": "M. Lucic (4) Wrist Shot, assists: J. Iginla (3), D. Krejci (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF490",
+      "summary": "T. Krug (3) Snap Shot, assists: D. Krejci (7), M. Lucic (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF97",
+      "summary": "M. Lucic (5) Tip-In, assists: J. Iginla (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF394",
+      "summary": "N. Zadorov (1) Backhand, assists: S. Ott (2), M. Foligno (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF384",
+      "summary": "D. Hamilton (2) Wrist Shot, assists: B. Marchand (2), C. Soderberg (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF55",
+      "summary": "B. Flynn Wrist Shot saved by C. Johnson",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

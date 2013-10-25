@@ -5,24 +5,81 @@
   "gn": "0131",
   "utcStart": "2013-10-22 23:00:00+0000",
   "easternStart": "2013-10-22 19:00:00",
-  "summary": "",
+  "summary": "Wisniewski shoots Blue Jackets past Devils",
   "h": {
     "ab": "CBJ",
-    "record": "3-5-0",
+    "record": "4-5-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "1-4-3",
+    "record": "1-5-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ12",
+      "summary": "D. MacKenzie hit P. Harrold",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ408",
+      "summary": "C. Atkinson (3) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ345",
+      "summary": "B. Dubinsky (2) Tip-In, assists: R. Umberger (4), J. Wisniewski (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ58",
+      "summary": "J. Boll Wrist Shot saved by C. Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ433",
+      "summary": "J. Wisniewski (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ669",
+      "summary": "M. Gaborik (4) Wrist Shot, assists: B. Dubinsky (3), J. Wisniewski (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ329",
+      "summary": "M. Ryder (4) Wrist Shot, assists: J. Jagr (4), R. Olesz (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

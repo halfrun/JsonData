@@ -5,24 +5,73 @@
   "gn": "0127",
   "utcStart": "2013-10-21 23:30:00+0000",
   "easternStart": "2013-10-21 19:30:00",
-  "summary": "Penguins put home mark on line vs. road-tested Avs",
+  "summary": "Giguere, Avalanche shut down Penguins",
   "h": {
     "ab": "PIT",
-    "record": "7-1-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "7-1-0",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT69",
+      "summary": "S. Crosby Slap Shot saved by J. Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT54",
+      "summary": "P. Dupuis Tip-In saved by J. Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT71",
+      "summary": "E. Malkin Slap Shot saved by J. Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT10",
+      "summary": "J. McGinn hit R. Bortuzzo",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT236",
+      "summary": "G. Landeskog (3) Wrist Shot, assists: R. Wilson (2), C. Sarich (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT75",
+      "summary": "C. Kunitz Snap Shot saved by J. Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

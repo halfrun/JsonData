@@ -1,14 +1,14 @@
 {
-  "id": "2013020154",
+  "id": "2013020166",
   "sid": "2013",
   "t": "02",
-  "gn": "0154",
-  "utcStart": "2013-10-26 01:00:00+0000",
-  "easternStart": "2013-10-25 21:00:00",
+  "gn": "0166",
+  "utcStart": "2013-10-27 21:00:00+0000",
+  "easternStart": "2013-10-27 17:00:00",
   "summary": "",
   "h": {
-    "ab": "COL",
-    "record": "8-1-0",
+    "ab": "OTT",
+    "record": "4-3-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CAR",
-    "record": "4-2-3",
+    "ab": "SJS",
+    "record": "8-0-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

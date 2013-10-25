@@ -5,24 +5,97 @@
   "gn": "0128",
   "utcStart": "2013-10-22 02:30:00+0000",
   "easternStart": "2013-10-21 22:30:00",
-  "summary": "Flames continue road trip against surging Kings",
+  "summary": "Power play sparks Flames in win over Kings",
   "h": {
     "ab": "LAK",
-    "record": "6-3-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "3-2-2",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "L.A58",
+      "summary": "M. Frattin Snap Shot saved by K. Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A8",
+      "summary": "M. Frattin hit T. Brodie",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A53",
+      "summary": "M. Giordano Wrist Shot saved by J. Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A5",
+      "summary": "M. Cammalleri Wrist Shot saved by J. Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A252",
+      "summary": "D. Doughty (3) Wrist Shot, assists: D. Brown (1), J. Williams (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "L.A770",
+      "summary": "T. Brodie (1) Slap Shot, assists: J. Hudler (7), L. Stempniak (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "L.A291",
+      "summary": "S. Monahan (6) Wrist Shot, assists: M. Cammalleri (1), M. Giordano (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "L.A299",
+      "summary": "J. Carter (5) Wrist Shot, assists: M. Richards (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "L.A259",
+      "summary": "M. Cammalleri (1) Slap Shot, assists: J. Hudler (6), M. Giordano (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    }
+  ]
 }

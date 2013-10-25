@@ -5,24 +5,121 @@
   "gn": "0135",
   "utcStart": "2013-10-23 00:00:00+0000",
   "easternStart": "2013-10-22 20:00:00",
-  "summary": "",
+  "summary": "Capitals outlast Jets in shootout",
   "h": {
     "ab": "WPG",
-    "record": "4-5-0",
+    "record": "4-5-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "3-5-0",
+    "record": "4-5-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG62",
+      "summary": "M. Scheifele Backhand saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG473",
+      "summary": "A. Ovechkin (8) Backhand, assists: M. Johansson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG487",
+      "summary": "B. Wheeler (2) Deflected, assists: E. Kane (3), M. Scheifele (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG292",
+      "summary": "B. Little (4) Snap Shot, assists: A. Ladd (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG480",
+      "summary": "A. Ovechkin (9) Wrist Shot, assists: M. Johansson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG276",
+      "summary": "M. Grabovski (4) Backhand, assists: J. Erskine (1), J. Ward (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG68",
+      "summary": "K. Alzner Wrist Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG611",
+      "summary": "T. Brouwer (3) Snap Shot, assists: N. Backstrom (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG298",
+      "summary": "G. Clitsome (1) Slap Shot, assists: Z. Bogosian (2), A. Ladd (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG624",
+      "summary": "B. Little (5) Snap Shot, assists: A. Ladd (4), D. Setoguchi (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG14",
+      "summary": "S. Oleksy hit A. Peluso",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG57",
+      "summary": "J. Ward Wrist Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
