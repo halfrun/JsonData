@@ -1,6 +1,6 @@
 
-echo [%date% - %time%] Log Start > C:\programming\pushlog.txt
-echo Current Directory: %CD% > C:\Programming\pushlog.txt
+echo [%date% - %time%] Log Start > C:\SportsDataBots\pushlog.txt
+echo Current Directory: %CD% > C:\SportsDataBots\pushlog.txt
 
 call git add . >> C:\SportsDataBots\pushlog.txt 2>&1
 
