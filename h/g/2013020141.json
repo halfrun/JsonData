@@ -5,24 +5,73 @@
   "gn": "0141",
   "utcStart": "2013-10-24 23:00:00+0000",
   "easternStart": "2013-10-24 19:00:00",
-  "summary": "Talbot to make NHL debut as Rangers visit Flyers",
+  "summary": "Flyers beat Rangers to end four-game skid",
   "h": {
     "ab": "PHI",
-    "record": "1-7-0",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "2-5-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI81",
+      "summary": "M. Read (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI64",
+      "summary": "T. Pyatt Wrist Shot saved by S. Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI568",
+      "summary": "B. Coburn (2) Slap Shot, assists: M. Read (1), N. Grossmann (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI302",
+      "summary": "B. Richards (5) Wrist Shot, assists: C. Kreider (1), J. Moore (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI60",
+      "summary": "S. Couturier Wrist Shot saved by C. Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI56",
+      "summary": "D. Moore Wrist Shot saved by S. Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

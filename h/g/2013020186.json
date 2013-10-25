@@ -1,14 +1,14 @@
 {
-  "id": "2013020166",
+  "id": "2013020186",
   "sid": "2013",
   "t": "02",
-  "gn": "0166",
-  "utcStart": "2013-10-27 21:00:00+0000",
-  "easternStart": "2013-10-27 17:00:00",
+  "gn": "0186",
+  "utcStart": "2013-10-31 02:30:00+0000",
+  "easternStart": "2013-10-30 22:30:00",
   "summary": "",
   "h": {
-    "ab": "OTT",
-    "record": "4-3-2",
+    "ab": "VAN",
+    "record": "7-4-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "SJS",
-    "record": "8-1-1",
+    "ab": "DET",
+    "record": "6-4-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

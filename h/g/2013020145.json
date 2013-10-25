@@ -5,24 +5,65 @@
   "gn": "0145",
   "utcStart": "2013-10-25 00:00:00+0000",
   "easternStart": "2013-10-24 20:00:00",
-  "summary": "Stingy Wild go for two in a row as Hurricanes pay visit",
+  "summary": "Wild top Hurricanes; each team loses goalie to injury",
   "h": {
     "ab": "MIN",
-    "record": "4-3-3",
-    "live": "128",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "4-2-3",
-    "live": "91",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN29",
+      "summary": "N. Niederreiter (2) Wrist Shot, assists: M. Granlund (5), M. Dumba (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN741",
+      "summary": "D. Heatley (1) Wrist Shot, assists: M. Cooke (4), N. Prosser (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN335",
+      "summary": "A. Semin (3) Slap Shot, assists: E. Staal (5), A. Sekera (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN14",
+      "summary": "J. Spurgeon Slap Shot saved by C. Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN40",
+      "summary": "Z. Parise (5) Deflected, assists: J. Spurgeon (4), R. Suter (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

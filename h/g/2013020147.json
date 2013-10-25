@@ -5,24 +5,81 @@
   "gn": "0147",
   "utcStart": "2013-10-25 01:30:00+0000",
   "easternStart": "2013-10-24 21:30:00",
-  "summary": "Capitals, Oilers hope to continue winning ways",
+  "summary": "Red-hot Ovechkin leads Capitals past Oilers",
   "h": {
     "ab": "EDM",
-    "record": "3-6-1",
-    "live": "26",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-7-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "4-5-0",
-    "live": "67",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM441",
+      "summary": "J. Chimera (2) Snap Shot, assists: M. Grabovski (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "EDM256",
+      "summary": "A. Ovechkin (10) Wrist Shot, assists: M. Johansson (9), N. Backstrom (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM417",
+      "summary": "N. Backstrom (2) Wrist Shot, assists: M. Johansson (10), A. Ovechkin (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM59",
+      "summary": "N. Yakupov Wrist Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM294",
+      "summary": "J. Ward (3) Tip-In, assists: J. Carlson (2), K. Alzner (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM56",
+      "summary": "J. Eberle Backhand saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM654",
+      "summary": "J. Schultz (1) Backhand, assists: D. Perron (7), A. Belov (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    }
+  ]
 }

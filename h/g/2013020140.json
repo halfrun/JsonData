@@ -5,24 +5,65 @@
   "gn": "0140",
   "utcStart": "2013-10-24 23:00:00+0000",
   "easternStart": "2013-10-24 19:00:00",
-  "summary": "Canucks go for sweep of season series vs. Devils",
+  "summary": "Canucks top Devils, Schneider in shootout",
   "h": {
     "ab": "NJD",
-    "record": "1-5-3",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "1-5-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "VAN",
-    "record": "6-4-1",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-4-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J13",
+      "summary": "K. Bieksa Slap Shot saved by C. Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J26",
+      "summary": "E. Gelinas (1) Slap Shot, assists: T. Zajac (3), M. Zidlicky (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J16",
+      "summary": "R. Kesler (5) Snap Shot, assists: H. Sedin (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J264",
+      "summary": "D. Sedin (4) Slap Shot, assists: H. Sedin (12), R. Kesler (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J12",
+      "summary": "P. Elias (3) Wrist Shot, assists: A. Loktionov (2), J. Jagr (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

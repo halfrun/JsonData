@@ -5,24 +5,89 @@
   "gn": "0142",
   "utcStart": "2013-10-24 23:30:00+0000",
   "easternStart": "2013-10-24 19:30:00",
-  "summary": "Ducks' Saku Koivu making rare return to Montreal",
+  "summary": "Canadiens beat Ducks to snap two-game skid",
   "h": {
     "ab": "MTL",
-    "record": "5-4-0",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "7-2-0",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL634",
+      "summary": "R. Bourque (3) Backhand, assists: T. Plekanec (4), B. Gionta (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL69",
+      "summary": "M. Bournival Wrist Shot saved by J. Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL623",
+      "summary": "P. Maroon (1) Wrist Shot, assists: N. Bonino (2), D. Smith-Pelly (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL60",
+      "summary": "R. Diaz Slap Shot saved by J. Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL405",
+      "summary": "B. Gionta (3) Wrist Shot, assists: T. Plekanec (3), A. Galchenyuk (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL213",
+      "summary": "T. Plekanec (5) Slap Shot, assists: M. Bournival (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL93",
+      "summary": "M. Bournival (2) Tip-In, assists: N. Beaulieu (1), J. Gorges (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL58",
+      "summary": "P. Subban Slap Shot saved by J. Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
