@@ -5,24 +5,81 @@
   "gn": "0152",
   "utcStart": "2013-10-25 23:30:00+0000",
   "easternStart": "2013-10-25 19:30:00",
-  "summary": "Panthers host Sabres in Atlantic Division matchup",
+  "summary": "Sabres, Enroth top Panthers for second win",
   "h": {
     "ab": "FLA",
-    "record": "3-6-1",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-7-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "1-9-1",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-9-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA778",
+      "summary": "S. Ott (1) Tip-In, assists: C. Ehrhoff (3), M. Foligno (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA206",
+      "summary": "J. Winchester (2) Tip-In, assists: S. Bergenheim (1), E. Gudbranson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA61",
+      "summary": "T. Vanek Wrist Shot saved by J. Markstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA793",
+      "summary": "C. Hodgson (4) Snap Shot, assists: C. McCormick (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA488",
+      "summary": "R. Ristolainen (1) Snap Shot, assists: T. Vanek (5), J. McBain (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA65",
+      "summary": "T. Kopecky Snap Shot saved by J. Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA70",
+      "summary": "D. Kulikov Slap Shot saved by J. Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-  "id": "2013020172",
+  "id": "2013020190",
   "sid": "2013",
   "t": "02",
-  "gn": "0172",
-  "utcStart": "2013-10-28 23:00:00+0000",
-  "easternStart": "2013-10-28 19:00:00",
+  "gn": "0190",
+  "utcStart": "2013-11-01 02:00:00+0000",
+  "easternStart": "2013-10-31 22:00:00",
   "summary": "",
   "h": {
-    "ab": "CAR",
-    "record": "4-4-3",
+    "ab": "PHX",
+    "record": "6-3-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "PIT",
-    "record": "7-3-0",
+    "ab": "NSH",
+    "record": "6-4-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

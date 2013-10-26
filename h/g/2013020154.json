@@ -5,24 +5,81 @@
   "gn": "0154",
   "utcStart": "2013-10-26 01:00:00+0000",
   "easternStart": "2013-10-25 21:00:00",
-  "summary": "Banged-up Hurricanes visit Avalanche",
+  "summary": "Avalanche top beat-up Hurricanes, now NHL-best 9-1-0",
   "h": {
     "ab": "COL",
-    "record": "8-1-0",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "4-3-3",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL340",
+      "summary": "A. Tanguay (3) Wrist Shot, assists: M. Duchene (4), A. Benoit (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL83",
+      "summary": "E. Johnson (2) Deflected, assists: P. Stastny (5), A. Tanguay (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL434",
+      "summary": "A. Sekera (1) Wrist Shot, assists: J. Tlusty (1), A. Semin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL307",
+      "summary": "M. Duchene (7) Wrist Shot, assists: R. O'Reilly (4), S. Downie (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL58",
+      "summary": "J. Mitchell Wrist Shot saved by J. Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL316",
+      "summary": "D. Bowman (1) Wrist Shot, assists: J. Staal (2), A. Sekera (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL427",
+      "summary": "M. Duchene (8) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,105 @@
   "gn": "0150",
   "utcStart": "2013-10-25 23:00:00+0000",
   "easternStart": "2013-10-25 19:00:00",
-  "summary": "Clarkson set for Maple Leafs debut vs. Blue Jackets",
+  "summary": "Blue Jackets get rare home win against Maple Leafs",
   "h": {
     "ab": "CBJ",
-    "record": "4-5-0",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TOR",
-    "record": "7-3-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ57",
+      "summary": "P. Kessel Wrist Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ703",
+      "summary": "D. Bolland (4) Wrist Shot, assists: P. Ranger (3), M. Raymond (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ56",
+      "summary": "M. Raymond Slap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ64",
+      "summary": "R. Murray (1) Wrist Shot, assists: R. Umberger (5), J. Wisniewski (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ514",
+      "summary": "M. Gaborik (5) Snap Shot, assists: N. Foligno (1), A. Anisimov (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ255",
+      "summary": "P. Kessel (6) Wrist Shot, assists: T. Bozak (3), J. van Riemsdyk (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ540",
+      "summary": "B. Dubinsky (3) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ718",
+      "summary": "N. Foligno (3) Snap Shot, assists: M. Letestu (2), F. Tyutin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ715",
+      "summary": "R. Johansen (3) Wrist Shot, assists: B. Dubinsky (4), F. Tyutin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ66",
+      "summary": "C. Atkinson Wrist Shot saved by J. Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

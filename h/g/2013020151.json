@@ -5,24 +5,65 @@
   "gn": "0151",
   "utcStart": "2013-10-25 23:30:00+0000",
   "easternStart": "2013-10-25 19:30:00",
-  "summary": "Senators look to avenge earlier loss to Ducks",
+  "summary": "Andersen helps Ducks defeat Senators, gets contract",
   "h": {
     "ab": "OTT",
-    "record": "4-3-2",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "7-3-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT271",
+      "summary": "R. Getzlaf (4) Wrist Shot, assists: C. Perry (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT11",
+      "summary": "Z. Smith Wrist Shot saved by F. Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT34",
+      "summary": "P. Maroon (2) Wrist Shot, assists: C. Perry (5), R. Getzlaf (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT20",
+      "summary": "R. Getzlaf Slap Shot saved by C. Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT469",
+      "summary": "M. Zibanejad (1) Slap Shot, assists: C. Phillips (4), M. Michalek (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
