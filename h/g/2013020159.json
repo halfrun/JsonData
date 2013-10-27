@@ -5,24 +5,81 @@
   "gn": "0159",
   "utcStart": "2013-10-26 23:00:00+0000",
   "easternStart": "2013-10-26 19:00:00",
-  "summary": "Sabres visit Lightning in search of second straight win",
+  "summary": "Lightning score twice late to rally past Sabres",
   "h": {
     "ab": "TBL",
-    "record": "6-3-0",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "2-9-1",
-    "live": "3",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-10-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B608",
+      "summary": "O. Palat (3) Wrist Shot, assists: T. Johnson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B601",
+      "summary": "M. St Louis (6) Slap Shot, assists: S. Stamkos (8), R. Gudas (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B43",
+      "summary": "T. Johnson (3) Wrist Shot, assists: V. Filppula (5), M. Carle (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B245",
+      "summary": "B. Flynn (2) Wrist Shot, assists: C. McCormick (2), V. Leino (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B15",
+      "summary": "R. Malone Backhand saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B442",
+      "summary": "T. Vanek (4) Wrist Shot, assists: M. Foligno (4), Z. Girgensons (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B9",
+      "summary": "S. Stamkos Snap Shot saved by R. Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

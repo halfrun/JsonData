@@ -5,24 +5,89 @@
   "gn": "0158",
   "utcStart": "2013-10-26 23:00:00+0000",
   "easternStart": "2013-10-26 19:00:00",
-  "summary": "Rangers conclude road trip, chase win vs. Red Wings",
+  "summary": "Rangers end trip with OT win over Red Wings",
   "h": {
     "ab": "DET",
-    "record": "6-4-1",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "2-6-0",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET58",
+      "summary": "D. Alfredsson Slap Shot saved by C. Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET264",
+      "summary": "D. Miller (1) Snap Shot, assists: J. Andersson (2), D. DeKeyser (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET420",
+      "summary": "B. Pouliot (1) Backhand, assists: B. Boyle (3), R. McDonagh (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET5",
+      "summary": "D. Stepan hit J. Franzen",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET426",
+      "summary": "D. Alfredsson (2) Slap Shot, assists: P. Datsyuk (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET636",
+      "summary": "D. Brassard (1) Snap Shot, assists: B. Pouliot (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET65",
+      "summary": "D. Stepan Snap Shot saved by J. Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET434",
+      "summary": "M. Zuccarello (1) Wrist Shot, assists: D. Moore (1), M. Staal (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

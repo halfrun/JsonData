@@ -5,24 +5,81 @@
   "gn": "0155",
   "utcStart": "2013-10-26 23:00:00+0000",
   "easternStart": "2013-10-26 19:00:00",
-  "summary": "Surging Bruins look to keep up mastery of Devils",
+  "summary": "Greene's late goal caps Devils rally past Bruins",
   "h": {
     "ab": "BOS",
-    "record": "7-2-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "1-5-4",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-5-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS60",
+      "summary": "T. Krug (4) Wrist Shot, assists: J. Iginla (5), D. Krejci (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS671",
+      "summary": "A. Greene (1) Snap Shot, assists: D. Brunner (3), J. Jagr (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS555",
+      "summary": "D. Brunner (4) Backhand, assists: S. Bernier (1), A. Greene (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS64",
+      "summary": "J. Iginla (2) Tip-In, assists: D. Hamilton (1), T. Rask (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS669",
+      "summary": "M. Zidlicky (1) Slap Shot, assists: P. Elias (3), M. Ryder (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS67",
+      "summary": "A. Henrique (3) Snap Shot, assists: E. Gelinas (1), J. Jagr (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS84",
+      "summary": "M. Lucic (6) Snap Shot, assists: D. Krejci (10), J. Iginla (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

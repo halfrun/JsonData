@@ -5,24 +5,121 @@
   "gn": "0164",
   "utcStart": "2013-10-26 19:00:00+0000",
   "easternStart": "2013-10-26 15:00:00",
-  "summary": "Coyotes, Oilers attempt to get back in win column",
+  "summary": "Defensemen lead Coyotes comeback against Oilers",
   "h": {
     "ab": "PHX",
-    "record": "6-3-2",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-3-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "3-7-1",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-8-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX488",
+      "summary": "K. Yandle (1) Slap Shot, assists: O. Ekman-Larsson (6), R. Vrbata (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX460",
+      "summary": "D. Perron (2) Wrist Shot, assists: R. Nugent-Hopkins (5), J. Schultz (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX374",
+      "summary": "D. Schlemko (1) Slap Shot, assists: T. Kennedy (3), R. Vrbata (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX482",
+      "summary": "R. Jones (2) Slap Shot, assists: R. Nugent-Hopkins (6), N. Yakupov (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX80",
+      "summary": "T. Pitlick (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX496",
+      "summary": "O. Ekman-Larsson (3) Slap Shot, assists: K. Yandle (7), R. Vrbata (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX373",
+      "summary": "M. Stone (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX58",
+      "summary": "M. Arcobello Backhand saved by M. Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX359",
+      "summary": "M. Hanzal (5) Tip-In, assists: O. Ekman-Larsson (5), S. Doan (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX54",
+      "summary": "N. Yakupov Wrist Shot saved by M. Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX13",
+      "summary": "M. Hanzal hit J. Petry",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX377",
+      "summary": "W. Acton (2) Wrist Shot, assists: B. Eager (1), L. Gazdic (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

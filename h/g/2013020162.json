@@ -5,24 +5,113 @@
   "gn": "0162",
   "utcStart": "2013-10-27 00:00:00+0000",
   "easternStart": "2013-10-26 20:00:00",
-  "summary": "Playoff rivals back at it as Blackhawks host Wild",
+  "summary": "Battered Wild outscore Blackhawks",
   "h": {
     "ab": "CHI",
-    "record": "6-1-3",
-    "live": "26",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MIN",
-    "record": "5-3-3",
-    "live": "12",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI19",
+      "summary": "K. Brodziak Wrist Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI493",
+      "summary": "J. Fontaine (3) Snap Shot, assists: M. Koivu (7), N. Prosser (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI38",
+      "summary": "Z. Parise (6) Wrist Shot, assists: R. Suter (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI9",
+      "summary": "M. Hossa Wrist Shot saved by N. Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI14",
+      "summary": "B. Bollig Wrist Shot saved by N. Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI417",
+      "summary": "B. Bickell (4) Wrist Shot, assists: N. Leddy (4), M. Rozsival (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI226",
+      "summary": "K. Brodziak (2) Tip-In, assists: M. Scandella (1), M. Cooke (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI431",
+      "summary": "J. Pominville (5) Wrist Shot, assists: M. Granlund (6), R. Suter (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI756",
+      "summary": "M. Kruger (1) Wrist Shot, assists: B. Bollig (1), N. Leddy (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI486",
+      "summary": "P. Kane (6) Wrist Shot, assists: J. Toews (4), B. Seabrook (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI476",
+      "summary": "J. Pominville (6) Slap Shot, assists: M. Granlund (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

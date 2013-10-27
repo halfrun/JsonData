@@ -5,11 +5,11 @@
   "gn": "0163",
   "utcStart": "2013-10-27 00:00:00+0000",
   "easternStart": "2013-10-26 20:00:00",
-  "summary": "Predators look to avenge earlier loss to Blues",
+  "summary": "Steen's pair leads Blues past Predators",
   "h": {
     "ab": "NSH",
-    "record": "6-4-1",
-    "live": "67",
+    "record": "6-5-1",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
@@ -17,12 +17,77 @@
   },
   "a": {
     "ab": "STL",
-    "record": "5-1-2",
-    "live": "1",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NSH20",
+      "summary": "D. Backes Tip-In saved by C. Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH27",
+      "summary": "A. Steen (9) Wrist Shot, assists: K. Shattenkirk (6), J. Schwartz (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH434",
+      "summary": "N. Spaling (1) Wrist Shot, assists: M. Ekholm (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH249",
+      "summary": "T. Oshie (2) Tip-In, assists: A. Pietrangelo (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH610",
+      "summary": "D. Roy (3) Wrist Shot, assists: V. Tarasenko (3), J. Bouwmeester (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH411",
+      "summary": "J. Schwartz (2) Snap Shot, assists: V. Sobotka (4), V. Tarasenko (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NSH445",
+      "summary": "A. Steen (10) Wrist Shot, assists: T. Oshie (7), D. Backes (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH624",
+      "summary": "A. Pietrangelo (1) Slap Shot, assists: D. Backes (5), J. Bouwmeester (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

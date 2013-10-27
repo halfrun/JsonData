@@ -1,14 +1,14 @@
 {
-  "id": "2013020173",
+  "id": "2013020191",
   "sid": "2013",
   "t": "02",
-  "gn": "0173",
-  "utcStart": "2013-10-28 23:30:00+0000",
-  "easternStart": "2013-10-28 19:30:00",
+  "gn": "0191",
+  "utcStart": "2013-11-01 23:00:00+0000",
+  "easternStart": "2013-11-01 19:00:00",
   "summary": "",
   "h": {
-    "ab": "NYR",
-    "record": "3-6-0",
+    "ab": "PHI",
+    "record": "3-7-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "MTL",
-    "record": "6-5-0",
+    "ab": "WSH",
+    "record": "5-6-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

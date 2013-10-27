@@ -5,24 +5,113 @@
   "gn": "0165",
   "utcStart": "2013-10-27 02:00:00+0000",
   "easternStart": "2013-10-26 22:00:00",
-  "summary": "Capitals look to extend win streak facing Flames",
+  "summary": "Flames shut down Ovechkin, beat Capitals",
   "h": {
     "ab": "CGY",
-    "record": "4-4-2",
-    "live": "160",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "5-5-0",
-    "live": "9",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY658",
+      "summary": "C. Glencross (3) Snap Shot, assists: M. Stajan (2), T. Galiardi (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY18",
+      "summary": "D. Wideman Slap Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY7",
+      "summary": "K. Russell Wrist Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY14",
+      "summary": "S. Baertschi Wrist Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY44",
+      "summary": "J. Chimera (3) Backhand, assists: M. Grabovski (5), E. Fehr (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY12",
+      "summary": "K. Russell (1) Wrist Shot, assists: M. Cammalleri (2), D. Wideman (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY29",
+      "summary": "J. Hudler (5) Wrist Shot, assists: S. Monahan (4), S. Baertschi (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY228",
+      "summary": "A. Volpatti (1) Wrist Shot, assists: N. Schmidt (1), M. Green (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY62",
+      "summary": "D. Jones Snap Shot saved by B. Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY498",
+      "summary": "M. Cammalleri (3) Wrist Shot, assists: J. Colborne (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY46",
+      "summary": "M. Cammalleri (2) Deflected, assists: D. Wideman (6), K. Russell (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

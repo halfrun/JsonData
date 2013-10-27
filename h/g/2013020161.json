@@ -5,24 +5,73 @@
   "gn": "0161",
   "utcStart": "2013-10-26 23:00:00+0000",
   "easternStart": "2013-10-26 19:00:00",
-  "summary": "Stars seek second win of season vs. Jets",
+  "summary": "Ladd's shootout goal leads Jets past Stars",
   "h": {
     "ab": "DAL",
-    "record": "4-5-0",
-    "live": "148",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "4-5-2",
-    "live": "45",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-5-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL236",
+      "summary": "E. Kane (6) Snap Shot, assists: D. Byfuglien (8), M. Stuart (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL57",
+      "summary": "T. Seguin Slap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL612",
+      "summary": "S. Robidas (1) Tip-In, assists: V. Fiddler (3), L. MacDermid (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL65",
+      "summary": "B. Wheeler Wrist Shot saved by K. Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL9",
+      "summary": "M. Stuart hit V. Fiddler",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL62",
+      "summary": "D. Setoguchi Wrist Shot saved by K. Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
