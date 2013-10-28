@@ -5,24 +5,89 @@
   "gn": "0169",
   "utcStart": "2013-10-28 00:00:00+0000",
   "easternStart": "2013-10-27 20:00:00",
-  "summary": "Avalanche try to keep rolling against Jets",
+  "summary": "Avalanche rally in third to beat Jets",
   "h": {
     "ab": "COL",
-    "record": "9-1-0",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "10-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "5-5-2",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL294",
+      "summary": "B. Wheeler (4) Slap Shot, assists: B. Little (4), G. Clitsome (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL528",
+      "summary": "J. Hejda (2) Slap Shot, assists: P. Stastny (6), G. Landeskog (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL61",
+      "summary": "A. Ladd Wrist Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL79",
+      "summary": "B. Little (6) Wrist Shot, assists: A. Pardy (1), B. Wheeler (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL545",
+      "summary": "P. Stastny (2) Wrist Shot, assists: G. Landeskog (5), A. Tanguay (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL70",
+      "summary": "M. Duchene (9) Wrist Shot, assists: S. Downie (6), R. Wilson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL53",
+      "summary": "R. O'Reilly Backhand saved by A. Montoya",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL6",
+      "summary": "B. Little Wrist Shot saved by S. Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

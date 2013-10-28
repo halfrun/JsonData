@@ -5,24 +5,113 @@
   "gn": "0168",
   "utcStart": "2013-10-27 22:00:00+0000",
   "easternStart": "2013-10-27 18:00:00",
-  "summary": "Ducks, Blue Jackets look to continue hot play",
+  "summary": "Perry's late goal leads Ducks past Blue Jackets",
   "h": {
     "ab": "CBJ",
-    "record": "5-5-0",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "8-3-0",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ385",
+      "summary": "P. Holland (1) Wrist Shot, assists: K. Palmieri (2), D. Smith-Pelly (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ366",
+      "summary": "R. Getzlaf (5) Wrist Shot, assists: C. Perry (7), B. Allen (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ87",
+      "summary": "B. Comeau (1) Slap Shot, assists: R. Johansen (4), D. Savard (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ618",
+      "summary": "C. Perry (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ65",
+      "summary": "C. Atkinson Backhand saved by F. Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ56",
+      "summary": "M. Letestu Wrist Shot saved by F. Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ448",
+      "summary": "A. Anisimov (4) Deflected, assists: J. Wisniewski (8), N. Foligno (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ397",
+      "summary": "A. Anisimov (3) Wrist Shot, assists: B. Dubinsky (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ424",
+      "summary": "E. Etem (2) Wrist Shot, assists: T. Selanne (4), N. Bonino (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ63",
+      "summary": "T. Selanne Snap Shot saved by S. Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ54",
+      "summary": "A. Anisimov Backhand saved by F. Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

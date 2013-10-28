@@ -5,24 +5,81 @@
   "gn": "0167",
   "utcStart": "2013-10-27 21:00:00+0000",
   "easternStart": "2013-10-27 17:00:00",
-  "summary": "Panthers aim to bounce back against Lightning",
+  "summary": "Lightning edge Panthers in shootout",
   "h": {
     "ab": "FLA",
-    "record": "3-7-1",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-7-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TBL",
-    "record": "7-3-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA781",
+      "summary": "B. Boyes (5) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA91",
+      "summary": "S. Matthias (1) Backhand, assists: J. Winchester (2), M. Goc (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA768",
+      "summary": "N. Bjugstad (1) Tip-In, assists: S. Upshall (2), D. Kulikov (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA55",
+      "summary": "M. St Louis (7) Tip-In, assists: S. Stamkos (9), R. Malone (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA65",
+      "summary": "S. Stamkos (8) Slap Shot, assists: R. Malone (5), M. Carle (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA16",
+      "summary": "J. Winchester hit M. Carle",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "FLA283",
+      "summary": "R. Gudas (1) Snap Shot, assists: R. Panik (5), A. Killorn (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-  "id": "2013020188",
+  "id": "2013020211",
   "sid": "2013",
   "t": "02",
-  "gn": "0188",
-  "utcStart": "2013-10-31 23:00:00+0000",
-  "easternStart": "2013-10-31 19:00:00",
+  "gn": "0211",
+  "utcStart": "2013-11-03 02:30:00+0000",
+  "easternStart": "2013-11-02 22:30:00",
   "summary": "",
   "h": {
-    "ab": "BOS",
-    "record": "7-3-0",
+    "ab": "SJS",
+    "record": "10-1-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "ANA",
-    "record": "9-3-0",
+    "ab": "PHX",
+    "record": "7-3-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
