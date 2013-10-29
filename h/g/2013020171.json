@@ -5,24 +5,89 @@
   "gn": "0171",
   "utcStart": "2013-10-28 23:00:00+0000",
   "easternStart": "2013-10-28 19:00:00",
-  "summary": "Stars' Ruff makes return to Buffalo",
+  "summary": "Stars win in Ruff's return to Buffalo",
   "h": {
     "ab": "BUF",
-    "record": "2-10-1",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-11-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "4-5-1",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF416",
+      "summary": "M. Moulson (8) Backhand, assists: C. Ehrhoff (4), T. Ennis (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF64",
+      "summary": "M. Moulson (7) Slap Shot, assists: T. Ennis (1), C. Hodgson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF246",
+      "summary": "J. Benn (4) Backhand, assists: T. Seguin (7), E. Cole (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF99",
+      "summary": "A. Goligoski (1) Wrist Shot, assists: V. Nichushkin (2), J. Benn (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF62",
+      "summary": "V. Fiddler (1) Wrist Shot, assists: L. MacDermid (2), A. Roussel (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF204",
+      "summary": "T. Seguin (5) Wrist Shot, assists: E. Cole (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF7",
+      "summary": "S. Robidas hit V. Leino",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF403",
+      "summary": "S. Ott (2) Snap Shot, assists: M. Grigorenko (1), T. Myers (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

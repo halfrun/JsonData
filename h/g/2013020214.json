@@ -1,14 +1,14 @@
 {
-  "id": "2013020189",
+  "id": "2013020214",
   "sid": "2013",
   "t": "02",
-  "gn": "0189",
-  "utcStart": "2013-10-31 23:00:00+0000",
-  "easternStart": "2013-10-31 19:00:00",
+  "gn": "0214",
+  "utcStart": "2013-11-04 01:00:00+0000",
+  "easternStart": "2013-11-03 20:00:00",
   "summary": "",
   "h": {
-    "ab": "NYR",
-    "record": "3-7-0",
+    "ab": "MIN",
+    "record": "6-4-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "BUF",
-    "record": "2-11-1",
+    "ab": "NJD",
+    "record": "2-5-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

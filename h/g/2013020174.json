@@ -5,24 +5,97 @@
   "gn": "0174",
   "utcStart": "2013-10-29 00:00:00+0000",
   "easternStart": "2013-10-28 20:00:00",
-  "summary": "Wild go for home-and-home sweep of Blackhawks",
+  "summary": "Blackhawks dominate late, beat Wild on road",
   "h": {
     "ab": "MIN",
-    "record": "6-3-3",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "6-2-3",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN462",
+      "summary": "J. Pominville (7) Slap Shot, assists: M. Granlund (8), C. Stoner (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN511",
+      "summary": "P. Kane (7) Wrist Shot, assists: B. Saad (5), B. Pirri (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN311",
+      "summary": "P. Sharp (2) Wrist Shot, assists: M. Hossa (3), J. Oduya (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN480",
+      "summary": "N. Leddy (1) Slap Shot, assists: B. Seabrook (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN15",
+      "summary": "N. Prosser Snap Shot saved by C. Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN22",
+      "summary": "S. Brookbank Snap Shot saved by N. Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN109",
+      "summary": "C. Stoner hit B. Bickell",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN470",
+      "summary": "S. Brookbank (1) Slap Shot, assists: P. Kane (4), B. Pirri (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN524",
+      "summary": "B. Saad (3) Wrist Shot, assists: D. Keith (7), J. Toews (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,81 @@
   "gn": "0172",
   "utcStart": "2013-10-28 23:00:00+0000",
   "easternStart": "2013-10-28 19:00:00",
-  "summary": "Penguins aim to end skid against Hurricanes",
+  "summary": "Rookie Megna leads Penguins past Hurricanes",
   "h": {
     "ab": "CAR",
-    "record": "4-4-3",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-5-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "7-4-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR530",
+      "summary": "J. Megna (1) Deflected, assists: S. Crosby (12), B. Orpik (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR31",
+      "summary": "T. Glass (2) Wrist Shot, assists: J. Megna (1), B. Orpik (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR21",
+      "summary": "C. Adams Wrist Shot saved by J. Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR46",
+      "summary": "N. Gerbe (4) Snap Shot, assists: E. Lindholm (1), A. Semin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CAR16",
+      "summary": "C. Kunitz Wrist Shot saved by J. Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR300",
+      "summary": "C. Kunitz (5) Tip-In, assists: S. Crosby (11), B. Orpik (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR6",
+      "summary": "B. Sutter Backhand saved by J. Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

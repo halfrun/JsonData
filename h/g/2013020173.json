@@ -5,24 +5,57 @@
   "gn": "0173",
   "utcStart": "2013-10-28 23:30:00+0000",
   "easternStart": "2013-10-28 19:30:00",
-  "summary": "Rangers set to host Canadiens in home opener",
+  "summary": "Budaj, Canadiens spoil Rangers' home opener",
   "h": {
     "ab": "NYR",
-    "record": "3-6-0",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "6-5-0",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR516",
+      "summary": "T. Plekanec (6) Backhand, assists: M. Bournival (4), B. Gionta (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR57",
+      "summary": "C. Kreider Snap Shot saved by P. Budaj",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR666",
+      "summary": "A. Galchenyuk (2) Wrist Shot, assists: L. Eller (4), B. Gallagher (3)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR70",
+      "summary": "M. Del Zotto Wrist Shot saved by P. Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
