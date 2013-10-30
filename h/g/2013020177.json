@@ -5,24 +5,81 @@
   "gn": "0177",
   "utcStart": "2013-10-29 23:00:00+0000",
   "easternStart": "2013-10-29 19:00:00",
-  "summary": "Flyers, Ducks put two-game win streaks on the line",
+  "summary": "Ducks overcome two-goal deficit, top Flyers",
   "h": {
     "ab": "PHI",
-    "record": "3-7-0",
-    "live": "144",
+    "record": "3-8-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "9-3-0",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "10-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI144",
+      "summary": "Vincent Lecavalier (5) Slap Shot, assists: Claude Giroux (6), Wayne Simmonds (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI503",
+      "summary": "Andrew Cogliano (2) Wrist Shot, assists: Ryan Getzlaf (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI104",
+      "summary": "Patrick Maroon Wrist Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI704",
+      "summary": "Kyle Palmieri (3) Tip-In, assists: Nick Bonino (4), Sami Vatanen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI113",
+      "summary": "Scott Hartnell Slap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI515",
+      "summary": "Kyle Palmieri (2) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI117",
+      "summary": "Matt Read (3) Wrist Shot, assists: Wayne Simmonds (2), Nicklas Grossmann (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,73 @@
   "gn": "0176",
   "utcStart": "2013-10-29 23:00:00+0000",
   "easternStart": "2013-10-29 19:00:00",
-  "summary": "Vanek, Islanders set to host Rangers",
+  "summary": "Rangers score twice in third to beat Islanders",
   "h": {
     "ab": "NYI",
-    "record": "4-4-3",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-5-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "3-7-0",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYI520",
+      "summary": "Peter Regin (2) Snap Shot, assists: Travis Hamonic (4), Andrew MacDonald (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI422",
+      "summary": "Cal Clutterbuck (1) Snap Shot, assists: Matt Carkner (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI716",
+      "summary": "Benoit Pouliot (2) Snap Shot, assists: Carl Hagelin (1), Michael Del Zotto (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI133",
+      "summary": "Chris Kreider (1) Snap Shot, assists: Brad Richards (4), Derek Stepan (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI110",
+      "summary": "Cal Clutterbuck Slap Shot saved by Cam Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI541",
+      "summary": "Ryan McDonagh (2) Slap Shot, assists: Derek Stepan (7), Mats Zuccarello (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

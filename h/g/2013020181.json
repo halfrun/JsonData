@@ -5,24 +5,89 @@
   "gn": "0181",
   "utcStart": "2013-10-30 00:00:00+0000",
   "easternStart": "2013-10-29 20:00:00",
-  "summary": "Blues host Jets for first time since '96",
+  "summary": "Blues top Jets on Steen's game-winner",
   "h": {
     "ab": "STL",
-    "record": "6-1-2",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "5-6-2",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-7-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL429",
+      "summary": "Alex Pietrangelo (2) Wrist Shot, assists: T.J. Oshie (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL63",
+      "summary": "Barret Jackman Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL616",
+      "summary": "Alexander Steen (11) Backhand, assists: Jay Bouwmeester (8), Alex Pietrangelo (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL68",
+      "summary": "Brenden Morrow (2) Wrist Shot, assists: Ryan Reaves (1), Kevin Shattenkirk (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL59",
+      "summary": "Vladimir Tarasenko Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL441",
+      "summary": "Bryan Little (7) Wrist Shot, assists: Andrew Ladd (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL83",
+      "summary": "Blake Wheeler (5) Slap Shot, assists: Andrew Ladd (6), Dustin Byfuglien (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL5",
+      "summary": "Kevin Shattenkirk hit Mark Scheifele",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

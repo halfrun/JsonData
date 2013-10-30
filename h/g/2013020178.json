@@ -5,24 +5,97 @@
   "gn": "0178",
   "utcStart": "2013-10-29 23:00:00+0000",
   "easternStart": "2013-10-29 19:00:00",
-  "summary": "Canadiens return home to face Stars",
+  "summary": "Murray's presence helps Canadiens defeat Stars",
   "h": {
     "ab": "MTL",
-    "record": "7-5-0",
-    "live": "143",
+    "record": "8-5-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "5-5-1",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL66",
+      "summary": "Jordie Benn Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL62",
+      "summary": "Andrei Markov Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL426",
+      "summary": "Cody Eakin (3) Wrist Shot, assists: Brenden Dillon (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL54",
+      "summary": "Brian Gionta Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL414",
+      "summary": "Rene Bourque (4) Wrist Shot, assists: Raphael Diaz (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL13",
+      "summary": "Mike Blunden hit Antoine Roussel",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL59",
+      "summary": "Sergei Gonchar Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL98",
+      "summary": "Michael Bournival (3) Slap Shot, assists: Raphael Diaz (5), Tomas Plekanec (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL69",
+      "summary": "Rene Bourque Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
