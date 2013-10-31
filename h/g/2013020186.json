@@ -5,24 +5,65 @@
   "gn": "0186",
   "utcStart": "2013-10-31 02:30:00+0000",
   "easternStart": "2013-10-30 22:30:00",
-  "summary": "Canucks look to extend win streak vs. Red Wings",
+  "summary": "Red Wings hold off Canucks to end four-game slide",
   "h": {
     "ab": "VAN",
-    "record": "9-4-1",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "6-4-2",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN379",
+      "summary": "Tomas Tatar (1) Snap Shot, assists: Niklas Kronwall (7), Danny DeKeyser (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN362",
+      "summary": "Daniel Alfredsson (3) Wrist Shot, assists: Brendan Smith (1), Kyle Quincey (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN59",
+      "summary": "Kyle Quincey Slap Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN77",
+      "summary": "Daniel Sedin (6) Wrist Shot, assists: Henrik Sedin (15), Ryan Stanton (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN61",
+      "summary": "Todd Bertuzzi Wrist Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

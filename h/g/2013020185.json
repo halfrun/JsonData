@@ -5,24 +5,73 @@
   "gn": "0185",
   "utcStart": "2013-10-31 00:00:00+0000",
   "easternStart": "2013-10-30 20:00:00",
-  "summary": "Maple Leafs continue trip vs. Flames",
+  "summary": "Maple Leafs keep rolling, beat Flames",
   "h": {
     "ab": "CGY",
-    "record": "5-4-2",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-5-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TOR",
-    "record": "9-4-0",
-    "live": "138",
+    "record": "10-4-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY465",
+      "summary": "Mason Raymond (5) Backhand, assists: David Clarkson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY434",
+      "summary": "Matt Stajan (1) Snap Shot, assists: Curtis Glencross (3), TJ Brodie (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY35",
+      "summary": "Joffrey Lupul (7) Wrist Shot, assists: Jake Gardiner (3), Nazem Kadri (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY9",
+      "summary": "Joe Colborne Wrist Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY489",
+      "summary": "David Jones (3) Deflected, assists: Kris Russell (5), Dennis Wideman (7)",
+      "homeType": "goal",
+      "homeNumber": 0,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY218",
+      "summary": "James van Riemsdyk (7) Snap Shot, assists: Jay McClement (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

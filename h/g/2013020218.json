@@ -1,14 +1,14 @@
 {
-  "id": "2013020192",
+  "id": "2013020218",
   "sid": "2013",
   "t": "02",
-  "gn": "0192",
-  "utcStart": "2013-11-01 23:00:00+0000",
-  "easternStart": "2013-11-01 19:00:00",
+  "gn": "0218",
+  "utcStart": "2013-11-06 00:00:00+0000",
+  "easternStart": "2013-11-05 19:00:00",
   "summary": "",
   "h": {
-    "ab": "PIT",
-    "record": "9-4-0",
+    "ab": "WSH",
+    "record": "5-7-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CBJ",
-    "record": "5-6-0",
+    "ab": "NYI",
+    "record": "4-5-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
