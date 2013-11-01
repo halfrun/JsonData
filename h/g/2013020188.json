@@ -5,24 +5,73 @@
   "gn": "0188",
   "utcStart": "2013-10-31 23:00:00+0000",
   "easternStart": "2013-10-31 19:00:00",
-  "summary": "Ducks' road trip continues against Bruins",
+  "summary": "Bruins tie game late, defeat Ducks in shootout",
   "h": {
     "ab": "BOS",
-    "record": "7-4-0",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "10-3-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "10-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS548",
+      "summary": "Zdeno Chara (2) Wrist Shot, assists: David Krejci (11), Torey Krug (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "BOS61",
+      "summary": "Ryan Getzlaf Slap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS55",
+      "summary": "Devante Smith-Pelly (1) Snap Shot, assists: Mathieu Perreault (6), Dustin Penner (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS336",
+      "summary": "Carl Soderberg (1) Backhand, assists: Chris Kelly (1), Ryan Spooner (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS11",
+      "summary": "Johnny Boychuk hit Corey Perry",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS503",
+      "summary": "Mathieu Perreault (5) Wrist Shot, assists: Devante Smith-Pelly (3), Cam Fowler (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

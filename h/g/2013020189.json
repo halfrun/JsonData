@@ -5,24 +5,57 @@
   "gn": "0189",
   "utcStart": "2013-10-31 23:00:00+0000",
   "easternStart": "2013-10-31 19:00:00",
-  "summary": "Rangers get homestand started against Sabres",
+  "summary": "Lundqvist is perfect as Rangers blank Sabres",
   "h": {
     "ab": "NYR",
-    "record": "4-7-0",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "2-11-1",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-12-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR505",
+      "summary": "Chris Kreider (2) Snap Shot, assists: Mats Zuccarello (2), Ryan McDonagh (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR86",
+      "summary": "Derick Brassard (2) Wrist Shot, assists: Michael Del Zotto (2), J.T. Miller (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR60",
+      "summary": "Brian Flynn Tip-In saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR54",
+      "summary": "Christian Ehrhoff Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

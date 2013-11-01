@@ -1,14 +1,14 @@
 {
-  "id": "2013020224",
+  "id": "2013020228",
   "sid": "2013",
   "t": "02",
-  "gn": "0224",
-  "utcStart": "2013-11-06 02:00:00+0000",
-  "easternStart": "2013-11-05 21:00:00",
+  "gn": "0228",
+  "utcStart": "2013-11-07 02:30:00+0000",
+  "easternStart": "2013-11-06 21:30:00",
   "summary": "",
   "h": {
-    "ab": "PHX",
-    "record": "9-3-2",
+    "ab": "COL",
+    "record": "10-1-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "VAN",
-    "record": "9-5-1",
+    "ab": "NSH",
+    "record": "6-5-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

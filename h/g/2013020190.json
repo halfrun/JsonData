@@ -5,24 +5,105 @@
   "gn": "0190",
   "utcStart": "2013-11-01 02:00:00+0000",
   "easternStart": "2013-10-31 22:00:00",
-  "summary": "Predators visit Coyotes to start seven-game road trip",
+  "summary": "Coyotes rally to beat Predators in shootout",
   "h": {
     "ab": "PHX",
-    "record": "8-3-2",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-3-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "6-5-1",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-5-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX70",
+      "summary": "Mike Fisher Wrist Shot saved by Thomas Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX12",
+      "summary": "Andy Miele Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX243",
+      "summary": "Derek Morris (4) Slap Shot, assists: Keith Yandle (9), David Moss (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX605",
+      "summary": "Antoine Vermette (4) Wrist Shot, assists: Shane Doan (4), Kyle Chipchura (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX209",
+      "summary": "David Legwand (2) Wrist Shot, assists: Seth Jones (4), Shea Weber (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX439",
+      "summary": "Paul Gaustad (2) Wrist Shot, assists: Nick Spaling (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX220",
+      "summary": "Jordan Szwarz (1) Wrist Shot, assists: Zbynek Michalek (4), Oliver Ekman-Larsson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX95",
+      "summary": "Eric Nystrom (3) Backhand, assists: Patric Hornqvist (3), David Legwand (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX448",
+      "summary": "Shane Doan (4) Wrist Shot, assists: Mike Ribeiro (5), Keith Yandle (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX81",
+      "summary": "Matt Hendricks (1) Wrist Shot, assists: David Legwand (7), Mattias Ekholm (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
