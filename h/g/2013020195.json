@@ -5,24 +5,89 @@
   "gn": "0195",
   "utcStart": "2013-11-01 23:30:00+0000",
   "easternStart": "2013-11-01 19:30:00",
-  "summary": "Panthers look for payback against Blues",
+  "summary": "Steen scores for Blues; Elliott shuts out Panthers",
   "h": {
     "ab": "FLA",
-    "record": "3-7-2",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-8-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "7-1-2",
-    "live": "142",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA64",
+      "summary": "Brad Boyes Slap Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA337",
+      "summary": "Alexander Steen (12) Slap Shot, assists: T.J. Oshie (9), David Backes (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA59",
+      "summary": "Sean Bergenheim Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA93",
+      "summary": "Derek Roy (4) Backhand, assists: Chris Stewart (3), Kevin Shattenkirk (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA323",
+      "summary": "Chris Stewart (1) Snap Shot, assists: Barret Jackman (1), Vladimir Sobotka (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA66",
+      "summary": "Tomas Kopecky Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA329",
+      "summary": "Alex Pietrangelo (3) Tip-In, assists: David Backes (6), Jay Bouwmeester (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA56",
+      "summary": "Jay Bouwmeester Slap Shot saved by Jacob Markstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,97 @@
   "gn": "0191",
   "utcStart": "2013-11-01 23:00:00+0000",
   "easternStart": "2013-11-01 19:00:00",
-  "summary": "Ovechkin-less Capitals drop in on Flyers",
+  "summary": "Capitals rout struggling Flyers without Ovechkin",
   "h": {
     "ab": "PHI",
-    "record": "3-8-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-9-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "5-7-0",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI612",
+      "summary": "Joel Ward (6) Wrist Shot, assists: Jason Chimera (6), Eric Fehr (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI326",
+      "summary": "Jason Chimera (5) Snap Shot, assists: Mikhail Grabovski (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI332",
+      "summary": "Nicklas Backstrom (4) Snap Shot, assists: Eric Fehr (3), Martin Erat (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PHI428",
+      "summary": "Joel Ward (5) Snap Shot, assists: Mikhail Grabovski (8), Jason Chimera (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI437",
+      "summary": "Troy Brouwer (4) Wrist Shot, assists: Mike Green (8), Nicklas Backstrom (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI53",
+      "summary": "Steve Downie Wrist Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI99",
+      "summary": "Nicklas Backstrom (3) Slap Shot, assists: Martin Erat (4), Nate Schmidt (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI316",
+      "summary": "Joel Ward (4) Backhand, assists: Jason Chimera (4), Mikhail Grabovski (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI12",
+      "summary": "Mike Green hit Michael Raffl",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

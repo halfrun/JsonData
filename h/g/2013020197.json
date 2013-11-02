@@ -5,24 +5,97 @@
   "gn": "0197",
   "utcStart": "2013-11-02 00:30:00+0000",
   "easternStart": "2013-11-01 20:30:00",
-  "summary": "Avalanche visit Stars in search of fifth straight victory",
+  "summary": "Stastny scores in OT to lift Avalanche past Stars",
   "h": {
     "ab": "DAL",
-    "record": "5-6-1",
-    "live": "148",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "10-1-0",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "11-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL13",
+      "summary": "Jan Hejda hit Vernon Fiddler",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL57",
+      "summary": "Trevor Daley Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL734",
+      "summary": "Paul Stastny (4) Snap Shot, assists: Nate Guenin (2), Ryan Wilson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL504",
+      "summary": "Gabriel Landeskog (4) Slap Shot, assists: Nathan MacKinnon (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL708",
+      "summary": "Tyler Seguin (6) Wrist Shot, assists: Rich Peverley (5), Jamie Benn (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "DAL81",
+      "summary": "Paul Stastny (3) Snap Shot, assists: Alex Tanguay (6), Jan Hejda (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL518",
+      "summary": "Alex Goligoski (2) Slap Shot, assists: Tyler Seguin (8), Rich Peverley (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "DAL63",
+      "summary": "Matt Duchene Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL53",
+      "summary": "Matt Duchene Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

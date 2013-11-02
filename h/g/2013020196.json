@@ -5,24 +5,97 @@
   "gn": "0196",
   "utcStart": "2013-11-02 00:00:00+0000",
   "easternStart": "2013-11-01 20:00:00",
-  "summary": "Wild, Canadiens put potent power plays to the test",
+  "summary": "Pominville powers Wild past Canadiens",
   "h": {
     "ab": "MIN",
-    "record": "6-4-3",
-    "live": "91",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "8-5-0",
-    "live": "3",
+    "record": "8-6-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN20",
+      "summary": "Brendan Gallagher (6) Deflected, assists: Alex Galchenyuk (8), Andrei Markov (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN160",
+      "summary": "Ryan Suter hit David Desharnais",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN493",
+      "summary": "Nino Niederreiter (3) Tip-In, assists: Mikael Granlund (10), Jason Pominville (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN17",
+      "summary": "Justin Fontaine (4) Deflected, assists: Keith Ballard (2), Torrey Mitchell (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN686",
+      "summary": "Jason Pominville (9) Wrist Shot, assists: Zach Parise (4), Keith Ballard (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN9",
+      "summary": "Justin Fontaine Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN669",
+      "summary": "Brian Gionta (4) Tip-In, assists: Andrei Markov (7), P.K. Subban (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN658",
+      "summary": "P.K. Subban (3) Slap Shot, assists: Andrei Markov (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN341",
+      "summary": "Jason Pominville (8) Wrist Shot, assists: Mikael Granlund (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

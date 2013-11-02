@@ -5,24 +5,49 @@
   "gn": "0193",
   "utcStart": "2013-11-01 23:00:00+0000",
   "easternStart": "2013-11-01 19:00:00",
-  "summary": "Lightning look to get back on track vs. Hurricanes",
+  "summary": "Bishop, Lightning blank slumping Hurricanes",
   "h": {
     "ab": "CAR",
-    "record": "4-5-3",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-6-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TBL",
-    "record": "8-4-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR384",
+      "summary": "Victor Hedman (2) Deflected, assists: Nate Thompson (1), B.J. Crombeen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR675",
+      "summary": "Alex Killorn (3) Wrist Shot, assists: Martin St Louis (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR657",
+      "summary": "Steven Stamkos (10) Backhand, assists: Alex Killorn (6), Martin St Louis (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

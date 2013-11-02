@@ -5,24 +5,105 @@
   "gn": "0198",
   "utcStart": "2013-11-02 01:00:00+0000",
   "easternStart": "2013-11-01 21:00:00",
-  "summary": "Red Wings continue road trip against Flames",
+  "summary": "Datsyuk, Tatar lead Red Wings past Flames",
   "h": {
     "ab": "CGY",
-    "record": "5-5-2",
-    "live": "9",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "7-4-2",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY616",
+      "summary": "Curtis Glencross (4) Wrist Shot, assists: Matt Stajan (3), Jiri Hudler (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY606",
+      "summary": "Justin Abdelkader (2) Wrist Shot, assists: Niklas Kronwall (9), Danny DeKeyser (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 3
+    },
+    {
+      "key": "CGY401",
+      "summary": "Sean Monahan (7) Wrist Shot, assists: Mike Cammalleri (3), Kris Russell (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY422",
+      "summary": "Tomas Tatar (2) Deflected, assists: Joakim Andersson (3), Niklas Kronwall (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY128",
+      "summary": "Pavel Datsyuk (6) Wrist Shot, assists: Todd Bertuzzi (2), Jakub Kindl (3)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 3
+    },
+    {
+      "key": "CGY19",
+      "summary": "Lance Bouma Snap Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY204",
+      "summary": "Henrik Zetterberg (7) Wrist Shot, assists: Todd Bertuzzi (3), Pavel Datsyuk (8)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 3
+    },
+    {
+      "key": "CGY13",
+      "summary": "Brendan Smith Wrist Shot saved by Joey MacDonald",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY248",
+      "summary": "Chris Butler (1) Slap Shot, assists: Jiri Hudler (9), Derek Smith (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY16",
+      "summary": "Sven Baertschi Wrist Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    }
+  ]
 }
