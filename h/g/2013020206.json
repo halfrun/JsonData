@@ -5,24 +5,65 @@
   "gn": "0206",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Capitals back home after big win to play Panthers",
+  "summary": "Backstrom, Capitals beat Panthers in shootout",
   "h": {
     "ab": "WSH",
-    "record": "6-7-0",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "FLA",
-    "record": "3-8-2",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-8-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH241",
+      "summary": "Jesse Winchester (3) Wrist Shot, assists: Scottie Upshall (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH621",
+      "summary": "Tomas Fleischmann (3) Wrist Shot, assists: Brian Campbell (6), Jonathan Huberdeau (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH20",
+      "summary": "Dmitry Kulikov Wrist Shot saved by Michal Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH242",
+      "summary": "John Carlson (1) Snap Shot, assists: Michael Latta (1), Karl Alzner (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WSH201",
+      "summary": "Nicklas Backstrom (5) Wrist Shot, assists: Eric Fehr (5), Mike Green (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

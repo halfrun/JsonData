@@ -5,24 +5,89 @@
   "gn": "0210",
   "utcStart": "2013-11-03 02:00:00+0000",
   "easternStart": "2013-11-02 22:00:00",
-  "summary": "Red Wings back in action facing rested Oilers",
+  "summary": "Red Wings rout reeling Oilers",
   "h": {
     "ab": "EDM",
-    "record": "3-9-2",
-    "live": "161",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-10-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "8-4-2",
-    "live": "164",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM68",
+      "summary": "Darren Helm (1) Snap Shot, assists: Daniel Cleary (2), Daniel Alfredsson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM71",
+      "summary": "Tomas Tatar (2) Snap Shot, assists: Joakim Andersson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM446",
+      "summary": "Todd Bertuzzi (4) Snap Shot, assists: Henrik Zetterberg (7), Jakub Kindl (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM59",
+      "summary": "Ales Hemsky Wrist Shot saved by Petr Mrazek",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM60",
+      "summary": "Anton Belov Wrist Shot saved by Petr Mrazek",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM55",
+      "summary": "Henrik Zetterberg Wrist Shot saved by Richard Bachman",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM237",
+      "summary": "Jakub Kindl (1) Slap Shot, assists: Daniel Alfredsson (10), Pavel Datsyuk (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM440",
+      "summary": "Joakim Andersson (3) Wrist Shot, assists: Drew Miller (1), Justin Abdelkader (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

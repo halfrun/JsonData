@@ -5,24 +5,65 @@
   "gn": "0207",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Penguins, Blue Jackets close home-and-home set",
+  "summary": "Penguins' Zatkoff shuts out Blue Jackets for 1st win",
   "h": {
     "ab": "CBJ",
-    "record": "5-7-0",
-    "live": "67",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "PIT",
-    "record": "10-4-0",
-    "live": "3",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "11-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ349",
+      "summary": "Chris Kunitz (8) Backhand, assists: Pascal Dupuis (9), Paul Martin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ304",
+      "summary": "Deryk Engelland (2) Snap Shot, assists: Joe Vitale (4), Dustin Jeffrey (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ589",
+      "summary": "Jussi Jokinen (7) Backhand, assists: Evgeni Malkin (10), Sidney Crosby (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ63",
+      "summary": "Deryk Engelland Wrist Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ66",
+      "summary": "Blake Comeau Deflected saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

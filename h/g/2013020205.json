@@ -5,24 +5,105 @@
   "gn": "0205",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Improving Rangers host struggling Hurricanes",
+  "summary": "Stepan's hat trick powers Rangers past Hurricanes",
   "h": {
     "ab": "NYR",
-    "record": "5-7-0",
-    "live": "86",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "4-6-3",
-    "live": "148",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-7-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR656",
+      "summary": "Derek Stepan (2) Snap Shot, assists: Mats Zuccarello (4), Chris Kreider (3)",
+      "homeType": "goal",
+      "homeNumber": 0,
+      "awayType": "goal",
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR77",
+      "summary": "Carl Hagelin (1) Backhand, assists: Benoit Pouliot (2), Brad Richards (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NYR65",
+      "summary": "Jiri Tlusty Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR513",
+      "summary": "Derek Stepan (1) Wrist Shot, assists: Chris Kreider (2), Mats Zuccarello (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR235",
+      "summary": "Carl Hagelin (2) Wrist Shot, assists: Taylor Pyatt (1), Ryan McDonagh (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR57",
+      "summary": "Ryan Murphy Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR671",
+      "summary": "Derek Stepan (3) Wrist Shot, assists: Mats Zuccarello (5), Chris Kreider (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR61",
+      "summary": "Carl Hagelin Backhand saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR522",
+      "summary": "Andrej Sekera (2) Wrist Shot, assists: Jiri Tlusty (2), Justin Faulk (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR55",
+      "summary": "Eric Staal Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

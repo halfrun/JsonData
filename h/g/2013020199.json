@@ -5,24 +5,129 @@
   "gn": "0199",
   "utcStart": "2013-11-02 19:00:00+0000",
   "easternStart": "2013-11-02 15:00:00",
-  "summary": "Blackhawks begin busy stretch by visiting Jets",
+  "summary": "Blackhawks dominate Jets in Toews' homecoming",
   "h": {
     "ab": "WPG",
-    "record": "5-7-2",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-8-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "8-2-3",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG65",
+      "summary": "Dustin Byfuglien Snap Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG231",
+      "summary": "Patrick Sharp (3) Wrist Shot, assists: Marian Hossa (6), Nick Leddy (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG69",
+      "summary": "Tobias Enstrom (2) Slap Shot, assists: Matt Halischuk (2), Michael Frolik (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG10",
+      "summary": "Evander Kane hit Johnny Oduya",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG87",
+      "summary": "Niklas Hjalmarsson (1) Slap Shot, assists: Marcus Kruger (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG55",
+      "summary": "Devin Setoguchi Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG9",
+      "summary": "Zach Bogosian hit Ben Smith",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG54",
+      "summary": "Patrick Sharp Snap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG603",
+      "summary": "Ben Smith (2) Deflected, assists: Brandon Bollig (2), Duncan Keith (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG12",
+      "summary": "Ben Chiarot hit Nick Leddy",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG58",
+      "summary": "Ben Smith Wrist Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG242",
+      "summary": "Nick Leddy (2) Slap Shot, assists: Andrew Shaw (5), Jeremy Morin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG223",
+      "summary": "Brandon Bollig (2) Snap Shot, assists: Marcus Kruger (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

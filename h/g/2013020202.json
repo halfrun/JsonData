@@ -5,24 +5,97 @@
   "gn": "0202",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Top goal-scorers meet as Blues visit Lightning",
+  "summary": "Lightning score twice in third period to beat Blues",
   "h": {
     "ab": "TBL",
-    "record": "9-4-0",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "10-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "8-1-2",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B7",
+      "summary": "Tyler Johnson Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B674",
+      "summary": "Valtteri Filppula (5) Backhand, assists: Alex Killorn (8), Eric Brewer (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B26",
+      "summary": "Alex Pietrangelo (4) Wrist Shot, assists: David Backes (8), Alexander Steen (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "T.B446",
+      "summary": "Brett Connolly (1) Tip-In, assists: Radko Gudas (4), Valtteri Filppula (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B231",
+      "summary": "Jaden Schwartz (3) Wrist Shot, assists: Kevin Shattenkirk (9), Patrik Berglund (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B18",
+      "summary": "Brett Connolly Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B39",
+      "summary": "Alex Killorn (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "T.B225",
+      "summary": "Steven Stamkos (11) Wrist Shot, assists: Alex Killorn (7), Mark Barberio (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B13",
+      "summary": "Chris Stewart Wrist Shot saved by Ben Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

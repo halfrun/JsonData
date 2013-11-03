@@ -5,24 +5,73 @@
   "gn": "0203",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Devils to start Brodeur in third straight game",
+  "summary": "Emery makes 14 saves; Flyers shut out Devils",
   "h": {
     "ab": "NJD",
-    "record": "3-5-4",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-6-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "3-9-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-9-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J10",
+      "summary": "Steve Bernier Snap Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J60",
+      "summary": "Zac Rinaldo hit Andy Greene",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J33",
+      "summary": "Brayden Schenn (3) Wrist Shot, assists: Andrej Meszaros (1), Wayne Simmonds (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J61",
+      "summary": "Zac Rinaldo hit Anton Volchenkov",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J21",
+      "summary": "Damien Brunner Backhand saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J17",
+      "summary": "Andrei Loktionov Snap Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,113 @@
   "gn": "0201",
   "utcStart": "2013-11-02 23:00:00+0000",
   "easternStart": "2013-11-02 19:00:00",
-  "summary": "Angry Ducks look for improved play against Sabres ",
+  "summary": "Etem, Perry lead Ducks past Sabres",
   "h": {
     "ab": "BUF",
-    "record": "2-12-1",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "2-13-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "10-3-1",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "11-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF432",
+      "summary": "Corey Perry (7) Wrist Shot, assists: Cam Fowler (5), Ryan Getzlaf (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF64",
+      "summary": "Christian Ehrhoff Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF239",
+      "summary": "Ryan Getzlaf (6) Wrist Shot, assists: Dustin Penner (4), Francois Beauchemin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF404",
+      "summary": "Sami Vatanen (1) Wrist Shot, assists: Andrew Cogliano (4), Daniel Winnik (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF230",
+      "summary": "Cody Hodgson (5) Wrist Shot, assists: Matt Moulson (4), Mark Pysyk (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF437",
+      "summary": "Henrik Tallinder (1) Wrist Shot, assists: Cody Hodgson (7), Matt Moulson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF408",
+      "summary": "Emerson Etem (3) Wrist Shot, assists: Mathieu Perreault (7), Devante Smith-Pelly (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF603",
+      "summary": "Tyler Myers (1) Wrist Shot, assists: Johan Larsson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF435",
+      "summary": "Emerson Etem (4) Slap Shot, assists: Mathieu Perreault (8), Bryan Allen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF605",
+      "summary": "Corey Perry (8) Wrist Shot, assists: Ryan Getzlaf (10), Hampus Lindholm (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF17",
+      "summary": "Mathieu Perreault hit Henrik Tallinder",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

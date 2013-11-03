@@ -5,24 +5,73 @@
   "gn": "0209",
   "utcStart": "2013-11-03 02:00:00+0000",
   "easternStart": "2013-11-02 22:00:00",
-  "summary": "Roy to coach Avalanche for first time vs. Canadiens",
+  "summary": "Avalanche finish strong, beat Canadiens",
   "h": {
     "ab": "COL",
-    "record": "11-1-0",
-    "live": "26",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "12-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
   "a": {
     "ab": "MTL",
-    "record": "8-6-0",
-    "live": "9",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL579",
+      "summary": "Brendan Gallagher (7) Wrist Shot, assists: P.K. Subban (11), Alex Galchenyuk (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL296",
+      "summary": "Gabriel Landeskog (5) Slap Shot, assists: Marc-Andre Cliche (2), Patrick Bordeleau (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL652",
+      "summary": "Ryan O'Reilly (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL594",
+      "summary": "Nathan MacKinnon (2) Wrist Shot, assists: Gabriel Landeskog (6), Jan Hejda (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL670",
+      "summary": "PA Parenteau (4) Wrist Shot, assists: Matt Duchene (5), Andre Benoit (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL56",
+      "summary": "Gabriel Landeskog Slap Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
