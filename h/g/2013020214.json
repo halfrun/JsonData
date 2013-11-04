@@ -5,24 +5,81 @@
   "gn": "0214",
   "utcStart": "2013-11-04 01:00:00+0000",
   "easternStart": "2013-11-03 20:00:00",
-  "summary": "Wild's Parise set to face Devils for first time",
+  "summary": "Devils shut out again in loss to Wild",
   "h": {
     "ab": "MIN",
-    "record": "7-4-3",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "3-6-4",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN9",
+      "summary": "Andrei Loktionov Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN242",
+      "summary": "Torrey Mitchell (1) Deflected, assists: Zach Parise (5), Ryan Suter (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN465",
+      "summary": "Jason Pominville (10) Wrist Shot, assists: Nino Niederreiter (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN14",
+      "summary": "Mattias Tedenby Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN440",
+      "summary": "Dany Heatley (2) Tip-In, assists: Keith Ballard (4), Nino Niederreiter (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN48",
+      "summary": "Mikael Granlund (1) Wrist Shot, assists: Nino Niederreiter (4), Jason Pominville (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN58",
+      "summary": "Mikael Granlund hit Steve Bernier",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

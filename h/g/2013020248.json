@@ -1,14 +1,14 @@
 {
-  "id": "2013020233",
+  "id": "2013020248",
   "sid": "2013",
   "t": "02",
-  "gn": "0233",
-  "utcStart": "2013-11-08 00:00:00+0000",
-  "easternStart": "2013-11-07 19:00:00",
+  "gn": "0248",
+  "utcStart": "2013-11-10 00:00:00+0000",
+  "easternStart": "2013-11-09 19:00:00",
   "summary": "",
   "h": {
-    "ab": "WSH",
-    "record": "7-7-0",
+    "ab": "DET",
+    "record": "9-4-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "MIN",
-    "record": "8-4-3",
+    "ab": "TBL",
+    "record": "10-4-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

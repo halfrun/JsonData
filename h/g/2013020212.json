@@ -5,24 +5,89 @@
   "gn": "0212",
   "utcStart": "2013-11-03 18:00:00+0000",
   "easternStart": "2013-11-03 13:00:00",
-  "summary": "Stars visit Senators to start three-game trip",
+  "summary": "Stars edge Senators to earn shootout victory",
   "h": {
     "ab": "OTT",
-    "record": "4-6-3",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-6-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "5-6-2",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT289",
+      "summary": "Valeri Nichushkin (1) Snap Shot, assists: Brenden Dillon (4), Cody Eakin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT445",
+      "summary": "Jason Spezza (8) Snap Shot, assists: Kyle Turris (12), Erik Karlsson (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT19",
+      "summary": "Erik Karlsson Snap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT18",
+      "summary": "Erik Karlsson Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT264",
+      "summary": "Ray Whitney (1) Slap Shot, assists: Tyler Seguin (9), Alex Chiasson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT755",
+      "summary": "Bobby Ryan (8) Snap Shot, assists: Milan Michalek (6), Jason Spezza (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT407",
+      "summary": "Erik Karlsson (4) Snap Shot, assists: Bobby Ryan (6), Kyle Turris (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT10",
+      "summary": "Jamie Benn Snap Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

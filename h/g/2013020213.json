@@ -5,24 +5,89 @@
   "gn": "0213",
   "utcStart": "2013-11-04 00:30:00+0000",
   "easternStart": "2013-11-03 19:30:00",
-  "summary": "Surging Blackhawks set to host Flames",
+  "summary": "Flames' Berra beats Blackhawks in first start",
   "h": {
     "ab": "CHI",
-    "record": "9-2-3",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-2-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "5-6-2",
-    "live": "140",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI737",
+      "summary": "Kris Russell (2) Slap Shot, assists: Curtis Glencross (4), Dennis Wideman (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI20",
+      "summary": "Brent Seabrook Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI719",
+      "summary": "Marian Hossa (6) Slap Shot, assists: Patrick Kane (5), Duncan Keith (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI16",
+      "summary": "Patrick Kane Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI412",
+      "summary": "Patrick Kane (8) Wrist Shot, assists: Sheldon Brookbank (1), Andrew Shaw (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI415",
+      "summary": "Mike Cammalleri (4) Tip-In, assists: Dennis Wideman (8), Joe Colborne (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI616",
+      "summary": "Curtis Glencross (5) Wrist Shot, assists: Chris Butler (1), Matt Stajan (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI11",
+      "summary": "Brian McGrattan Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
