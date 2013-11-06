@@ -5,24 +5,65 @@
   "gn": "0215",
   "utcStart": "2013-11-05 00:30:00+0000",
   "easternStart": "2013-11-04 19:30:00",
-  "summary": "Ducks wrap up eight-game road trip at Rangers",
+  "summary": "Ducks beat Rangers to end successful trip",
   "h": {
     "ab": "NYR",
-    "record": "6-7-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "11-3-1",
-    "live": "145",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "12-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR60",
+      "summary": "Brandon Mashinter Wrist Shot saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR58",
+      "summary": "Corey Perry (9) Wrist Shot, assists: Dustin Penner (5), Luca Sbisa (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR84",
+      "summary": "Kyle Palmieri (4) Wrist Shot, assists: Francois Beauchemin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR66",
+      "summary": "John Moore Wrist Shot saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR520",
+      "summary": "Michael Del Zotto (1) Snap Shot, assists: Carl Hagelin (2), Ryan Callahan (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
