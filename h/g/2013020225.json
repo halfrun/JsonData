@@ -5,24 +5,105 @@
   "gn": "0225",
   "utcStart": "2013-11-06 03:30:00+0000",
   "easternStart": "2013-11-05 22:30:00",
-  "summary": "Sharks hope to re-discover winning ways",
+  "summary": "Sabres stun Sharks in shootout",
   "h": {
     "ab": "SJS",
-    "record": "10-1-3",
-    "live": "67",
+    "record": "10-1-4",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "2-13-1",
-    "live": "1",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "3-13-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "S.J715",
+      "summary": "Tommy Wingels (4) Tip-In, assists: Marty Havlat (1), Tomas Hertl (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J248",
+      "summary": "Cody McCormick (1) Wrist Shot, assists: Drew Stafford (3), Zemgus Girgensons (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J9",
+      "summary": "Marcus Foligno Slap Shot saved by Antti Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J239",
+      "summary": "Drew Stafford (2) Wrist Shot, assists: Jamie McBain (3), Zemgus Girgensons (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J47",
+      "summary": "Marty Havlat (1) Backhand, assists: Brad Stuart (3), Dan Boyle (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J609",
+      "summary": "Tyler Ennis (2) Wrist Shot, assists: Cody Hodgson (8), Matt Moulson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J14",
+      "summary": "Scott Hannan Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J618",
+      "summary": "Tyler Kennedy (2) Backhand, assists: Marc-Edouard Vlasic (8), Joe Pavelski (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J623",
+      "summary": "Tomas Hertl (9) Wrap-around, assists: Scott Hannan (1), Joe Thornton (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J635",
+      "summary": "Henrik Tallinder (2) Slap Shot, assists: Tyler Ennis (3), Matt Moulson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

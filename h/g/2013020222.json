@@ -5,24 +5,57 @@
   "gn": "0222",
   "utcStart": "2013-11-06 00:30:00+0000",
   "easternStart": "2013-11-05 19:30:00",
-  "summary": "",
+  "summary": "Hurricanes tie game in final minute, beat Flyers in OT",
   "h": {
     "ab": "CAR",
-    "record": "4-7-3",
-    "live": "89",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "5-7-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "4-9-0",
-    "live": "3",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "4-9-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR741",
+      "summary": "Scott Hartnell (1) Tip-In, assists: Kimmo Timonen (1), Claude Giroux (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR856",
+      "summary": "Jordan Staal (2) Wrist Shot, assists: Eric Staal (6), Jiri Tlusty (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR12",
+      "summary": "Brett Bellemore Wrist Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR576",
+      "summary": "Manny Malhotra (1) Backhand, assists: Ron Hainsey (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

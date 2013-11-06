@@ -5,24 +5,73 @@
   "gn": "0217",
   "utcStart": "2013-11-06 00:00:00+0000",
   "easternStart": "2013-11-05 19:00:00",
-  "summary": "",
+  "summary": "Peverley, Seguin shoot Stars past Bruins",
   "h": {
     "ab": "BOS",
-    "record": "8-5-0",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "6-6-2",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS55",
+      "summary": "Jarome Iginla Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS539",
+      "summary": "Milan Lucic (7) Wrist Shot, assists: Dougie Hamilton (2), David Krejci (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS66",
+      "summary": "Torey Krug (5) Tip-In, assists: Reilly Smith (7), Carl Soderberg (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS57",
+      "summary": "Torey Krug Snap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS65",
+      "summary": "Jamie Benn (5) Snap Shot, assists: Valeri Nichushkin (3), Jordie Benn (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS705",
+      "summary": "Vernon Fiddler (2) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

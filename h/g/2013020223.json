@@ -5,24 +5,97 @@
   "gn": "0223",
   "utcStart": "2013-11-06 01:00:00+0000",
   "easternStart": "2013-11-05 20:00:00",
-  "summary": "",
+  "summary": "Parise and Koivu help Wild douse Flames",
   "h": {
     "ab": "MIN",
-    "record": "8-4-3",
-    "live": "149",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "6-6-2",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-7-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN21",
+      "summary": "Keith Ballard Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN339",
+      "summary": "Zach Parise (7) Wrist Shot, assists: Ryan Suter (9), Mikko Koivu (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN494",
+      "summary": "Zenon Konopka (1) Wrist Shot, assists: Torrey Mitchell (3), Marco Scandella (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN17",
+      "summary": "Jiri Hudler (6) Wrist Shot, assists: Lance Bouma (1), Chad Billins (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN26",
+      "summary": "Mikko Koivu (2) Backhand, assists: Zach Parise (6), Charlie Coyle (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN16",
+      "summary": "Mike Cammalleri Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN491",
+      "summary": "Justin Fontaine (5) Wrist Shot, assists: Matt Cooke (6), Kyle Brodziak (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN13",
+      "summary": "TJ Brodie Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN713",
+      "summary": "Zach Parise (8) Wrist Shot, assists: Mikko Koivu (9), Ryan Suter (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    }
+  ]
 }

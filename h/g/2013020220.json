@@ -5,24 +5,65 @@
   "gn": "0220",
   "utcStart": "2013-11-06 00:30:00+0000",
   "easternStart": "2013-11-05 19:30:00",
-  "summary": "",
+  "summary": "Halak, Blues edge Canadiens in shootout",
   "h": {
     "ab": "MTL",
-    "record": "8-7-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-7-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "8-2-2",
-    "live": "138",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "9-2-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL336",
+      "summary": "Rene Bourque (5) Wrist Shot, assists: Andrei Markov (8), P.K. Subban (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL61",
+      "summary": "Alexander Steen (13) Slap Shot, assists: David Backes (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL55",
+      "summary": "Patrik Berglund Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL416",
+      "summary": "Michael Bournival (4) Slap Shot, assists: Brian Gionta (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL616",
+      "summary": "Chris Stewart (2) Tip-In, assists: Kevin Shattenkirk (10), Vladimir Sobotka (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
