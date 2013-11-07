@@ -5,24 +5,137 @@
   "gn": "0228",
   "utcStart": "2013-11-07 02:30:00+0000",
   "easternStart": "2013-11-06 21:30:00",
-  "summary": "Predators aim to cool off red-hot Avalanche ",
+  "summary": "Predators hand Avalanche second loss of season",
   "h": {
     "ab": "COL",
-    "record": "12-1-0",
-    "live": "141",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "12-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "7-5-2",
-    "live": "136",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "8-5-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL375",
+      "summary": "Colin Wilson (2) Wrist Shot, assists: Ryan Ellis (3), Roman Josi (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL567",
+      "summary": "Colin Wilson (3) Backhand, assists: Viktor Stalberg (1), David Legwand (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL83",
+      "summary": "Viktor Stalberg (1) Wrist Shot, assists: Colin Wilson (5), Mattias Ekholm (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL354",
+      "summary": "Craig Smith (3) Wrist Shot, assists: Colin Wilson (6), Ryan Ellis (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL388",
+      "summary": "Paul Stastny (5) Wrist Shot, assists: Jamie McGinn (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL63",
+      "summary": "PA Parenteau Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL65",
+      "summary": "PA Parenteau Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL57",
+      "summary": "Gabriel Bourque Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL367",
+      "summary": "Paul Gaustad (3) Tip-In, assists: Filip Forsberg (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL364",
+      "summary": "Ryan O'Reilly (5) Wrist Shot, assists: PA Parenteau (5), Matt Duchene (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL560",
+      "summary": "Matt Duchene (10) Wrist Shot, assists: Cody McLeod (2), Cory Sarich (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL597",
+      "summary": "Gabriel Bourque (1) Wrist Shot, assists: David Legwand (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL68",
+      "summary": "Jamie McGinn hit Mattias Ekholm",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "COL87",
+      "summary": "PA Parenteau (5) Wrist Shot, assists: Matt Duchene (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

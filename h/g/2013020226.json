@@ -5,24 +5,97 @@
   "gn": "0226",
   "utcStart": "2013-11-07 00:30:00+0000",
   "easternStart": "2013-11-06 19:30:00",
-  "summary": "Rangers aim to gain ground on Penguins",
+  "summary": "Rangers, Lundqvist handle Penguins at MSG",
   "h": {
     "ab": "NYR",
-    "record": "6-8-0",
-    "live": "144",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "7-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "11-4-0",
-    "live": "140",
+    "record": "11-5-0",
+    "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR11",
+      "summary": "Anton Stralman hit Evgeni Malkin",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR289",
+      "summary": "Brian Boyle (1) Wrist Shot, assists: Brad Richards (6), Anton Stralman (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR97",
+      "summary": "Ryan McDonagh (3) Snap Shot, assists: Brian Boyle (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR452",
+      "summary": "Ryan Callahan (4) Tip-In, assists: Brad Richards (7), Carl Hagelin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR53",
+      "summary": "Sidney Crosby Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR62",
+      "summary": "Tanner Glass Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR100",
+      "summary": "Derek Stepan (4) Wrist Shot, assists: Mats Zuccarello (6), Chris Kreider (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR490",
+      "summary": "Derick Brassard (3) Wrist Shot, assists: Derek Dorsett (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR299",
+      "summary": "Kris Letang (3) Tip-In, assists: Chris Kunitz (8), Evgeni Malkin (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

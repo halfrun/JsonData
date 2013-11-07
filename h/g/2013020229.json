@@ -5,24 +5,97 @@
   "gn": "0229",
   "utcStart": "2013-11-07 03:00:00+0000",
   "easternStart": "2013-11-06 22:00:00",
-  "summary": "Ducks return home to face surging Coyotes",
+  "summary": "Ducks end Coyotes' winning streak",
   "h": {
     "ab": "ANA",
-    "record": "12-3-1",
-    "live": "147",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "13-3-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "11-3-2",
-    "live": "49",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "11-4-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA63",
+      "summary": "Shane Doan (6) Wrist Shot, assists: Mike Ribeiro (6), Oliver Ekman-Larsson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA536",
+      "summary": "Andrew Cogliano (3) Wrist Shot, assists: Dustin Penner (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA99",
+      "summary": "Hampus Lindholm (1) Wrist Shot, assists: Mathieu Perreault (9), Devante Smith-Pelly (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA418",
+      "summary": "Ryan Getzlaf (7) Slap Shot, assists: Cam Fowler (6), Nick Bonino (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA56",
+      "summary": "Keith Yandle Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA67",
+      "summary": "Luca Sbisa Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA405",
+      "summary": "Michael Stone (3) Slap Shot, assists: David Moss (7), Martin Hanzal (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA432",
+      "summary": "Corey Perry (10) Deflected, assists: Hampus Lindholm (4), Ryan Getzlaf (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA515",
+      "summary": "Cam Fowler (1) Slap Shot, assists: Nick Bonino (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

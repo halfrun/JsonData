@@ -5,24 +5,81 @@
   "gn": "0227",
   "utcStart": "2013-11-07 01:00:00+0000",
   "easternStart": "2013-11-06 20:00:00",
-  "summary": "Blackhawks face Jets for second time in five days",
+  "summary": "Blackhawks beat Jets for second time in five days",
   "h": {
     "ab": "CHI",
-    "record": "9-2-4",
-    "live": "143",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "10-2-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "6-8-2",
-    "live": "135",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "record": "6-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI465",
+      "summary": "Devin Setoguchi (3) Wrist Shot, assists: Olli Jokinen (5), Dustin Byfuglien (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI16",
+      "summary": "Matt Halischuk Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI10",
+      "summary": "Eric Tangradi Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI209",
+      "summary": "Jonathan Toews (8) Backhand, assists: Patrick Sharp (7), Duncan Keith (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI454",
+      "summary": "Patrick Sharp (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI219",
+      "summary": "Patrick Kane (9) Wrist Shot, assists: Brent Seabrook (7), Duncan Keith (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI434",
+      "summary": "Brandon Pirri (3) Wrist Shot, assists: Ben Smith (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
