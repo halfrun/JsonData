@@ -5,24 +5,81 @@
   "gn": "0233",
   "utcStart": "2013-11-08 00:00:00+0000",
   "easternStart": "2013-11-07 19:00:00",
-  "summary": "",
+  "summary": "Capitals tie game late, beat Wild in shootout",
   "h": {
     "ab": "WSH",
-    "record": "8-7-0",
+    "record": "9-7-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MIN",
-    "record": "9-4-3",
+    "record": "9-4-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH18",
+      "summary": "Clayton Stoner Slap Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH21",
+      "summary": "Alex Ovechkin (13) Slap Shot, assists: Nicklas Backstrom (15), Marcus Johansson (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH154",
+      "summary": "Mikael Granlund hit Mikhail Grabovski",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH270",
+      "summary": "Mikael Granlund (2) Wrist Shot, assists: Jason Pominville (3), Nino Niederreiter (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH601",
+      "summary": "Marcus Johansson (2) Tip-In, assists: Tom Wilson (2), Brooks Laich (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH48",
+      "summary": "Charlie Coyle (1) Wrist Shot, assists: Zach Parise (7), Mikko Koivu (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH14",
+      "summary": "Alex Ovechkin Snap Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

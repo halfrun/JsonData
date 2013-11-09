@@ -5,24 +5,89 @@
   "gn": "0231",
   "utcStart": "2013-11-08 00:00:00+0000",
   "easternStart": "2013-11-07 19:00:00",
-  "summary": "",
+  "summary": "Quick goals lift Senators to home win vs. Canadiens",
   "h": {
     "ab": "OTT",
-    "record": "5-6-4",
+    "record": "6-6-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "8-7-1",
+    "record": "8-8-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT493",
+      "summary": "Mark Borowiecki (1) Snap Shot, assists: Clarke MacArthur (9), Bobby Ryan (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT216",
+      "summary": "Andrei Markov (2) Slap Shot, assists: P.K. Subban (13), Tomas Plekanec (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT794",
+      "summary": "Kyle Turris (3) Wrist Shot, assists: Bobby Ryan (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT18",
+      "summary": "Brian Gionta Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT491",
+      "summary": "Marc Methot (2) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT10",
+      "summary": "P.K. Subban Slap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT23",
+      "summary": "P.K. Subban Slap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT217",
+      "summary": "Bobby Ryan (9) Wrist Shot, assists: Clarke MacArthur (8), Eric Gryba (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

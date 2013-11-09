@@ -5,24 +5,89 @@
   "gn": "0243",
   "utcStart": "2013-11-09 02:00:00+0000",
   "easternStart": "2013-11-08 21:00:00",
-  "summary": "",
+  "summary": "Avalanche hold off Flames, have won 13 of 15",
   "h": {
     "ab": "COL",
-    "record": "12-1-0",
+    "record": "13-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "6-7-2",
+    "record": "6-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL96",
+      "summary": "Paul Stastny (6) Wrist Shot, assists: Erik Johnson (3), Andre Benoit (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL626",
+      "summary": "Matt Duchene (11) Wrist Shot, assists: Ryan O'Reilly (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL243",
+      "summary": "Mike Cammalleri (7) Wrist Shot, assists: Jiri Hudler (13), Mikael Backlund (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL357",
+      "summary": "Mike Cammalleri (6) Wrist Shot, assists: Mikael Backlund (3), Jiri Hudler (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL65",
+      "summary": "Ryan O'Reilly (6) Snap Shot, assists: PA Parenteau (6), Jan Hejda (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL60",
+      "summary": "Maxime Talbot Wrap-around saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL359",
+      "summary": "John Mitchell (2) Wrist Shot, assists: Nathan MacKinnon (8), Cory Sarich (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL153",
+      "summary": "Ryan O'Reilly Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

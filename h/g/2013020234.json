@@ -5,24 +5,49 @@
   "gn": "0234",
   "utcStart": "2013-11-08 00:00:00+0000",
   "easternStart": "2013-11-07 19:00:00",
-  "summary": "",
+  "summary": "Peters, Hurricanes blank struggling Islanders",
   "h": {
     "ab": "CAR",
-    "record": "5-7-3",
+    "record": "6-7-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYI",
-    "record": "6-6-3",
+    "record": "6-7-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR53",
+      "summary": "Aaron Ness hit Jordan Staal",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR19",
+      "summary": "Radek Dvorak (3) Deflected, assists: Ron Hainsey (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR10",
+      "summary": "Jay Harrison Slap Shot saved by Kevin Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

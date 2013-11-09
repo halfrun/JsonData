@@ -5,24 +5,129 @@
   "gn": "0244",
   "utcStart": "2013-11-09 03:00:00+0000",
   "easternStart": "2013-11-08 22:00:00",
-  "summary": "",
+  "summary": "Ducks dominate Sabres with Getzlaf's first hat trick",
   "h": {
     "ab": "ANA",
-    "record": "12-3-1",
+    "record": "14-3-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "3-13-1",
+    "record": "3-15-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA461",
+      "summary": "Andrew Cogliano (4) Tip-In, assists: Rickard Rakell (1), Daniel Winnik (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA408",
+      "summary": "Dustin Penner (3) Backhand, assists: Corey Perry (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA53",
+      "summary": "Tyler Myers Wrist Shot saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA54",
+      "summary": "Corey Perry Wrap-around saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA440",
+      "summary": "Mikhail Grigorenko (2) Wrist Shot, assists: Corey Tropp (1), Cody McCormick (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "66_replay",
+      "summary": "Ryan Getzlaf (8) Wrist Shot, assists: Cam Fowler (7), Dustin Penner (7)",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "ANA97",
+      "summary": "Cam Fowler (2) Wrist Shot, assists: Dustin Penner (8), Ryan Getzlaf (12)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA66",
+      "summary": "Ryan Getzlaf (8) Wrist Shot, assists: Cam Fowler (7), Dustin Penner (7)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA62",
+      "summary": "Devante Smith-Pelly Deflected saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA234",
+      "summary": "Ryan Getzlaf (10) Backhand, assists: Corey Perry (8), Dustin Penner (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA220",
+      "summary": "Ryan Getzlaf (9) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA209",
+      "summary": "Mikhail Grigorenko (1) Tip-In, assists: Cody McCormick (3), Drew Stafford (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "97_replay",
+      "summary": "Cam Fowler (2) Wrist Shot, assists: Dustin Penner (8), Ryan Getzlaf (12)",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

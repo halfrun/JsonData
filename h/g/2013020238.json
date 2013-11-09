@@ -5,24 +5,89 @@
   "gn": "0238",
   "utcStart": "2013-11-08 01:00:00+0000",
   "easternStart": "2013-11-07 20:00:00",
-  "summary": "",
+  "summary": "Steen scores again, Blues hold off Flames ",
   "h": {
     "ab": "STL",
-    "record": "9-2-2",
+    "record": "10-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CGY",
-    "record": "6-7-2",
+    "record": "6-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL108",
+      "summary": "Jay Bouwmeester Snap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL315",
+      "summary": "Alexander Steen (14) Backhand, assists: T.J. Oshie (10), Jordan Leopold (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL109",
+      "summary": "Vladimir Tarasenko (5) Wrist Shot, assists: Jay Bouwmeester (10), Jaden Schwartz (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL127",
+      "summary": "Maxim Lapierre (1) Tip-In, assists: Jordan Leopold (1), Kevin Shattenkirk (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL539",
+      "summary": "Mike Cammalleri (5) Wrist Shot, assists: Chris Butler (2), Jiri Hudler (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "STL111",
+      "summary": "Alexander Steen Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL116",
+      "summary": "Jordan Leopold Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL515",
+      "summary": "Tim Jackman (1) Backhand, assists: Shane O'Brien (2), Chad Billins (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

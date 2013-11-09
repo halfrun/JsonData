@@ -5,24 +5,97 @@
   "gn": "0230",
   "utcStart": "2013-11-08 00:00:00+0000",
   "easternStart": "2013-11-07 19:00:00",
-  "summary": "",
+  "summary": "Bruins' Rask continues dominance over Panthers",
   "h": {
     "ab": "BOS",
-    "record": "8-5-1",
+    "record": "9-5-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "FLA",
-    "record": "3-8-4",
+    "record": "3-9-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS60",
+      "summary": "Dougie Hamilton Tip-In saved by Scott Clemmensen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS285",
+      "summary": "David Krejci (3) Slap Shot, assists: Zdeno Chara (3), Dougie Hamilton (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "BOS6",
+      "summary": "Brad Marchand hit Brian Campbell",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS476",
+      "summary": "Brad Marchand (2) Wrist Shot, assists: Loui Eriksson (2), Dennis Seidenberg (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS495",
+      "summary": "Torey Krug (6) Wrist Shot, assists: Chris Kelly (2), Reilly Smith (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS658",
+      "summary": "Jesse Winchester (4) Backhand, assists: Nick Bjugstad (2), Jonathan Huberdeau (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS668",
+      "summary": "Reilly Smith (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS57",
+      "summary": "Brian Campbell Slap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "BOS14",
+      "summary": "Jesse Winchester hit Chris Kelly",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

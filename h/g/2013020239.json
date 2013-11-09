@@ -5,24 +5,57 @@
   "gn": "0239",
   "utcStart": "2013-11-08 03:30:00+0000",
   "easternStart": "2013-11-07 22:30:00",
-  "summary": "",
+  "summary": "Quick, Kings blank goal-starved Sabres",
   "h": {
     "ab": "LAK",
-    "record": "9-6-0",
+    "record": "10-6-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "3-13-1",
+    "record": "3-15-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "L.A56",
+      "summary": "Corey Tropp Wrist Shot saved by Jonathan Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "L.A53",
+      "summary": "Dustin Brown Wrist Shot saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A96",
+      "summary": "Mike Richards (4) Tip-In, assists: Jake Muzzin (7), Tyler Toffoli (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A383",
+      "summary": "Anze Kopitar (4) Slap Shot, assists: Drew Doughty (4), Mike Richards (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

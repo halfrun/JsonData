@@ -5,24 +5,105 @@
   "gn": "0236",
   "utcStart": "2013-11-08 00:30:00+0000",
   "easternStart": "2013-11-07 19:30:00",
-  "summary": "",
+  "summary": "Stars rally past Red Wings, win late in OT",
   "h": {
     "ab": "DET",
-    "record": "9-5-2",
+    "record": "9-5-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "7-6-2",
+    "record": "8-6-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET64",
+      "summary": "Daniel Alfredsson Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 3,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET339",
+      "summary": "Jamie Benn (6) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET310",
+      "summary": "Todd Bertuzzi (5) Slap Shot, assists: Henrik Zetterberg (8), Pavel Datsyuk (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET59",
+      "summary": "Jordie Benn Slap Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET324",
+      "summary": "Adam Almquist (1) Snap Shot, assists: Henrik Zetterberg (9), Todd Bertuzzi (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET327",
+      "summary": "Shawn Horcoff (2) Wrist Shot, assists: Ray Whitney (7), Alex Chiasson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET613",
+      "summary": "Pavel Datsyuk (7) Snap Shot, assists: Henrik Zetterberg (10), Jakub Kindl (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET801",
+      "summary": "Rich Peverley (3) Snap Shot, assists: Valeri Nichushkin (4), Alex Goligoski (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET632",
+      "summary": "Cody Eakin (4) Snap Shot, assists: Sergei Gonchar (2), Trevor Daley (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET12",
+      "summary": "Alex Goligoski hit Todd Bertuzzi",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 2
+    }
+  ]
 }
