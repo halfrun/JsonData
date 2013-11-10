@@ -5,24 +5,113 @@
   "gn": "0253",
   "utcStart": "2013-11-10 01:00:00+0000",
   "easternStart": "2013-11-09 20:00:00",
-  "summary": "",
+  "summary": "Coyotes rally, beat Capitals in shootout",
   "h": {
     "ab": "PHX",
-    "record": "11-3-2",
+    "record": "12-4-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "8-7-0",
+    "record": "9-7-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX64",
+      "summary": "Jason Chimera Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX12",
+      "summary": "Mike Ribeiro Tip-In saved by Michal Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX664",
+      "summary": "Shane Doan (8) Snap Shot, assists: Oliver Ekman-Larsson (10), Keith Yandle (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX315",
+      "summary": "John Carlson (3) Slap Shot, assists: Marcus Johansson (13), Alex Ovechkin (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX504",
+      "summary": "Joel Ward (7) Wrist Shot, assists: Michael Latta (2), Jason Chimera (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX75",
+      "summary": "Shane Doan (7) Wrist Shot, assists: Martin Hanzal (9), Keith Yandle (12)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX310",
+      "summary": "Troy Brouwer (5) Slap Shot, assists: Mike Green (10), Michal Neuvirth (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX58",
+      "summary": "Joel Ward Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX61",
+      "summary": "Shane Doan Wrist Shot saved by Michal Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX656",
+      "summary": "Lauri Korpikoski (2) Backhand, assists: Antoine Vermette (5), David Schlemko (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX54",
+      "summary": "Nicklas Backstrom Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

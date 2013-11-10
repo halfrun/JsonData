@@ -5,24 +5,73 @@
   "gn": "0246",
   "utcStart": "2013-11-09 19:00:00+0000",
   "easternStart": "2013-11-09 14:00:00",
-  "summary": "",
+  "summary": "Panthers lose to Senators in Horachek's debut",
   "h": {
     "ab": "OTT",
-    "record": "5-6-4",
+    "record": "7-6-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "FLA",
-    "record": "3-8-4",
+    "record": "3-10-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT19",
+      "summary": "Mika Zibanejad (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT22",
+      "summary": "Scottie Upshall Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT30",
+      "summary": "Nick Bjugstad (2) Wrist Shot, assists: Tomas Kopecky (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT467",
+      "summary": "Clarke MacArthur (3) Slap Shot, assists: Erik Karlsson (12), Kyle Turris (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT811",
+      "summary": "Marcel Goc (5) Slap Shot, assists: Matt Gilroy (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT13",
+      "summary": "Kyle Turris (4) Tip-In, assists: Bobby Ryan (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

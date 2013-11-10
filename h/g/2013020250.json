@@ -5,24 +5,105 @@
   "gn": "0250",
   "utcStart": "2013-11-10 00:00:00+0000",
   "easternStart": "2013-11-09 19:00:00",
-  "summary": "",
+  "summary": "Blue Jackets beat Islanders to end five-game skid",
   "h": {
     "ab": "CBJ",
-    "record": "5-9-0",
+    "record": "6-10-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYI",
-    "record": "6-6-3",
+    "record": "6-8-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ238",
+      "summary": "Thomas Hickey (1) Slap Shot, assists: John Tavares (11), Matt Donovan (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ614",
+      "summary": "James Wisniewski (2) Wrist Shot, assists: Sergei Bobrovsky (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ474",
+      "summary": "Cam Atkinson (4) Wrist Shot, assists: Ryan Johansen (6), Brandon Dubinsky (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ460",
+      "summary": "RJ Umberger (3) Deflected, assists: James Wisniewski (11), Ryan Johansen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ65",
+      "summary": "Brandon Dubinsky (4) Backhand, assists: Mark Letestu (3), Fedor Tyutin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ56",
+      "summary": "Blake Comeau Snap Shot saved by Evgeni Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ59",
+      "summary": "Matt Martin Snap Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ91",
+      "summary": "Frans Nielsen (9) Wrist Shot, assists: Eric Boulton (2), Andrew MacDonald (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ53",
+      "summary": "Kyle Okposo Snap Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ220",
+      "summary": "Ryan Johansen (5) Wrist Shot, assists: Brandon Dubinsky (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

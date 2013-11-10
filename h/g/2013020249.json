@@ -5,24 +5,57 @@
   "gn": "0249",
   "utcStart": "2013-11-10 00:00:00+0000",
   "easternStart": "2013-11-09 19:00:00",
-  "summary": "",
+  "summary": "Shootout tips help Wild defeat Hurricanes",
   "h": {
     "ab": "CAR",
-    "record": "5-7-3",
+    "record": "6-7-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 6,
+    "replayFull": "150",
+    "replayFullNumber": 3
   },
   "a": {
     "ab": "MIN",
-    "record": "9-4-3",
+    "record": "10-4-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR15",
+      "summary": "Ryan Murphy (2) Wrist Shot, assists: Drayson Bowman (1), Justin Peters (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR374",
+      "summary": "Jiri Tlusty (3) Backhand, assists: Alexander Semin (5), Brett Bellemore (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR383",
+      "summary": "Justin Fontaine (6) Deflected, assists: Marco Scandella (3), Jared Spurgeon (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR12",
+      "summary": "Jason Pominville (11) Wrist Shot, assists: Ryan Suter (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

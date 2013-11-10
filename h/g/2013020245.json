@@ -5,24 +5,97 @@
   "gn": "0245",
   "utcStart": "2013-11-09 18:00:00+0000",
   "easternStart": "2013-11-09 13:00:00",
-  "summary": "",
+  "summary": "Giroux ends drought to help Flyers defeat Oilers",
   "h": {
     "ab": "PHI",
-    "record": "4-9-1",
+    "record": "5-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "4-10-2",
+    "record": "4-12-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI64",
+      "summary": "Philip Larsen Backhand saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI434",
+      "summary": "David Perron (3) Wrist Shot, assists: Ales Hemsky (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI9",
+      "summary": "Nicklas Grossmann hit Ales Hemsky",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI807",
+      "summary": "Vincent Lecavalier (6) Snap Shot, assists: Brayden Schenn (5), Matt Read (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI88",
+      "summary": "Jay Rosehill (1) Tip-In, assists: Mark Streit (5), Nicklas Grossmann (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI648",
+      "summary": "Taylor Hall (5) Wrist Shot, assists: Sam Gagner (1), Philip Larsen (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI633",
+      "summary": "Claude Giroux (1) Snap Shot, assists: Jakub Voracek (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI59",
+      "summary": "Michael Raffl Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI304",
+      "summary": "Scott Hartnell (2) Snap Shot, assists: Mark Streit (6), Braydon Coburn (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

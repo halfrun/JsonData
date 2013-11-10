@@ -5,24 +5,89 @@
   "gn": "0252",
   "utcStart": "2013-11-10 01:00:00+0000",
   "easternStart": "2013-11-09 20:00:00",
-  "summary": "",
+  "summary": "Sharp's four assists lead Blackhawks past Stars",
   "h": {
     "ab": "DAL",
-    "record": "7-6-2",
+    "record": "8-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "9-2-4",
+    "record": "11-2-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL616",
+      "summary": "Marian Hossa (8) Wrist Shot, assists: Patrick Sharp (11), Johnny Oduya (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL64",
+      "summary": "Cody Eakin (5) Backhand, assists: Shawn Horcoff (3), Trevor Daley (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL235",
+      "summary": "Jonathan Toews (9) Backhand, assists: Patrick Kane (6), Patrick Sharp (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL9",
+      "summary": "Duncan Keith Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL98",
+      "summary": "Marian Hossa (7) Snap Shot, assists: Jonathan Toews (7), Patrick Sharp (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL409",
+      "summary": "Patrick Kane (10) Slap Shot, assists: Andrew Shaw (7), Patrick Sharp (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL226",
+      "summary": "Tyler Seguin (7) Wrist Shot, assists: Jamie Benn (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL620",
+      "summary": "Niklas Hjalmarsson (2) Wrist Shot, assists: Johnny Oduya (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,65 @@
   "gn": "0251",
   "utcStart": "2013-11-10 01:00:00+0000",
   "easternStart": "2013-11-09 20:00:00",
-  "summary": "",
+  "summary": "Blues equal their best start with win against Penguins",
   "h": {
     "ab": "STL",
-    "record": "9-2-2",
+    "record": "11-2-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "11-4-0",
+    "record": "11-6-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL320",
+      "summary": "Jussi Jokinen (8) Tip-In, assists: Evgeni Malkin (12), James Neal (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL586",
+      "summary": "Kevin Shattenkirk (1) Wrist Shot, assists: Barret Jackman (2), Jaden Schwartz (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL58",
+      "summary": "David Backes Wrist Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL55",
+      "summary": "Brandon Sutter Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL306",
+      "summary": "Ryan Reaves (2) Deflected, assists: Maxim Lapierre (1), Alexander Steen (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }
