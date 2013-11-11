@@ -5,24 +5,113 @@
   "gn": "0258",
   "utcStart": "2013-11-11 00:30:00+0000",
   "easternStart": "2013-11-10 19:30:00",
-  "summary": "",
+  "summary": "Blackhawks score three in third to sink Oilers",
   "h": {
     "ab": "CHI",
-    "record": "9-2-4",
+    "record": "12-2-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "4-10-2",
+    "record": "4-13-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI631",
+      "summary": "David Perron (4) Tip-In, assists: Taylor Hall (6), Philip Larsen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI818",
+      "summary": "Jordan Eberle (4) Slap Shot, assists: Nick Schultz (1), Taylor Hall (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI50",
+      "summary": "Brandon Saad (4) Wrist Shot, assists: Brandon Pirri (4), Brent Seabrook (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI801",
+      "summary": "Duncan Keith (1) Slap Shot, assists: Brent Seabrook (9), Patrick Sharp (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI644",
+      "summary": "Marcus Kruger (2) Wrap-around, assists: Ben Smith (3), Johnny Oduya (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI247",
+      "summary": "Nail Yakupov (2) Slap Shot, assists: Philip Larsen (3), Jordan Eberle (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI617",
+      "summary": "Bryan Bickell (5) Wrist Shot, assists: Michal Rozsival (3), Patrick Kane (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI436",
+      "summary": "Andrew Shaw (4) Wrist Shot, assists: Brandon Saad (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI7",
+      "summary": "Jordan Eberle Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI11",
+      "summary": "Taylor Hall Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI214",
+      "summary": "Ryan Nugent-Hopkins (5) Wrist Shot, assists: David Perron (8), Philip Larsen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

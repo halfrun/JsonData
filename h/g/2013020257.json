@@ -5,24 +5,97 @@
   "gn": "0257",
   "utcStart": "2013-11-11 00:00:00+0000",
   "easternStart": "2013-11-10 19:00:00",
-  "summary": "",
+  "summary": "Rangers edge Panthers for third straight win",
   "h": {
     "ab": "NYR",
-    "record": "6-8-0",
+    "record": "9-8-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "FLA",
-    "record": "3-8-4",
+    "record": "3-11-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NYR42",
+      "summary": "Aleksander Barkov (4) Wrist Shot, assists: Kris Versteeg (4), Tom Gilbert (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NYR617",
+      "summary": "Brian Campbell (2) Wrist Shot, assists: Tomas Fleischmann (9), Nick Bjugstad (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR494",
+      "summary": "Mats Zuccarello (2) Snap Shot, assists: Brad Richards (9), Derek Stepan (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR59",
+      "summary": "Brian Boyle Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR466",
+      "summary": "Derek Dorsett (2) Wrist Shot, assists: Brian Boyle (5), Michael Del Zotto (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR78",
+      "summary": "J.T. Miller (1) Snap Shot, assists: Chris Kreider (6), Ryan McDonagh (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NYR328",
+      "summary": "Brian Campbell (1) Slap Shot, assists: Tom Gilbert (4), Kris Versteeg (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR62",
+      "summary": "Tom Gilbert Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR483",
+      "summary": "Brad Richards (6) Wrist Shot, assists: Carl Hagelin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

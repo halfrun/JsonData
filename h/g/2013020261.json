@@ -5,24 +5,65 @@
   "gn": "0261",
   "utcStart": "2013-11-11 01:00:00+0000",
   "easternStart": "2013-11-10 20:00:00",
-  "summary": "",
+  "summary": "Ducks beat Canucks for fifth straight win",
   "h": {
     "ab": "ANA",
-    "record": "12-3-1",
+    "record": "15-3-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "VAN",
-    "record": "10-5-2",
+    "record": "11-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA437",
+      "summary": "Nick Bonino (5) Snap Shot, assists: Emerson Etem (3), Corey Perry (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA53",
+      "summary": "Alexandre Burrows Backhand saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA423",
+      "summary": "Tom Sestito (1) Wrist Shot, assists: Brad Richardson (5), Zack Kassian (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA596",
+      "summary": "Andrew Cogliano (5) Slap Shot, assists: Devante Smith-Pelly (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA401",
+      "summary": "Corey Perry (11) Tip-In, assists: Francois Beauchemin (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

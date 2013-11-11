@@ -5,24 +5,65 @@
   "gn": "0256",
   "utcStart": "2013-11-11 00:00:00+0000",
   "easternStart": "2013-11-10 19:00:00",
-  "summary": "",
+  "summary": "Brodeur gets another shutout as Devils top Predators",
   "h": {
     "ab": "NJD",
-    "record": "3-7-4",
+    "record": "5-7-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "7-5-2",
+    "record": "8-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J13",
+      "summary": "Jaromir Jagr (5) Wrist Shot, assists: Peter Harrold (1), Andy Greene (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J521",
+      "summary": "Travis Zajac (2) Snap Shot, assists: Jaromir Jagr (8), Dainius Zubrus (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J215",
+      "summary": "Marek Zidlicky (2) Slap Shot, assists: Eric Gelinas (4), Adam Henrique (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J203",
+      "summary": "Cam Janssen (2) Wrist Shot, assists: Ryan Carter (2), Marek Zidlicky (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J529",
+      "summary": "Mattias Tedenby (1) Snap Shot, assists: Andrei Loktionov (3), Steve Bernier (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

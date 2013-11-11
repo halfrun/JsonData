@@ -5,24 +5,73 @@
   "gn": "0260",
   "utcStart": "2013-11-11 01:00:00+0000",
   "easternStart": "2013-11-10 20:00:00",
-  "summary": "",
+  "summary": "Avalanche end homestand with win against Capitals",
   "h": {
     "ab": "COL",
-    "record": "12-1-0",
+    "record": "14-2-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WSH",
-    "record": "8-7-0",
+    "record": "9-8-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL397",
+      "summary": "Joel Ward (8) Backhand, assists: Mikhail Grabovski (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL57",
+      "summary": "Patrick Bordeleau (2) Tip-In, assists: Cody McLeod (3), Marc-Andre Cliche (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL398",
+      "summary": "Nick Holden (1) Snap Shot, assists: Gabriel Landeskog (7), Paul Stastny (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL54",
+      "summary": "Maxime Talbot Wrist Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL670",
+      "summary": "Gabriel Landeskog (6) Wrist Shot, assists: Erik Johnson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL537",
+      "summary": "PA Parenteau (6) Wrist Shot, assists: Matt Duchene (8), Erik Johnson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
