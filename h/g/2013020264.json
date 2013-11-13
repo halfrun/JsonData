@@ -1,0 +1,101 @@
+{
+  "id": "2013020264",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0264",
+  "utcStart": "2013-11-13 00:00:00+0000",
+  "easternStart": "2013-11-12 19:00:00",
+  "summary": "Islanders hold off Predators to end four-game skid",
+  "h": {
+    "ab": "NYI",
+    "record": "7-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "8-8-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYI211",
+      "summary": "Pierre-Marc Bouchard (4) Wrist Shot, assists: Frans Nielsen (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI103",
+      "summary": "Michael Grabner Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI634",
+      "summary": "Patric Hornqvist (5) Wrist Shot, assists: David Legwand (11), Shea Weber (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI106",
+      "summary": "Andrew MacDonald Slap Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI116",
+      "summary": "John Tavares Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI108",
+      "summary": "Paul Gaustad Slap Shot saved by Kevin Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI202",
+      "summary": "John Tavares (8) Wrist Shot, assists: Frans Nielsen (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI118",
+      "summary": "Pierre-Marc Bouchard Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI243",
+      "summary": "Kyle Okposo (6) Slap Shot, assists: John Tavares (14), Brock Nelson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

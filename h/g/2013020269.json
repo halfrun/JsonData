@@ -1,0 +1,85 @@
+{
+  "id": "2013020269",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0269",
+  "utcStart": "2013-11-13 00:30:00+0000",
+  "easternStart": "2013-11-12 19:30:00",
+  "summary": "Mason, Flyers shut out Senators",
+  "h": {
+    "ab": "OTT",
+    "record": "7-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "6-10-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "pbp": [
+    {
+      "key": "OTT533",
+      "summary": "Vincent Lecavalier (7) Slap Shot, assists: Brayden Schenn (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT255",
+      "summary": "Matt Read (4) Wrap-around, assists: Steve Downie (7), Sean Couturier (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT550",
+      "summary": "Brayden Schenn (4) Tip-In, assists: Vincent Lecavalier (3), Erik Gustafsson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT472",
+      "summary": "Jakub Voracek (3) Wrist Shot, assists: Wayne Simmonds (5), Claude Giroux (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT18",
+      "summary": "Nicklas Grossmann Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT278",
+      "summary": "Jakub Voracek (2) Wrap-around, assists: Scott Hartnell (1), Claude Giroux (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT17",
+      "summary": "Scott Hartnell Slap Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

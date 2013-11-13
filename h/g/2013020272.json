@@ -1,0 +1,85 @@
+{
+  "id": "2013020272",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0272",
+  "utcStart": "2013-11-13 01:00:00+0000",
+  "easternStart": "2013-11-12 20:00:00",
+  "summary": "Ekman-Larsson scores in OT for Coyotes vs. Blues",
+  "h": {
+    "ab": "STL",
+    "record": "11-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "13-4-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "STL613",
+      "summary": "Oliver Ekman-Larsson (4) Slap Shot, assists: Mike Ribeiro (8), Shane Doan (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL66",
+      "summary": "David Moss (1) Wrist Shot, assists: Mike Ribeiro (7), Oliver Ekman-Larsson (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL419",
+      "summary": "Roman Polak (2) Wrist Shot, assists: Alexander Steen (8), David Backes (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL55",
+      "summary": "Jaden Schwartz Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL59",
+      "summary": "Vladimir Tarasenko Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL94",
+      "summary": "Mikkel Boedker (4) Wrist Shot, assists: Rob Klinkhammer (4), Rostislav Klesla (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "STL62",
+      "summary": "Maxim Lapierre (2) Tip-In, assists: Jay Bouwmeester (11), Alex Pietrangelo (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

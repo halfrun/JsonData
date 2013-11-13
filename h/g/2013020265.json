@@ -1,0 +1,93 @@
+{
+  "id": "2013020265",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0265",
+  "utcStart": "2013-11-13 00:00:00+0000",
+  "easternStart": "2013-11-12 19:00:00",
+  "summary": "Devils defeat Rangers on late goal by Zubrus",
+  "h": {
+    "ab": "NYR",
+    "record": "9-9-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "6-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR576",
+      "summary": "Ryan Carter (2) Backhand, assists: Adam Larsson (2), Peter Harrold (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR664",
+      "summary": "Dan Girardi (1) Snap Shot, assists: Chris Kreider (8), Ryan McDonagh (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR66",
+      "summary": "Derek Stepan Wrist Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR285",
+      "summary": "Ryan Carter (1) Wrist Shot, assists: Andy Greene (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR57",
+      "summary": "Jaromir Jagr Wrap-around saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR681",
+      "summary": "Dainius Zubrus (3) Wrist Shot, assists: Travis Zajac (4), Jaromir Jagr (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR287",
+      "summary": "Marc Staal (2) Slap Shot, assists: Mats Zuccarello (8), Chris Kreider (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR70",
+      "summary": "Damien Brunner Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

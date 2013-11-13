@@ -1,0 +1,85 @@
+{
+  "id": "2013020263",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0263",
+  "utcStart": "2013-11-13 00:00:00+0000",
+  "easternStart": "2013-11-12 19:00:00",
+  "summary": "Sabres beat Kings in shootout for first home win",
+  "h": {
+    "ab": "BUF",
+    "record": "4-15-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "11-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BUF60",
+      "summary": "Matt Frattin Snap Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF421",
+      "summary": "Cody Hodgson (7) Backhand, assists: Tyler Ennis (4), Matt Moulson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF296",
+      "summary": "Cody Hodgson (6) Tip-In, assists: Steve Ott (3), Matt Moulson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF56",
+      "summary": "Justin Williams (7) Tip-In, assists: Slava Voynov (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF666",
+      "summary": "Dwight King (5) Wrist Shot, assists: Tyler Toffoli (4), Mike Richards (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF65",
+      "summary": "Drew Stafford Wrist Shot saved by Jonathan Quick",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF54",
+      "summary": "Justin Williams Tip-In saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

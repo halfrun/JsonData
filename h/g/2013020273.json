@@ -1,0 +1,93 @@
+{
+  "id": "2013020273",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0273",
+  "utcStart": "2013-11-13 02:00:00+0000",
+  "easternStart": "2013-11-12 21:00:00",
+  "summary": "Sharks top Flames in overtime on Stuart's goal",
+  "h": {
+    "ab": "CGY",
+    "record": "6-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "11-2-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CGY212",
+      "summary": "Patrick Marleau (9) Wrist Shot, assists: Joe Pavelski (13), Joe Thornton (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY11",
+      "summary": "John McCarthy Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY738",
+      "summary": "Brad Stuart (1) Deflected, assists: Joe Thornton (17), Dan Boyle (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY19",
+      "summary": "Tyler Kennedy Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY543",
+      "summary": "Kris Russell (3) Slap Shot, assists: Sean Monahan (5)",
+      "homeType": "goal",
+      "homeNumber": 0,
+      "awayType": "goal",
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY8",
+      "summary": "David Jones Wrist Shot saved by Alex Stalock",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY10",
+      "summary": "Logan Couture (8) Wrist Shot, assists: Patrick Marleau (9), Tyler Kennedy (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY16",
+      "summary": "Jason Demers Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

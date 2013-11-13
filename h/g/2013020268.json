@@ -1,0 +1,53 @@
+{
+  "id": "2013020268",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0268",
+  "utcStart": "2013-11-13 00:30:00+0000",
+  "easternStart": "2013-11-12 19:30:00",
+  "summary": "Stamkos-less Lightning beat Canadiens in shootout",
+  "h": {
+    "ab": "MTL",
+    "record": "9-8-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "13-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "MTL672",
+      "summary": "Daniel Briere (2) Tip-In, assists: Max Pacioretty (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL71",
+      "summary": "Ryan Malone (3) Tip-In, assists: Eric Brewer (4), B.J. Crombeen (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL68",
+      "summary": "Teddy Purcell Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

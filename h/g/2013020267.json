@@ -1,0 +1,53 @@
+{
+  "id": "2013020267",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0267",
+  "utcStart": "2013-11-13 00:00:00+0000",
+  "easternStart": "2013-11-12 19:00:00",
+  "summary": "Peters helps Hurricanes hand Avalanche 1st road loss",
+  "h": {
+    "ab": "CAR",
+    "record": "7-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "14-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CAR416",
+      "summary": "Paul Stastny (7) Wrist Shot, assists: Nathan MacKinnon (9), Gabriel Landeskog (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR38",
+      "summary": "Jordan Staal (3) Backhand, assists: Nathan Gerbe (4), Patrick Dwyer (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR218",
+      "summary": "Patrick Dwyer (1) Wrist Shot, assists: Nathan Gerbe (5), Jordan Staal (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2013020266",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0266",
+  "utcStart": "2013-11-13 00:00:00+0000",
+  "easternStart": "2013-11-12 19:00:00",
+  "summary": "Ovechkin's OT goal lifts Capitals past Blue Jackets",
+  "h": {
+    "ab": "WSH",
+    "record": "10-8-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "6-10-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "pbp": [
+    {
+      "key": "WSH12",
+      "summary": "Blake Comeau Slap Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH17",
+      "summary": "Alex Ovechkin Backhand saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH21",
+      "summary": "Derek MacKenzie Slap Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH608",
+      "summary": "Cam Atkinson (5) Wrist Shot, assists: Brandon Dubinsky (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH620",
+      "summary": "Mikhail Grabovski (6) Wrist Shot, assists: Jason Chimera (8), Mike Green (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH8",
+      "summary": "Marian Gaborik Wrist Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH409",
+      "summary": "John Carlson (4) Wrist Shot, assists: Martin Erat (6), Mikhail Grabovski (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH602",
+      "summary": "Joel Ward (9) Wrist Shot, assists: Alexander Urbom (1), Brooks Laich (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH246",
+      "summary": "Brandon Dubinsky (5) Backhand, assists: Mark Letestu (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH640",
+      "summary": "Alex Ovechkin (14) Wrist Shot, assists: Marcus Johansson (14), John Carlson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH604",
+      "summary": "Jared Boll (1) Deflected, assists: James Wisniewski (12), Sean Collins (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

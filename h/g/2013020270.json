@@ -1,0 +1,85 @@
+{
+  "id": "2013020270",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0270",
+  "utcStart": "2013-11-13 00:30:00+0000",
+  "easternStart": "2013-11-12 19:30:00",
+  "summary": "Jets top Red Wings in shootout",
+  "h": {
+    "ab": "DET",
+    "record": "9-5-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "9-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET63",
+      "summary": "Daniel Alfredsson Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET70",
+      "summary": "Bryan Little (11) Snap Shot, assists: Blake Wheeler (7), Andrew Ladd (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET491",
+      "summary": "Pavel Datsyuk (9) Backhand, assists: Johan Franzen (4), Daniel Alfredsson (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET62",
+      "summary": "Daniel Alfredsson Tip-In saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET483",
+      "summary": "Zach Bogosian (1) Wrist Shot, assists: Olli Jokinen (7), Evander Kane (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET90",
+      "summary": "Pavel Datsyuk (8) Wrist Shot, assists: Henrik Zetterberg (11), Niklas Kronwall (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET55",
+      "summary": "Danny DeKeyser Wrist Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "id": "2013020263",
+      "utcStart": "2013-11-13 00:00:00+0000",
+      "summary": "Sabres beat Kings in shootout for first home win",
+      "h": "BUF",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020264",
+      "utcStart": "2013-11-13 00:00:00+0000",
+      "summary": "Islanders hold off Predators to end four-game skid",
+      "h": "NYI",
+      "a": "NSH"
+    },
+    {
+      "id": "2013020265",
+      "utcStart": "2013-11-13 00:00:00+0000",
+      "summary": "Devils defeat Rangers on late goal by Zubrus",
+      "h": "NYR",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020266",
+      "utcStart": "2013-11-13 00:00:00+0000",
+      "summary": "Ovechkin's OT goal lifts Capitals past Blue Jackets",
+      "h": "WSH",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020267",
+      "utcStart": "2013-11-13 00:00:00+0000",
+      "summary": "Peters helps Hurricanes hand Avalanche 1st road loss",
+      "h": "CAR",
+      "a": "COL"
+    },
+    {
+      "id": "2013020268",
+      "utcStart": "2013-11-13 00:30:00+0000",
+      "summary": "Stamkos-less Lightning beat Canadiens in shootout",
+      "h": "MTL",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020269",
+      "utcStart": "2013-11-13 00:30:00+0000",
+      "summary": "Mason, Flyers shut out Senators",
+      "h": "OTT",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020270",
+      "utcStart": "2013-11-13 00:30:00+0000",
+      "summary": "Jets top Red Wings in shootout",
+      "h": "DET",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020271",
+      "utcStart": "2013-11-13 00:30:00+0000",
+      "summary": "Panthers defeat Ducks to end nine-game slide",
+      "h": "FLA",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020272",
+      "utcStart": "2013-11-13 01:00:00+0000",
+      "summary": "Ekman-Larsson scores in OT for Coyotes vs. Blues",
+      "h": "STL",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020273",
+      "utcStart": "2013-11-13 02:00:00+0000",
+      "summary": "Sharks top Flames in overtime on Stuart's goal",
+      "h": "CGY",
+      "a": "SJS"
+    }
+  ]
+}
