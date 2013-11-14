@@ -1,0 +1,77 @@
+{
+  "id": "2013020275",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0275",
+  "utcStart": "2013-11-14 01:00:00+0000",
+  "easternStart": "2013-11-13 20:00:00",
+  "summary": "Flyers beat Penguins for third win in a row",
+  "h": {
+    "ab": "PIT",
+    "record": "11-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "7-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "PIT97",
+      "summary": "Brayden Schenn (5) Wrist Shot, assists: Wayne Simmonds (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT54",
+      "summary": "Chris Kunitz Backhand saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT281",
+      "summary": "Sidney Crosby (9) Tip-In, assists: Evgeni Malkin (13), Jussi Jokinen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT66",
+      "summary": "Kris Letang Snap Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT514",
+      "summary": "Brayden Schenn (6) Wrist Shot, assists: Steve Downie (8), Jakub Voracek (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT59",
+      "summary": "Evgeni Malkin Wrist Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

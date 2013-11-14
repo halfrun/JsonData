@@ -1,0 +1,61 @@
+{
+  "id": "2013020274",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0274",
+  "utcStart": "2013-11-14 00:30:00+0000",
+  "easternStart": "2013-11-13 19:30:00",
+  "summary": "Parise scores late; Wild top Maple Leafs in shootout",
+  "h": {
+    "ab": "MIN",
+    "record": "11-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 3,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "11-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MIN243",
+      "summary": "Mason Raymond (6) Wrist Shot, assists: Morgan Rielly (6), Nazem Kadri (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "MIN680",
+      "summary": "Zach Parise (9) Wrist Shot, assists: Charlie Coyle (2), Mikko Koivu (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN17",
+      "summary": "Carter Ashton Wrist Shot saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN19",
+      "summary": "Nino Niederreiter Wrist Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

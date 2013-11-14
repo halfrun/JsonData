@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "2013020274",
+      "utcStart": "2013-11-14 00:30:00+0000",
+      "summary": "Parise scores late; Wild top Maple Leafs in shootout",
+      "h": "MIN",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020275",
+      "utcStart": "2013-11-14 01:00:00+0000",
+      "summary": "Flyers beat Penguins for third win in a row",
+      "h": "PIT",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020276",
+      "utcStart": "2013-11-14 03:00:00+0000",
+      "summary": "Oilers shut out again at home by Stars",
+      "h": "EDM",
+      "a": "DAL"
+    }
+  ]
+}
