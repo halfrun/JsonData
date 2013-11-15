@@ -1,0 +1,101 @@
+{
+  "id": "2013020280",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0280",
+  "utcStart": "2013-11-15 01:00:00+0000",
+  "easternStart": "2013-11-14 20:00:00",
+  "summary": "Blackhawks outlast Coyotes in shootout",
+  "h": {
+    "ab": "CHI",
+    "record": "13-2-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "13-4-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "CHI12",
+      "summary": "Brandon Saad (5) Wrist Shot, assists: Patrick Kane (8), Nick Leddy (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI440",
+      "summary": "Lauri Korpikoski (3) Wrist Shot, assists: Radim Vrbata (8), Keith Yandle (15)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI628",
+      "summary": "Brandon Pirri (4) Tip-In, assists: Brent Seabrook (10), Nick Leddy (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI448",
+      "summary": "Michael Stone (5) Wrist Shot, assists: Shane Doan (6), Oliver Ekman-Larsson (12)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI35",
+      "summary": "Michael Stone (4) Wrist Shot, assists: Mikkel Boedker (9), Rob Klinkhammer (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI17",
+      "summary": "Shane Doan Slap Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI250",
+      "summary": "Marian Hossa (9) Wrist Shot, assists: Jonathan Toews (9), Duncan Keith (13)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI202",
+      "summary": "Shane Doan (9) Wrist Shot, assists: Keith Yandle (14), Mike Ribeiro (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI31",
+      "summary": "Patrick Sharp (5) Wrist Shot, assists: Jonathan Toews (8), Patrick Kane (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

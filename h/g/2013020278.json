@@ -1,0 +1,85 @@
+{
+  "id": "2013020278",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0278",
+  "utcStart": "2013-11-15 00:00:00+0000",
+  "easternStart": "2013-11-14 19:00:00",
+  "summary": "Kings score three in third to defeat Islanders",
+  "h": {
+    "ab": "NYI",
+    "record": "7-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "12-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYI568",
+      "summary": "Slava Voynov (3) Wrist Shot, assists: Anze Kopitar (14), Justin Williams (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI57",
+      "summary": "Dwight King Wrist Shot saved by Kevin Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI584",
+      "summary": "Tanner Pearson (1) Snap Shot, assists: Slava Voynov (5), Linden Vey (2)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NYI64",
+      "summary": "Alec Martinez Snap Shot saved by Kevin Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI262",
+      "summary": "Casey Cizikas (1) Backhand, assists: Matt Martin (1), Cal Clutterbuck (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI593",
+      "summary": "Tyler Toffoli (3) Wrist Shot, assists: Jake Muzzin (8), Linden Vey (3)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NYI264",
+      "summary": "Aaron Ness (1) Snap Shot, assists: John Tavares (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2013020281",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0281",
+  "utcStart": "2013-11-15 01:00:00+0000",
+  "easternStart": "2013-11-14 20:00:00",
+  "summary": "Blues send message to Avalanche with big win",
+  "h": {
+    "ab": "STL",
+    "record": "12-2-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "14-4-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "STL439",
+      "summary": "Matt Duchene (12) Wrist Shot, assists: Nate Guenin (3), Ryan O'Reilly (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL338",
+      "summary": "Vladimir Tarasenko (6) Slap Shot, assists: Patrik Berglund (5), Jaden Schwartz (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL329",
+      "summary": "Alexander Steen (15) Snap Shot, assists: David Backes (11), T.J. Oshie (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL430",
+      "summary": "Alexander Steen (16) Tip-In, assists: David Backes (12), T.J. Oshie (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL55",
+      "summary": "Derek Roy (5) Deflected, assists: T.J. Oshie (11), Alex Pietrangelo (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL402",
+      "summary": "Chris Stewart (3) Backhand, assists: Kevin Shattenkirk (12), Derek Roy (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL65",
+      "summary": "Nathan MacKinnon (3) Slap Shot, assists: Paul Stastny (8), Gabriel Landeskog (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL53",
+      "summary": "Cory Sarich Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL610",
+      "summary": "Ryan O'Reilly (7) Wrist Shot, assists: Jamie McGinn (4), Nick Holden (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL450",
+      "summary": "Jay Bouwmeester (1) Wrist Shot, assists: Vladimir Tarasenko (4), Alex Pietrangelo (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL313",
+      "summary": "David Backes (7) Wrist Shot, assists: T.J. Oshie (12), Derek Roy (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

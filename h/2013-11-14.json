@@ -1,0 +1,53 @@
+{
+  "games": [
+    {
+      "id": "2013020277",
+      "utcStart": "2013-11-15 00:00:00+0000",
+      "summary": "OT goal by Lucic ends Bruins' successful homestand",
+      "h": "BOS",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020278",
+      "utcStart": "2013-11-15 00:00:00+0000",
+      "summary": "Kings score three in third to defeat Islanders",
+      "h": "NYI",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020279",
+      "utcStart": "2013-11-15 00:30:00+0000",
+      "summary": "Lightning rout Ducks to continue dominance of West",
+      "h": "TBL",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020280",
+      "utcStart": "2013-11-15 01:00:00+0000",
+      "summary": "Blackhawks outlast Coyotes in shootout",
+      "h": "CHI",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020281",
+      "utcStart": "2013-11-15 01:00:00+0000",
+      "summary": "Blues send message to Avalanche with big win",
+      "h": "STL",
+      "a": "COL"
+    },
+    {
+      "id": "2013020282",
+      "utcStart": "2013-11-15 02:00:00+0000",
+      "summary": "Benn (6 points), Seguin (4 goals) lead Stars by Flames",
+      "h": "CGY",
+      "a": "DAL"
+    },
+    {
+      "id": "2013020283",
+      "utcStart": "2013-11-15 03:00:00+0000",
+      "summary": "Sharks tie game late, beat Canucks in OT",
+      "h": "VAN",
+      "a": "SJS"
+    }
+  ]
+}

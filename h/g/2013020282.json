@@ -1,0 +1,125 @@
+{
+  "id": "2013020282",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0282",
+  "utcStart": "2013-11-15 02:00:00+0000",
+  "easternStart": "2013-11-14 21:00:00",
+  "summary": "Benn (6 points), Seguin (4 goals) lead Stars by Flames",
+  "h": {
+    "ab": "CGY",
+    "record": "6-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "DAL",
+    "record": "10-7-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CGY672",
+      "summary": "Matt Stajan (3) Wrist Shot, assists: TJ Galiardi (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY245",
+      "summary": "Jamie Benn (7) Backhand, assists: Tyler Seguin (10), Alex Goligoski (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY657",
+      "summary": "David Jones (4) Deflected, assists: Kris Russell (7), Sven Baertschi (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY14",
+      "summary": "Ryan Garbutt Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY405",
+      "summary": "Tyler Seguin (10) Wrist Shot, assists: Jamie Benn (13), Alex Goligoski (3)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY26",
+      "summary": "Stephane Robidas (2) Slap Shot, assists: Brenden Dillon (5), Jamie Benn (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY439",
+      "summary": "Tyler Seguin (11) Snap Shot, assists: Valeri Nichushkin (6), Jamie Benn (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY241",
+      "summary": "Tyler Seguin (9) Wrist Shot, assists: Jamie Benn (12), Valeri Nichushkin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY419",
+      "summary": "Matt Stajan (2) Slap Shot, assists: David Jones (3), Dennis Wideman (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY19",
+      "summary": "Tyler Seguin Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY685",
+      "summary": "Tyler Seguin (12) Wrist Shot, assists: Jamie Benn (15), Sergei Gonchar (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY413",
+      "summary": "Ryan Garbutt (2) Snap Shot, assists: Antoine Roussel (4), Alex Goligoski (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

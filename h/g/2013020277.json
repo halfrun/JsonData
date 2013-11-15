@@ -1,0 +1,85 @@
+{
+  "id": "2013020277",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0277",
+  "utcStart": "2013-11-15 00:00:00+0000",
+  "easternStart": "2013-11-14 19:00:00",
+  "summary": "OT goal by Lucic ends Bruins' successful homestand",
+  "h": {
+    "ab": "BOS",
+    "record": "12-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "6-10-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BOS460",
+      "summary": "Nick Foligno (4) Backhand, assists: Nikita Nikitin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS61",
+      "summary": "Carl Soderberg Tip-In saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS81",
+      "summary": "Blake Comeau (2) Snap Shot, assists: Mark Letestu (5), Derek MacKenzie (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS686",
+      "summary": "Milan Lucic (8) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "BOS294",
+      "summary": "Shawn Thornton (2) Slap Shot, assists: Gregory Campbell (2), Torey Krug (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS63",
+      "summary": "Torey Krug Slap Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS97",
+      "summary": "Loui Eriksson (3) Tip-In, assists: Zdeno Chara (4), Patrice Bergeron (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

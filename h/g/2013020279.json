@@ -1,0 +1,101 @@
+{
+  "id": "2013020279",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0279",
+  "utcStart": "2013-11-15 00:30:00+0000",
+  "easternStart": "2013-11-14 19:30:00",
+  "summary": "Lightning rout Ducks to continue dominance of West",
+  "h": {
+    "ab": "TBL",
+    "record": "14-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "15-5-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "T.B437",
+      "summary": "Victor Hedman (3) Wrist Shot, assists: Richard Panik (8), Tyler Johnson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B248",
+      "summary": "Alex Killorn (5) Wrist Shot, assists: Martin St. Louis (11), Mark Barberio (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B223",
+      "summary": "Valtteri Filppula (8) Wrist Shot, assists: Victor Hedman (6), Martin St. Louis (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B53",
+      "summary": "Bryan Allen hit Ondrej Palat",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B10",
+      "summary": "J.T. Brown Backhand saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B202",
+      "summary": "Martin St. Louis (8) Wrist Shot, assists: J.T. Brown (1), Valtteri Filppula (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B29",
+      "summary": "Valtteri Filppula (7) Slap Shot, assists: Teddy Purcell (6), Matthew Carle (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B414",
+      "summary": "Emerson Etem (5) Wrist Shot, assists: Cam Fowler (8), Francois Beauchemin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B17",
+      "summary": "Matthew Carle Slap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}
