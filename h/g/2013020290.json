@@ -1,0 +1,101 @@
+{
+  "id": "2013020290",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0290",
+  "utcStart": "2013-11-16 00:30:00+0000",
+  "easternStart": "2013-11-15 19:30:00",
+  "summary": "Capitals score late, add to Red Wings' woes at home",
+  "h": {
+    "ab": "DET",
+    "record": "9-5-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "WSH",
+    "record": "11-8-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET57",
+      "summary": "Drew Miller Tip-In saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET251",
+      "summary": "Johan Franzen (4) Wrist Shot, assists: Tomas Tatar (2), Darren Helm (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET65",
+      "summary": "Brooks Laich (3) Backhand, assists: Steve Oleksy (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET585",
+      "summary": "Michael Latta (1) Backhand, assists: John Carlson (4), Karl Alzner (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET14",
+      "summary": "Jakub Kindl hit Aaron Volpatti",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET16",
+      "summary": "Tom Wilson hit Jakub Kindl",
+      "homeType": "hit",
+      "homeNumber": 2,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET96",
+      "summary": "Johan Franzen (3) Wrist Shot, assists: Jakub Kindl (6), Danny DeKeyser (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET566",
+      "summary": "Alex Ovechkin (15) Wrist Shot, assists: Marcus Johansson (15), Nicklas Backstrom (16)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET554",
+      "summary": "Danny DeKeyser (2) Snap Shot, assists: Johan Franzen (5), Jakub Kindl (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

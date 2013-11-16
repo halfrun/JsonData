@@ -1,0 +1,85 @@
+{
+  "id": "2013020293",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0293",
+  "utcStart": "2013-11-16 03:00:00+0000",
+  "easternStart": "2013-11-15 22:00:00",
+  "summary": "Sharks beat Oilers, complete Western Canada sweep",
+  "h": {
+    "ab": "EDM",
+    "record": "4-15-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "13-2-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "EDM214",
+      "summary": "Tomas Hertl (12) Wrist Shot, assists: Joe Thornton (19), Tommy Wingels (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM64",
+      "summary": "Ales Hemsky Snap Shot saved by Alex Stalock",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM208",
+      "summary": "Joe Pavelski (7) Wrist Shot, assists: Patrick Marleau (10), Logan Couture (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM53",
+      "summary": "Patrick Marleau Snap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM56",
+      "summary": "Anton Belov Slap Shot saved by Alex Stalock",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM419",
+      "summary": "Nail Yakupov (3) Slap Shot, assists: Sam Gagner (2), Ales Hemsky (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM236",
+      "summary": "Patrick Marleau (10) Snap Shot, assists: Jason Demers (9), Joe Thornton (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

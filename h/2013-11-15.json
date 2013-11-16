@@ -1,0 +1,74 @@
+{
+  "games": [
+    {
+      "id": "2013020284",
+      "utcStart": "2013-11-16 00:00:00+0000",
+      "summary": "Sabres top Maple Leafs in Nolan's debut",
+      "h": "BUF",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020285",
+      "utcStart": "2013-11-16 00:00:00+0000",
+      "summary": "Kings goalie Scrivens shuts out Devils",
+      "h": "NJD",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020286",
+      "utcStart": "2013-11-16 00:00:00+0000",
+      "summary": "Penguins beat Predators to snap slump",
+      "h": "PIT",
+      "a": "NSH"
+    },
+    {
+      "id": "2013020287",
+      "utcStart": "2013-11-16 00:00:00+0000",
+      "summary": "Hurricanes top Ducks in shootout",
+      "h": "CAR",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020288",
+      "utcStart": "2013-11-16 00:00:00+0000",
+      "summary": "Canadiens rally, defeat Blue Jackets in shootout",
+      "h": "CBJ",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020289",
+      "utcStart": "2013-11-16 00:30:00+0000",
+      "summary": "Senators score four in a row to rally past Bruins",
+      "h": "OTT",
+      "a": "BOS"
+    },
+    {
+      "id": "2013020290",
+      "utcStart": "2013-11-16 00:30:00+0000",
+      "summary": "Capitals score late, add to Red Wings' woes at home",
+      "h": "DET",
+      "a": "WSH"
+    },
+    {
+      "id": "2013020291",
+      "utcStart": "2013-11-16 01:00:00+0000",
+      "summary": "Wild blow third-period lead but beat Panthers",
+      "h": "MIN",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020292",
+      "utcStart": "2013-11-16 01:00:00+0000",
+      "summary": "Jets score twice on power play, top Flyers in SO",
+      "h": "WPG",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020293",
+      "utcStart": "2013-11-16 03:00:00+0000",
+      "summary": "Sharks beat Oilers, complete Western Canada sweep",
+      "h": "EDM",
+      "a": "SJS"
+    }
+  ]
+}

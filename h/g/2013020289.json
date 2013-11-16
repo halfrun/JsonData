@@ -1,0 +1,101 @@
+{
+  "id": "2013020289",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0289",
+  "utcStart": "2013-11-16 00:30:00+0000",
+  "easternStart": "2013-11-15 19:30:00",
+  "summary": "Senators score four in a row to rally past Bruins",
+  "h": {
+    "ab": "OTT",
+    "record": "8-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "12-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT9",
+      "summary": "Jarome Iginla hit Marc Methot",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT24",
+      "summary": "Loui Eriksson (4) Deflected, assists: Matt Bartkowski (3), Patrice Bergeron (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT529",
+      "summary": "Bobby Ryan (10) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT513",
+      "summary": "Jared Cowen (3) Slap Shot, assists: Cory Conacher (2), Jason Spezza (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT498",
+      "summary": "Jason Spezza (9) Snap Shot, assists: Erik Karlsson (13), Milan Michalek (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT15",
+      "summary": "Patrice Bergeron Slap Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT32",
+      "summary": "Brad Marchand (3) Wrist Shot, assists: Matt Bartkowski (4), Loui Eriksson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT262",
+      "summary": "Chris Neil (3) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "OTT11",
+      "summary": "Milan Michalek Deflected saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

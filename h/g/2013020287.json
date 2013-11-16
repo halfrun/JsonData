@@ -1,0 +1,85 @@
+{
+  "id": "2013020287",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0287",
+  "utcStart": "2013-11-16 00:00:00+0000",
+  "easternStart": "2013-11-15 19:00:00",
+  "summary": "Hurricanes top Ducks in shootout",
+  "h": {
+    "ab": "CAR",
+    "record": "8-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "15-5-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CAR586",
+      "summary": "Dustin Penner (4) Slap Shot, assists: Corey Perry (11), Cam Fowler (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR571",
+      "summary": "Drayson Bowman (2) Wrist Shot, assists: Andrej Sekera (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR558",
+      "summary": "Eric Staal (4) Deflected, assists: Alexander Semin (6), Ryan Murphy (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR12",
+      "summary": "Kyle Palmieri Wrist Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR19",
+      "summary": "Devante Smith-Pelly Snap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR10",
+      "summary": "Drayson Bowman Wrist Shot saved by Viktor Fasth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR300",
+      "summary": "Corey Perry (12) Wrist Shot, assists: Ryan Getzlaf (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

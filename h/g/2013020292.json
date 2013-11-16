@@ -1,0 +1,85 @@
+{
+  "id": "2013020292",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0292",
+  "utcStart": "2013-11-16 01:00:00+0000",
+  "easternStart": "2013-11-15 20:00:00",
+  "summary": "Jets score twice on power play, top Flyers in SO",
+  "h": {
+    "ab": "WPG",
+    "record": "10-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "7-10-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WPG65",
+      "summary": "Evander Kane Snap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG99",
+      "summary": "Wayne Simmonds (2) Wrist Shot, assists: Scott Hartnell (2), Kimmo Timonen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG68",
+      "summary": "Dustin Byfuglien (2) Snap Shot, assists: Devin Setoguchi (6), Olli Jokinen (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG612",
+      "summary": "Dustin Byfuglien (3) Slap Shot, assists: Olli Jokinen (9), Evander Kane (6)",
+      "homeType": "goal",
+      "homeNumber": 0,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG55",
+      "summary": "Bryan Little Snap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG72",
+      "summary": "Scott Hartnell (3) Wrap-around, assists: Jakub Voracek (6), Claude Giroux (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG57",
+      "summary": "Devin Setoguchi Backhand saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

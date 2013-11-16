@@ -1,0 +1,93 @@
+{
+  "id": "2013020291",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0291",
+  "utcStart": "2013-11-16 01:00:00+0000",
+  "easternStart": "2013-11-15 20:00:00",
+  "summary": "Wild blow third-period lead but beat Panthers",
+  "h": {
+    "ab": "MIN",
+    "record": "12-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "4-12-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MIN20",
+      "summary": "Zach Parise (10) Tip-In, assists: Mikko Koivu (12), Jason Pominville (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN497",
+      "summary": "Jonathan Huberdeau (4) Wrist Shot, assists: Nick Bjugstad (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN25",
+      "summary": "Nino Niederreiter Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN14",
+      "summary": "Clayton Stoner Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN488",
+      "summary": "Tomas Kopecky (1) Wrist Shot, assists: Jesse Winchester (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN601",
+      "summary": "Charlie Coyle (2) Wrist Shot, assists: Mikko Koivu (13), Ryan Suter (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN49",
+      "summary": "Jason Pominville (12) Wrist Shot, assists: Jared Spurgeon (6), Nino Niederreiter (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN10",
+      "summary": "Jason Pominville Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

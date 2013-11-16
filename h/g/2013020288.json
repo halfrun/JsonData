@@ -1,0 +1,77 @@
+{
+  "id": "2013020288",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0288",
+  "utcStart": "2013-11-16 00:00:00+0000",
+  "easternStart": "2013-11-15 19:00:00",
+  "summary": "Canadiens rally, defeat Blue Jackets in shootout",
+  "h": {
+    "ab": "CBJ",
+    "record": "6-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MTL",
+    "record": "10-8-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "CBJ61",
+      "summary": "Alex Galchenyuk Wrist Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ235",
+      "summary": "Lars Eller (7) Wrist Shot, assists: Daniel Briere (3), Andrei Markov (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ214",
+      "summary": "Alex Galchenyuk (4) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ205",
+      "summary": "Artem Anisimov (5) Wrist Shot, assists: Nikita Nikitin (3), David Savard (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ201",
+      "summary": "RJ Umberger (4) Wrist Shot, assists: Nick Foligno (4), James Wisniewski (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ63",
+      "summary": "Michael Chaput Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

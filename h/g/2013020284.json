@@ -1,0 +1,85 @@
+{
+  "id": "2013020284",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0284",
+  "utcStart": "2013-11-16 00:00:00+0000",
+  "easternStart": "2013-11-15 19:00:00",
+  "summary": "Sabres top Maple Leafs in Nolan's debut",
+  "h": {
+    "ab": "BUF",
+    "record": "5-15-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "11-7-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BUF314",
+      "summary": "Trevor Smith (2) Slap Shot, assists: David Clarkson (2), Mason Raymond (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF336",
+      "summary": "Marcus Foligno (3) Backhand, assists: Steve Ott (4), Drew Stafford (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF323",
+      "summary": "Steve Ott (3) Snap Shot, assists: Tyler Myers (4), Mark Pysyk (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF666",
+      "summary": "Christian Ehrhoff (1) Wrist Shot, assists: Mark Pysyk (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF53",
+      "summary": "Drew Stafford Snap Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF59",
+      "summary": "Mark Pysyk Snap Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF58",
+      "summary": "Tyler Ennis Tip-In saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

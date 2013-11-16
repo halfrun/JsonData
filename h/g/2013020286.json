@@ -1,0 +1,93 @@
+{
+  "id": "2013020286",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0286",
+  "utcStart": "2013-11-16 00:00:00+0000",
+  "easternStart": "2013-11-15 19:00:00",
+  "summary": "Penguins beat Predators to snap slump",
+  "h": {
+    "ab": "PIT",
+    "record": "12-7-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "8-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PIT89",
+      "summary": "James Neal (1) Tip-In, assists: Evgeni Malkin (14), Sidney Crosby (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT61",
+      "summary": "Gabriel Bourque (2) Tip-In, assists: Kevin Klein (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT65",
+      "summary": "Pascal Dupuis Backhand saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT322",
+      "summary": "Kris Letang (4) Snap Shot, assists: Evgeni Malkin (15), James Neal (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT59",
+      "summary": "Roman Josi Slap Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT68",
+      "summary": "Viktor Stalberg Wrist Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT81",
+      "summary": "Pascal Dupuis (3) Slap Shot, assists: Matt D'Agostini (1), Brandon Sutter (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT347",
+      "summary": "Brandon Sutter (3) Snap Shot, assists: Jussi Jokinen (5), Paul Martin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}
