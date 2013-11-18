@@ -1,0 +1,77 @@
+{
+  "id": "2013020295",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0295",
+  "utcStart": "2013-11-17 00:00:00+0000",
+  "easternStart": "2013-11-16 19:00:00",
+  "summary": "Talbot's shutout gives Rangers rare win in Montreal",
+  "h": {
+    "ab": "MTL",
+    "record": "10-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "10-10-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MTL18",
+      "summary": "Brandon Prust hit Justin Falk",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL64",
+      "summary": "Brendan Gallagher Wrist Shot saved by Cam Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL291",
+      "summary": "Ryan Callahan (6) Tip-In, assists: Brad Richards (10), Derek Stepan (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL61",
+      "summary": "David Desharnais Wrist Shot saved by Cam Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL57",
+      "summary": "John Moore Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL19",
+      "summary": "Alexei Emelin hit Chris Kreider",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
+}

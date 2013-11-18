@@ -1,0 +1,77 @@
+{
+  "id": "2013020304",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0304",
+  "utcStart": "2013-11-17 23:00:00+0000",
+  "easternStart": "2013-11-17 18:00:00",
+  "summary": "Ovechkin scores twice to lead Capitals past Blues",
+  "h": {
+    "ab": "WSH",
+    "record": "12-8-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "STL",
+    "record": "13-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH28",
+      "summary": "Alex Ovechkin (16) Slap Shot, assists: Nicklas Backstrom (17), Steve Oleksy (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WSH422",
+      "summary": "Vladimir Sobotka (3) Wrist Shot, assists: Kevin Shattenkirk (13), Jay Bouwmeester (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH437",
+      "summary": "John Carlson (5) Wrist Shot, assists: Nicklas Backstrom (19), Marcus Johansson (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH255",
+      "summary": "Mikhail Grabovski (7) Wrist Shot, assists: Jason Chimera (9), Joel Ward (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH17",
+      "summary": "Tom Wilson Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH43",
+      "summary": "Alex Ovechkin (17) Backhand, assists: Karl Alzner (4), Nicklas Backstrom (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

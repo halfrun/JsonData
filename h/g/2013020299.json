@@ -1,0 +1,117 @@
+{
+  "id": "2013020299",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0299",
+  "utcStart": "2013-11-17 01:00:00+0000",
+  "easternStart": "2013-11-16 20:00:00",
+  "summary": "Predators return home, blow out Blackhawks",
+  "h": {
+    "ab": "NSH",
+    "record": "9-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "14-3-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NSH432",
+      "summary": "Craig Smith (4) Backhand, assists: Matt Cullen (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH644",
+      "summary": "Shea Weber (5) Slap Shot, assists: Roman Josi (3), David Legwand (13)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH636",
+      "summary": "Mike Fisher (3) Wrist Shot, assists: Patric Hornqvist (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH618",
+      "summary": "Viktor Stalberg (2) Backhand, assists: Gabriel Bourque (3), David Legwand (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH616",
+      "summary": "Brandon Pirri (5) Wrist Shot, assists: Brent Seabrook (11), Kris Versteeg (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH435",
+      "summary": "Patrick Kane (11) Wrist Shot, assists: Brandon Bollig (3), Duncan Keith (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH33",
+      "summary": "Nick Spaling (2) Wrist Shot, assists: Craig Smith (7), Ryan Ellis (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "NSH12",
+      "summary": "Paul Gaustad Wrist Shot saved by Nikolai Khabibulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH27",
+      "summary": "Matt Cullen (3) Wrist Shot, assists: Craig Smith (6), Seth Jones (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH9",
+      "summary": "David Legwand Wrist Shot saved by Nikolai Khabibulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH300",
+      "summary": "Patric Hornqvist (6) Tip-In, assists: Roman Josi (2), Shea Weber (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

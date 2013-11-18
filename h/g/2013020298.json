@@ -1,0 +1,93 @@
+{
+  "id": "2013020298",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0298",
+  "utcStart": "2013-11-17 01:00:00+0000",
+  "easternStart": "2013-11-16 20:00:00",
+  "summary": "Steen saves Blues again against Hurricanes",
+  "h": {
+    "ab": "STL",
+    "record": "13-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "8-8-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "STL63",
+      "summary": "Alex Pietrangelo Slap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL638",
+      "summary": "T.J. Oshie (3) Wrist Shot, assists: Alex Pietrangelo (12), Jay Bouwmeester (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL239",
+      "summary": "Roman Polak (3) Wrist Shot, assists: Chris Stewart (4), Alexander Steen (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL412",
+      "summary": "Nathan Gerbe (5) Wrist Shot, assists: Riley Nash (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL409",
+      "summary": "Eric Staal (5) Backhand, assists: Manny Malhotra (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL244",
+      "summary": "David Backes (8) Slap Shot, assists: Brenden Morrow (2), Jay Bouwmeester (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL450",
+      "summary": "Alexander Steen (17) Wrist Shot, assists: Roman Polak (1), Ian Cole (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL65",
+      "summary": "Alex Pietrangelo Slap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

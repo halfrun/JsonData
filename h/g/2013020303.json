@@ -1,0 +1,93 @@
+{
+  "id": "2013020303",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0303",
+  "utcStart": "2013-11-17 18:00:00+0000",
+  "easternStart": "2013-11-17 13:00:00",
+  "summary": "Blue Jackets ride power play to win against Senators",
+  "h": {
+    "ab": "OTT",
+    "record": "8-8-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "7-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT15",
+      "summary": "Mark Borowiecki hit Artem Anisimov",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT30",
+      "summary": "Ryan Johansen (6) Wrist Shot, assists: Ryan Murray (2), James Wisniewski (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT495",
+      "summary": "Fedor Tyutin (2) Wrist Shot, assists: Nick Foligno (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT792",
+      "summary": "Erik Karlsson (7) Slap Shot, assists: Chris Phillips (6), Milan Michalek (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT20",
+      "summary": "Cory Conacher Tip-In saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT21",
+      "summary": "Brandon Dubinsky Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT694",
+      "summary": "Derek MacKenzie (2) Wrist Shot, assists: Mark Letestu (6), Blake Comeau (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT463",
+      "summary": "RJ Umberger (5) Tip-In, assists: Ryan Johansen (7), Fedor Tyutin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "2013020294",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0294",
+  "utcStart": "2013-11-17 00:00:00+0000",
+  "easternStart": "2013-11-16 19:00:00",
+  "summary": "Van Riemsdyk leads Maple Leafs past Sabres",
+  "h": {
+    "ab": "TOR",
+    "record": "12-7-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "BUF",
+    "record": "5-16-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "TOR15",
+      "summary": "Tyler Myers Wrist Shot saved by James Reimer",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR855",
+      "summary": "Mason Raymond (7) Slap Shot, assists: Trevor Smith (1), David Clarkson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR42",
+      "summary": "James van Riemsdyk (9) Tip-In, assists: Cody Franson (12), Dion Phaneuf (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR615",
+      "summary": "Tyler Ennis (3) Snap Shot, assists: Matt Moulson (10), Cody Hodgson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR14",
+      "summary": "Jake Gardiner Snap Shot saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR26",
+      "summary": "James van Riemsdyk (8) Slap Shot, assists: Cody Franson (11), Jake Gardiner (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR603",
+      "summary": "Jamie McBain (2) Slap Shot, assists: Zemgus Girgensons (5), Marcus Foligno (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR60",
+      "summary": "Peter Holland hit Rasmus Ristolainen",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR414",
+      "summary": "Nikolai Kulemin (1) Wrist Shot, assists: Mason Raymond (8), Paul Ranger (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

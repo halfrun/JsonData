@@ -1,0 +1,93 @@
+{
+  "id": "2013020296",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0296",
+  "utcStart": "2013-11-17 00:00:00+0000",
+  "easternStart": "2013-11-16 19:00:00",
+  "summary": "Devils top Penguins; Brodeur wins fourth straight ",
+  "h": {
+    "ab": "NJD",
+    "record": "7-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "12-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "N.J57",
+      "summary": "Craig Adams hit Cam Janssen",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J46",
+      "summary": "Andy Greene (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J494",
+      "summary": "Jaromir Jagr (7) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J258",
+      "summary": "Chris Kunitz (9) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J16",
+      "summary": "Brandon Sutter Tip-In saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J483",
+      "summary": "Jaromir Jagr (6) Snap Shot, assists: Dainius Zubrus (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J293",
+      "summary": "Adam Larsson (1) Wrist Shot, assists: Travis Zajac (5), Dainius Zubrus (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J17",
+      "summary": "Matt Niskanen Slap Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

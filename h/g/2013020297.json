@@ -1,0 +1,109 @@
+{
+  "id": "2013020297",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0297",
+  "utcStart": "2013-11-17 00:00:00+0000",
+  "easternStart": "2013-11-16 19:00:00",
+  "summary": "Islanders edge Red Wings in shootout",
+  "h": {
+    "ab": "NYI",
+    "record": "8-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "DET",
+    "record": "9-5-7",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYI388",
+      "summary": "Johan Franzen (5) Wrist Shot, assists: Darren Helm (2), Tomas Tatar (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI103",
+      "summary": "Kyle Okposo Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI107",
+      "summary": "John Tavares (9) Tip-In, assists: Josh Bailey (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI391",
+      "summary": "Brock Nelson (3) Wrist Shot, assists: John Tavares (16), Andrew MacDonald (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI596",
+      "summary": "Pavel Datsyuk (11) Backhand, assists: Danny DeKeyser (7), Henrik Zetterberg (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI137",
+      "summary": "Pavel Datsyuk (10) Tip-In, assists: Mikael Samuelsson (1), Henrik Zetterberg (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI386",
+      "summary": "Casey Cizikas (2) Backhand, assists: Colin McDonald (1), Matt Martin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI106",
+      "summary": "Casey Cizikas Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI108",
+      "summary": "Darren Helm (2) Wrist Shot, assists: Jonathan Ericsson (3), Niklas Kronwall (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI563",
+      "summary": "Cal Clutterbuck (2) Tip-In, assists: Pierre-Marc Bouchard (5), Aaron Ness (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

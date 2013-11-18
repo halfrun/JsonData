@@ -1,0 +1,77 @@
+{
+  "id": "2013020308",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0308",
+  "utcStart": "2013-11-18 01:00:00+0000",
+  "easternStart": "2013-11-17 20:00:00",
+  "summary": "Lehtonen's 42 saves help Stars beat Canucks",
+  "h": {
+    "ab": "VAN",
+    "record": "11-8-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "DAL",
+    "record": "11-7-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "VAN81",
+      "summary": "Valeri Nichushkin (2) Wrist Shot, assists: Tyler Seguin (11), Jamie Benn (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN520",
+      "summary": "Erik Cole (2) Wrist Shot, assists: Cody Eakin (5), Alex Chiasson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN55",
+      "summary": "Daniel Sedin Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN53",
+      "summary": "Brenden Dillon Wrist Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN64",
+      "summary": "Vernon Fiddler Deflected saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN525",
+      "summary": "Henrik Sedin (4) Wrist Shot, assists: Ryan Kesler (6), Kevin Bieksa (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

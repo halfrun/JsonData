@@ -1,0 +1,101 @@
+{
+  "id": "2013020302",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0302",
+  "utcStart": "2013-11-17 03:00:00+0000",
+  "easternStart": "2013-11-16 22:00:00",
+  "summary": "Oilers beat Flames to end skid",
+  "h": {
+    "ab": "CGY",
+    "record": "6-11-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "EDM",
+    "record": "5-15-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "CGY7",
+      "summary": "Lee Stempniak Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY60",
+      "summary": "Ryan Nugent-Hopkins hit Reto Berra",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY490",
+      "summary": "Ales Hemsky (4) Wrist Shot, assists: Sam Gagner (3), Nail Yakupov (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY20",
+      "summary": "Kris Russell Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY40",
+      "summary": "Sean Monahan (8) Wrist Shot, assists: Jiri Hudler (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY483",
+      "summary": "Jordan Eberle (5) Wrist Shot, assists: Taylor Hall (8), Anton Belov (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY458",
+      "summary": "Dennis Wideman (2) Slap Shot, assists: Matt Stajan (5), Sven Baertschi (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY498",
+      "summary": "David Perron (5) Snap Shot, assists: Boyd Gordon (5), Ryan Smyth (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CGY8",
+      "summary": "Mike Cammalleri Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

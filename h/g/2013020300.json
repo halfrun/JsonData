@@ -1,0 +1,133 @@
+{
+  "id": "2013020300",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0300",
+  "utcStart": "2013-11-17 01:00:00+0000",
+  "easternStart": "2013-11-16 20:00:00",
+  "summary": "Coyotes cruise past Lightning",
+  "h": {
+    "ab": "PHX",
+    "record": "14-4-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "14-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PHX57",
+      "summary": "Rob Klinkhammer Wrist Shot saved by Ben Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX87",
+      "summary": "Michael Stone (6) Slap Shot, assists: Mike Ribeiro (10), David Rundblad (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX89",
+      "summary": "Martin Hanzal (6) Wrist Shot, assists: Lauri Korpikoski (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX396",
+      "summary": "Connor Murphy (1) Slap Shot, assists: Radim Vrbata (10), Lauri Korpikoski (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX555",
+      "summary": "Shane Doan (10) Wrist Shot, assists: Martin Hanzal (11), Radim Vrbata (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX392",
+      "summary": "Richard Panik (1) Wrist Shot, assists: Tyler Johnson (5), Alex Killorn (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX18",
+      "summary": "Shane Doan hit Andrej Sustr",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX765",
+      "summary": "Lauri Korpikoski (4) Wrist Shot, assists: Martin Hanzal (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX398",
+      "summary": "J.T. Brown (1) Wrist Shot, assists: Teddy Purcell (7), Andrej Sustr (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX62",
+      "summary": "Shane Doan Slap Shot saved by Ben Bishop",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX61",
+      "summary": "Radko Gudas Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX353",
+      "summary": "Mike Ribeiro (6) Wrist Shot, assists: Martin Hanzal (10), Radim Vrbata (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX762",
+      "summary": "Alex Killorn (6) Tip-In, assists: Martin St. Louis (12), Andrej Sustr (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

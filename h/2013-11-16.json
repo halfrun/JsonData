@@ -1,0 +1,67 @@
+{
+  "games": [
+    {
+      "id": "2013020294",
+      "utcStart": "2013-11-17 00:00:00+0000",
+      "summary": "Van Riemsdyk leads Maple Leafs past Sabres",
+      "h": "TOR",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020295",
+      "utcStart": "2013-11-17 00:00:00+0000",
+      "summary": "Talbot's shutout gives Rangers rare win in Montreal",
+      "h": "MTL",
+      "a": "NYR"
+    },
+    {
+      "id": "2013020296",
+      "utcStart": "2013-11-17 00:00:00+0000",
+      "summary": "Devils top Penguins; Brodeur wins fourth straight ",
+      "h": "NJD",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020297",
+      "utcStart": "2013-11-17 00:00:00+0000",
+      "summary": "Islanders edge Red Wings in shootout",
+      "h": "NYI",
+      "a": "DET"
+    },
+    {
+      "id": "2013020298",
+      "utcStart": "2013-11-17 01:00:00+0000",
+      "summary": "Steen saves Blues again against Hurricanes",
+      "h": "STL",
+      "a": "CAR"
+    },
+    {
+      "id": "2013020299",
+      "utcStart": "2013-11-17 01:00:00+0000",
+      "summary": "Predators return home, blow out Blackhawks",
+      "h": "NSH",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020300",
+      "utcStart": "2013-11-17 01:00:00+0000",
+      "summary": "Coyotes cruise past Lightning",
+      "h": "PHX",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020301",
+      "utcStart": "2013-11-17 02:00:00+0000",
+      "summary": "Panthers hand Avalanche third straight loss",
+      "h": "COL",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020302",
+      "utcStart": "2013-11-17 03:00:00+0000",
+      "summary": "Oilers beat Flames to end skid",
+      "h": "CGY",
+      "a": "EDM"
+    }
+  ]
+}

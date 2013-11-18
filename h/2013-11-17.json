@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "id": "2013020303",
+      "utcStart": "2013-11-17 18:00:00+0000",
+      "summary": "Blue Jackets ride power play to win against Senators",
+      "h": "OTT",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020304",
+      "utcStart": "2013-11-17 23:00:00+0000",
+      "summary": "Ovechkin scores twice to lead Capitals past Blues",
+      "h": "WSH",
+      "a": "STL"
+    },
+    {
+      "id": "2013020305",
+      "utcStart": "2013-11-18 00:00:00+0000",
+      "summary": "Scrivens, Kings blank Rangers",
+      "h": "NYR",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020306",
+      "utcStart": "2013-11-18 00:00:00+0000",
+      "summary": "Sharp, Blackhawks rebound vs. Sharks",
+      "h": "CHI",
+      "a": "SJS"
+    },
+    {
+      "id": "2013020307",
+      "utcStart": "2013-11-18 01:00:00+0000",
+      "summary": "Koivu, Harding lead Wild past Jets",
+      "h": "MIN",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020308",
+      "utcStart": "2013-11-18 01:00:00+0000",
+      "summary": "Lehtonen's 42 saves help Stars beat Canucks",
+      "h": "VAN",
+      "a": "DAL"
+    }
+  ]
+}
