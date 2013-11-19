@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "2013020309",
+      "utcStart": "2013-11-19 00:00:00+0000",
+      "summary": "Soderberg sparks Bruins past Hurricanes ",
+      "h": "CAR",
+      "a": "BOS"
+    },
+    {
+      "id": "2013020310",
+      "utcStart": "2013-11-19 00:30:00+0000",
+      "summary": "Gibbons, Fleury lead Penguins past Ducks",
+      "h": "PIT",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020311",
+      "utcStart": "2013-11-19 01:00:00+0000",
+      "summary": "Flames survive, beat Jets in shootout",
+      "h": "WPG",
+      "a": "CGY"
+    }
+  ]
+}

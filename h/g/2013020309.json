@@ -1,0 +1,77 @@
+{
+  "id": "2013020309",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0309",
+  "utcStart": "2013-11-19 00:00:00+0000",
+  "easternStart": "2013-11-18 19:00:00",
+  "summary": "Soderberg sparks Bruins past Hurricanes ",
+  "h": {
+    "ab": "CAR",
+    "record": "8-9-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "13-6-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CAR9",
+      "summary": "Reilly Smith (3) Wrist Shot, assists: Carl Soderberg (6), Loui Eriksson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR11",
+      "summary": "Torey Krug Slap Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR22",
+      "summary": "Carl Soderberg (2) Deflected, assists: Dennis Seidenberg (6), Reilly Smith (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR677",
+      "summary": "Milan Lucic (9) Wrist Shot, assists: Jarome Iginla (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CAR652",
+      "summary": "Johnny Boychuk (1) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CAR44",
+      "summary": "Tuomo Ruutu (1) Wrist Shot, assists: Eric Staal (7), Drayson Bowman (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

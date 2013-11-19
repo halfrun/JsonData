@@ -1,0 +1,77 @@
+{
+  "id": "2013020310",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0310",
+  "utcStart": "2013-11-19 00:30:00+0000",
+  "easternStart": "2013-11-18 19:30:00",
+  "summary": "Gibbons, Fleury lead Penguins past Ducks",
+  "h": {
+    "ab": "PIT",
+    "record": "13-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "15-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PIT15",
+      "summary": "Brooks Orpik hit Devante Smith-Pelly",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT58",
+      "summary": "Mathieu Perreault Snap Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT569",
+      "summary": "Ryan Getzlaf (11) Wrist Shot, assists: Ben Lovejoy (2), Corey Perry (12)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT567",
+      "summary": "Brandon Sutter (4) Tip-In, assists: Olli Maatta (3), Brian Gibbons (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT564",
+      "summary": "Brian Gibbons (1) Wrist Shot, assists: Evgeni Malkin (16), Tanner Glass (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT578",
+      "summary": "Sidney Crosby (10) Wrist Shot, assists: Evgeni Malkin (17), Joe Vitale (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}
