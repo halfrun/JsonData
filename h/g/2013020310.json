@@ -34,19 +34,19 @@
       "awayNumber": 1
     },
     {
-      "key": "PIT58",
-      "summary": "Mathieu Perreault Snap Shot saved by Marc-Andre Fleury",
-      "homeType": "save",
-      "homeNumber": 1,
-      "awayType": "save",
-      "awayNumber": 1
-    },
-    {
       "key": "PIT569",
       "summary": "Ryan Getzlaf (11) Wrist Shot, assists: Ben Lovejoy (2), Corey Perry (12)",
       "homeType": "goal",
       "homeNumber": 2,
       "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT58",
+      "summary": "Mathieu Perreault Snap Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
       "awayNumber": 1
     },
     {
