@@ -1,0 +1,69 @@
+{
+  "id": "2013020324",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0324",
+  "utcStart": "2013-11-21 03:00:00+0000",
+  "easternStart": "2013-11-20 22:00:00",
+  "summary": "Blue Jackets top Flames in OT on Nikitin goal",
+  "h": {
+    "ab": "CGY",
+    "record": "7-11-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "8-11-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CGY7",
+      "summary": "Boone Jenner Snap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY24",
+      "summary": "Nick Foligno (5) Wrist Shot, assists: RJ Umberger (7), Nikita Nikitin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY721",
+      "summary": "Nikita Nikitin (1) Wrist Shot, assists: David Savard (6), Cam Atkinson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY518",
+      "summary": "Joe Colborne (2) Backhand, assists: David Jones (4), Kris Russell (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY13",
+      "summary": "Lance Bouma Backhand saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

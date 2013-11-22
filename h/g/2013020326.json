@@ -1,0 +1,77 @@
+{
+  "id": "2013020326",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0326",
+  "utcStart": "2013-11-22 00:00:00+0000",
+  "easternStart": "2013-11-21 19:00:00",
+  "summary": "Blues end road trip with shootout win vs. Bruins",
+  "h": {
+    "ab": "BOS",
+    "record": "14-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "STL",
+    "record": "15-3-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BOS455",
+      "summary": "Carl Soderberg (3) Snap Shot, assists: Reilly Smith (11), Chris Kelly (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS55",
+      "summary": "Kevin Shattenkirk Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS58",
+      "summary": "Carl Soderberg Snap Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS206",
+      "summary": "Gregory Campbell (1) Wrist Shot, assists: Torey Krug (7), Daniel Paille (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS208",
+      "summary": "Derek Roy (6) Wrist Shot, assists: Barret Jackman (3), Chris Stewart (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS250",
+      "summary": "David Backes (9) Tip-In, assists: Kevin Shattenkirk (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

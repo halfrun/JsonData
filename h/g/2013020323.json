@@ -1,0 +1,77 @@
+{
+  "id": "2013020323",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0323",
+  "utcStart": "2013-11-21 01:00:00+0000",
+  "easternStart": "2013-11-20 20:00:00",
+  "summary": "Crosby, Penguins shut down Capitals ",
+  "h": {
+    "ab": "WSH",
+    "record": "12-9-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "14-8-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "WSH42",
+      "summary": "Beau Bennett (1) Wrist Shot, assists: Evgeni Malkin (18), Matt Niskanen (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH437",
+      "summary": "Sidney Crosby (11) Snap Shot, assists: James Neal (3), Chris Kunitz (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH31",
+      "summary": "Paul Martin (2) Wrist Shot, assists: Sidney Crosby (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH604",
+      "summary": "James Neal (2) Snap Shot, assists: Paul Martin (7), Evgeni Malkin (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH22",
+      "summary": "Alex Ovechkin Wrist Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH7",
+      "summary": "Kris Letang Wrist Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

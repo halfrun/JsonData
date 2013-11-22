@@ -1,0 +1,74 @@
+{
+  "games": [
+    {
+      "id": "2013020326",
+      "utcStart": "2013-11-22 00:00:00+0000",
+      "summary": "Blues end road trip with shootout win vs. Bruins",
+      "h": "BOS",
+      "a": "STL"
+    },
+    {
+      "id": "2013020327",
+      "utcStart": "2013-11-22 00:00:00+0000",
+      "summary": "Smith, Cullen push Predators past Maple Leafs",
+      "h": "TOR",
+      "a": "NSH"
+    },
+    {
+      "id": "2013020328",
+      "utcStart": "2013-11-22 00:00:00+0000",
+      "summary": "Read, Downie power Flyers past Sabres",
+      "h": "PHI",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020329",
+      "utcStart": "2013-11-22 00:30:00+0000",
+      "summary": "Red Wings snap two slumps by beating Hurricanes",
+      "h": "DET",
+      "a": "CAR"
+    },
+    {
+      "id": "2013020330",
+      "utcStart": "2013-11-22 01:00:00+0000",
+      "summary": "Toews, Hossa lead Blackhawks past Jets",
+      "h": "WPG",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020331",
+      "utcStart": "2013-11-22 01:30:00+0000",
+      "summary": "Lundqvist's heroics help Rangers hold off Stars",
+      "h": "DAL",
+      "a": "NYR"
+    },
+    {
+      "id": "2013020332",
+      "utcStart": "2013-11-22 02:00:00+0000",
+      "summary": "OT goal by O'Reilly lifts Avalanche by Coyotes",
+      "h": "PHX",
+      "a": "COL"
+    },
+    {
+      "id": "2013020333",
+      "utcStart": "2013-11-22 02:30:00+0000",
+      "summary": "Oilers top Panthers for third straight win",
+      "h": "EDM",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020334",
+      "utcStart": "2013-11-22 03:30:00+0000",
+      "summary": "Jagr ties Lemieux, beats Kings with OT goal",
+      "h": "LAK",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020335",
+      "utcStart": "2013-11-22 03:30:00+0000",
+      "summary": "Wingels scores twice, Sharks rout Lightning",
+      "h": "SJS",
+      "a": "TBL"
+    }
+  ]
+}

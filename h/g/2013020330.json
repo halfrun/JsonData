@@ -1,0 +1,133 @@
+{
+  "id": "2013020330",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0330",
+  "utcStart": "2013-11-22 01:00:00+0000",
+  "easternStart": "2013-11-21 20:00:00",
+  "summary": "Toews, Hossa lead Blackhawks past Jets",
+  "h": {
+    "ab": "WPG",
+    "record": "10-11-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "15-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "pbp": [
+    {
+      "key": "WPG315",
+      "summary": "Brandon Saad (7) Snap Shot, assists: Marian Hossa (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG65",
+      "summary": "Marian Hossa Snap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG441",
+      "summary": "Marian Hossa (10) Snap Shot, assists: Jonathan Toews (11), Brent Seabrook (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG63",
+      "summary": "Patrick Kane Wrist Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 3
+    },
+    {
+      "key": "WPG636",
+      "summary": "Patrick Sharp (8) Snap Shot, assists: Jonathan Toews (12), Brent Seabrook (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG317",
+      "summary": "Andrew Ladd (6) Wrist Shot, assists: Bryan Little (10), Tobias Enstrom (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG54",
+      "summary": "Andrew Ladd Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG92",
+      "summary": "Patrick Kane (12) Wrist Shot, assists: Nick Leddy (9), Jonathan Toews (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG319",
+      "summary": "Keaton Ellerby (1) Slap Shot, assists: Dustin Byfuglien (13), Andrew Ladd (13)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WPG350",
+      "summary": "Jonathan Toews (11) Snap Shot, assists: Duncan Keith (16), Patrick Kane (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG414",
+      "summary": "Dustin Byfuglien (6) Wrist Shot, assists: Bryan Little (11), Blake Wheeler (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG61",
+      "summary": "Duncan Keith Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG447",
+      "summary": "Ben Smith (3) Snap Shot, assists: Marcus Kruger (7), Kris Versteeg (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

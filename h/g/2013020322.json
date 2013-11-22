@@ -1,0 +1,101 @@
+{
+  "id": "2013020322",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0322",
+  "utcStart": "2013-11-21 00:30:00+0000",
+  "easternStart": "2013-11-20 19:30:00",
+  "summary": "Koivu breaks tie in Wild win against Senators",
+  "h": {
+    "ab": "OTT",
+    "record": "8-10-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "14-5-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT57",
+      "summary": "Jason Spezza Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT452",
+      "summary": "Jonas Brodin (4) Wrist Shot, assists: Dany Heatley (3), Justin Fontaine (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT759",
+      "summary": "Milan Michalek (4) Slap Shot, assists: Mika Zibanejad (2), Erik Karlsson (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT253",
+      "summary": "Mika Zibanejad (5) Backhand, assists: Derek Grant (2), Erik Condra (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT467",
+      "summary": "Dany Heatley (4) Wrist Shot, assists: Mikko Koivu (15), Jonas Brodin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT785",
+      "summary": "Mikko Koivu (5) Wrist Shot, assists: Zach Parise (10), Charlie Coyle (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT35",
+      "summary": "Jason Pominville (13) Wrist Shot, assists: Zach Parise (9), Mikko Koivu (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT33",
+      "summary": "Kyle Turris (6) Wrist Shot, assists: Clarke MacArthur (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT10",
+      "summary": "Jason Spezza Slap Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

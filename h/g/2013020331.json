@@ -1,0 +1,101 @@
+{
+  "id": "2013020331",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0331",
+  "utcStart": "2013-11-22 01:30:00+0000",
+  "easternStart": "2013-11-21 20:30:00",
+  "summary": "Lundqvist's heroics help Rangers hold off Stars",
+  "h": {
+    "ab": "DAL",
+    "record": "11-8-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "11-11-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DAL73",
+      "summary": "Rick Nash (1) Wrist Shot, assists: Ryan Callahan (3), Henrik Lundqvist (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL612",
+      "summary": "Chris Kreider (3) Wrist Shot, assists: Derek Stepan (11), Dan Girardi (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL638",
+      "summary": "Alex Chiasson (6) Wrist Shot, assists: Cody Eakin (7), Erik Cole (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL65",
+      "summary": "Tyler Seguin Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL9",
+      "summary": "Sergei Gonchar hit John Moore",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL58",
+      "summary": "Dominic Moore Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL613",
+      "summary": "John Moore (2) Wrist Shot, assists: Derick Brassard (5), Carl Hagelin (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL416",
+      "summary": "Stephane Robidas (3) Deflected, assists: Sergei Gonchar (4), Cody Eakin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "goal5",
+      "summary": "Dan Girardi hit Vernon Fiddler",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

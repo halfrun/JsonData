@@ -1,0 +1,109 @@
+{
+  "id": "2013020333",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0333",
+  "utcStart": "2013-11-22 02:30:00+0000",
+  "easternStart": "2013-11-21 21:30:00",
+  "summary": "Oilers top Panthers for third straight win",
+  "h": {
+    "ab": "EDM",
+    "record": "7-15-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "6-13-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "pbp": [
+    {
+      "key": "EDM412",
+      "summary": "Scottie Upshall (4) Snap Shot, assists: Aleksander Barkov (6), Brad Boyes (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM631",
+      "summary": "Jordan Eberle (8) Wrist Shot, assists: Ryan Nugent-Hopkins (13), Taylor Hall (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM65",
+      "summary": "Sam Gagner Slap Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM13",
+      "summary": "Erik Gudbranson hit Sam Gagner",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM59",
+      "summary": "Krys Barch Slap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM57",
+      "summary": "Scottie Upshall Snap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM62",
+      "summary": "Boyd Gordon Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM226",
+      "summary": "Sam Gagner (1) Wrist Shot, assists: Nail Yakupov (5), Corey Potter (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM55",
+      "summary": "Jordan Eberle (7) Snap Shot, assists: Ryan Nugent-Hopkins (11), Taylor Hall (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM240",
+      "summary": "David Perron (8) Slap Shot, assists: Justin Schultz (7), Ryan Nugent-Hopkins (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

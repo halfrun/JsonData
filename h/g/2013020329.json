@@ -1,0 +1,109 @@
+{
+  "id": "2013020329",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0329",
+  "utcStart": "2013-11-22 00:30:00+0000",
+  "easternStart": "2013-11-21 19:30:00",
+  "summary": "Red Wings snap two slumps by beating Hurricanes",
+  "h": {
+    "ab": "DET",
+    "record": "10-6-7",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "8-10-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET493",
+      "summary": "Niklas Kronwall (2) Wrist Shot, assists: Johan Franzen (6), Henrik Zetterberg (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET55",
+      "summary": "Gustav Nyquist (1) Snap Shot, assists: Jonathan Ericsson (4), Henrik Zetterberg (14)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET66",
+      "summary": "Radek Dvorak Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET58",
+      "summary": "Drew Miller Deflected saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET279",
+      "summary": "Brett Bellemore (1) Slap Shot, assists: Radek Dvorak (1), Drayson Bowman (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET60",
+      "summary": "Joakim Andersson Snap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET518",
+      "summary": "Andrej Sekera (4) Backhand, assists: Jordan Staal (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET451",
+      "summary": "Andrej Sekera (3) Snap Shot, assists: Eric Staal (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET268",
+      "summary": "Darren Helm (3) Snap Shot, assists: Justin Abdelkader (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET508",
+      "summary": "Gustav Nyquist (2) Backhand, assists: Henrik Zetterberg (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

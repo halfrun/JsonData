@@ -1,0 +1,109 @@
+{
+  "id": "2013020332",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0332",
+  "utcStart": "2013-11-22 02:00:00+0000",
+  "easternStart": "2013-11-21 21:00:00",
+  "summary": "OT goal by O'Reilly lifts Avalanche by Coyotes",
+  "h": {
+    "ab": "PHX",
+    "record": "14-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "16-5-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PHX511",
+      "summary": "Michael Stone (7) Slap Shot, assists: Kyle Chipchura (3), Paul Bissonnette (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PHX509",
+      "summary": "Andre Benoit (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PHX8",
+      "summary": "David Moss Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX696",
+      "summary": "Ryan O'Reilly (9) Wrist Shot, assists: PA Parenteau (9), Andre Benoit (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX365",
+      "summary": "John Mitchell (4) Wrist Shot, assists: Nathan MacKinnon (10), PA Parenteau (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX59",
+      "summary": "Erik Johnson Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX655",
+      "summary": "Martin Hanzal (7) Wrist Shot, assists: Tim Kennedy (4), Rostislav Klesla (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX64",
+      "summary": "Oliver Ekman-Larsson Slap Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX667",
+      "summary": "Antoine Vermette (6) Wrist Shot, assists: Shane Doan (7), Keith Yandle (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX674",
+      "summary": "Cody McLeod (2) Backhand, assists: Andre Benoit (9), John Mitchell (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

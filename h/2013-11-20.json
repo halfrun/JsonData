@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": "2013020322",
+      "utcStart": "2013-11-21 00:30:00+0000",
+      "summary": "Koivu breaks tie in Wild win against Senators",
+      "h": "OTT",
+      "a": "MIN"
+    },
+    {
+      "id": "2013020323",
+      "utcStart": "2013-11-21 01:00:00+0000",
+      "summary": "Crosby, Penguins shut down Capitals ",
+      "h": "WSH",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020324",
+      "utcStart": "2013-11-21 03:00:00+0000",
+      "summary": "Blue Jackets top Flames in OT on Nikitin goal",
+      "h": "CGY",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020325",
+      "utcStart": "2013-11-21 03:00:00+0000",
+      "summary": "Devils rally late in third, beat Ducks in OT",
+      "h": "ANA",
+      "a": "NJD"
+    }
+  ]
+}

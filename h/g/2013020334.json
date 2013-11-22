@@ -1,0 +1,61 @@
+{
+  "id": "2013020334",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0334",
+  "utcStart": "2013-11-22 03:30:00+0000",
+  "easternStart": "2013-11-21 22:30:00",
+  "summary": "Jagr ties Lemieux, beats Kings with OT goal",
+  "h": {
+    "ab": "LAK",
+    "record": "15-6-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "9-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "L.A574",
+      "summary": "Ryan Carter (3) Backhand, assists: Michael Ryder (3), Stephen Gionta (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A577",
+      "summary": "Justin Williams (9) Wrist Shot, assists: Anze Kopitar (16), Dustin Brown (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A55",
+      "summary": "Anze Kopitar Wrist Shot saved by Cory Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A766",
+      "summary": "Jaromir Jagr (9) Wrist Shot, assists: Marek Zidlicky (10), Dainius Zubrus (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    }
+  ]
+}

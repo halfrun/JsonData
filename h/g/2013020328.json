@@ -1,0 +1,93 @@
+{
+  "id": "2013020328",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0328",
+  "utcStart": "2013-11-22 00:00:00+0000",
+  "easternStart": "2013-11-21 19:00:00",
+  "summary": "Read, Downie power Flyers past Sabres",
+  "h": {
+    "ab": "PHI",
+    "record": "9-10-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "BUF",
+    "record": "5-18-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PHI429",
+      "summary": "Matt Read (5) Wrist Shot, assists: Steve Downie (10), Sean Couturier (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI690",
+      "summary": "Vincent Lecavalier (8) Slap Shot, assists: Mark Streit (7), Claude Giroux (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI953",
+      "summary": "Scott Hartnell (4) Wrist Shot, assists: Adam Hall (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI74",
+      "summary": "Vincent Lecavalier Snap Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI54",
+      "summary": "Brayden Schenn Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI230",
+      "summary": "Tyler Myers (2) Wrist Shot, assists: Ville Leino (3), Tyler Ennis (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI70",
+      "summary": "Jakub Voracek Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI436",
+      "summary": "Matt Read (6) Wrist Shot, assists: Steve Downie (11), Sean Couturier (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

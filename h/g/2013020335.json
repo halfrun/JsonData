@@ -1,0 +1,93 @@
+{
+  "id": "2013020335",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0335",
+  "utcStart": "2013-11-22 03:30:00+0000",
+  "easternStart": "2013-11-21 22:30:00",
+  "summary": "Wingels scores twice, Sharks rout Lightning",
+  "h": {
+    "ab": "SJS",
+    "record": "14-3-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "14-8-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "S.J15",
+      "summary": "Ryan Malone Backhand saved by Antti Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J594",
+      "summary": "Tyler Johnson (5) Wrist Shot, assists: Ondrej Palat (3), Richard Panik (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J22",
+      "summary": "Tommy Wingels (6) Wrist Shot, assists: Logan Couture (13), Patrick Marleau (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "S.J582",
+      "summary": "Brent Burns (5) Tip-In, assists: Joe Thornton (21), Scott Hannan (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J434",
+      "summary": "Tommy Wingels (7) Wrist Shot, assists: Patrick Marleau (12), Justin Braun (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J221",
+      "summary": "Brad Stuart (2) Slap Shot, assists: Tyler Kennedy (7), Logan Couture (14)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J11",
+      "summary": "Logan Couture Wrist Shot saved by Anders Lindback",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J584",
+      "summary": "Patrick Marleau (11) Backhand, assists: Logan Couture (15), Justin Braun (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}
