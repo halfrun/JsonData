@@ -1,0 +1,28 @@
+{
+  "id": "2013020350",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0350",
+  "utcStart": "2013-11-24 03:00:00+0000",
+  "easternStart": "2013-11-23 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "VAN",
+    "record": "11-8-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "15-4-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

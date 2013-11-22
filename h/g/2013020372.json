@@ -1,0 +1,28 @@
+{
+  "id": "2013020372",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0372",
+  "utcStart": "2013-11-28 00:30:00+0000",
+  "easternStart": "2013-11-27 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "6-13-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "11-11-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

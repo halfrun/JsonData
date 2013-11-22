@@ -1,0 +1,28 @@
+{
+  "id": "2013020367",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0367",
+  "utcStart": "2013-11-28 00:00:00+0000",
+  "easternStart": "2013-11-27 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NYI",
+    "record": "8-11-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "10-11-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

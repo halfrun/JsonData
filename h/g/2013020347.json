@@ -1,0 +1,28 @@
+{
+  "id": "2013020347",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0347",
+  "utcStart": "2013-11-24 01:00:00+0000",
+  "easternStart": "2013-11-23 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "STL",
+    "record": "15-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "DAL",
+    "record": "11-8-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

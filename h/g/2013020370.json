@@ -1,0 +1,28 @@
+{
+  "id": "2013020370",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0370",
+  "utcStart": "2013-11-28 00:30:00+0000",
+  "easternStart": "2013-11-27 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "DET",
+    "record": "10-6-7",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "14-6-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

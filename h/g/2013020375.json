@@ -1,0 +1,28 @@
+{
+  "id": "2013020375",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0375",
+  "utcStart": "2013-11-28 02:00:00+0000",
+  "easternStart": "2013-11-27 21:00:00",
+  "summary": "",
+  "h": {
+    "ab": "COL",
+    "record": "16-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "STL",
+    "record": "15-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

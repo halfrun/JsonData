@@ -1,0 +1,28 @@
+{
+  "id": "2013020366",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0366",
+  "utcStart": "2013-11-28 00:00:00+0000",
+  "easternStart": "2013-11-27 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NJD",
+    "record": "9-8-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "8-10-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

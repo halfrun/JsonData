@@ -1,0 +1,28 @@
+{
+  "id": "2013020338",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0338",
+  "utcStart": "2013-11-23 02:00:00+0000",
+  "easternStart": "2013-11-22 21:00:00",
+  "summary": "Panthers finish five-game trip against Flames",
+  "h": {
+    "ab": "CGY",
+    "record": "7-11-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "6-13-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

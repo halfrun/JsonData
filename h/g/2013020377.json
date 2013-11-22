@@ -1,0 +1,28 @@
+{
+  "id": "2013020377",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0377",
+  "utcStart": "2013-11-28 03:30:00+0000",
+  "easternStart": "2013-11-27 22:30:00",
+  "summary": "",
+  "h": {
+    "ab": "SJS",
+    "record": "14-3-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "15-6-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020342",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0342",
+  "utcStart": "2013-11-23 20:00:00+0000",
+  "easternStart": "2013-11-23 15:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WPG",
+    "record": "10-11-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "14-5-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

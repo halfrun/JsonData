@@ -1,0 +1,28 @@
+{
+  "id": "2013020376",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0376",
+  "utcStart": "2013-11-28 03:00:00+0000",
+  "easternStart": "2013-11-27 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CGY",
+    "record": "7-11-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "15-4-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

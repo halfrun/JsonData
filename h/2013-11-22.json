@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": "2013020336",
+      "utcStart": "2013-11-23 00:00:00+0000",
+      "summary": "Islanders look to keep up recent success in Pittsburgh",
+      "h": "PIT",
+      "a": "NYI"
+    },
+    {
+      "id": "2013020337",
+      "utcStart": "2013-11-23 00:00:00+0000",
+      "summary": "Green expected back as Capitals host Canadiens",
+      "h": "WSH",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020338",
+      "utcStart": "2013-11-23 02:00:00+0000",
+      "summary": "Panthers finish five-game trip against Flames",
+      "h": "CGY",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020339",
+      "utcStart": "2013-11-23 03:00:00+0000",
+      "summary": "Canucks seek offense, win against Blue Jackets",
+      "h": "VAN",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020340",
+      "utcStart": "2013-11-23 03:00:00+0000",
+      "summary": "Lightning, Ducks look to get back to winning ways",
+      "h": "ANA",
+      "a": "TBL"
+    }
+  ]
+}

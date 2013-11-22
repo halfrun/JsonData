@@ -1,0 +1,28 @@
+{
+  "id": "2013020368",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0368",
+  "utcStart": "2013-11-28 00:00:00+0000",
+  "easternStart": "2013-11-27 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WSH",
+    "record": "12-9-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "8-10-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

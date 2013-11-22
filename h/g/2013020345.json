@@ -1,0 +1,28 @@
+{
+  "id": "2013020345",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0345",
+  "utcStart": "2013-11-24 00:00:00+0000",
+  "easternStart": "2013-11-23 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "DET",
+    "record": "10-6-7",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "8-10-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

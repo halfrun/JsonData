@@ -1,0 +1,28 @@
+{
+  "id": "2013020365",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0365",
+  "utcStart": "2013-11-28 00:00:00+0000",
+  "easternStart": "2013-11-27 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "BUF",
+    "record": "5-18-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "MTL",
+    "record": "11-9-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

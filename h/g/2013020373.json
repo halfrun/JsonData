@@ -1,0 +1,28 @@
+{
+  "id": "2013020373",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0373",
+  "utcStart": "2013-11-28 00:30:00+0000",
+  "easternStart": "2013-11-27 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "PIT",
+    "record": "14-8-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "13-8-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

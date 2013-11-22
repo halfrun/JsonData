@@ -1,0 +1,28 @@
+{
+  "id": "2013020351",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0351",
+  "utcStart": "2013-11-24 03:30:00+0000",
+  "easternStart": "2013-11-23 22:30:00",
+  "summary": "",
+  "h": {
+    "ab": "LAK",
+    "record": "15-6-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "COL",
+    "record": "16-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

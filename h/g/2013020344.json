@@ -1,0 +1,28 @@
+{
+  "id": "2013020344",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0344",
+  "utcStart": "2013-11-24 00:00:00+0000",
+  "easternStart": "2013-11-23 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "MTL",
+    "record": "11-9-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "14-8-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

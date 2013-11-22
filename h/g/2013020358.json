@@ -1,0 +1,28 @@
+{
+  "id": "2013020358",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0358",
+  "utcStart": "2013-11-26 00:30:00+0000",
+  "easternStart": "2013-11-25 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "TBL",
+    "record": "14-8-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NYR",
+    "record": "11-11-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}
