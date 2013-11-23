@@ -5,24 +5,81 @@
   "gn": "0338",
   "utcStart": "2013-11-23 02:00:00+0000",
   "easternStart": "2013-11-22 21:00:00",
-  "summary": "Panthers finish five-game trip against Flames",
+  "summary": "Monahan, Flames beat Panthers in shootout",
   "h": {
     "ab": "CGY",
-    "record": "7-11-4",
+    "record": "8-11-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "FLA",
-    "record": "6-13-4",
+    "record": "6-13-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY525",
+      "summary": "Blair Jones (1) Wrist Shot, assists: Lance Bouma (2), Mikael Backlund (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY337",
+      "summary": "Sven Baertschi (2) Snap Shot, assists: Joe Colborne (4), TJ Brodie (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY38",
+      "summary": "Tom Gilbert (1) Slap Shot, assists: Nick Bjugstad (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY547",
+      "summary": "Marcel Goc (6) Wrist Shot, assists: Sean Bergenheim (2), Scott Gomez (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY15",
+      "summary": "Chris Butler Slap Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY527",
+      "summary": "Jimmy Hayes (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY332",
+      "summary": "Joe Colborne (3) Wrist Shot, assists: David Jones (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

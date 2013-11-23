@@ -5,24 +5,81 @@
   "gn": "0337",
   "utcStart": "2013-11-23 00:00:00+0000",
   "easternStart": "2013-11-22 19:00:00",
-  "summary": "Green expected back as Capitals host Canadiens",
+  "summary": "Canadiens hold on against Capitals, Ovechkin",
   "h": {
     "ab": "WSH",
-    "record": "12-9-1",
+    "record": "12-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "11-9-2",
+    "record": "12-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WSH10",
+      "summary": "Michael Bournival Snap Shot saved by Michal Neuvirth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH642",
+      "summary": "Alex Ovechkin (19) Deflected, assists: John Carlson (6), Mikhail Grabovski (12)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH203",
+      "summary": "Daniel Briere (4) Wrist Shot, assists: Josh Gorges (5), Alexei Emelin (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH35",
+      "summary": "Travis Moen (1) Wrist Shot, assists: Michael Bournival (5), Ryan White (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH49",
+      "summary": "David Desharnais (1) Tip-In, assists: Josh Gorges (4), Andrei Markov (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH220",
+      "summary": "Alex Ovechkin (18) Wrist Shot, assists: John Carlson (5), Troy Brouwer (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH14",
+      "summary": "Mikhail Grabovski Snap Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
