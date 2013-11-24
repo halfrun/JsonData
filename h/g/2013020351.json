@@ -5,24 +5,49 @@
   "gn": "0351",
   "utcStart": "2013-11-24 03:30:00+0000",
   "easternStart": "2013-11-23 22:30:00",
-  "summary": "Avalanche wrap up two-game trip vs. Kings",
+  "summary": "McGinn's OT goal lifts Avalanche past Kings",
   "h": {
     "ab": "LAK",
-    "record": "15-6-2",
+    "record": "15-6-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "16-5-0",
+    "record": "17-5-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "L.A686",
+      "summary": "Jamie McGinn (4) Wrist Shot, assists: John Mitchell (3), Jan Hejda (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A8",
+      "summary": "Jamie McGinn hit Justin Williams",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "L.A14",
+      "summary": "Mike Richards Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

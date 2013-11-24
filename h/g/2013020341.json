@@ -5,24 +5,81 @@
   "gn": "0341",
   "utcStart": "2013-11-23 18:00:00+0000",
   "easternStart": "2013-11-23 13:00:00",
-  "summary": "Bruins, Hurricanes back at it in Saturday matinee",
+  "summary": "Krejci scores in OT to lift Bruins past Hurricanes",
   "h": {
     "ab": "BOS",
-    "record": "14-6-2",
+    "record": "15-6-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "8-10-4",
+    "record": "8-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS61",
+      "summary": "Johnny Boychuk Wrist Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS497",
+      "summary": "Patrick Dwyer (2) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS100",
+      "summary": "Zdeno Chara (4) Wrist Shot, assists: Milan Lucic (8), Torey Krug (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS56",
+      "summary": "Kevan Miller Slap Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS71",
+      "summary": "Andrej Sekera (5) Wrist Shot, assists: Jeff Skinner (7), Eric Staal (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS677",
+      "summary": "David Krejci (4) Wrist Shot, assists: Jarome Iginla (9), Johnny Boychuk (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS241",
+      "summary": "Reilly Smith (4) Backhand, assists: Carl Soderberg (7), Matt Bartkowski (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-  "id": "2013020372",
+  "id": "2013020387",
   "sid": "2013",
   "t": "02",
-  "gn": "0372",
-  "utcStart": "2013-11-28 00:30:00+0000",
-  "easternStart": "2013-11-27 19:30:00",
+  "gn": "0387",
+  "utcStart": "2013-11-29 23:00:00+0000",
+  "easternStart": "2013-11-29 18:00:00",
   "summary": "",
   "h": {
-    "ab": "FLA",
-    "record": "6-13-5",
+    "ab": "MIN",
+    "record": "15-5-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "NYR",
-    "record": "12-11-0",
+    "ab": "COL",
+    "record": "17-5-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

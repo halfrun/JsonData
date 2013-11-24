@@ -5,24 +5,81 @@
   "gn": "0350",
   "utcStart": "2013-11-24 03:00:00+0000",
   "easternStart": "2013-11-23 22:00:00",
-  "summary": "Blackhawks continue long trip vs. Canucks",
+  "summary": "Blackhawks rally in third, edge Canucks",
   "h": {
     "ab": "VAN",
-    "record": "12-8-4",
+    "record": "12-9-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "15-4-4",
+    "record": "16-4-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN92",
+      "summary": "Ryan Kesler (10) Wrist Shot, assists: Jason Garrison (8), Daniel Sedin (13)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN554",
+      "summary": "Marcus Kruger (3) Wrist Shot, assists: Niklas Hjalmarsson (8), Johnny Oduya (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN62",
+      "summary": "Kevin Bieksa Snap Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN55",
+      "summary": "Kris Versteeg Slap Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN60",
+      "summary": "Alexander Edler Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN64",
+      "summary": "Patrick Kane Backhand saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN553",
+      "summary": "Andrew Shaw (5) Deflected, assists: Patrick Kane (13), Duncan Keith (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
