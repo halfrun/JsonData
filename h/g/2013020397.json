@@ -1,10 +1,10 @@
 {
-  "id": "2013020382",
+  "id": "2013020397",
   "sid": "2013",
   "t": "02",
-  "gn": "0382",
-  "utcStart": "2013-11-29 21:00:00+0000",
-  "easternStart": "2013-11-29 16:00:00",
+  "gn": "0397",
+  "utcStart": "2013-12-01 00:00:00+0000",
+  "easternStart": "2013-11-30 19:00:00",
   "summary": "",
   "h": {
     "ab": "NYI",
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "DET",
-    "record": "11-7-7",
+    "ab": "WSH",
+    "record": "12-10-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
