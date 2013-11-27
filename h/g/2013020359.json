@@ -5,24 +5,81 @@
   "gn": "0359",
   "utcStart": "2013-11-26 00:30:00+0000",
   "easternStart": "2013-11-25 19:30:00",
-  "summary": "Panthers return home to face Flyers",
+  "summary": "Bergenheim, Thomas lead Panthers past Flyers",
   "h": {
     "ab": "FLA",
-    "record": "6-13-5",
+    "record": "7-13-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "10-10-2",
+    "record": "10-11-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA64",
+      "summary": "Wayne Simmonds Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA629",
+      "summary": "Wayne Simmonds (5) Tip-In, assists: Scott Hartnell (3), Claude Giroux (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA866",
+      "summary": "Erik Gudbranson (1) Slap Shot, assists: Scottie Upshall (8), Brad Boyes (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA62",
+      "summary": "Jonathan Huberdeau Wrist Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA5",
+      "summary": "Erik Gudbranson hit Matt Read",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA367",
+      "summary": "Sean Bergenheim (1) Backhand, assists: Jimmy Hayes (1), Dylan Olsen (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA396",
+      "summary": "Sean Bergenheim (2) Tip-In, assists: Marcel Goc (3), Erik Gudbranson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,81 @@
   "gn": "0357",
   "utcStart": "2013-11-26 00:00:00+0000",
   "easternStart": "2013-11-25 19:00:00",
-  "summary": "Jets begin Eastern swing against Devils",
+  "summary": "Jets get unexpected offense to defeat Devils",
   "h": {
     "ab": "NJD",
-    "record": "9-9-5",
+    "record": "9-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "10-11-4",
+    "record": "11-11-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J637",
+      "summary": "Devin Setoguchi (5) Wrist Shot, assists: Bryan Little (12), Dustin Byfuglien (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J202",
+      "summary": "Jaromir Jagr Wrist Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J624",
+      "summary": "Patrik Elias (5) Tip-In, assists: Andy Greene (7), Steve Bernier (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J206",
+      "summary": "Mark Fayne Snap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J203",
+      "summary": "Blake Wheeler Slap Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J414",
+      "summary": "Evander Kane (7) Wrist Shot, assists: Olli Jokinen (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J221",
+      "summary": "Mark Scheifele (2) Wrist Shot, assists: Michael Frolik (8), Dustin Byfuglien (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

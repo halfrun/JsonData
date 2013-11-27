@@ -1,10 +1,10 @@
 {
-  "id": "2013020391",
+  "id": "2013020405",
   "sid": "2013",
   "t": "02",
-  "gn": "0391",
-  "utcStart": "2013-11-30 01:30:00+0000",
-  "easternStart": "2013-11-29 20:30:00",
+  "gn": "0405",
+  "utcStart": "2013-12-01 23:00:00+0000",
+  "easternStart": "2013-12-01 18:00:00",
   "summary": "",
   "h": {
     "ab": "DAL",
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CHI",
-    "record": "17-4-4",
+    "ab": "EDM",
+    "record": "7-16-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

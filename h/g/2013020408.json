@@ -1,14 +1,14 @@
 {
-  "id": "2013020391",
+  "id": "2013020408",
   "sid": "2013",
   "t": "02",
-  "gn": "0391",
-  "utcStart": "2013-11-30 01:30:00+0000",
-  "easternStart": "2013-11-29 20:30:00",
+  "gn": "0408",
+  "utcStart": "2013-12-03 01:00:00+0000",
+  "easternStart": "2013-12-02 20:00:00",
   "summary": "",
   "h": {
-    "ab": "DAL",
-    "record": "12-9-2",
+    "ab": "MIN",
+    "record": "15-6-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CHI",
-    "record": "17-4-4",
+    "ab": "PHI",
+    "record": "10-11-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

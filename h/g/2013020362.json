@@ -5,24 +5,97 @@
   "gn": "0362",
   "utcStart": "2013-11-26 02:30:00+0000",
   "easternStart": "2013-11-25 21:30:00",
-  "summary": "Oilers look to continue run against Blackhawks",
+  "summary": "Blackhawks end Oilers' win streak",
   "h": {
     "ab": "EDM",
-    "record": "7-15-2",
+    "record": "7-16-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "16-4-4",
+    "record": "17-4-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM707",
+      "summary": "Andrew Shaw (7) Deflected, assists: Nick Leddy (10), Brandon Saad (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM54",
+      "summary": "Ales Hemsky Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM68",
+      "summary": "Patrick Kane (13) Wrist Shot, assists: Andrew Shaw (8), Duncan Keith (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM370",
+      "summary": "Andrew Shaw (6) Wrist Shot, assists: Jeremy Morin (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM57",
+      "summary": "Johnny Oduya Slap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM376",
+      "summary": "Justin Schultz (3) Slap Shot, assists: Ryan Nugent-Hopkins (14), Taylor Hall (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM64",
+      "summary": "Brent Seabrook Snap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM60",
+      "summary": "Jonathan Toews (12) Wrist Shot, assists: Brandon Saad (9), Duncan Keith (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM355",
+      "summary": "Johnny Oduya (2) Deflected, assists: Marcus Kruger (8), Brandon Bollig (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
