@@ -5,24 +5,105 @@
   "gn": "0373",
   "utcStart": "2013-11-28 00:30:00+0000",
   "easternStart": "2013-11-27 19:30:00",
-  "summary": "Maple Leafs will be without Lupul against Penguins",
+  "summary": "Penguins, down three goals, rally past Maple Leafs",
   "h": {
     "ab": "PIT",
-    "record": "15-9-1",
+    "record": "16-9-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TOR",
-    "record": "14-9-1",
+    "record": "14-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT438",
+      "summary": "Tyler Bozak (4) Wrist Shot, assists: James van Riemsdyk (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT406",
+      "summary": "Evgeni Malkin (5) Slap Shot, assists: Kris Letang (2), Sidney Crosby (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT77",
+      "summary": "James van Riemsdyk (10) Tip-In, assists: Dion Phaneuf (8), Cody Franson (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT277",
+      "summary": "Phil Kessel (13) Snap Shot, assists: Tyler Bozak (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT96",
+      "summary": "Nazem Kadri (7) Snap Shot, assists: Mark Fraser (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT62",
+      "summary": "Chris Conner (1) Wrist Shot, assists: Andrew Ebbett (1), Brandon Sutter (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT424",
+      "summary": "Kris Letang (5) Tip-In, assists: James Neal (7), Chris Kunitz (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PIT275",
+      "summary": "James van Riemsdyk (11) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 7,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT605",
+      "summary": "James Neal (7) Snap Shot, assists: Evgeni Malkin (24), Kris Letang (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT616",
+      "summary": "Evgeni Malkin (6) Wrist Shot, assists: Sidney Crosby (20), Chris Kunitz (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

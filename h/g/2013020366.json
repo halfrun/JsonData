@@ -5,24 +5,89 @@
   "gn": "0366",
   "utcStart": "2013-11-28 00:00:00+0000",
   "easternStart": "2013-11-27 19:00:00",
-  "summary": "Devils, Hurricanes jockey for positioning in division",
+  "summary": "Ward's late save helps Hurricanes beat Devils",
   "h": {
     "ab": "NJD",
-    "record": "9-10-5",
+    "record": "9-11-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "9-10-5",
+    "record": "10-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J281",
+      "summary": "Ron Hainsey (3) Slap Shot, assists: Radek Dvorak (2), Andrej Sekera (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J272",
+      "summary": "Travis Zajac (4) Snap Shot, assists: Dainius Zubrus (7), Andy Greene (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J24",
+      "summary": "Justin Faulk (1) Wrist Shot, assists: Jiri Tlusty (4), Manny Malhotra (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J491",
+      "summary": "Jaromir Jagr (10) Wrist Shot, assists: Eric Gelinas (7), Patrik Elias (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J269",
+      "summary": "Tuomo Ruutu (3) Snap Shot, assists: Eric Staal (12), Andrej Sekera (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J470",
+      "summary": "Andy Greene (3) Slap Shot, assists: Patrik Elias (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J295",
+      "summary": "Patrick Dwyer (4) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J12",
+      "summary": "Jeff Skinner Wrist Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
