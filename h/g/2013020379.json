@@ -5,10 +5,10 @@
   "gn": "0379",
   "utcStart": "2013-11-29 01:00:00+0000",
   "easternStart": "2013-11-28 20:00:00",
-  "summary": "Bryzgalov to make debut for Oilers vs. Predators",
+  "summary": "Bryzgalov shines in first start for Oilers",
   "h": {
     "ab": "NSH",
-    "record": "13-10-2",
+    "record": "13-11-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -17,12 +17,61 @@
   },
   "a": {
     "ab": "EDM",
-    "record": "7-16-2",
+    "record": "8-16-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NSH532",
+      "summary": "Jordan Eberle (9) Wrist Shot, assists: Taylor Hall (12), Nick Schultz (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH241",
+      "summary": "Taylor Hall (7) Backhand, assists: Sam Gagner (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH17",
+      "summary": "Viktor Stalberg Snap Shot saved by Ilya Bryzgalov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH238",
+      "summary": "Ryan Nugent-Hopkins (6) Tip-In, assists: Jeff Petry (4), Jordan Eberle (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH12",
+      "summary": "Taylor Hall Snap Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH65",
+      "summary": "Taylor Hall hit Victor Bartley",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

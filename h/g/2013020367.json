@@ -66,19 +66,19 @@
       "awayNumber": 1
     },
     {
-      "key": "NYI115",
-      "summary": "Kyle Okposo Wrist Shot saved by Al Montoya",
-      "homeType": "save",
-      "homeNumber": 1,
-      "awayType": "save",
-      "awayNumber": 1
-    },
-    {
       "key": "NYI456",
       "summary": "Devin Setoguchi (6) Tip-In, assists: Keaton Ellerby (2), Mark Scheifele (6)",
       "homeType": "goal",
       "homeNumber": 1,
       "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI115",
+      "summary": "Kyle Okposo Wrist Shot saved by Al Montoya",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
       "awayNumber": 1
     },
     {

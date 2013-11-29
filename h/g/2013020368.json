@@ -17,7 +17,7 @@
   },
   "a": {
     "ab": "OTT",
-    "record": "10-11-4",
+    "record": "10-12-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -58,14 +58,6 @@
       "awayNumber": 0
     },
     {
-      "key": "WSH50",
-      "summary": "Marcus Johansson (3) Wrist Shot, assists: Troy Brouwer (3), Alex Ovechkin (8)",
-      "homeType": "goal",
-      "homeNumber": 1,
-      "awayType": null,
-      "awayNumber": 0
-    },
-    {
       "key": "WSH9",
       "summary": "Clarke MacArthur Tip-In saved by Braden Holtby",
       "homeType": "save",
@@ -74,8 +66,8 @@
       "awayNumber": 0
     },
     {
-      "key": "WSH893",
-      "summary": "Bobby Ryan (13) Snap Shot, assists: none",
+      "key": "WSH50",
+      "summary": "Marcus Johansson (3) Wrist Shot, assists: Troy Brouwer (3), Alex Ovechkin (8)",
       "homeType": "goal",
       "homeNumber": 1,
       "awayType": null,
@@ -84,6 +76,14 @@
     {
       "key": "WSH242",
       "summary": "Brooks Laich (4) Backhand, assists: Joel Ward (6), Jason Chimera (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WSH893",
+      "summary": "Bobby Ryan (13) Snap Shot, assists: none",
       "homeType": "goal",
       "homeNumber": 1,
       "awayType": null,

@@ -1,14 +1,14 @@
 {
-  "id": "2013020416",
+  "id": "2013020419",
   "sid": "2013",
   "t": "02",
-  "gn": "0416",
-  "utcStart": "2013-12-04 01:00:00+0000",
-  "easternStart": "2013-12-03 20:00:00",
+  "gn": "0419",
+  "utcStart": "2013-12-05 00:00:00+0000",
+  "easternStart": "2013-12-04 19:00:00",
   "summary": "",
   "h": {
-    "ab": "NSH",
-    "record": "13-11-2",
+    "ab": "NJD",
+    "record": "9-11-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "VAN",
-    "record": "13-9-5",
+    "ab": "MTL",
+    "record": "14-9-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

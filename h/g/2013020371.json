@@ -34,19 +34,19 @@
       "awayNumber": 1
     },
     {
-      "key": "T.B621",
-      "summary": "Mark Streit (1) Slap Shot, assists: Claude Giroux (14)",
-      "homeType": "goal",
-      "homeNumber": 1,
-      "awayType": "goal",
-      "awayNumber": 1
-    },
-    {
       "key": "T.B14",
       "summary": "Vincent Lecavalier Wrap-around saved by Anders Lindback",
       "homeType": "save",
       "homeNumber": 1,
       "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B621",
+      "summary": "Mark Streit (1) Slap Shot, assists: Claude Giroux (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
       "awayNumber": 1
     },
     {
