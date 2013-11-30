@@ -5,24 +5,57 @@
   "gn": "0383",
   "utcStart": "2013-11-29 16:30:00+0000",
   "easternStart": "2013-11-29 11:30:00",
-  "summary": "Flyers look for revenge against Jets",
+  "summary": "Flyers head off on trip with win against Jets ",
   "h": {
     "ab": "PHI",
-    "record": "10-12-2",
+    "record": "11-12-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "12-11-4",
+    "record": "12-12-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI282",
+      "summary": "Sean Couturier (2) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI54",
+      "summary": "Scott Hartnell (5) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI16",
+      "summary": "Sean Couturier Snap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHI729",
+      "summary": "Michael Frolik (7) Wrist Shot, assists: Mark Scheifele (7), Mark Stuart (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

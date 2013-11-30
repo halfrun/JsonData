@@ -5,24 +5,97 @@
   "gn": "0388",
   "utcStart": "2013-11-30 00:30:00+0000",
   "easternStart": "2013-11-29 19:30:00",
-  "summary": "Sabres aim to end skid against Maple Leafs",
+  "summary": "Ehrhoff scores in OT to lift Sabres past Maple Leafs",
   "h": {
     "ab": "BUF",
-    "record": "5-20-1",
+    "record": "6-20-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
   "a": {
     "ab": "TOR",
-    "record": "14-9-2",
+    "record": "14-9-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF60",
+      "summary": "James van Riemsdyk Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF461",
+      "summary": "Luke Adam (1) Slap Shot, assists: Zemgus Girgensons (6), Christian Ehrhoff (5)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF8",
+      "summary": "Steve Ott hit Mark Fraser",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF638",
+      "summary": "Christian Ehrhoff (2) Wrist Shot, assists: Tyler Myers (6), Ville Leino (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BUF331",
+      "summary": "Nikolai Kulemin (2) Tip-In, assists: Trevor Smith (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF56",
+      "summary": "Phil Kessel (14) Snap Shot, assists: Tyler Bozak (5), Jake Gardiner (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF55",
+      "summary": "Phil Kessel Backhand saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF323",
+      "summary": "Matt Moulson (10) Wrist Shot, assists: Ville Leino (4), Tyler Myers (5)",
+      "homeType": "goal",
+      "homeNumber": 3,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF62",
+      "summary": "Phil Kessel Tip-In saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

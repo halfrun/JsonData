@@ -1,14 +1,14 @@
 {
-  "id": "2013020412",
+  "id": "2013020427",
   "sid": "2013",
   "t": "02",
-  "gn": "0412",
-  "utcStart": "2013-12-04 00:00:00+0000",
-  "easternStart": "2013-12-03 19:00:00",
+  "gn": "0427",
+  "utcStart": "2013-12-06 00:30:00+0000",
+  "easternStart": "2013-12-05 19:30:00",
   "summary": "",
   "h": {
-    "ab": "WSH",
-    "record": "13-11-2",
+    "ab": "FLA",
+    "record": "7-14-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CAR",
-    "record": "10-11-5",
+    "ab": "WPG",
+    "record": "12-12-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

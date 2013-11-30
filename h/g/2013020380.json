@@ -5,24 +5,105 @@
   "gn": "0380",
   "utcStart": "2013-11-29 18:00:00+0000",
   "easternStart": "2013-11-29 13:00:00",
-  "summary": "Bruins seek to extend mastery of Rangers",
+  "summary": "Chara excels in Bruins' win against Rangers",
   "h": {
     "ab": "BOS",
-    "record": "16-7-2",
+    "record": "17-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "13-12-0",
+    "record": "13-13-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS552",
+      "summary": "Patrice Bergeron (7) Snap Shot, assists: Brad Marchand (7), Johnny Boychuk (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS578",
+      "summary": "Zdeno Chara (6) Slap Shot, assists: David Krejci (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS58",
+      "summary": "Dennis Seidenberg Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS87",
+      "summary": "Ryan McDonagh (6) Wrist Shot, assists: Derick Brassard (6), Ryan Callahan (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS63",
+      "summary": "Carl Soderberg Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS56",
+      "summary": "Chris Kreider Tip-In saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS59",
+      "summary": "Dougie Hamilton Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS54",
+      "summary": "Patrice Bergeron Snap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS83",
+      "summary": "Brad Marchand (4) Snap Shot, assists: Zdeno Chara (5), Loui Eriksson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "BOS86",
+      "summary": "Rick Nash (3) Wrist Shot, assists: Brad Richards (11), Carl Hagelin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

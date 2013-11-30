@@ -5,24 +5,89 @@
   "gn": "0390",
   "utcStart": "2013-11-30 00:00:00+0000",
   "easternStart": "2013-11-29 19:00:00",
-  "summary": "Blue Jackets seeking consistency against Oilers",
+  "summary": "Blue Jackets get payback, beat Oilers",
   "h": {
     "ab": "CBJ",
-    "record": "9-13-3",
+    "record": "10-13-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "8-16-2",
+    "record": "8-17-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ57",
+      "summary": "Ryan Smyth Backhand saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ440",
+      "summary": "Sam Gagner (2) Wrist Shot, assists: Ales Hemsky (9), Denis Grebeshkov (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ387",
+      "summary": "Nick Foligno (6) Wrist Shot, assists: Boone Jenner (1), Ryan Johansen (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ404",
+      "summary": "Jack Skille (2) Wrist Shot, assists: Corey Tropp (2), Dalton Prout (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ67",
+      "summary": "Ryan Johansen (9) Wrist Shot, assists: Cam Atkinson (5), Matt Calvert (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ370",
+      "summary": "Artem Anisimov (7) Wrist Shot, assists: Matt Calvert (3), Fedor Tyutin (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ61",
+      "summary": "Nail Yakupov Wrist Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ447",
+      "summary": "David Perron (9) Deflected, assists: Jordan Eberle (14), Ryan Nugent-Hopkins (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }
