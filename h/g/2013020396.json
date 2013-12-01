@@ -5,24 +5,49 @@
   "gn": "0396",
   "utcStart": "2013-12-01 00:00:00+0000",
   "easternStart": "2013-11-30 19:00:00",
-  "summary": "Sabres, Devils meet after ending losing streaks",
+  "summary": "Devils defeat Sabres with Bernier, Schneider",
   "h": {
     "ab": "NJD",
-    "record": "10-11-5",
+    "record": "11-11-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "6-20-1",
+    "record": "6-20-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J17",
+      "summary": "Drew Stafford Wrist Shot saved by Cory Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J15",
+      "summary": "Jacob Josefson Tip-In saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J911",
+      "summary": "Steve Bernier (2) Wrist Shot, assists: Andy Greene (10), Adam Henrique (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

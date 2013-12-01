@@ -5,24 +5,65 @@
   "gn": "0393",
   "utcStart": "2013-12-01 00:00:00+0000",
   "easternStart": "2013-11-30 19:00:00",
-  "summary": "Blue Jackets, Bruins put back-to-back marks on line",
+  "summary": "Lucic scores twice to power Bruins past Blue Jackets",
   "h": {
     "ab": "BOS",
-    "record": "17-7-2",
+    "record": "18-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CBJ",
-    "record": "10-13-3",
+    "record": "10-14-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS90",
+      "summary": "Milan Lucic (10) Tip-In, assists: Torey Krug (9), David Krejci (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS497",
+      "summary": "Ryan Johansen (10) Wrist Shot, assists: RJ Umberger (8), Fedor Tyutin (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS56",
+      "summary": "Adam McQuaid Wrist Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS488",
+      "summary": "Milan Lucic (11) Slap Shot, assists: David Krejci (17), Jarome Iginla (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS68",
+      "summary": "Patrice Bergeron (8) Wrist Shot, assists: Dougie Hamilton (4), Brad Marchand (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

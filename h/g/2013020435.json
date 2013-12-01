@@ -1,14 +1,14 @@
 {
-  "id": "2013020407",
+  "id": "2013020435",
   "sid": "2013",
   "t": "02",
-  "gn": "0407",
-  "utcStart": "2013-12-03 00:30:00+0000",
-  "easternStart": "2013-12-02 19:30:00",
+  "gn": "0435",
+  "utcStart": "2013-12-07 01:00:00+0000",
+  "easternStart": "2013-12-06 20:00:00",
   "summary": "",
   "h": {
-    "ab": "MTL",
-    "record": "15-9-3",
+    "ab": "CHI",
+    "record": "20-4-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "NJD",
-    "record": "11-11-5",
+    "ab": "ANA",
+    "record": "18-7-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

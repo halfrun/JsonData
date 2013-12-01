@@ -5,24 +5,89 @@
   "gn": "0395",
   "utcStart": "2013-12-01 00:00:00+0000",
   "easternStart": "2013-11-30 19:00:00",
-  "summary": "Penguins continue road trip vs. Panthers",
+  "summary": "Zatkoff, Malkin push Penguins past Panthers",
   "h": {
     "ab": "FLA",
-    "record": "7-14-5",
+    "record": "7-15-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "17-9-1",
+    "record": "18-9-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA653",
+      "summary": "Scottie Upshall (6) Backhand, assists: Jonathan Huberdeau (7), Brian Campbell (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA718",
+      "summary": "Jussi Jokinen (9) Snap Shot, assists: Evgeni Malkin (28)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA80",
+      "summary": "Chris Kunitz (14) Wrist Shot, assists: James Neal (8), Evgeni Malkin (26)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA85",
+      "summary": "Joe Vitale (1) Wrist Shot, assists: Jayson Megna (2), Deryk Engelland (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA655",
+      "summary": "James Neal (8) Wrist Shot, assists: Evgeni Malkin (27)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA466",
+      "summary": "Evgeni Malkin (7) Backhand, assists: Olli Maatta (4), Kris Letang (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA65",
+      "summary": "Scottie Upshall Snap Shot saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA70",
+      "summary": "Dylan Olsen Wrist Shot saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
