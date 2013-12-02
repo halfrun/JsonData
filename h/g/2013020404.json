@@ -5,24 +5,121 @@
   "gn": "0404",
   "utcStart": "2013-12-01 22:30:00+0000",
   "easternStart": "2013-12-01 17:30:00",
-  "summary": "Alfredsson returns to Ottawa with surging Red Wings",
+  "summary": "Alfredsson scores; Red Wings beat Senators",
   "h": {
     "ab": "OTT",
-    "record": "10-12-4",
+    "record": "10-13-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "13-7-7",
+    "record": "14-7-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "OTT683",
+      "summary": "Daniel Alfredsson (7) Wrist Shot, assists: Justin Abdelkader (8), Niklas Kronwall (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT451",
+      "summary": "Drew Miller (3) Snap Shot, assists: Tomas Tatar (6), Niklas Kronwall (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT11",
+      "summary": "Darren Helm Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT15",
+      "summary": "Zack Smith Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT9",
+      "summary": "Bobby Ryan hit Gustav Nyquist",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT499",
+      "summary": "Drew Miller (4) Wrist Shot, assists: Brendan Smith (4), Darren Helm (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT19",
+      "summary": "Henrik Zetterberg Wrap-around saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT293",
+      "summary": "Johan Franzen (7) Snap Shot, assists: Jakub Kindl (9), Daniel Alfredsson (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT7",
+      "summary": "Daniel Alfredsson Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT17",
+      "summary": "Gustav Nyquist Snap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT681",
+      "summary": "Mika Zibanejad (8) Snap Shot, assists: Erik Karlsson (20), Zack Smith (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT461",
+      "summary": "Clarke MacArthur (8) Snap Shot, assists: Milan Michalek (10), Chris Phillips (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

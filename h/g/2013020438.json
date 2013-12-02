@@ -1,14 +1,14 @@
 {
-  "id": "2013020409",
+  "id": "2013020438",
   "sid": "2013",
   "t": "02",
-  "gn": "0409",
-  "utcStart": "2013-12-03 03:30:00+0000",
-  "easternStart": "2013-12-02 22:30:00",
-  "summary": "Blues, Kings clash for first time since playoffs",
+  "gn": "0438",
+  "utcStart": "2013-12-08 00:00:00+0000",
+  "easternStart": "2013-12-07 19:00:00",
+  "summary": "",
   "h": {
-    "ab": "LAK",
-    "record": "16-7-4",
+    "ab": "BOS",
+    "record": "18-7-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "STL",
-    "record": "18-4-3",
+    "ab": "PIT",
+    "record": "18-9-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
