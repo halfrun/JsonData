@@ -1,14 +1,14 @@
 {
-  "id": "2013020411",
+  "id": "2013020449",
   "sid": "2013",
   "t": "02",
-  "gn": "0411",
-  "utcStart": "2013-12-04 00:00:00+0000",
-  "easternStart": "2013-12-03 19:00:00",
-  "summary": "Islanders host Penguins, look to snap losing streak",
+  "gn": "0449",
+  "utcStart": "2013-12-08 23:00:00+0000",
+  "easternStart": "2013-12-08 18:00:00",
+  "summary": "",
   "h": {
-    "ab": "NYI",
-    "record": "8-15-4",
+    "ab": "MIN",
+    "record": "16-8-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "PIT",
-    "record": "18-9-1",
+    "ab": "SJS",
+    "record": "18-3-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

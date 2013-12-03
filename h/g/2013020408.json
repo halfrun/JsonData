@@ -5,24 +5,65 @@
   "gn": "0408",
   "utcStart": "2013-12-03 01:00:00+0000",
   "easternStart": "2013-12-02 20:00:00",
-  "summary": "Flyers aim to get above .500 against Wild",
+  "summary": "Wild beat Flyers to end four-game losing streak",
   "h": {
     "ab": "MIN",
-    "record": "15-8-5",
+    "record": "16-8-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "12-12-2",
+    "record": "12-13-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN52",
+      "summary": "Kyle Brodziak hit Kimmo Timonen",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN524",
+      "summary": "Jason Pominville (14) Wrist Shot, assists: Mikko Koivu (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN528",
+      "summary": "Charlie Coyle (3) Wrist Shot, assists: Jared Spurgeon (7), Marco Scandella (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN13",
+      "summary": "Zenon Konopka Slap Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN12",
+      "summary": "Dany Heatley Slap Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
