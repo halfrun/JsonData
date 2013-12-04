@@ -5,24 +5,121 @@
   "gn": "0417",
   "utcStart": "2013-12-04 02:30:00+0000",
   "easternStart": "2013-12-03 21:30:00",
-  "summary": "Oilers host Coyotes to open five-game homestand",
+  "summary": "Coyotes start trip by beating Oilers",
   "h": {
     "ab": "EDM",
-    "record": "9-17-2",
+    "record": "9-18-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "15-7-4",
+    "record": "16-7-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM78",
+      "summary": "David Perron (10) Snap Shot, assists: Mark Arcobello (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM283",
+      "summary": "Shane Doan (12) Tip-In, assists: Mike Ribeiro (13), Mikkel Boedker (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM54",
+      "summary": "Ales Hemsky Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM58",
+      "summary": "Ales Hemsky Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM65",
+      "summary": "Mikkel Boedker (7) Wrist Shot, assists: Radim Vrbata (15), David Schlemko (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM277",
+      "summary": "Radim Vrbata (9) Snap Shot, assists: Mike Ribeiro (12), Derek Morris (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM488",
+      "summary": "Keith Yandle (2) Slap Shot, assists: Mikkel Boedker (11), Antoine Vermette (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM457",
+      "summary": "David Perron (11) Snap Shot, assists: Ales Hemsky (10), Taylor Hall (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM490",
+      "summary": "David Moss (2) Wrist Shot, assists: Oliver Ekman-Larsson (15), Jeff Halpern (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM61",
+      "summary": "Oliver Ekman-Larsson Snap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM67",
+      "summary": "David Schlemko Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM474",
+      "summary": "Mike Ribeiro (8) Wrist Shot, assists: Shane Doan (10), David Moss (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

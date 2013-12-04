@@ -1,14 +1,14 @@
 {
-  "id": "2013020427",
+  "id": "2013020457",
   "sid": "2013",
   "t": "02",
-  "gn": "0427",
-  "utcStart": "2013-12-06 00:30:00+0000",
-  "easternStart": "2013-12-05 19:30:00",
+  "gn": "0457",
+  "utcStart": "2013-12-10 03:00:00+0000",
+  "easternStart": "2013-12-09 22:00:00",
   "summary": "",
   "h": {
-    "ab": "FLA",
-    "record": "7-16-5",
+    "ab": "ANA",
+    "record": "18-7-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "WPG",
-    "record": "13-12-4",
+    "ab": "NYI",
+    "record": "8-15-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

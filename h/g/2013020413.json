@@ -5,24 +5,65 @@
   "gn": "0413",
   "utcStart": "2013-12-04 00:00:00+0000",
   "easternStart": "2013-12-03 19:00:00",
-  "summary": "Lightning look to snap road skid vs. Blue Jackets",
+  "summary": "Blue Jackets lose Bobrovsky, beat Lightning",
   "h": {
     "ab": "CBJ",
-    "record": "10-14-3",
+    "record": "11-14-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TBL",
-    "record": "16-9-1",
+    "record": "16-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ57",
+      "summary": "Dana Tyrell Wrist Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ62",
+      "summary": "Blake Comeau Wrist Shot saved by Ben Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ301",
+      "summary": "Nick Foligno (7) Wrist Shot, assists: Ryan Johansen (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ61",
+      "summary": "Martin St Louis Wrist Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ54",
+      "summary": "Valtteri Filppula Wrist Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

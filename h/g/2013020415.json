@@ -5,24 +5,105 @@
   "gn": "0415",
   "utcStart": "2013-12-04 01:00:00+0000",
   "easternStart": "2013-12-03 20:00:00",
-  "summary": "Back from trip, Blackhawks play host to Stars",
+  "summary": "Penalty-shot goal helps Stars hold off Blackhawks",
   "h": {
     "ab": "CHI",
-    "record": "20-4-4",
+    "record": "20-5-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "12-9-4",
+    "record": "13-9-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI631",
+      "summary": "Antoine Roussel (5) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI291",
+      "summary": "Erik Cole (3) Wrist Shot, assists: Valeri Nichushkin (7), Shawn Horcoff (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI18",
+      "summary": "Nick Leddy Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI603",
+      "summary": "Johnny Oduya (3) Slap Shot, assists: Patrick Kane (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI10",
+      "summary": "Jamie Benn Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI44",
+      "summary": "Valeri Nichushkin (3) Wrist Shot, assists: Cody Eakin (9), Jamie Benn (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI418",
+      "summary": "Patrick Sharp (11) Slap Shot, assists: Duncan Keith (24), Andrew Shaw (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI8",
+      "summary": "Cody Eakin Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI270",
+      "summary": "Alex Chiasson (8) Tip-In, assists: Alex Goligoski (5), Ray Whitney (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI449",
+      "summary": "Nick Leddy (3) Slap Shot, assists: Sheldon Brookbank (2), Patrick Kane (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
