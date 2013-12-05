@@ -1,14 +1,14 @@
 {
-  "id": "2013020430",
+  "id": "2013020466",
   "sid": "2013",
   "t": "02",
-  "gn": "0430",
-  "utcStart": "2013-12-06 01:00:00+0000",
-  "easternStart": "2013-12-05 20:00:00",
-  "summary": "Blackhawks back on road to challenge Wild",
+  "gn": "0466",
+  "utcStart": "2013-12-11 02:00:00+0000",
+  "easternStart": "2013-12-10 21:00:00",
+  "summary": "",
   "h": {
-    "ab": "MIN",
-    "record": "16-8-5",
+    "ab": "COL",
+    "record": "19-6-0",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "CHI",
-    "record": "20-5-4",
+    "ab": "PHX",
+    "record": "16-8-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

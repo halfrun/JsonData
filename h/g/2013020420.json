@@ -5,24 +5,105 @@
   "gn": "0420",
   "utcStart": "2013-12-05 01:00:00+0000",
   "easternStart": "2013-12-04 20:00:00",
-  "summary": "Flyers seek rare road victory in Detroit",
+  "summary": "Four-goal third period leads Flyers past Red Wings",
   "h": {
     "ab": "DET",
-    "record": "14-7-7",
+    "record": "14-8-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "12-13-2",
+    "record": "13-13-2",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET462",
+      "summary": "Matt Read (9) Wrist Shot, assists: Sean Couturier (9), Scott Hartnell (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET89",
+      "summary": "Steve Downie (2) Snap Shot, assists: Sean Couturier (8), Matt Read (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET753",
+      "summary": "Scott Hartnell (6) Slap Shot, assists: Claude Giroux (15), Mark Streit (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET777",
+      "summary": "Sean Couturier (5) Wrist Shot, assists: Michael Raffl (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET487",
+      "summary": "Claude Giroux (5) Wrist Shot, assists: Kimmo Timonen (5), Scott Hartnell (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET60",
+      "summary": "Sean Couturier Snap Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET451",
+      "summary": "Tomas Tatar (5) Wrist Shot, assists: Mikael Samuelsson (2), Daniel Alfredsson (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET80",
+      "summary": "Tomas Tatar (4) Snap Shot, assists: Drew Miller (2), Joakim Andersson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET494",
+      "summary": "Sean Couturier (4) Wrist Shot, assists: Steve Downie (14), Matt Read (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DET291",
+      "summary": "Johan Franzen (8) Slap Shot, assists: Stephen Weiss (2), Gustav Nyquist (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }
