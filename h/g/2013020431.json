@@ -5,24 +5,113 @@
   "gn": "0431",
   "utcStart": "2013-12-06 02:30:00+0000",
   "easternStart": "2013-12-05 21:30:00",
-  "summary": "Rested Avalanche begin Canadian trip in Edmonton",
+  "summary": "Oilers rout Avalanche behind Hall's hat trick",
   "h": {
     "ab": "EDM",
-    "record": "9-18-2",
+    "record": "10-18-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "19-6-0",
+    "record": "19-7-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM631",
+      "summary": "Jordan Eberle (10) Snap Shot, assists: Ryan Smyth (7), David Perron (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM295",
+      "summary": "PA Parenteau (8) Wrist Shot, assists: Gabriel Landeskog (12), Erik Johnson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM260",
+      "summary": "Ales Hemsky (6) Backhand, assists: Ryan Smyth (5), Mark Arcobello (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM643",
+      "summary": "Sam Gagner (3) Snap Shot, assists: Taylor Hall (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM64",
+      "summary": "Taylor Hall (8) Wrist Shot, assists: Philip Larsen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "EDM259",
+      "summary": "Taylor Hall (9) Slap Shot, assists: Justin Schultz (8), Jordan Eberle (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM55",
+      "summary": "Mark Arcobello Snap Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM650",
+      "summary": "Taylor Hall (10) Snap Shot, assists: Ryan Nugent-Hopkins (16), Corey Potter (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM616",
+      "summary": "Mark Arcobello (3) Snap Shot, assists: Ales Hemsky (11), Ryan Smyth (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM274",
+      "summary": "Nick Holden (2) Deflected, assists: Matt Duchene (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM402",
+      "summary": "David Perron (12) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

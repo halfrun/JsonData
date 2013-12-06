@@ -5,24 +5,65 @@
   "gn": "0425",
   "utcStart": "2013-12-06 00:30:00+0000",
   "easternStart": "2013-12-05 19:30:00",
-  "summary": "First place on the line for Bruins, Canadiens",
+  "summary": "Canadiens defeat Bruins, move into first place",
   "h": {
     "ab": "MTL",
-    "record": "17-9-3",
+    "record": "18-9-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BOS",
-    "record": "18-7-2",
+    "record": "18-8-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL65",
+      "summary": "Jarome Iginla Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL299",
+      "summary": "Tomas Plekanec (10) Wrist Shot, assists: Josh Gorges (6), Brian Gionta (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL54",
+      "summary": "Lars Eller Wrist Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL256",
+      "summary": "Gregory Campbell (2) Wrist Shot, assists: Milan Lucic (10), Dennis Seidenberg (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL477",
+      "summary": "Max Pacioretty (11) Backhand, assists: Raphael Diaz (10), Brendan Gallagher (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

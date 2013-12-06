@@ -5,24 +5,73 @@
   "gn": "0423",
   "utcStart": "2013-12-06 00:00:00+0000",
   "easternStart": "2013-12-05 19:00:00",
-  "summary": "Seguin possible to return as Stars visit Maple Leafs",
+  "summary": "Smith scores in OT to lift Maple Leafs past Stars",
   "h": {
     "ab": "TOR",
-    "record": "14-11-3",
+    "record": "15-11-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "13-9-4",
+    "record": "13-9-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "TOR9",
+      "summary": "Cody Eakin Wrist Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR849",
+      "summary": "Trevor Smith (4) Wrist Shot, assists: Jake Gardiner (7), Dion Phaneuf (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR500",
+      "summary": "Erik Cole (4) Tip-In, assists: Shawn Horcoff (6), Valeri Nichushkin (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR809",
+      "summary": "Shawn Horcoff (3) Tip-In, assists: Kevin Connauton (1), Sergei Gonchar (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR326",
+      "summary": "Nazem Kadri (8) Wrist Shot, assists: James van Riemsdyk (10), Phil Kessel (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 3
+    },
+    {
+      "key": "TOR671",
+      "summary": "Nazem Kadri (9) Tip-In, assists: Cody Franson (14), Phil Kessel (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

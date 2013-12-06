@@ -5,24 +5,81 @@
   "gn": "0422",
   "utcStart": "2013-12-06 00:00:00+0000",
   "easternStart": "2013-12-05 19:00:00",
-  "summary": "Rangers hoping to find consistency in play",
+  "summary": "Richards, Lundqvist help Rangers top Sabres",
   "h": {
     "ab": "BUF",
-    "record": "6-20-2",
+    "record": "6-21-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NYR",
-    "record": "14-14-0",
+    "record": "15-14-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF61",
+      "summary": "Michael Del Zotto Slap Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "Drew Stafford Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF207",
+      "summary": "Rick Nash (5) Wrist Shot, assists: Derek Stepan (15), Ryan McDonagh (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF621",
+      "summary": "Mats Zuccarello (5) Wrist Shot, assists: Brad Richards (14), Ryan McDonagh (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "BUF53",
+      "summary": "Matt Moulson Tip-In saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF450",
+      "summary": "Brad Richards (8) Wrist Shot, assists: Derick Brassard (8), Mats Zuccarello (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF633",
+      "summary": "Tyler Ennis (5) Wrist Shot, assists: Zemgus Girgensons (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    }
+  ]
 }
