@@ -5,24 +5,65 @@
   "gn": "0432",
   "utcStart": "2013-12-07 00:00:00+0000",
   "easternStart": "2013-12-06 19:00:00",
-  "summary": "Devils, Red Wings look to get back in win column",
+  "summary": "Red Wings defeat Devils, hold them to 11 shots",
   "h": {
     "ab": "NJD",
-    "record": "11-12-6",
+    "record": "11-13-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "14-8-7",
+    "record": "15-8-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J517",
+      "summary": "Johan Franzen (9) Wrist Shot, assists: Gustav Nyquist (3), Tomas Tatar (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J28",
+      "summary": "Andy Greene (4) Tip-In, assists: Patrik Elias (10)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J522",
+      "summary": "Tomas Tatar (6) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J340",
+      "summary": "Joakim Andersson (4) Tip-In, assists: Drew Miller (3), Daniel Alfredsson (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J16",
+      "summary": "Danny Cleary Wrap-around saved by Cory Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

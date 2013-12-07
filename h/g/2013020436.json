@@ -5,24 +5,81 @@
   "gn": "0436",
   "utcStart": "2013-12-07 02:00:00+0000",
   "easternStart": "2013-12-06 21:00:00",
-  "summary": "Avalanche look to bounce back vs. Flames",
+  "summary": "Avalanche bounce back, hold off Flames",
   "h": {
     "ab": "CGY",
-    "record": "10-13-4",
+    "record": "10-14-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "19-7-0",
+    "record": "20-7-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY18",
+      "summary": "Nathan MacKinnon Wrap-around saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY432",
+      "summary": "Maxime Talbot (2) Wrist Shot, assists: John Mitchell (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY31",
+      "summary": "Kris Russell (4) Slap Shot, assists: Sven Baertschi (8), Mikael Backlund (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY644",
+      "summary": "Matt Stajan (5) Tip-In, assists: Michael Cammalleri (5), Jiri Hudler (19)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY435",
+      "summary": "PA Parenteau (9) Wrist Shot, assists: Maxime Talbot (4), John Mitchell (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY601",
+      "summary": "Nathan MacKinnon (6) Snap Shot, assists: Gabriel Landeskog (13)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY13",
+      "summary": "Blair Jones Wrist Shot saved by Jean-Sebastien Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
