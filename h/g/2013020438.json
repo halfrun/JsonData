@@ -5,24 +5,97 @@
   "gn": "0438",
   "utcStart": "2013-12-08 00:00:00+0000",
   "easternStart": "2013-12-07 19:00:00",
-  "summary": "Bruins stand in way as Penguins go for six straight",
+  "summary": "Bruins defeat Penguins with two goals in final 1:29",
   "h": {
     "ab": "BOS",
-    "record": "18-8-2",
+    "record": "19-8-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "20-9-1",
+    "record": "20-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BOS85",
+      "summary": "James Neal (10) Snap Shot, assists: Matt Niskanen (12), Simon Despres (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS58",
+      "summary": "Brandon Sutter Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS62",
+      "summary": "Olli Maatta Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS79",
+      "summary": "Reilly Smith (6) Slap Shot, assists: Patrice Bergeron (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS550",
+      "summary": "David Krejci (5) Wrist Shot, assists: Milan Lucic (11), Jarome Iginla (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS56",
+      "summary": "Matt Niskanen Slap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS755",
+      "summary": "Zdeno Chara (7) Wrist Shot, assists: Reilly Smith (13), Brad Marchand (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS13",
+      "summary": "Chris Kelly hit Chris Conner",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS70",
+      "summary": "Chris Kunitz (17) Snap Shot, assists: Sidney Crosby (27), Matt Niskanen (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

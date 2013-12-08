@@ -5,24 +5,97 @@
   "gn": "0445",
   "utcStart": "2013-12-08 01:00:00+0000",
   "easternStart": "2013-12-07 20:00:00",
-  "summary": "Ducks end grueling week by visiting Blues",
+  "summary": "Ducks hand Blues rare home loss",
   "h": {
     "ab": "STL",
-    "record": "19-5-3",
+    "record": "19-6-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "19-7-5",
+    "record": "20-7-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL564",
+      "summary": "Jaden Schwartz (7) Wrist Shot, assists: TJ Oshie (21), Barret Jackman (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL552",
+      "summary": "Nick Bonino (8) Wrist Shot, assists: Patrick Maroon (3), Tim Jackman (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL71",
+      "summary": "Ryan Getzlaf (16) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL712",
+      "summary": "Mark Fistric (1) Wrist Shot, assists: Andrew Cogliano (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL55",
+      "summary": "Andrew Cogliano (8) Tip-In, assists: Daniel Winnik (9), Saku Koivu (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL579",
+      "summary": "Patrik Berglund (2) Wrist Shot, assists: Maxim Lapierre (2), Kevin Shattenkirk (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL62",
+      "summary": "Dustin Penner Wrist Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL53",
+      "summary": "Daniel Winnik Slap Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL66",
+      "summary": "Corey Perry (18) Wrist Shot, assists: Ryan Getzlaf (20), Nick Bonino (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

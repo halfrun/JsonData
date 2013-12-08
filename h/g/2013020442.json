@@ -5,24 +5,65 @@
   "gn": "0442",
   "utcStart": "2013-12-08 00:00:00+0000",
   "easternStart": "2013-12-07 19:00:00",
-  "summary": "Lightning look to stay hot at home against Jets",
+  "summary": "Jets defeat Lightning on Scheifele's OT goal",
   "h": {
     "ab": "TBL",
-    "record": "17-10-1",
+    "record": "17-10-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "13-13-4",
+    "record": "14-13-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "T.B20",
+      "summary": "Blake Wheeler (7) Tip-In, assists: Jacob Trouba (4), Grant Clitsome (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B18",
+      "summary": "J.T. Brown Wrist Shot saved by Al Montoya",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B802",
+      "summary": "Mark Scheifele (3) Tip-In, assists: Blake Wheeler (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B15",
+      "summary": "Andrew Ladd Backhand saved by Anders Lindback",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B433",
+      "summary": "Nate Thompson (2) Wrist Shot, assists: Radko Gudas (6), Martin St Louis (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

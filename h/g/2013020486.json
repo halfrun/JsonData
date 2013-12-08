@@ -1,14 +1,14 @@
 {
-  "id": "2013020477",
+  "id": "2013020486",
   "sid": "2013",
   "t": "02",
-  "gn": "0477",
-  "utcStart": "2013-12-13 01:00:00+0000",
-  "easternStart": "2013-12-12 20:00:00",
+  "gn": "0486",
+  "utcStart": "2013-12-14 02:00:00+0000",
+  "easternStart": "2013-12-13 21:00:00",
   "summary": "",
   "h": {
-    "ab": "STL",
-    "record": "19-6-3",
+    "ab": "VAN",
+    "record": "16-10-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "TOR",
-    "record": "16-11-3",
+    "ab": "EDM",
+    "record": "10-18-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

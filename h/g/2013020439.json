@@ -5,24 +5,97 @@
   "gn": "0439",
   "utcStart": "2013-12-08 00:00:00+0000",
   "easternStart": "2013-12-07 19:00:00",
-  "summary": "First-place Canadiens face division rival Sabres",
+  "summary": "Canadiens hold off Sabres for fifth straight win",
   "h": {
     "ab": "MTL",
-    "record": "18-9-3",
+    "record": "19-9-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BUF",
-    "record": "6-21-2",
+    "record": "6-22-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL395",
+      "summary": "Alex Galchenyuk (8) Wrist Shot, assists: Andrei Markov (17), Tomas Plekanec (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL556",
+      "summary": "Zemgus Girgensons (2) Wrist Shot, assists: Tyler Ennis (6), Henrik Tallinder (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL92",
+      "summary": "Brandon Prust (3) Wrist Shot, assists: Ryan White (2), Travis Moen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL63",
+      "summary": "Matt Moulson Backhand saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL393",
+      "summary": "Tomas Plekanec (11) Wrist Shot, assists: Brandon Prust (3), Travis Moen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL16",
+      "summary": "Christian Ehrhoff hit Brendan Gallagher",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL56",
+      "summary": "Ryan White Wrist Shot saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL360",
+      "summary": "Tyler Ennis (6) Slap Shot, assists: Christian Ehrhoff (6), Cody Hodgson (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL53",
+      "summary": "Michael Bournival Wrist Shot saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
