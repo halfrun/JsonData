@@ -1,14 +1,14 @@
 {
-  "id": "2013020475",
+  "id": "2013020503",
   "sid": "2013",
   "t": "02",
-  "gn": "0475",
-  "utcStart": "2013-12-13 00:30:00+0000",
-  "easternStart": "2013-12-12 19:30:00",
+  "gn": "0503",
+  "utcStart": "2013-12-16 00:00:00+0000",
+  "easternStart": "2013-12-15 19:00:00",
   "summary": "",
   "h": {
-    "ab": "OTT",
-    "record": "12-14-5",
+    "ab": "CHI",
+    "record": "21-6-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "BUF",
-    "record": "6-22-2",
+    "ab": "LAK",
+    "record": "19-7-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

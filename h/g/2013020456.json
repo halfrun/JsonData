@@ -5,24 +5,49 @@
   "gn": "0456",
   "utcStart": "2013-12-10 03:00:00+0000",
   "easternStart": "2013-12-09 22:00:00",
-  "summary": "Hurricanes open road trip vs. streaking Canucks",
+  "summary": "Canucks blank Hurricanes for fifth straight win",
   "h": {
     "ab": "VAN",
-    "record": "17-10-5",
+    "record": "18-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 3
   },
   "a": {
     "ab": "CAR",
-    "record": "13-12-5",
+    "record": "13-13-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN596",
+      "summary": "Jannik Hansen (4) Wrist Shot, assists: Chris Higgins (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN57",
+      "summary": "Jiri Tlusty Wrap-around saved by Eddie Lack",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN64",
+      "summary": "Christopher Tanev (2) Snap Shot, assists: Dan Hamhuis (5), Chris Higgins (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
