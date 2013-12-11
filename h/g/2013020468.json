@@ -5,24 +5,113 @@
   "gn": "0468",
   "utcStart": "2013-12-11 02:30:00+0000",
   "easternStart": "2013-12-10 21:30:00",
-  "summary": "Hurricanes' trip continues against Oilers",
+  "summary": "Oilers blow three-goal lead, top Hurricanes in OT",
   "h": {
     "ab": "EDM",
-    "record": "10-18-3",
+    "record": "11-18-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "13-13-5",
+    "record": "13-13-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "EDM318",
+      "summary": "Ryan Nugent-Hopkins (7) Snap Shot, assists: Jordan Eberle (16), Andrew Ference (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM459",
+      "summary": "Jordan Staal (7) Wrist Shot, assists: Nathan Gerbe (7), Andrej Sekera (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM60",
+      "summary": "Taylor Hall (12) Snap Shot, assists: Sam Gagner (7), Nail Yakupov (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM331",
+      "summary": "Jesse Joensuu (2) Wrist Shot, assists: Mark Arcobello (13), Anton Belov (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM55",
+      "summary": "Jordan Eberle Wrap-around saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM678",
+      "summary": "Jeff Skinner (10) Slap Shot, assists: Elias Lindholm (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM72",
+      "summary": "Tuomo Ruutu (4) Wrist Shot, assists: Jeff Skinner (9), Andrej Sekera (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM63",
+      "summary": "Ryan Jones Wrap-around saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM97",
+      "summary": "Nail Yakupov (5) Snap Shot, assists: Taylor Hall (15), Andrew Ference (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM663",
+      "summary": "Eric Staal (8) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "EDM696",
+      "summary": "Jordan Eberle (11) Wrist Shot, assists: Ryan Nugent-Hopkins (17), Sam Gagner (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -5,24 +5,65 @@
   "gn": "0467",
   "utcStart": "2013-12-11 02:30:00+0000",
   "easternStart": "2013-12-10 21:30:00",
-  "summary": "Bruins' Iginla returns to Calgary to face Flames",
+  "summary": "Bruins beat Flames in Iginla's return to Calgary",
   "h": {
     "ab": "CGY",
-    "record": "11-14-4",
+    "record": "11-15-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
   "a": {
     "ab": "BOS",
-    "record": "20-8-2",
+    "record": "21-8-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY603",
+      "summary": "David Krejci (6) Deflected, assists: Torey Krug (10), Zdeno Chara (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY610",
+      "summary": "Reilly Smith (7) Wrist Shot, assists: Ryan Spooner (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY319",
+      "summary": "Jiri Hudler (9) Wrist Shot, assists: Sven Baertschi (9), Mark Giordano (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY9",
+      "summary": "Jiri Hudler Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY12",
+      "summary": "Gregory Campbell Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

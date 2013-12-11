@@ -5,24 +5,113 @@
   "gn": "0460",
   "utcStart": "2013-12-11 00:00:00+0000",
   "easternStart": "2013-12-10 19:00:00",
-  "summary": "Blue Jackets aim to bounce back against Devils",
+  "summary": "Blue Jackets rally to beat Devils",
   "h": {
     "ab": "CBJ",
-    "record": "12-15-3",
+    "record": "13-15-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "12-13-6",
+    "record": "12-14-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ766",
+      "summary": "Cam Atkinson (9) Wrist Shot, assists: Brandon Dubinsky (13), Ryan Murray (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ938",
+      "summary": "Damien Brunner (6) Wrist Shot, assists: Patrik Elias (13), Andy Greene (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ65",
+      "summary": "Cam Atkinson (8) Deflected, assists: Brandon Dubinsky (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ798",
+      "summary": "Matt Calvert (3) Wrist Shot, assists: Brandon Dubinsky (14), Cam Atkinson (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ943",
+      "summary": "Nick Foligno (9) Deflected, assists: Ryan Johansen (14), RJ Umberger (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ56",
+      "summary": "Travis Zajac Wrist Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ75",
+      "summary": "Michael Ryder (9) Snap Shot, assists: Adam Henrique (6), Steve Bernier (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ96",
+      "summary": "Damien Brunner (5) Snap Shot, assists: Patrik Elias (12), Dainius Zubrus (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ59",
+      "summary": "Andy Greene Slap Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ53",
+      "summary": "Travis Zajac (6) Snap Shot, assists: Reid Boucher (2), Jaromir Jagr (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ761",
+      "summary": "Brandon Dubinsky (6) Backhand, assists: Cam Atkinson (6), Jack Johnson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

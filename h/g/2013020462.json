@@ -5,24 +5,89 @@
   "gn": "0462",
   "utcStart": "2013-12-11 00:30:00+0000",
   "easternStart": "2013-12-10 19:30:00",
-  "summary": "Red Wings, Panthers conclude home-and-home series",
+  "summary": "Datsyuk returns, but Red Wings fall to Panthers",
   "h": {
     "ab": "FLA",
-    "record": "9-17-5",
+    "record": "10-17-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
+    "replayShort": "150",
+    "replayShortNumber": 1,
     "replayFull": "",
     "replayFullNumber": 0
   },
   "a": {
     "ab": "DET",
-    "record": "15-9-7",
+    "record": "15-9-8",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "FLA83",
+      "summary": "Todd Bertuzzi (6) Wrist Shot, assists: Pavel Datsyuk (12), Johan Franzen (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA62",
+      "summary": "Nick Bjugstad Slap Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA415",
+      "summary": "Pavel Datsyuk (13) Tip-In, assists: Jonathan Ericsson (7), Johan Franzen (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA58",
+      "summary": "Johan Franzen Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA60",
+      "summary": "Todd Bertuzzi Backhand saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA773",
+      "summary": "Nick Bjugstad (5) Wrist Shot, assists: Erik Gudbranson (5), Dylan Olsen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA68",
+      "summary": "Nick Bjugstad Wrist Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA656",
+      "summary": "Sean Bergenheim (3) Tip-In, assists: Dmitry Kulikov (4), Aleksander Barkov (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

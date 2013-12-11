@@ -5,24 +5,97 @@
   "gn": "0461",
   "utcStart": "2013-12-11 00:00:00+0000",
   "easternStart": "2013-12-10 19:00:00",
-  "summary": "Surging Canadiens set to host Kings",
+  "summary": "Jones, six goal-scorers lift Kings past Canadiens",
   "h": {
     "ab": "MTL",
-    "record": "19-9-3",
+    "record": "19-10-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "LAK",
-    "record": "19-7-4",
+    "record": "20-7-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL429",
+      "summary": "Justin Williams (11) Backhand, assists: Jarret Stoll (7), Alec Martinez (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL230",
+      "summary": "Alec Martinez (1) Wrist Shot, assists: Tyler Toffoli (6), Kyle Clifford (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL234",
+      "summary": "Tyler Toffoli (8) Wrist Shot, assists: Kyle Clifford (2), Michael Richards (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL63",
+      "summary": "Alex Galchenyuk Wrist Shot saved by Martin Jones",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL86",
+      "summary": "Jordan Nolan (4) Wrist Shot, assists: Anze Kopitar (18), Willie Mitchell (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL57",
+      "summary": "Brendan Gallagher Wrist Shot saved by Martin Jones",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL61",
+      "summary": "Tomas Plekanec Wrist Shot saved by Martin Jones",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL240",
+      "summary": "Jake Muzzin (2) Wrist Shot, assists: Jarret Stoll (6), Viatcheslav Voynov (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL223",
+      "summary": "Anze Kopitar (9) Snap Shot, assists: Michael Richards (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

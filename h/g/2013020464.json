@@ -5,24 +5,65 @@
   "gn": "0464",
   "utcStart": "2013-12-11 01:00:00+0000",
   "easternStart": "2013-12-10 20:00:00",
-  "summary": "Jets return home to face Blues",
+  "summary": "Shattenkirk scores late; Blues win against Jets",
   "h": {
     "ab": "WPG",
-    "record": "14-13-4",
+    "record": "14-14-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "19-6-3",
+    "record": "20-6-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG471",
+      "summary": "Bryan Little (13) Snap Shot, assists: Andrew Ladd (14), Olli Jokinen (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG8",
+      "summary": "Vladimir Sobotka hit Chris Thorburn",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG273",
+      "summary": "Alexander Steen (21) Wrist Shot, assists: TJ Oshie (22), David Backes (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG669",
+      "summary": "Kevin Shattenkirk (3) Slap Shot, assists: Derek Roy (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG15",
+      "summary": "David Backes hit Tobias Enstrom",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }
