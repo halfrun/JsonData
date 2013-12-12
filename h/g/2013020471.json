@@ -5,24 +5,113 @@
   "gn": "0471",
   "utcStart": "2013-12-12 01:00:00+0000",
   "easternStart": "2013-12-11 20:00:00",
-  "summary": "Flyers end six-game road trip vs. Blackhawks",
+  "summary": "Seven Blackhawks score in win against Flyers",
   "h": {
     "ab": "CHI",
-    "record": "22-6-5",
+    "record": "23-6-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHI",
-    "record": "13-14-3",
+    "record": "13-15-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CHI40",
+      "summary": "Jakub Voracek (5) Wrist Shot, assists: Kimmo Timonen (7), Claude Giroux (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI699",
+      "summary": "Patrick Sharp (15) Wrist Shot, assists: Patrick Kane (25), Marian Hossa (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI516",
+      "summary": "Steve Downie (3) Tip-In, assists: Brayden Schenn (10), Mark Streit (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI512",
+      "summary": "Michal Handzus (3) Tip-In, assists: Marcus Kruger (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI330",
+      "summary": "Duncan Keith (2) Slap Shot, assists: Patrick Sharp (16), Patrick Kane (24)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI540",
+      "summary": "Jonathan Toews (13) Deflected, assists: Patrick Sharp (17), Marian Hossa (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI666",
+      "summary": "Brent Seabrook (3) Slap Shot, assists: Michal Handzus (4), Kris Versteeg (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI163",
+      "summary": "Zac Rinaldo hit Patrick Kane",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI332",
+      "summary": "Andrew Shaw (10) Wrap-around, assists: Brandon Bollig (5), Johnny Oduya (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI17",
+      "summary": "Jeremy Morin Wrist Shot saved by Ray Emery",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "CHI525",
+      "summary": "Kris Versteeg (5) Wrist Shot, assists: Brandon Saad (13), Marian Hossa (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }
