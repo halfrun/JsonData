@@ -5,24 +5,73 @@
   "gn": "0480",
   "utcStart": "2013-12-13 02:00:00+0000",
   "easternStart": "2013-12-12 21:00:00",
-  "summary": "Hurricanes seek rare road win in Calgary",
+  "summary": "Flames beat Hurricanes on Butler's OT winner",
   "h": {
     "ab": "CGY",
-    "record": "11-15-4",
+    "record": "12-15-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "13-13-6",
+    "record": "13-13-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY697",
+      "summary": "Chris Butler (2) Wrist Shot, assists: Paul Byron (3), Mikael Backlund (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY406",
+      "summary": "Brian McGrattan (1) Wrist Shot, assists: Lance Bouma (5), Paul Byron (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY14",
+      "summary": "David Jones Deflected saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY446",
+      "summary": "Jeff Skinner (11) Wrist Shot, assists: Tuomo Ruutu (4), Eric Staal (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY11",
+      "summary": "Eric Staal Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY16",
+      "summary": "Drayson Bowman Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

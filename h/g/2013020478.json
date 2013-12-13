@@ -5,24 +5,97 @@
   "gn": "0478",
   "utcStart": "2013-12-13 01:00:00+0000",
   "easternStart": "2013-12-12 20:00:00",
-  "summary": "Important points at stake as Predators host Stars",
+  "summary": "Hutton, Legwand, Weber push Predators past Stars",
   "h": {
     "ab": "NSH",
-    "record": "14-14-3",
+    "record": "15-14-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "14-10-5",
+    "record": "14-11-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "NSH214",
+      "summary": "Erik Cole (5) Backhand, assists: Alex Chiasson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH408",
+      "summary": "Paul Gaustad (5) Wrist Shot, assists: Colin Wilson (10), Gabriel Bourque (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH218",
+      "summary": "Patric Hornqvist (7) Snap Shot, assists: David Legwand (18), Shea Weber (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH221",
+      "summary": "David Legwand (6) Wrist Shot, assists: Roman Josi (8), Shea Weber (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH13",
+      "summary": "Jordie Benn Slap Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH12",
+      "summary": "Alex Goligoski Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH18",
+      "summary": "Roman Josi Snap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH9",
+      "summary": "Nick Spaling Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH20",
+      "summary": "Alex Goligoski Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-  "id": "2013020497",
+  "id": "2013020521",
   "sid": "2013",
   "t": "02",
-  "gn": "0497",
-  "utcStart": "2013-12-15 02:00:00+0000",
-  "easternStart": "2013-12-14 21:00:00",
+  "gn": "0521",
+  "utcStart": "2013-12-19 00:30:00+0000",
+  "easternStart": "2013-12-18 19:30:00",
   "summary": "",
   "h": {
-    "ab": "COL",
-    "record": "21-9-0",
+    "ab": "NJD",
+    "record": "12-14-6",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "MIN",
-    "record": "18-11-5",
+    "ab": "OTT",
+    "record": "13-14-6",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

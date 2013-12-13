@@ -5,24 +5,65 @@
   "gn": "0474",
   "utcStart": "2013-12-13 00:00:00+0000",
   "easternStart": "2013-12-12 19:00:00",
-  "summary": "Briere, Canadiens set to visit Flyers",
+  "summary": "Raffl, Flyers bounce back with win vs. Canadiens",
   "h": {
     "ab": "PHI",
-    "record": "13-15-3",
+    "record": "14-15-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "MTL",
-    "record": "19-10-3",
+    "record": "19-11-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHI87",
+      "summary": "Michael Raffl (2) Wrist Shot, assists: Jakub Voracek (10), Claude Giroux (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PHI667",
+      "summary": "Alex Galchenyuk (9) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PHI377",
+      "summary": "Claude Giroux (6) Wrist Shot, assists: Jakub Voracek (11), Brayden Schenn (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PHI64",
+      "summary": "Sean Couturier Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "PHI59",
+      "summary": "Brian Gionta Snap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }
