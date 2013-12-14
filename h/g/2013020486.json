@@ -5,24 +5,65 @@
   "gn": "0486",
   "utcStart": "2013-12-14 02:00:00+0000",
   "easternStart": "2013-12-13 21:00:00",
-  "summary": "Canucks look to continue perfect December vs. Oilers",
+  "summary": "Luongo and Canucks shut down Oilers",
   "h": {
     "ab": "VAN",
-    "record": "18-10-5",
+    "record": "19-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "11-19-3",
+    "record": "11-20-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN115",
+      "summary": "Daniel Sedin (11) Slap Shot, assists: Jason Garrison (16), Ryan Kesler (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN54",
+      "summary": "Chris Higgins Backhand saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN653",
+      "summary": "Chris Higgins (9) Snap Shot, assists: Ryan Kesler (10), Mike Santorelli (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN148",
+      "summary": "Zack Kassian (6) Deflected, assists: David Booth (4), Jason Garrison (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN694",
+      "summary": "Dale Weise (3) Wrist Shot, assists: Yannick Weber (1), Jason Garrison (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

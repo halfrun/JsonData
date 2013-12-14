@@ -5,24 +5,89 @@
   "gn": "0484",
   "utcStart": "2013-12-14 00:00:00+0000",
   "easternStart": "2013-12-13 19:00:00",
-  "summary": "First-place Penguins begin busy stretch vs. Devils",
+  "summary": "Penguins, up 3-0 in first, hang on to defeat Devils",
   "h": {
     "ab": "PIT",
-    "record": "21-10-1",
+    "record": "22-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NJD",
-    "record": "12-14-6",
+    "record": "12-15-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT54",
+      "summary": "Pascal Dupuis (5) Wrist Shot, assists: Chris Kunitz (15), Sidney Crosby (28)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT70",
+      "summary": "Chris Conner (2) Wrist Shot, assists: Brandon Sutter (7), Joe Vitale (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT87",
+      "summary": "Jayson Megna (4) Wrist Shot, assists: Simon Despres (3), Deryk Engelland (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT270",
+      "summary": "Patrik Elias (7) Tip-In, assists: Anton Volchenkov (5), Steve Bernier (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT59",
+      "summary": "Robert Bortuzzo Slap Shot saved by Cory Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT62",
+      "summary": "Tim Sestito Backhand saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT272",
+      "summary": "Dainius Zubrus (5) Wrist Shot, assists: Jaromir Jagr (15), Travis Zajac (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT57",
+      "summary": "Evgeni Malkin Wrist Shot saved by Cory Schneider",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
