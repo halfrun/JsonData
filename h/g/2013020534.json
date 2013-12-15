@@ -1,13 +1,13 @@
 {
-  "id": "2013020527",
+  "id": "2013020534",
   "sid": "2013",
   "t": "02",
-  "gn": "0527",
-  "utcStart": "2013-12-20 00:30:00+0000",
-  "easternStart": "2013-12-19 19:30:00",
+  "gn": "0534",
+  "utcStart": "2013-12-21 00:00:00+0000",
+  "easternStart": "2013-12-20 19:00:00",
   "summary": "",
   "h": {
-    "ab": "OTT",
+    "ab": "NJD",
     "record": "13-15-6",
     "live": "",
     "replayShort": "",
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "FLA",
-    "record": "11-17-5",
+    "ab": "ANA",
+    "record": "22-7-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

@@ -5,24 +5,73 @@
   "gn": "0492",
   "utcStart": "2013-12-15 00:00:00+0000",
   "easternStart": "2013-12-14 19:00:00",
-  "summary": "Lightning start road trip by visiting Devils",
+  "summary": "Brodeur, Devils blank struggling Lightning",
   "h": {
     "ab": "NJD",
-    "record": "12-15-6",
+    "record": "13-15-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TBL",
-    "record": "18-10-3",
+    "record": "18-11-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J9",
+      "summary": "Nate Thompson Wrist Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J432",
+      "summary": "Dainius Zubrus (7) Backhand, assists: Jaromir Jagr (17), Marek Zidlicky (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J7",
+      "summary": "Tyler Johnson Wrist Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J240",
+      "summary": "Damien Brunner (7) Wrist Shot, assists: Eric Gelinas (10), Mark Fayne (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J425",
+      "summary": "Dainius Zubrus (6) Wrist Shot, assists: Jaromir Jagr (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J18",
+      "summary": "Patrik Elias Wrist Shot saved by Anders Lindback",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

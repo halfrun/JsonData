@@ -5,24 +5,89 @@
   "gn": "0496",
   "utcStart": "2013-12-15 01:00:00+0000",
   "easternStart": "2013-12-14 20:00:00",
-  "summary": "Hurricanes wrap up Western trip against Coyotes",
+  "summary": "Hurricanes rally to beat Coyotes",
   "h": {
     "ab": "PHX",
-    "record": "18-8-5",
+    "record": "18-9-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CAR",
-    "record": "13-13-7",
+    "record": "14-13-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX68",
+      "summary": "Connor Murphy Slap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX53",
+      "summary": "Andrej Sekera Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX280",
+      "summary": "Jeff Skinner (12) Wrist Shot, assists: Eric Staal (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX247",
+      "summary": "Nathan Gerbe (7) Wrist Shot, assists: Eric Staal (18), Tim Gleason (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX62",
+      "summary": "Jeff Skinner Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX634",
+      "summary": "Eric Staal (9) Wrap-around, assists: Jordan Staal (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX70",
+      "summary": "Paul Bissonnette (1) Tip-In, assists: Connor Murphy (2), Jeff Halpern (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX66",
+      "summary": "Connor Murphy Wrist Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

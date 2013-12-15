@@ -5,24 +5,137 @@
   "gn": "0489",
   "utcStart": "2013-12-14 20:00:00+0000",
   "easternStart": "2013-12-14 15:00:00",
-  "summary": "Jets, Stars aim to get back in win column",
+  "summary": "Seguin strikes again for Dallas in Winnipeg",
   "h": {
     "ab": "WPG",
-    "record": "14-14-5",
+    "record": "14-15-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "14-11-5",
+    "record": "15-11-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "WPG480",
+      "summary": "Jamie Benn (9) Wrist Shot, assists: Tyler Seguin (14), Sergei Gonchar (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG65",
+      "summary": "Dustin Byfuglien Snap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG60",
+      "summary": "Andrew Ladd Tip-In saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG59",
+      "summary": "Colton Sceviour Snap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG87",
+      "summary": "Matt Halischuk (3) Backhand, assists: Mark Scheifele (9), Michael Frolik (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG484",
+      "summary": "Tyler Seguin (17) Slap Shot, assists: Sergei Gonchar (10), Alex Chiasson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG467",
+      "summary": "Blake Wheeler (11) Wrist Shot, assists: Bryan Little (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG55",
+      "summary": "Olli Jokinen Slap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "WPG458",
+      "summary": "Blake Wheeler (10) Snap Shot, assists: Olli Jokinen (13), Dustin Byfuglien (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG689",
+      "summary": "Olli Jokinen (8) Wrist Shot, assists: Chris Thorburn (3), Devin Setoguchi (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG74",
+      "summary": "Tyler Seguin (16) Snap Shot, assists: Sergei Gonchar (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG97",
+      "summary": "Valeri Nichushkin (5) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG463",
+      "summary": "Jamie Benn (8) Wrist Shot, assists: Tyler Seguin (13), Sergei Gonchar (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG495",
+      "summary": "Colton Sceviour (1) Backhand, assists: Antoine Roussel (7), Brenden Dillon (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
