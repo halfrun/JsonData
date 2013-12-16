@@ -5,24 +5,89 @@
   "gn": "0504",
   "utcStart": "2013-12-16 01:00:00+0000",
   "easternStart": "2013-12-15 20:00:00",
-  "summary": "Ducks look to continue home dominance against Oilers",
+  "summary": "Ducks beat Oilers on late Penner goal",
   "h": {
     "ab": "ANA",
-    "record": "22-7-5",
+    "record": "23-7-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "EDM",
-    "record": "11-20-3",
+    "record": "11-21-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "ANA431",
+      "summary": "Teemu Selanne (4) Wrist Shot, assists: Mathieu Perreault (11), Matt Beleskey (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA495",
+      "summary": "Dustin Penner (10) Wrist Shot, assists: Ryan Getzlaf (23), Hampus Lindholm (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA59",
+      "summary": "Andrew Cogliano Wrist Shot saved by Ilya Bryzgalov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA480",
+      "summary": "Sam Gagner (4) Backhand, assists: Nail Yakupov (7), Andrew Ference (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA91",
+      "summary": "Nick Bonino (9) Wrist Shot, assists: Patrick Maroon (4), Kyle Palmieri (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA74",
+      "summary": "Ryan Nugent-Hopkins (8) Deflected, assists: Taylor Hall (16), Jordan Eberle (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA56",
+      "summary": "Nail Yakupov Snap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA68",
+      "summary": "Ben Lovejoy Slap Shot saved by Ilya Bryzgalov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

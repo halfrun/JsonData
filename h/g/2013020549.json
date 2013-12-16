@@ -1,14 +1,14 @@
 {
-  "id": "2013020513",
+  "id": "2013020549",
   "sid": "2013",
   "t": "02",
-  "gn": "0513",
-  "utcStart": "2013-12-18 00:30:00+0000",
-  "easternStart": "2013-12-17 19:30:00",
+  "gn": "0549",
+  "utcStart": "2013-12-22 03:00:00+0000",
+  "easternStart": "2013-12-21 22:00:00",
   "summary": "",
   "h": {
-    "ab": "MTL",
-    "record": "20-12-3",
+    "ab": "EDM",
+    "record": "11-21-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "PHX",
-    "record": "18-9-5",
+    "ab": "STL",
+    "record": "22-6-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
