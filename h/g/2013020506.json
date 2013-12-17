@@ -5,24 +5,89 @@
   "gn": "0506",
   "utcStart": "2013-12-17 00:00:00+0000",
   "easternStart": "2013-12-16 19:00:00",
-  "summary": "Jets begin rugged stretch against Blue Jackets",
+  "summary": "Kane leads Jets past Blue Jackets in return to lineup",
   "h": {
     "ab": "CBJ",
-    "record": "14-15-4",
+    "record": "14-16-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "WPG",
-    "record": "14-15-5",
+    "record": "15-15-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ298",
+      "summary": "Mark Scheifele (4) Wrist Shot, assists: Evander Kane (8), Michael Frolik (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ57",
+      "summary": "Dustin Byfuglien Slap Shot saved by Mike McKenna",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ495",
+      "summary": "Evander Kane (8) Wrist Shot, assists: Mark Stuart (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ475",
+      "summary": "Bryan Little (14) Deflected, assists: Dustin Byfuglien (18), Andrew Ladd (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ489",
+      "summary": "RJ Umberger (8) Wrap-around, assists: Matt Calvert (4), Ryan Johansen (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ498",
+      "summary": "Fedor Tyutin (4) Wrist Shot, assists: Mark Letestu (10), Nick Foligno (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ7",
+      "summary": "Matt Calvert hit Tobias Enstrom",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ55",
+      "summary": "Cam Atkinson Snap Shot saved by Al Montoya",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

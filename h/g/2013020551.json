@@ -1,14 +1,14 @@
 {
-  "id": "2013020532",
+  "id": "2013020551",
   "sid": "2013",
   "t": "02",
-  "gn": "0532",
-  "utcStart": "2013-12-20 02:30:00+0000",
-  "easternStart": "2013-12-19 21:30:00",
+  "gn": "0551",
+  "utcStart": "2013-12-23 00:30:00+0000",
+  "easternStart": "2013-12-22 19:30:00",
   "summary": "",
   "h": {
-    "ab": "COL",
-    "record": "22-9-1",
+    "ab": "NYR",
+    "record": "16-17-1",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "EDM",
-    "record": "11-21-3",
+    "ab": "MIN",
+    "record": "19-11-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

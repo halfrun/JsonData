@@ -5,24 +5,121 @@
   "gn": "0508",
   "utcStart": "2013-12-17 02:00:00+0000",
   "easternStart": "2013-12-16 21:00:00",
-  "summary": "Stars, Avalanche open home-and-home in Denver",
+  "summary": "Stastny ends drought, leads Avalanche past Stars",
   "h": {
     "ab": "COL",
-    "record": "21-9-1",
+    "record": "22-9-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "15-11-5",
+    "record": "15-12-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL397",
+      "summary": "Andre Benoit (2) Snap Shot, assists: Ryan O'Reilly (10), Matt Duchene (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL753",
+      "summary": "Tyson Barrie (1) Wrist Shot, assists: PA Parenteau (12), Paul Stastny (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL356",
+      "summary": "Kevin Connauton (1) Tip-In, assists: Tyler Seguin (15), Alex Goligoski (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL60",
+      "summary": "Nathan MacKinnon Snap Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL57",
+      "summary": "Tyler Seguin Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL385",
+      "summary": "Paul Stastny (9) Tip-In, assists: Maxime Talbot (5), Jamie McGinn (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "COL58",
+      "summary": "Rich Peverley Snap Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL573",
+      "summary": "Tyler Seguin (18) Tip-In, assists: Valeri Nichushkin (12), Sergei Gonchar (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL62",
+      "summary": "Ryan O'Reilly Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL554",
+      "summary": "Paul Stastny (10) Tip-In, assists: Gabriel Landeskog (14), PA Parenteau (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL74",
+      "summary": "Nathan MacKinnon (7) Wrist Shot, assists: Matt Duchene (11), Cory Sarich (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "COL427",
+      "summary": "Erik Johnson (3) Slap Shot, assists: Paul Stastny (10), PA Parenteau (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

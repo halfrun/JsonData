@@ -5,24 +5,73 @@
   "gn": "0505",
   "utcStart": "2013-12-17 00:00:00+0000",
   "easternStart": "2013-12-16 19:00:00",
-  "summary": "Injury-plagued Penguins set to host Maple Leafs",
+  "summary": "Crosby's late goal helps Penguins beat Maple Leafs",
   "h": {
     "ab": "PIT",
-    "record": "23-10-1",
+    "record": "24-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "TOR",
-    "record": "17-14-3",
+    "record": "17-15-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PIT55",
+      "summary": "Chris Conner (3) Wrist Shot, assists: Brian Dumoulin (1), Joe Vitale (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT621",
+      "summary": "Sidney Crosby (19) Wrist Shot, assists: Pascal Dupuis (12), Robert Bortuzzo (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT329",
+      "summary": "Morgan Rielly (1) Snap Shot, assists: Cody Franson (15), Jonathan Bernier (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT61",
+      "summary": "Joe Vitale Wrist Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT633",
+      "summary": "Brandon Sutter (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT57",
+      "summary": "Craig Adams Tip-In saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
