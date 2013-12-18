@@ -1,14 +1,14 @@
 {
-  "id": "2013020529",
+  "id": "2013020565",
   "sid": "2013",
   "t": "02",
-  "gn": "0529",
-  "utcStart": "2013-12-20 00:30:00+0000",
-  "easternStart": "2013-12-19 19:30:00",
+  "gn": "0565",
+  "utcStart": "2013-12-24 03:30:00+0000",
+  "easternStart": "2013-12-23 22:30:00",
   "summary": "",
   "h": {
-    "ab": "TBL",
-    "record": "20-11-3",
+    "ab": "LAK",
+    "record": "23-8-4",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
@@ -16,8 +16,8 @@
     "replayFullNumber": 0
   },
   "a": {
-    "ab": "NSH",
-    "record": "16-15-3",
+    "ab": "DAL",
+    "record": "16-12-5",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,

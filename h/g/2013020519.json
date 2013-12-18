@@ -5,24 +5,81 @@
   "gn": "0519",
   "utcStart": "2013-12-18 01:30:00+0000",
   "easternStart": "2013-12-17 20:30:00",
-  "summary": "Avalanche go for sweep in home-and-home vs. Stars",
+  "summary": "Stars edge Avalanche on Sceviour's late goal",
   "h": {
     "ab": "DAL",
-    "record": "15-12-5",
+    "record": "16-12-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "COL",
-    "record": "22-9-1",
+    "record": "22-10-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL5",
+      "summary": "Jan Hejda hit Valeri Nichushkin",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL607",
+      "summary": "Ray Whitney (3) Snap Shot, assists: Alex Chiasson (10), Sergei Gonchar (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL770",
+      "summary": "Colton Sceviour (2) Wrist Shot, assists: Rich Peverley (8), Dan Ellis (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL338",
+      "summary": "Erik Johnson (4) Snap Shot, assists: Matt Duchene (13), Nick Holden (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL70",
+      "summary": "Ray Whitney (2) Wrist Shot, assists: Shawn Horcoff (7), Alex Chiasson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL59",
+      "summary": "Matt Duchene (15) Wrist Shot, assists: Erik Johnson (8), Tyson Barrie (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL61",
+      "summary": "Erik Johnson Wrist Shot saved by Dan Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }
