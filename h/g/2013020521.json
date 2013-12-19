@@ -5,24 +5,89 @@
   "gn": "0521",
   "utcStart": "2013-12-19 00:30:00+0000",
   "easternStart": "2013-12-18 19:30:00",
-  "summary": "Senators hit the road to challenge Devils",
+  "summary": "Devils defeat Senators; Jagr moves up lists",
   "h": {
     "ab": "NJD",
-    "record": "13-15-6",
+    "record": "14-15-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "OTT",
-    "record": "14-15-6",
+    "record": "14-16-6",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "N.J552",
+      "summary": "Damien Brunner (8) Backhand, assists: Patrik Elias (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J220",
+      "summary": "Colin Greening (3) Tip-In, assists: Mika Zibanejad (7), Erik Karlsson (23)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "N.J574",
+      "summary": "Milan Michalek (6) Backhand, assists: Patrick Wiercioch (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J213",
+      "summary": "Jaromir Jagr (12) Backhand, assists: Travis Zajac (8), Andy Greene (12)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "N.J40",
+      "summary": "Reid Boucher (1) Wrist Shot, assists: Eric Gelinas (11), Michael Ryder (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J12",
+      "summary": "Stephen Gionta (1) Snap Shot, assists: Adam Henrique (7), Anton Volchenkov (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J10",
+      "summary": "Jason Spezza Snap Shot saved by Martin Brodeur",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "N.J575",
+      "summary": "Eric Gelinas (4) Slap Shot, assists: Damien Brunner (5), Patrik Elias (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }
