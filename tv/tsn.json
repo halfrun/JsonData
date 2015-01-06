@@ -4,7 +4,7 @@
 			"Name": "TSN1",
 			"ScheduleURL": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn1/schedules",
 			"FeedURL": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen{quality}.m3u8",
-			"Logo": "http://www.tsn.ca/img/tsn/tv/tsn1_logo.png"
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png"
 		},
 		{
 			"Name": "TSN2",
