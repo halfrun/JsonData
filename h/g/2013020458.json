@@ -1,0 +1,85 @@
+{
+  "id": "2013020458",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0458",
+  "utcStart": "2013-12-11 00:00:00+0000",
+  "easternStart": "2013-12-10 19:00:00",
+  "summary": "Girgensons stars as Sabres top Senators in shootout",
+  "h": {
+    "ab": "BUF",
+    "record": "7-22-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "12-14-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BUF61",
+      "summary": "Tyler Myers Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "Tyler Myers Slap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF70",
+      "summary": "Milan Michalek (5) Wrist Shot, assists: Cory Conacher (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF404",
+      "summary": "Zemgus Girgensons (3) Slap Shot, assists: Christian Ehrhoff (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF59",
+      "summary": "Luke Adam Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF54",
+      "summary": "Matt Moulson Snap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF57",
+      "summary": "Chris Neil Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

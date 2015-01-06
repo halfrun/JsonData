@@ -1,0 +1,85 @@
+{
+  "id": "2013020434",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0434",
+  "utcStart": "2013-12-07 00:00:00+0000",
+  "easternStart": "2013-12-06 19:00:00",
+  "summary": "McElhinney, Blue Jackets shut out Wild",
+  "h": {
+    "ab": "CBJ",
+    "record": "12-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "17-9-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CBJ365",
+      "summary": "Nick Foligno (8) Backhand, assists: Ryan Johansen (11), RJ Umberger (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ474",
+      "summary": "RJ Umberger (7) Wrist Shot, assists: Nick Foligno (8), Ryan Johansen (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ460",
+      "summary": "Boone Jenner (3) Wrist Shot, assists: Blake Comeau (3), Artem Anisimov (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ6",
+      "summary": "Brandon Dubinsky hit Keith Ballard",
+      "homeType": "hit",
+      "homeNumber": 2,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ60",
+      "summary": "Artem Anisimov Wrist Shot saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ92",
+      "summary": "Cam Atkinson (7) Snap Shot, assists: Brandon Dubinsky (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ58",
+      "summary": "Mikko Koivu Slap Shot saved by Curtis McElhinney",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

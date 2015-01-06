@@ -1,0 +1,93 @@
+{
+  "id": "2013020446",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0446",
+  "utcStart": "2013-12-07 19:00:00+0000",
+  "easternStart": "2013-12-07 14:00:00",
+  "summary": "Seguin's natural hat trick pushes Stars past Flyers",
+  "h": {
+    "ab": "DAL",
+    "record": "14-9-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "13-14-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DAL675",
+      "summary": "Cody Eakin (7) Wrist Shot, assists: Antoine Roussel (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL55",
+      "summary": "Tyler Seguin Wrist Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL100",
+      "summary": "Andrej Meszaros (1) Wrist Shot, assists: Wayne Simmonds (8), Brayden Schenn (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL467",
+      "summary": "Valeri Nichushkin (4) Wrist Shot, assists: Tyler Seguin (12), Alex Goligoski (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL263",
+      "summary": "Tyler Seguin (13) Snap Shot, assists: Jamie Benn (19), Valeri Nichushkin (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL466",
+      "summary": "Tyler Seguin (15) Tip-In, assists: Valeri Nichushkin (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL462",
+      "summary": "Tyler Seguin (14) Wrist Shot, assists: Alex Goligoski (6), Valeri Nichushkin (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL61",
+      "summary": "Erik Cole Backhand saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

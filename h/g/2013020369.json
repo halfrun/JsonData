@@ -5,24 +5,81 @@
   "gn": "0369",
   "utcStart": "2013-11-28 00:00:00+0000",
   "easternStart": "2013-11-27 19:00:00",
-  "summary": "",
+  "summary": "Mazanec, Predators blank Blue Jackets",
   "h": {
     "ab": "CBJ",
-    "record": "8-11-3",
+    "record": "9-13-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "NSH",
-    "record": "11-9-2",
+    "record": "13-11-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CBJ351",
+      "summary": "Mike Fisher (5) Wrist Shot, assists: Gabriel Bourque (5), Roman Josi (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ366",
+      "summary": "David Legwand (5) Wrist Shot, assists: Viktor Stalberg (4), Gabriel Bourque (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ62",
+      "summary": "Roman Josi Slap Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ73",
+      "summary": "Matt Cullen (5) Snap Shot, assists: Ryan Ellis (5), Nick Spaling (4)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CBJ552",
+      "summary": "Nick Spaling (4) Wrist Shot, assists: Matt Cullen (8), Ryan Ellis (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ53",
+      "summary": "Boone Jenner Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ58",
+      "summary": "Cam Atkinson Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

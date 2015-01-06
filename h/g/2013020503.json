@@ -1,0 +1,77 @@
+{
+  "id": "2013020503",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0503",
+  "utcStart": "2013-12-16 00:00:00+0000",
+  "easternStart": "2013-12-15 19:00:00",
+  "summary": "Raanta rebounds, helps Blackhawks past Kings",
+  "h": {
+    "ab": "CHI",
+    "record": "24-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "22-8-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CHI208",
+      "summary": "Patrick Sharp (16) Wrist Shot, assists: Jonathan Toews (19), Duncan Keith (28)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI16",
+      "summary": "Marcus Kruger Wrist Shot saved by Ben Scrivens",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI24",
+      "summary": "Marian Hossa (14) Wrist Shot, assists: Jonathan Toews (18), Niklas Hjalmarsson (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI621",
+      "summary": "Alec Martinez (2) Snap Shot, assists: Matt Greene (2), Jordan Nolan (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI33",
+      "summary": "Kris Versteeg (6) Wrist Shot, assists: Patrick Kane (26), Brent Seabrook (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI23",
+      "summary": "Justin Williams Wrist Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

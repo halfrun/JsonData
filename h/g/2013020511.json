@@ -1,0 +1,69 @@
+{
+  "id": "2013020511",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0511",
+  "utcStart": "2013-12-18 00:00:00+0000",
+  "easternStart": "2013-12-17 19:00:00",
+  "summary": "Clemmensen, Panthers extend winning streaks",
+  "h": {
+    "ab": "TOR",
+    "record": "17-16-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "13-17-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "TOR66",
+      "summary": "Tomas Fleischmann (5) Wrist Shot, assists: Aleksander Barkov (8), Dylan Olsen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR565",
+      "summary": "Brad Boyes (9) Snap Shot, assists: Sean Bergenheim (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR593",
+      "summary": "Mason Raymond (11) Tip-In, assists: Peter Holland (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR62",
+      "summary": "Shawn Matthias Snap Shot saved by James Reimer",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR281",
+      "summary": "Sean Bergenheim (4) Backhand, assists: Aleksander Barkov (9), Dmitry Kulikov (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

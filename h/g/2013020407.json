@@ -1,0 +1,101 @@
+{
+  "id": "2013020407",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0407",
+  "utcStart": "2013-12-03 00:30:00+0000",
+  "easternStart": "2013-12-02 19:30:00",
+  "summary": "Galchenyuk goal lets Canadiens defeat Devils",
+  "h": {
+    "ab": "MTL",
+    "record": "16-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "11-12-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MTL62",
+      "summary": "Dainius Zubrus Tip-In saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL60",
+      "summary": "Jaromir Jagr Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL54",
+      "summary": "Marek Zidlicky Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL517",
+      "summary": "Michael Ryder (6) Slap Shot, assists: Mark Fayne (1), Eric Gelinas (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL55",
+      "summary": "Tim Sestito Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL535",
+      "summary": "Alex Galchenyuk (7) Wrist Shot, assists: Alexei Emelin (3), Rene Bourque (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL343",
+      "summary": "Max Pacioretty (10) Wrist Shot, assists: Andrei Markov (16), David Desharnais (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL75",
+      "summary": "Steve Bernier (3) Tip-In, assists: Anton Volchenkov (4), Adam Henrique (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL324",
+      "summary": "Rene Bourque (6) Wrist Shot, assists: David Desharnais (6), P.K. Subban (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

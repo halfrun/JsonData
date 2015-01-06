@@ -5,24 +5,113 @@
   "gn": "0339",
   "utcStart": "2013-11-23 03:00:00+0000",
   "easternStart": "2013-11-22 22:00:00",
-  "summary": "Canucks seek offense, win against Blue Jackets",
+  "summary": "Canucks rout Blue Jackets to end slump",
   "h": {
     "ab": "VAN",
-    "record": "11-8-4",
+    "record": "12-9-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CBJ",
-    "record": "8-11-3",
+    "record": "8-12-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "VAN55",
+      "summary": "Matt Calvert (1) Wrist Shot, assists: Michael Chaput (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN581",
+      "summary": "Jeremy Welsh (1) Tip-In, assists: Ryan Stanton (9), Dale Weise (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN325",
+      "summary": "Alexander Edler (3) Slap Shot, assists: Chris Higgins (5), Mike Santorelli (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN324",
+      "summary": "Henrik Sedin (5) Wrist Shot, assists: Daniel Sedin (11), Ryan Kesler (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN94",
+      "summary": "Daniel Sedin (8) Wrist Shot, assists: Alexander Edler (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "VAN57",
+      "summary": "Tom Sestito Wrist Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN12",
+      "summary": "Zack Kassian hit Nikita Nikitin",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN319",
+      "summary": "Zack Kassian (5) Wrist Shot, assists: Brad Richardson (6), Ryan Stanton (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN576",
+      "summary": "Artem Anisimov (6) Wrist Shot, assists: Nikita Nikitin (5), David Savard (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN54",
+      "summary": "Brad Richardson Snap Shot saved by Sergei Bobrovsky",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN557",
+      "summary": "Henrik Sedin (6) Deflected, assists: Daniel Sedin (12), Ryan Stanton (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

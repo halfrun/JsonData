@@ -1,0 +1,28 @@
+{
+  "id": "2013020532",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0532",
+  "utcStart": "2013-12-20 02:30:00+0000",
+  "easternStart": "2013-12-19 21:30:00",
+  "summary": "Avalanche look for response to Oilers' rout",
+  "h": {
+    "ab": "COL",
+    "record": "22-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "EDM",
+    "record": "11-22-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

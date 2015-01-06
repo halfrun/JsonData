@@ -1,0 +1,93 @@
+{
+  "id": "2013020501",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0501",
+  "utcStart": "2013-12-15 23:00:00+0000",
+  "easternStart": "2013-12-15 18:00:00",
+  "summary": "Panthers hold on to beat Canadiens",
+  "h": {
+    "ab": "MTL",
+    "record": "20-12-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "12-17-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MTL236",
+      "summary": "Nick Bjugstad (6) Wrist Shot, assists: Tomas Fleischmann (13), Scottie Upshall (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL67",
+      "summary": "Tomas Kopecky Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL65",
+      "summary": "Scottie Upshall Backhand saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL430",
+      "summary": "Alex Galchenyuk (10) Wrist Shot, assists: Brian Gionta (12), P.K. Subban (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL57",
+      "summary": "Krystofer Barch Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL228",
+      "summary": "Jesse Winchester (5) Snap Shot, assists: Tomas Kopecky (5), Marcel Goc (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL59",
+      "summary": "Tomas Fleischmann Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL53",
+      "summary": "Nick Bjugstad Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

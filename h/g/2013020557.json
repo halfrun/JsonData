@@ -1,0 +1,28 @@
+{
+  "id": "2013020557",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0557",
+  "utcStart": "2013-12-24 00:30:00+0000",
+  "easternStart": "2013-12-23 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "OTT",
+    "record": "14-16-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "25-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

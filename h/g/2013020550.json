@@ -1,0 +1,28 @@
+{
+  "id": "2013020550",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0550",
+  "utcStart": "2013-12-22 03:30:00+0000",
+  "easternStart": "2013-12-21 22:30:00",
+  "summary": "",
+  "h": {
+    "ab": "SJS",
+    "record": "21-7-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "DAL",
+    "record": "16-12-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

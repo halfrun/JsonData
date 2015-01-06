@@ -1,0 +1,133 @@
+{
+  "id": "2013020490",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0490",
+  "utcStart": "2013-12-15 00:00:00+0000",
+  "easternStart": "2013-12-14 19:00:00",
+  "summary": "Lupul, Raymond help Maple Leafs handle Blackhawks",
+  "h": {
+    "ab": "TOR",
+    "record": "17-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "24-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "TOR9",
+      "summary": "Nazem Kadri Snap Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR474",
+      "summary": "Patrick Kane (19) Wrist Shot, assists: Niklas Hjalmarsson (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR12",
+      "summary": "Mason Raymond Snap Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR48",
+      "summary": "Patrick Kane (18) Wrist Shot, assists: Marian Hossa (15), Duncan Keith (27)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR673",
+      "summary": "Phil Kessel (17) Wrist Shot, assists: Nazem Kadri (12), Carl Gunnarsson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR670",
+      "summary": "Brandon Saad (12) Tip-In, assists: Nick Leddy (12), Jonathan Toews (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR17",
+      "summary": "Jake Gardiner Wrist Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR23",
+      "summary": "Peter Holland (4) Snap Shot, assists: Joffrey Lupul (8), Mason Raymond (11)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR467",
+      "summary": "Peter Holland (5) Snap Shot, assists: Mason Raymond (12), Joffrey Lupul (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR482",
+      "summary": "Joffrey Lupul (9) Tip-In, assists: Jake Gardiner (10), Mason Raymond (13)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR477",
+      "summary": "Nikolai Kulemin (4) Wrist Shot, assists: Jay McClement (3), Jerry D'Amigo (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR274",
+      "summary": "Jerry D'Amigo (1) Backhand, assists: Nikolai Kulemin (5), Carl Gunnarsson (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "TOR500",
+      "summary": "Joffrey Lupul (10) Wrist Shot, assists: Peter Holland (2), Mason Raymond (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

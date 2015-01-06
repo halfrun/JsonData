@@ -1,0 +1,28 @@
+{
+  "id": "2013020549",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0549",
+  "utcStart": "2013-12-22 03:00:00+0000",
+  "easternStart": "2013-12-21 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "EDM",
+    "record": "11-22-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "STL",
+    "record": "22-7-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2013020473",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0473",
+  "utcStart": "2013-12-13 00:00:00+0000",
+  "easternStart": "2013-12-12 19:00:00",
+  "summary": "Anisimov, McKenna lead Blue Jackets past Rangers",
+  "h": {
+    "ab": "NYR",
+    "record": "15-17-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CBJ",
+    "record": "14-15-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR60",
+      "summary": "Blake Comeau Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR665",
+      "summary": "Dan Girardi (2) Snap Shot, assists: Mats Zuccarello (15), Michael Del Zotto (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR684",
+      "summary": "Ryan Johansen (11) Wrist Shot, assists: Fedor Tyutin (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR92",
+      "summary": "David Savard (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR83",
+      "summary": "Artem Anisimov (8) Slap Shot, assists: Blake Comeau (4), Boone Jenner (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR54",
+      "summary": "Matt Calvert (4) Snap Shot, assists: Cam Atkinson (8), Fedor Tyutin (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR251",
+      "summary": "Dominic Moore (1) Backhand, assists: Brad Richards (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR63",
+      "summary": "Nikita Nikitin Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2013020487",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0487",
+  "utcStart": "2013-12-14 19:00:00+0000",
+  "easternStart": "2013-12-14 14:00:00",
+  "summary": "Stajan scores to give Flames another OT win",
+  "h": {
+    "ab": "BUF",
+    "record": "7-23-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 3,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "13-15-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BUF443",
+      "summary": "Paul Byron (1) Snap Shot, assists: Chris Butler (5), Mikael Backlund (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF61",
+      "summary": "Michael Cammalleri Snap Shot saved by Jhonas Enroth",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF621",
+      "summary": "Matt Stajan (6) Wrist Shot, assists: Paul Byron (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF433",
+      "summary": "Matt Moulson (11) Wrist Shot, assists: Zemgus Girgensons (8), Christian Ehrhoff (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF56",
+      "summary": "Matt Moulson Slap Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF66",
+      "summary": "Tyler Ennis Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

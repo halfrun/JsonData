@@ -1,0 +1,28 @@
+{
+  "id": "2013020560",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0560",
+  "utcStart": "2013-12-24 00:30:00+0000",
+  "easternStart": "2013-12-23 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "PHI",
+    "record": "15-15-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "20-11-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

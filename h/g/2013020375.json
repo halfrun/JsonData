@@ -5,24 +5,81 @@
   "gn": "0375",
   "utcStart": "2013-11-28 02:00:00+0000",
   "easternStart": "2013-11-27 21:00:00",
-  "summary": "",
+  "summary": "Red-hot Blues handle Avalanche to start road trip",
   "h": {
     "ab": "COL",
-    "record": "16-5-0",
+    "record": "17-6-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "STL",
-    "record": "15-3-3",
+    "record": "18-3-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "COL308",
+      "summary": "Jaden Schwartz (5) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL16",
+      "summary": "Chris Stewart Backhand saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL708",
+      "summary": "Chris Stewart (5) Wrist Shot, assists: Derek Roy (10), Patrik Berglund (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL73",
+      "summary": "Alexander Steen (20) Wrist Shot, assists: David Backes (13), Derek Roy (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL57",
+      "summary": "Roman Polak Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 3
+    },
+    {
+      "key": "COL59",
+      "summary": "David Backes (11) Wrist Shot, assists: T.J. Oshie (18), Jay Bouwmeester (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL79",
+      "summary": "Patrick Bordeleau (3) Backhand, assists: Jan Hejda (6), Brad Malone (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

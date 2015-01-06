@@ -1,0 +1,93 @@
+{
+  "id": "2013020394",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0394",
+  "utcStart": "2013-12-01 00:00:00+0000",
+  "easternStart": "2013-11-30 19:00:00",
+  "summary": "Pacioretty leads Canadiens past Maple Leafs",
+  "h": {
+    "ab": "MTL",
+    "record": "15-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "14-10-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "MTL60",
+      "summary": "Max Pacioretty (8) Wrist Shot, assists: P.K. Subban (19), Carey Price (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL204",
+      "summary": "P.K. Subban (4) Wrist Shot, assists: Max Pacioretty (3), David Desharnais (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL466",
+      "summary": "Tomas Plekanec (9) Wrist Shot, assists: Daniel Briere (4), Brian Gionta (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL63",
+      "summary": "Tyler Bozak Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL56",
+      "summary": "P.K. Subban Slap Shot saved by Jonathan Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL479",
+      "summary": "Mason Raymond (9) Backhand, assists: Paul Ranger (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL474",
+      "summary": "Max Pacioretty (9) Backhand, assists: Lars Eller (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MTL477",
+      "summary": "James van Riemsdyk (12) Wrist Shot, assists: Tyler Bozak (6), Phil Kessel (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

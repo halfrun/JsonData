@@ -5,24 +5,89 @@
   "gn": "0345",
   "utcStart": "2013-11-24 00:00:00+0000",
   "easternStart": "2013-11-23 19:00:00",
-  "summary": "",
+  "summary": "Senators shut down Red Wings",
   "h": {
     "ab": "DET",
-    "record": "10-6-7",
+    "record": "11-7-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "OTT",
-    "record": "8-10-4",
+    "record": "9-11-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET92",
+      "summary": "Clarke MacArthur (5) Wrist Shot, assists: Bobby Ryan (11), Patrick Wiercioch (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET678",
+      "summary": "Clarke MacArthur (6) Wrist Shot, assists: Patrick Wiercioch (8), Erik Karlsson (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET477",
+      "summary": "Pavel Datsyuk (12) Wrist Shot, assists: Niklas Kronwall (12), Henrik Zetterberg (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET89",
+      "summary": "Darren Helm (4) Tip-In, assists: Tomas Tatar (4), Jakub Kindl (8)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET60",
+      "summary": "Brendan Smith Snap Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET67",
+      "summary": "Drew Miller Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET96",
+      "summary": "Chris Neil (4) Wrist Shot, assists: Cory Conacher (3), Zack Smith (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET484",
+      "summary": "Bobby Ryan (11) Slap Shot, assists: Erik Karlsson (16), Jason Spezza (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "id": "2013020499",
+      "utcStart": "2013-12-15 20:00:00+0000",
+      "summary": "Capitals rally, beat Flyers in shootout",
+      "h": "WSH",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020500",
+      "utcStart": "2013-12-15 22:00:00+0000",
+      "summary": "Bishop, Lightning blank Red Wings",
+      "h": "DET",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020501",
+      "utcStart": "2013-12-15 23:00:00+0000",
+      "summary": "Panthers hold on to beat Canadiens",
+      "h": "MTL",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020502",
+      "utcStart": "2013-12-16 00:00:00+0000",
+      "summary": "Rangers rally, edge Flames in shootout",
+      "h": "NYR",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020503",
+      "utcStart": "2013-12-16 00:00:00+0000",
+      "summary": "Raanta rebounds, helps Blackhawks past Kings",
+      "h": "CHI",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020504",
+      "utcStart": "2013-12-16 01:00:00+0000",
+      "summary": "Ducks beat Oilers on late Penner goal",
+      "h": "ANA",
+      "a": "EDM"
+    }
+  ]
+}

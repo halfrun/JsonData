@@ -1,0 +1,85 @@
+{
+  "id": "2013020483",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0483",
+  "utcStart": "2013-12-13 03:30:00+0000",
+  "easternStart": "2013-12-12 22:30:00",
+  "summary": "Sharks beat Wild to snap four-game slide",
+  "h": {
+    "ab": "SJS",
+    "record": "20-6-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "18-11-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "S.J208",
+      "summary": "Tomas Hertl (15) Snap Shot, assists: Tommy Wingels (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J648",
+      "summary": "Jonas Brodin (6) Deflected, assists: Justin Fontaine (3), Ryan Suter (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J401",
+      "summary": "Joe Pavelski (12) Wrist Shot, assists: Matthew Irwin (5), Joe Thornton (29)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J8",
+      "summary": "Patrick Marleau Wrist Shot saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J29",
+      "summary": "Joe Pavelski (11) Slap Shot, assists: Dan Boyle (10), Joe Thornton (28)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J20",
+      "summary": "Dan Boyle Slap Shot saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "S.J18",
+      "summary": "Justin Fontaine Backhand saved by Antti Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

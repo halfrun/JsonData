@@ -1,0 +1,93 @@
+{
+  "id": "2013020441",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0441",
+  "utcStart": "2013-12-08 00:00:00+0000",
+  "easternStart": "2013-12-07 19:00:00",
+  "summary": "Goal by Huberdeau gives Panthers rare win at Detroit",
+  "h": {
+    "ab": "DET",
+    "record": "15-9-7",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "9-17-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET54",
+      "summary": "Johan Franzen Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET258",
+      "summary": "Jimmy Hayes (3) Wrist Shot, assists: Shawn Matthias (3), Dylan Olsen (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET59",
+      "summary": "Johan Franzen Snap Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET519",
+      "summary": "Jonathan Huberdeau (7) Backhand, assists: Tom Gilbert (10), Shawn Matthias (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET57",
+      "summary": "Mikael Samuelsson Slap Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET60",
+      "summary": "Tomas Fleischmann Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET56",
+      "summary": "Mikael Samuelsson Slap Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET62",
+      "summary": "Danny Cleary (2) Snap Shot, assists: Justin Abdelkader (9), Cory Emmerton (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

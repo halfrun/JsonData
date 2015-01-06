@@ -1,0 +1,28 @@
+{
+  "id": "2013020544",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0544",
+  "utcStart": "2013-12-22 00:00:00+0000",
+  "easternStart": "2013-12-21 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NYI",
+    "record": "9-19-7",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "24-7-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

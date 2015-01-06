@@ -1,0 +1,53 @@
+{
+  "id": "2013020493",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0493",
+  "utcStart": "2013-12-15 00:00:00+0000",
+  "easternStart": "2013-12-14 19:00:00",
+  "summary": "Canadiens top Islanders on Pacioretty's OT goal",
+  "h": {
+    "ab": "NYI",
+    "record": "9-19-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MTL",
+    "record": "20-12-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYI717",
+      "summary": "Max Pacioretty (12) Tip-In, assists: David Desharnais (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI108",
+      "summary": "Cal Clutterbuck Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI112",
+      "summary": "Andrei Markov Snap Shot saved by Evgeni Nabokov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

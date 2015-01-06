@@ -1,0 +1,69 @@
+{
+  "id": "2013020386",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0386",
+  "utcStart": "2013-11-29 22:00:00+0000",
+  "easternStart": "2013-11-29 17:00:00",
+  "summary": "Capitals rally to beat Canadiens in shootout",
+  "h": {
+    "ab": "WSH",
+    "record": "14-11-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MTL",
+    "record": "15-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH233",
+      "summary": "Eric Fehr (3) Wrist Shot, assists: Mikhail Grabovski (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH20",
+      "summary": "Marcus Johansson Wrist Shot saved by Peter Budaj",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH235",
+      "summary": "Tomas Plekanec (8) Wrist Shot, assists: Brian Gionta (8), Alexei Emelin (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH203",
+      "summary": "Daniel Briere (5) Wrap-around, assists: Tomas Plekanec (9), Brian Gionta (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH632",
+      "summary": "Mikhail Grabovski (8) Wrist Shot, assists: Eric Fehr (6), Troy Brouwer (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

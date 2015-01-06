@@ -1,0 +1,93 @@
+{
+  "id": "2013020398",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0398",
+  "utcStart": "2013-12-01 01:00:00+0000",
+  "easternStart": "2013-11-30 20:00:00",
+  "summary": "Mason, Flyers beat Predators in shootout",
+  "h": {
+    "ab": "NSH",
+    "record": "13-11-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "12-12-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NSH20",
+      "summary": "Ryan Ellis Slap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH203",
+      "summary": "Mike Fisher (6) Snap Shot, assists: Patric Hornqvist (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH22",
+      "summary": "Matt Cullen Wrist Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH440",
+      "summary": "Colin Wilson (4) Backhand, assists: Gabriel Bourque (7), Ryan Ellis (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH50",
+      "summary": "Claude Giroux (4) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH10",
+      "summary": "Matt Read Snap Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH12",
+      "summary": "Craig Smith Snap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH613",
+      "summary": "Sean Couturier (3) Snap Shot, assists: Andrej Meszaros (2), Steve Downie (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

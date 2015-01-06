@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "id": "2013020446",
+      "utcStart": "2013-12-07 19:00:00+0000",
+      "summary": "Seguin's natural hat trick pushes Stars past Flyers",
+      "h": "DAL",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020438",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Bruins defeat Penguins with two goals in final 1:29",
+      "h": "BOS",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020439",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Canadiens hold off Sabres for fifth straight win",
+      "h": "MTL",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020440",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Maple Leafs win in shootout after Senators tie in third",
+      "h": "OTT",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020441",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Goal by Huberdeau gives Panthers rare win at Detroit",
+      "h": "DET",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020442",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Jets defeat Lightning on Scheifele's OT goal",
+      "h": "TBL",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020443",
+      "utcStart": "2013-12-08 00:00:00+0000",
+      "summary": "Three-goal first leads Capitals past Predators",
+      "h": "WSH",
+      "a": "NSH"
+    },
+    {
+      "id": "2013020444",
+      "utcStart": "2013-12-08 00:30:00+0000",
+      "summary": "Gelinas scores in OT to lift Devils past Rangers",
+      "h": "NYR",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020445",
+      "utcStart": "2013-12-08 01:00:00+0000",
+      "summary": "Ducks hand Blues rare home loss",
+      "h": "STL",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020447",
+      "utcStart": "2013-12-08 03:00:00+0000",
+      "summary": "Flames edge Oilers on Hudler's OT goal",
+      "h": "EDM",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020448",
+      "utcStart": "2013-12-08 03:30:00+0000",
+      "summary": "Kings hand Islanders ninth straight loss",
+      "h": "LAK",
+      "a": "NYI"
+    }
+  ]
+}

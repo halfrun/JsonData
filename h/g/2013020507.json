@@ -1,0 +1,93 @@
+{
+  "id": "2013020507",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0507",
+  "utcStart": "2013-12-17 00:30:00+0000",
+  "easternStart": "2013-12-16 19:30:00",
+  "summary": "Ceci's first NHL goal lifts Senators past Blues in OT",
+  "h": {
+    "ab": "OTT",
+    "record": "14-15-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "STL",
+    "record": "22-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT537",
+      "summary": "Chris Stewart (8) Backhand, assists: Derek Roy (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT19",
+      "summary": "Jean-Gabriel Pageau (2) Wrist Shot, assists: Bobby Ryan (16), Erik Karlsson (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT548",
+      "summary": "Chris Stewart (9) Snap Shot, assists: Derek Roy (16), Brenden Morrow (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT23",
+      "summary": "David Backes hit Zack Smith",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT835",
+      "summary": "Bobby Ryan (16) Backhand, assists: Kyle Turris (20), Mika Zibanejad (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT17",
+      "summary": "Kyle Turris Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT10",
+      "summary": "Vladimir Tarasenko Wrist Shot saved by Robin Lehner",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT1108",
+      "summary": "Cody Ceci (1) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2013020466",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0466",
+  "utcStart": "2013-12-11 02:00:00+0000",
+  "easternStart": "2013-12-10 21:00:00",
+  "summary": "Greiss and Coyotes shut down Avalanche",
+  "h": {
+    "ab": "COL",
+    "record": "20-9-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "17-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "COL106",
+      "summary": "Keith Yandle Slap Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL8",
+      "summary": "Jeff Halpern Snap Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL289",
+      "summary": "Antoine Vermette (9) Wrist Shot, assists: Oliver Ekman-Larsson (16), Mikkel Boedker (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL114",
+      "summary": "Nathan MacKinnon Wrist Shot saved by Thomas Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL276",
+      "summary": "Antoine Vermette (8) Wrist Shot, assists: Keith Yandle (17), Mike Ribeiro (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL288",
+      "summary": "Patrick Bordeleau (4) Deflected, assists: Cody McLeod (5), Cory Sarich (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL283",
+      "summary": "Jordan Szwarz (2) Wrist Shot, assists: Jeff Halpern (2), Paul Bissonnette (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL116",
+      "summary": "Nathan MacKinnon Wrist Shot saved by Thomas Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

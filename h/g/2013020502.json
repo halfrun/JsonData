@@ -1,0 +1,133 @@
+{
+  "id": "2013020502",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0502",
+  "utcStart": "2013-12-16 00:00:00+0000",
+  "easternStart": "2013-12-15 19:00:00",
+  "summary": "Rangers rally, edge Flames in shootout",
+  "h": {
+    "ab": "NYR",
+    "record": "16-17-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "13-15-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR74",
+      "summary": "Mikael Backlund (4) Tip-In, assists: Kris Russell (12), Mark Giordano (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR235",
+      "summary": "Carl Hagelin (6) Wrap-around, assists: Benoit Pouliot (4), Dominic Moore (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR59",
+      "summary": "Brad Richards Backhand saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR708",
+      "summary": "Chris Kreider (8) Backhand, assists: Derek Stepan (16), Brian Boyle (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR64",
+      "summary": "Mats Zuccarello Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR67",
+      "summary": "Derek Stepan Slap Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR62",
+      "summary": "Mikael Backlund Slap Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR14",
+      "summary": "Lance Bouma hit Justin Falk",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR96",
+      "summary": "Curtis Glencross (6) Wrist Shot, assists: Jiri Hudler (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR58",
+      "summary": "Blair Jones Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR100",
+      "summary": "Derek Stepan (6) Wrist Shot, assists: Rick Nash (6), Dan Girardi (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR486",
+      "summary": "Sean Monahan (10) Backhand, assists: Curtis Glencross (5), Jiri Hudler (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR55",
+      "summary": "Rick Nash Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

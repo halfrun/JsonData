@@ -1,0 +1,109 @@
+{
+  "id": "2013020392",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0392",
+  "utcStart": "2013-11-30 19:00:00+0000",
+  "easternStart": "2013-11-30 14:00:00",
+  "summary": "Kreider hat trick lifts Rangers past Canucks, Tortorella",
+  "h": {
+    "ab": "NYR",
+    "record": "14-13-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "14-10-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR490",
+      "summary": "Chris Kreider (6) Tip-In, assists: Anton Stralman (3), Rick Nash (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR65",
+      "summary": "Jason Garrison Slap Shot saved by Cam Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR340",
+      "summary": "Michael Del Zotto (2) Slap Shot, assists: Mats Zuccarello (12), Derick Brassard (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR57",
+      "summary": "Dan Girardi Slap Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR673",
+      "summary": "Daniel Sedin (10) Wrist Shot, assists: Ryan Kesler (8), Alexander Edler (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR459",
+      "summary": "David Booth (3) Backhand, assists: Mike Santorelli (11), Dale Weise (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR310",
+      "summary": "Rick Nash (4) Tip-In, assists: Derek Stepan (14), Dan Girardi (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR61",
+      "summary": "Jannik Hansen Wrist Shot saved by Cam Talbot",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR96",
+      "summary": "Chris Kreider (5) Tip-In, assists: Ryan McDonagh (9), Brad Richards (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR88",
+      "summary": "Chris Kreider (4) Wrist Shot, assists: Rick Nash (4), Derek Stepan (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

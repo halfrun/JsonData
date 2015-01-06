@@ -1,0 +1,77 @@
+{
+  "id": "2013020403",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0403",
+  "utcStart": "2013-12-01 18:00:00+0000",
+  "easternStart": "2013-12-01 13:00:00",
+  "summary": "Kesler scores twice to lead Canucks past Hurricanes",
+  "h": {
+    "ab": "CAR",
+    "record": "10-12-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "14-10-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CAR41",
+      "summary": "Tom Sestito (2) Deflected, assists: Jason Garrison (12), Zac Dalpe (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR14",
+      "summary": "Ryan Kesler (11) Wrist Shot, assists: Jason Garrison (11), Henrik Sedin (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR5",
+      "summary": "Jannik Hansen Wrist Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR308",
+      "summary": "Jordan Staal (5) Wrist Shot, assists: Ron Hainsey (4), Patrick Dwyer (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR313",
+      "summary": "Ryan Kesler (12) Wrist Shot, assists: Jannik Hansen (3), Chris Higgins (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR310",
+      "summary": "Nathan Gerbe (6) Wrist Shot, assists: Eric Staal (13), Justin Faulk (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

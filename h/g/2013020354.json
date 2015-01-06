@@ -5,24 +5,73 @@
   "gn": "0354",
   "utcStart": "2013-11-24 22:00:00+0000",
   "easternStart": "2013-11-24 17:00:00",
-  "summary": "",
+  "summary": "E. Staal, Ward lead Hurricanes past Senators",
   "h": {
     "ab": "CAR",
-    "record": "8-10-4",
+    "record": "9-10-5",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "OTT",
-    "record": "8-10-4",
+    "record": "9-11-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CAR795",
+      "summary": "Eric Staal (6) Wrist Shot, assists: Manny Malhotra (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR408",
+      "summary": "Patrick Dwyer (3) Wrist Shot, assists: Jordan Staal (5), Justin Faulk (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR435",
+      "summary": "Elias Lindholm (2) Wrist Shot, assists: Eric Staal (11), Justin Faulk (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR8",
+      "summary": "Jason Spezza (10) Wrist Shot, assists: Mika Zibanejad (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR16",
+      "summary": "Jared Cowen Slap Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR423",
+      "summary": "Tuomo Ruutu (2) Wrist Shot, assists: Eric Staal (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

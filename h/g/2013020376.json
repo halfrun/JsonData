@@ -5,24 +5,89 @@
   "gn": "0376",
   "utcStart": "2013-11-28 03:00:00+0000",
   "easternStart": "2013-11-27 22:00:00",
-  "summary": "",
+  "summary": "Kane's late goal leads Blackhawks past Flames",
   "h": {
     "ab": "CGY",
-    "record": "7-11-4",
+    "record": "8-12-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "CHI",
-    "record": "15-4-4",
+    "record": "18-4-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "CGY687",
+      "summary": "Patrick Kane (15) Backhand, assists: Niklas Hjalmarsson (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY667",
+      "summary": "Patrick Sharp (9) Wrist Shot, assists: Marian Hossa (8), Niklas Hjalmarsson (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY68",
+      "summary": "Matt Stajan Wrist Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY462",
+      "summary": "Matt Stajan (4) Slap Shot, assists: Jiri Hudler (15), Lance Bouma (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY492",
+      "summary": "Sean Monahan (9) Wrist Shot, assists: Jiri Hudler (16), Kris Russell (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY73",
+      "summary": "Marian Hossa Backhand saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY62",
+      "summary": "Marian Hossa Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY666",
+      "summary": "Patrick Kane (14) Wrist Shot, assists: Brandon Saad (11), Duncan Keith (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

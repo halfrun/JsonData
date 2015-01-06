@@ -5,24 +5,105 @@
   "gn": "0370",
   "utcStart": "2013-11-28 00:30:00+0000",
   "easternStart": "2013-11-27 19:30:00",
-  "summary": "",
+  "summary": "Red Wings find offense in rout of Bruins",
   "h": {
     "ab": "DET",
-    "record": "10-6-7",
+    "record": "12-7-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "BOS",
-    "record": "14-6-2",
+    "record": "16-7-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DET83",
+      "summary": "Justin Abdelkader (3) Wrist Shot, assists: Johan Franzen (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET64",
+      "summary": "Reilly Smith Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET54",
+      "summary": "Johan Franzen Wrist Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET571",
+      "summary": "Drew Miller (2) Wrist Shot, assists: Joakim Andersson (5), Tomas Tatar (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET332",
+      "summary": "Niklas Kronwall (3) Wrist Shot, assists: Johan Franzen (9), Henrik Zetterberg (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET330",
+      "summary": "Henrik Zetterberg (11) Snap Shot, assists: Gustav Nyquist (1), Niklas Kronwall (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET586",
+      "summary": "Jarome Iginla (5) Wrist Shot, assists: Matt Bartkowski (6), Reilly Smith (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET584",
+      "summary": "Gustav Nyquist (3) Wrist Shot, assists: Johan Franzen (10), Jonathan Ericsson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET319",
+      "summary": "Tomas Tatar (3) Wrap-around, assists: Brian Lashoff (2), Joakim Andersson (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET53",
+      "summary": "Johan Franzen Wrist Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

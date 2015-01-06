@@ -1,0 +1,93 @@
+{
+  "id": "2013020518",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0518",
+  "utcStart": "2013-12-18 01:00:00+0000",
+  "easternStart": "2013-12-17 20:00:00",
+  "summary": "Wild snap Canucks' streak with shootout win",
+  "h": {
+    "ab": "MIN",
+    "record": "20-11-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "20-10-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MIN8",
+      "summary": "Zach Parise Snap Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN29",
+      "summary": "Jannik Hansen (6) Wrist Shot, assists: Daniel Sedin (21), Henrik Sedin (23)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN652",
+      "summary": "Charlie Coyle (4) Snap Shot, assists: Mikko Koivu (20), Jonas Brodin (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN408",
+      "summary": "David Booth (5) Wrist Shot, assists: Yannick Weber (2), Mike Santorelli (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN15",
+      "summary": "David Booth Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN12",
+      "summary": "Ryan Kesler Slap Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN43",
+      "summary": "Zach Parise (15) Wrist Shot, assists: Mikko Koivu (19), Ryan Suter (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN10",
+      "summary": "Zac Dalpe Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

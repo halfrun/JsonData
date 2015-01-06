@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": "2013020449",
+      "utcStart": "2013-12-08 23:00:00+0000",
+      "summary": "Harding's 37 saves lead Wild past Sharks",
+      "h": "MIN",
+      "a": "SJS"
+    },
+    {
+      "id": "2013020450",
+      "utcStart": "2013-12-09 00:00:00+0000",
+      "summary": "Miller's first goal helps Bruins beat Maple Leafs",
+      "h": "TOR",
+      "a": "BOS"
+    },
+    {
+      "id": "2013020451",
+      "utcStart": "2013-12-09 00:00:00+0000",
+      "summary": "Capitals finally solve Rangers' Lundqvist ",
+      "h": "NYR",
+      "a": "WSH"
+    },
+    {
+      "id": "2013020452",
+      "utcStart": "2013-12-09 00:00:00+0000",
+      "summary": "Blackhawks lose Crawford, rout Panthers",
+      "h": "CHI",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020453",
+      "utcStart": "2013-12-09 01:00:00+0000",
+      "summary": "Santorelli lifts Canucks past Avalanche",
+      "h": "VAN",
+      "a": "COL"
+    }
+  ]
+}

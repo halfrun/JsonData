@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "2013020470",
+      "utcStart": "2013-12-12 00:30:00+0000",
+      "summary": "Carter, Jones lead Kings to win against Maple Leafs",
+      "h": "TOR",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020471",
+      "utcStart": "2013-12-12 01:00:00+0000",
+      "summary": "Seven Blackhawks score in win against Flyers",
+      "h": "CHI",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020472",
+      "utcStart": "2013-12-12 03:30:00+0000",
+      "summary": "Ducks continue to soar at home, beat Wild",
+      "h": "ANA",
+      "a": "MIN"
+    }
+  ]
+}

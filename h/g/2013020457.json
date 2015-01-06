@@ -1,0 +1,93 @@
+{
+  "id": "2013020457",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0457",
+  "utcStart": "2013-12-10 03:00:00+0000",
+  "easternStart": "2013-12-09 22:00:00",
+  "summary": "Ducks hand Islanders 10th straight loss",
+  "h": {
+    "ab": "ANA",
+    "record": "21-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NYI",
+    "record": "9-18-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "ANA298",
+      "summary": "Thomas Vanek (9) Wrist Shot, assists: John Tavares (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA61",
+      "summary": "John Tavares Wrap-around saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA263",
+      "summary": "Saku Koivu (3) Backhand, assists: Daniel Winnik (10), Cam Fowler (15)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA85",
+      "summary": "John Tavares (12) Wrist Shot, assists: Thomas Vanek (11), Frans Nielsen (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA543",
+      "summary": "Corey Perry (20) Tip-In, assists: Nick Bonino (15), Cam Fowler (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA505",
+      "summary": "Cam Fowler (3) Backhand, assists: Matt Beleskey (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA507",
+      "summary": "Corey Perry (19) Wrist Shot, assists: Daniel Winnik (12), Ryan Getzlaf (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA427",
+      "summary": "Andrew Cogliano (9) Wrist Shot, assists: Daniel Winnik (11), Bryan Allen (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

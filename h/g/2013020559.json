@@ -1,0 +1,28 @@
+{
+  "id": "2013020559",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0559",
+  "utcStart": "2013-12-24 00:30:00+0000",
+  "easternStart": "2013-12-23 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "13-17-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "20-11-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

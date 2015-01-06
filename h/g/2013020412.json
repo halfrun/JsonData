@@ -1,0 +1,101 @@
+{
+  "id": "2013020412",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0412",
+  "utcStart": "2013-12-04 00:00:00+0000",
+  "easternStart": "2013-12-03 19:00:00",
+  "summary": "Big second period helps Hurricanes handle Capitals",
+  "h": {
+    "ab": "WSH",
+    "record": "14-12-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "11-12-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH21",
+      "summary": "Tyson Strachan Snap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH10",
+      "summary": "Ron Hainsey Slap Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH19",
+      "summary": "Mike Green Wrist Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH421",
+      "summary": "Jiri Tlusty (4) Backhand, assists: Radek Dvorak (3), Jay Harrison (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH15",
+      "summary": "Jason Chimera Wrist Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH455",
+      "summary": "Mike Green (1) Wrist Shot, assists: Alex Ovechkin (9), Jason Chimera (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH418",
+      "summary": "Andrej Sekera (6) Slap Shot, assists: Jeff Skinner (8), Eric Staal (15)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH32",
+      "summary": "Jeff Skinner (5) Wrist Shot, assists: Eric Staal (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "WSH410",
+      "summary": "Jeff Skinner (6) Wrist Shot, assists: Jay Harrison (3), Justin Peters (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

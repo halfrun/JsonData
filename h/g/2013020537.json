@@ -1,0 +1,28 @@
+{
+  "id": "2013020537",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0537",
+  "utcStart": "2013-12-21 01:00:00+0000",
+  "easternStart": "2013-12-20 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CHI",
+    "record": "25-7-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "20-10-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

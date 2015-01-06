@@ -1,0 +1,67 @@
+{
+  "games": [
+    {
+      "id": "2013020410",
+      "utcStart": "2013-12-04 00:00:00+0000",
+      "summary": "Sharks beat Maple Leafs for sixth straight win",
+      "h": "TOR",
+      "a": "SJS"
+    },
+    {
+      "id": "2013020411",
+      "utcStart": "2013-12-04 00:00:00+0000",
+      "summary": "Crosby's OT goal pushes Penguins past Islanders",
+      "h": "NYI",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020412",
+      "utcStart": "2013-12-04 00:00:00+0000",
+      "summary": "Big second period helps Hurricanes handle Capitals",
+      "h": "WSH",
+      "a": "CAR"
+    },
+    {
+      "id": "2013020413",
+      "utcStart": "2013-12-04 00:00:00+0000",
+      "summary": "Blue Jackets lose Bobrovsky, beat Lightning",
+      "h": "CBJ",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020414",
+      "utcStart": "2013-12-04 00:30:00+0000",
+      "summary": "Corvo, Senators rally past Panthers",
+      "h": "FLA",
+      "a": "OTT"
+    },
+    {
+      "id": "2013020415",
+      "utcStart": "2013-12-04 01:00:00+0000",
+      "summary": "Penalty-shot goal helps Stars hold off Blackhawks",
+      "h": "CHI",
+      "a": "DAL"
+    },
+    {
+      "id": "2013020416",
+      "utcStart": "2013-12-04 01:00:00+0000",
+      "summary": "Kesler powers Canucks past Predators",
+      "h": "NSH",
+      "a": "VAN"
+    },
+    {
+      "id": "2013020417",
+      "utcStart": "2013-12-04 02:30:00+0000",
+      "summary": "Coyotes start trip by beating Oilers",
+      "h": "EDM",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020418",
+      "utcStart": "2013-12-04 03:00:00+0000",
+      "summary": "Jones, Kings beat Ducks in nine-round shootout",
+      "h": "ANA",
+      "a": "LAK"
+    }
+  ]
+}

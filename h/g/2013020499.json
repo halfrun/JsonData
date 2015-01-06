@@ -1,0 +1,109 @@
+{
+  "id": "2013020499",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0499",
+  "utcStart": "2013-12-15 20:00:00+0000",
+  "easternStart": "2013-12-15 15:00:00",
+  "summary": "Capitals rally, beat Flyers in shootout",
+  "h": {
+    "ab": "WSH",
+    "record": "18-12-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "14-15-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH226",
+      "summary": "Mark Streit (2) Wrist Shot, assists: Michael Raffl (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH612",
+      "summary": "Dmitri Orlov (1) Slap Shot, assists: Eric Fehr (8), Joel Ward (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH47",
+      "summary": "Claude Giroux (7) Wrist Shot, assists: Michael Raffl (4), Braydon Coburn (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH425",
+      "summary": "Jakub Voracek (6) Wrist Shot, assists: Michael Raffl (6), Claude Giroux (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH29",
+      "summary": "Alex Ovechkin (27) Tip-In, assists: Nicklas Backstrom (27), John Carlson (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH421",
+      "summary": "Sean Couturier (6) Wrist Shot, assists: Matt Read (6), Steve Downie (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH620",
+      "summary": "Alex Ovechkin (28) Snap Shot, assists: Joel Ward (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH446",
+      "summary": "Mike Green (2) Snap Shot, assists: Nicklas Backstrom (28), Marcus Johansson (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH102",
+      "summary": "Jay Beagle hit Scott Hartnell",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH14",
+      "summary": "Joel Ward Snap Shot saved by Steve Mason",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

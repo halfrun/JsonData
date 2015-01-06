@@ -1,0 +1,93 @@
+{
+  "id": "2013020485",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0485",
+  "utcStart": "2013-12-14 00:30:00+0000",
+  "easternStart": "2013-12-13 19:30:00",
+  "summary": "Panthers outlast Capitals in 10-round shootout",
+  "h": {
+    "ab": "FLA",
+    "record": "11-17-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "WSH",
+    "record": "17-12-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "FLA556",
+      "summary": "Aleksander Barkov (5) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA506",
+      "summary": "Dylan Olsen (3) Snap Shot, assists: Tomas Kopecky (4), Jonathan Huberdeau (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA560",
+      "summary": "Joel Ward (10) Wrist Shot, assists: Marcus Johansson (18), Nicklas Backstrom (26)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA53",
+      "summary": "Mike Green Wrist Shot saved by Scott Clemmensen",
+      "homeType": "save",
+      "homeNumber": 2,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA61",
+      "summary": "Brad Boyes Backhand saved by Philipp Grubauer",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA549",
+      "summary": "Nicklas Backstrom (8) Wrist Shot, assists: Mikhail Grabovski (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA56",
+      "summary": "John Carlson Wrist Shot saved by Scott Clemmensen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA60",
+      "summary": "Krystofer Barch Slap Shot saved by Philipp Grubauer",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

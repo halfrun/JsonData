@@ -1,0 +1,101 @@
+{
+  "id": "2013020509",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0509",
+  "utcStart": "2013-12-18 00:00:00+0000",
+  "easternStart": "2013-12-17 19:00:00",
+  "summary": "Chara, Bruins beat Flames to continue home streak",
+  "h": {
+    "ab": "BOS",
+    "record": "23-9-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "13-16-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BOS59",
+      "summary": "Matt Stajan Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS61",
+      "summary": "Paul Byron Wrist Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS55",
+      "summary": "Patrice Bergeron Snap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS475",
+      "summary": "Zdeno Chara (9) Snap Shot, assists: Jarome Iginla (13), David Krejci (23)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS58",
+      "summary": "Matt Stajan Snap Shot saved by Tuukka Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS64",
+      "summary": "Dennis Seidenberg Slap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS331",
+      "summary": "Zdeno Chara (8) Slap Shot, assists: David Krejci (22), Jarome Iginla (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS57",
+      "summary": "Torey Krug Wrist Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS17",
+      "summary": "Lance Bouma hit Nick Johnson",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
+}

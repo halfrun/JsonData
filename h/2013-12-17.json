@@ -1,0 +1,88 @@
+{
+  "games": [
+    {
+      "id": "2013020509",
+      "utcStart": "2013-12-18 00:00:00+0000",
+      "summary": "Chara, Bruins beat Flames to continue home streak",
+      "h": "BOS",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020510",
+      "utcStart": "2013-12-18 00:00:00+0000",
+      "summary": "Sabres, down 2-0, rally to defeat Jets",
+      "h": "BUF",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020511",
+      "utcStart": "2013-12-18 00:00:00+0000",
+      "summary": "Clemmensen, Panthers extend winning streaks",
+      "h": "TOR",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020512",
+      "utcStart": "2013-12-18 00:00:00+0000",
+      "summary": "Islanders blow late lead, lose shootout to Lightning",
+      "h": "NYI",
+      "a": "TBL"
+    },
+    {
+      "id": "2013020513",
+      "utcStart": "2013-12-18 00:30:00+0000",
+      "summary": "Canadiens break out in third period to top Coyotes",
+      "h": "MTL",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020514",
+      "utcStart": "2013-12-18 00:30:00+0000",
+      "summary": "Ducks hand Red Wings another home loss",
+      "h": "DET",
+      "a": "ANA"
+    },
+    {
+      "id": "2013020515",
+      "utcStart": "2013-12-18 00:30:00+0000",
+      "summary": "Flyers use power play to defeat Capitals",
+      "h": "PHI",
+      "a": "WSH"
+    },
+    {
+      "id": "2013020516",
+      "utcStart": "2013-12-18 01:00:00+0000",
+      "summary": "Sharks complete season sweep of Blues",
+      "h": "STL",
+      "a": "SJS"
+    },
+    {
+      "id": "2013020517",
+      "utcStart": "2013-12-18 01:00:00+0000",
+      "summary": "Blackhawks shut down Predators",
+      "h": "NSH",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020518",
+      "utcStart": "2013-12-18 01:00:00+0000",
+      "summary": "Wild snap Canucks' streak with shootout win",
+      "h": "MIN",
+      "a": "VAN"
+    },
+    {
+      "id": "2013020519",
+      "utcStart": "2013-12-18 01:30:00+0000",
+      "summary": "Stars edge Avalanche on Sceviour's late goal",
+      "h": "DAL",
+      "a": "COL"
+    },
+    {
+      "id": "2013020520",
+      "utcStart": "2013-12-18 03:30:00+0000",
+      "summary": "Jones stays perfect as Kings blank Oilers",
+      "h": "LAK",
+      "a": "EDM"
+    }
+  ]
+}

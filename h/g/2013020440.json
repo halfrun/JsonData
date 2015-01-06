@@ -1,0 +1,85 @@
+{
+  "id": "2013020440",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0440",
+  "utcStart": "2013-12-08 00:00:00+0000",
+  "easternStart": "2013-12-07 19:00:00",
+  "summary": "Maple Leafs win in shootout after Senators tie in third",
+  "h": {
+    "ab": "OTT",
+    "record": "11-14-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "16-12-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "OTT267",
+      "summary": "Clarke MacArthur (9) Slap Shot, assists: Mika Zibanejad (4), Jason Spezza (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT19",
+      "summary": "James van Riemsdyk (13) Backhand, assists: Nazem Kadri (11), Dion Phaneuf (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT813",
+      "summary": "Erik Karlsson (8) Wrist Shot, assists: Mika Zibanejad (5), Jason Spezza (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT8",
+      "summary": "David Clarkson Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT515",
+      "summary": "Jake Gardiner (1) Wrist Shot, assists: Phil Kessel (13), James van Riemsdyk (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT480",
+      "summary": "Phil Kessel (16) Tip-In, assists: James van Riemsdyk (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "OTT729",
+      "summary": "Erik Condra (3) Wrist Shot, assists: Colin Greening (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

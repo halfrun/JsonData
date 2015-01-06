@@ -5,24 +5,89 @@
   "gn": "0344",
   "utcStart": "2013-11-24 00:00:00+0000",
   "easternStart": "2013-11-23 19:00:00",
-  "summary": "",
+  "summary": "Pacioretty leads Canadiens past Penguins",
   "h": {
     "ab": "MTL",
-    "record": "11-9-2",
+    "record": "13-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PIT",
-    "record": "14-8-0",
+    "record": "15-9-0",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MTL634",
+      "summary": "James Neal (4) Backhand, assists: Evgeni Malkin (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL275",
+      "summary": "Max Pacioretty (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL54",
+      "summary": "Pascal Dupuis Wrist Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL57",
+      "summary": "Jussi Jokinen Backhand saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL446",
+      "summary": "Tomas Plekanec (7) Wrist Shot, assists: Andrei Markov (12), P.K. Subban (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL608",
+      "summary": "James Neal (3) Slap Shot, assists: Evgeni Malkin (21), Paul Martin (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL449",
+      "summary": "Max Pacioretty (7) Wrist Shot, assists: Raphael Diaz (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL64",
+      "summary": "James Neal Tip-In saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

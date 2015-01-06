@@ -1,0 +1,93 @@
+{
+  "id": "2013020421",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0421",
+  "utcStart": "2013-12-05 03:00:00+0000",
+  "easternStart": "2013-12-04 22:00:00",
+  "summary": "Giordano returns, leads Flames past Coyotes",
+  "h": {
+    "ab": "CGY",
+    "record": "10-13-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "16-8-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CGY11",
+      "summary": "Mike Ribeiro Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY434",
+      "summary": "Lee Stempniak (5) Snap Shot, assists: Matt Stajan (8), Mark Giordano (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY232",
+      "summary": "Mikael Backlund (3) Snap Shot, assists: Jiri Hudler (18), Chris Butler (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY21",
+      "summary": "Keith Yandle (3) Wrist Shot, assists: Shane Doan (11), Antoine Vermette (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY19",
+      "summary": "Shane Doan Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY8",
+      "summary": "Shane Doan Wrist Shot saved by Karri Ramo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CGY403",
+      "summary": "Mark Giordano (3) Slap Shot, assists: TJ Brodie (7), Joe Colborne (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "CGY209",
+      "summary": "TJ Brodie (3) Slap Shot, assists: Matt Stajan (7), Jiri Hudler (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

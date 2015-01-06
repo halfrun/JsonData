@@ -1,0 +1,117 @@
+{
+  "id": "2013020510",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0510",
+  "utcStart": "2013-12-18 00:00:00+0000",
+  "easternStart": "2013-12-17 19:00:00",
+  "summary": "Sabres, down 2-0, rally to defeat Jets",
+  "h": {
+    "ab": "BUF",
+    "record": "8-23-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "15-16-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BUF11",
+      "summary": "Jacob Trouba hit Ville Leino",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF316",
+      "summary": "Mark Scheifele (5) Wrist Shot, assists: Grant Clitsome (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF61",
+      "summary": "Matt Moulson Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "Marcus Foligno Wrist Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF429",
+      "summary": "Marcus Foligno (4) Wrist Shot, assists: Cody Hodgson (11), Tyler Myers (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF319",
+      "summary": "Mark Scheifele (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF603",
+      "summary": "Matt Ellis (1) Deflected, assists: Kevin Porter (1), Brian Flynn (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF345",
+      "summary": "Steve Ott (4) Snap Shot, assists: Drew Stafford (9), Mike Weber (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF433",
+      "summary": "Matt Moulson (12) Tip-In, assists: Christian Ehrhoff (9), Tyler Ennis (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF53",
+      "summary": "Bryan Little Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF56",
+      "summary": "Cody Hodgson Slap Shot saved by Ondrej Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

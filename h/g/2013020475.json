@@ -1,0 +1,77 @@
+{
+  "id": "2013020475",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0475",
+  "utcStart": "2013-12-13 00:30:00+0000",
+  "easternStart": "2013-12-12 19:30:00",
+  "summary": "Ryan, Anderson help Senators handle Sabres",
+  "h": {
+    "ab": "OTT",
+    "record": "13-14-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "BUF",
+    "record": "7-23-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT14",
+      "summary": "Joe Corvo Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT18",
+      "summary": "Zack Smith Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT20",
+      "summary": "Matt Moulson Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT33",
+      "summary": "Bobby Ryan (15) Deflected, assists: Kyle Turris (17), Cory Conacher (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT260",
+      "summary": "Tyler Ennis (7) Wrap-around, assists: Drew Stafford (8), Jamie McBain (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT299",
+      "summary": "Zack Smith (5) Wrist Shot, assists: Kyle Turris (18), Bobby Ryan (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

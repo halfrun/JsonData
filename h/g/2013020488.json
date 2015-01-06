@@ -1,0 +1,101 @@
+{
+  "id": "2013020488",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0488",
+  "utcStart": "2013-12-14 19:00:00+0000",
+  "easternStart": "2013-12-14 14:00:00",
+  "summary": "Kings defeat Senators for sixth straight win",
+  "h": {
+    "ab": "OTT",
+    "record": "13-15-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "LAK",
+    "record": "22-8-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT787",
+      "summary": "Anze Kopitar (11) Wrist Shot, assists: Dwight King (6), Jeff Carter (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT27",
+      "summary": "Jeff Carter (9) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT641",
+      "summary": "Erik Karlsson (9) Wrist Shot, assists: Kyle Turris (19), Patrick Wiercioch (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT14",
+      "summary": "Zack Smith Backhand saved by Martin Jones",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT499",
+      "summary": "Joe Corvo (3) Wrist Shot, assists: Cory Conacher (6), Jason Spezza (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT253",
+      "summary": "Anze Kopitar (10) Snap Shot, assists: Slava Voynov (11), Dwight King (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT7",
+      "summary": "Dwight King (8) Wrist Shot, assists: Jeff Carter (7), Jake Muzzin (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT17",
+      "summary": "Jean-Gabriel Pageau Backhand saved by Martin Jones",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT777",
+      "summary": "Jarret Stoll (4) Wrist Shot, assists: Drew Doughty (11), Jake Muzzin (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

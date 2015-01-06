@@ -1,0 +1,101 @@
+{
+  "id": "2013020494",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0494",
+  "utcStart": "2013-12-15 00:00:00+0000",
+  "easternStart": "2013-12-14 19:00:00",
+  "summary": "Blues rally to beat Blue Jackets in overtime",
+  "h": {
+    "ab": "CBJ",
+    "record": "14-15-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "STL",
+    "record": "22-6-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CBJ286",
+      "summary": "Vladimir Tarasenko (11) Wrist Shot, assists: Alex Pietrangelo (16), Brenden Morrow (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ88",
+      "summary": "Fedor Tyutin (3) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ94",
+      "summary": "Ryan Johansen (12) Snap Shot, assists: Brandon Dubinsky (15), Jack Johnson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ66",
+      "summary": "Vladimir Tarasenko (10) Wrist Shot, assists: Jay Bouwmeester (21), Derek Roy (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 0
+    },
+    {
+      "key": "CBJ737",
+      "summary": "David Backes (16) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ718",
+      "summary": "Chris Stewart (7) Wrist Shot, assists: Brenden Morrow (5), Ian Cole (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ83",
+      "summary": "Artem Anisimov (9) Wrist Shot, assists: Blake Comeau (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ53",
+      "summary": "Ryan Johansen Slap Shot saved by Jaroslav Halak",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CBJ61",
+      "summary": "Brenden Morrow Wrist Shot saved by Mike McKenna",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

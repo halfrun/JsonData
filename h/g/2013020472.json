@@ -1,0 +1,85 @@
+{
+  "id": "2013020472",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0472",
+  "utcStart": "2013-12-12 03:30:00+0000",
+  "easternStart": "2013-12-11 22:30:00",
+  "summary": "Ducks continue to soar at home, beat Wild",
+  "h": {
+    "ab": "ANA",
+    "record": "22-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "18-11-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "ANA64",
+      "summary": "Corey Perry Tip-In saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA486",
+      "summary": "Jason Pominville (15) Backhand, assists: Ryan Suter (16), Mikko Koivu (18)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA58",
+      "summary": "Jason Zucker Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA462",
+      "summary": "Corey Perry (21) Tip-In, assists: Hampus Lindholm (8), Ryan Getzlaf (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA62",
+      "summary": "Jason Pominville Slap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA321",
+      "summary": "Alex Grant (2) Wrist Shot, assists: Andrew Cogliano (8), Daniel Winnik (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "ANA55",
+      "summary": "Torrey Mitchell Slap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

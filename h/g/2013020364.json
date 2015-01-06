@@ -5,24 +5,129 @@
   "gn": "0364",
   "utcStart": "2013-11-27 01:00:00+0000",
   "easternStart": "2013-11-26 20:00:00",
-  "summary": "",
+  "summary": "Stars erupt in third period to beat Ducks",
   "h": {
     "ab": "DAL",
-    "record": "11-8-2",
+    "record": "12-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "15-6-3",
+    "record": "17-7-3",
     "live": "",
     "replayShort": "",
     "replayShortNumber": 0,
     "replayFull": "",
     "replayFullNumber": 0
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "DAL70",
+      "summary": "Emerson Etem (6) Wrist Shot, assists: Daniel Winnik (7), Hampus Lindholm (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL612",
+      "summary": "Dustin Penner (7) Wrist Shot, assists: Ryan Getzlaf (15), Corey Perry (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL486",
+      "summary": "Cody Eakin (6) Snap Shot, assists: Erik Cole (6), Jordie Benn (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL489",
+      "summary": "Ryan Garbutt (3) Wrist Shot, assists: Trevor Daley (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL640",
+      "summary": "Alex Chiasson (7) Wrist Shot, assists: Erik Cole (7), Cody Eakin (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL468",
+      "summary": "Nick Bonino (7) Wrist Shot, assists: Andrew Cogliano (5), Kyle Palmieri (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL9",
+      "summary": "Matt Beleskey hit Stephane Robidas",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL293",
+      "summary": "Antoine Roussel (3) Wrist Shot, assists: Vernon Fiddler (4), Ryan Garbutt (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL608",
+      "summary": "Antoine Roussel (4) Deflected, assists: Ryan Garbutt (2), Vernon Fiddler (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL60",
+      "summary": "Alex Goligoski Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL487",
+      "summary": "Stephane Robidas (4) Snap Shot, assists: Rich Peverley (7), Ray Whitney (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL54",
+      "summary": "Ryan Getzlaf Wrist Shot saved by Dan Ellis",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "DAL11",
+      "summary": "Patrick Maroon hit Sergei Gonchar",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2013020563",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0563",
+  "utcStart": "2013-12-24 01:00:00+0000",
+  "easternStart": "2013-12-23 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CGY",
+    "record": "13-16-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "STL",
+    "record": "22-7-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

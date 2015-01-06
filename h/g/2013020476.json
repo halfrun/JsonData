@@ -1,0 +1,61 @@
+{
+  "id": "2013020476",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0476",
+  "utcStart": "2013-12-13 00:30:00+0000",
+  "easternStart": "2013-12-12 19:30:00",
+  "summary": "Lightning top Wings in shootout on St. Louis goal",
+  "h": {
+    "ab": "TBL",
+    "record": "18-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "DET",
+    "record": "15-9-9",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "T.B469",
+      "summary": "Nikita Kucherov (3) Wrist Shot, assists: J.T. Brown (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B63",
+      "summary": "Justin Abdelkader Wrap-around saved by Ben Bishop",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B94",
+      "summary": "Kyle Quincey (1) Wrist Shot, assists: Gustav Nyquist (4), Johan Franzen (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "T.B61",
+      "summary": "BJ Crombeen Wrist Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

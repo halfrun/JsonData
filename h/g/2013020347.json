@@ -5,24 +5,113 @@
   "gn": "0347",
   "utcStart": "2013-11-24 01:00:00+0000",
   "easternStart": "2013-11-23 20:00:00",
-  "summary": "",
+  "summary": "Six Blues score to end Stars' road win streak",
   "h": {
     "ab": "STL",
-    "record": "15-3-3",
+    "record": "16-3-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DAL",
-    "record": "11-8-2",
+    "record": "11-9-2",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "STL63",
+      "summary": "Vernon Fiddler Slap Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL604",
+      "summary": "T.J. Oshie (4) Deflected, assists: Alex Pietrangelo (14), Patrik Berglund (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL489",
+      "summary": "Chris Stewart (4) Wrist Shot, assists: Brenden Morrow (3), Jay Bouwmeester (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL60",
+      "summary": "Trevor Daley Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL83",
+      "summary": "Vladimir Tarasenko (8) Wrist Shot, assists: Jaden Schwartz (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "STL81",
+      "summary": "Brenden Dillon (4) Wrist Shot, assists: Rich Peverley (6), Jamie Benn (17)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL478",
+      "summary": "Derek Roy (6) Deflected, assists: Alexander Steen (10), Kevin Shattenkirk (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL339",
+      "summary": "David Backes (10) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "STL54",
+      "summary": "Vladimir Sobotka (4) Wrist Shot, assists: Alex Pietrangelo (13), T.J. Oshie (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 3
+    },
+    {
+      "key": "STL56",
+      "summary": "Shawn Horcoff Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL6",
+      "summary": "Roman Polak hit Antoine Roussel",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    }
+  ]
 }

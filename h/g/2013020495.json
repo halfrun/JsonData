@@ -1,0 +1,93 @@
+{
+  "id": "2013020495",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0495",
+  "utcStart": "2013-12-15 01:00:00+0000",
+  "easternStart": "2013-12-14 20:00:00",
+  "summary": "Predators hold off Sharks for third straight victory",
+  "h": {
+    "ab": "NSH",
+    "record": "16-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "20-7-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NSH410",
+      "summary": "Roman Josi (2) Wrist Shot, assists: Craig Smith (10), Nick Spaling (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH622",
+      "summary": "Viktor Stalberg (4) Wrist Shot, assists: Shea Weber (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH43",
+      "summary": "Eric Nystrom (6) Tip-In, assists: Victor Bartley (2), Viktor Stalberg (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH11",
+      "summary": "Matthew Irwin Wrist Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH627",
+      "summary": "Patrick Marleau (15) Tip-In, assists: Dan Boyle (11), Joe Thornton (30)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH8",
+      "summary": "Craig Smith Tip-In saved by Antti Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH162",
+      "summary": "Craig Smith hit Marc-Edouard Vlasic",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH447",
+      "summary": "Dan Boyle (6) Tip-In, assists: Matthew Irwin (6), Patrick Marleau (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

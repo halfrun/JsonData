@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": "2013020505",
+      "utcStart": "2013-12-17 00:00:00+0000",
+      "summary": "Crosby's late goal helps Penguins beat Maple Leafs",
+      "h": "PIT",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020506",
+      "utcStart": "2013-12-17 00:00:00+0000",
+      "summary": "Kane leads Jets past Blue Jackets in return to lineup",
+      "h": "CBJ",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020507",
+      "utcStart": "2013-12-17 00:30:00+0000",
+      "summary": "Ceci's first NHL goal lifts Senators past Blues in OT",
+      "h": "OTT",
+      "a": "STL"
+    },
+    {
+      "id": "2013020508",
+      "utcStart": "2013-12-17 02:00:00+0000",
+      "summary": "Stastny ends drought, leads Avalanche past Stars",
+      "h": "COL",
+      "a": "DAL"
+    }
+  ]
+}

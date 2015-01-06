@@ -1,0 +1,93 @@
+{
+  "id": "2013020437",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0437",
+  "utcStart": "2013-12-07 03:00:00+0000",
+  "easternStart": "2013-12-06 22:00:00",
+  "summary": "Canucks blow third-period lead, beat Coyotes in OT",
+  "h": {
+    "ab": "VAN",
+    "record": "16-10-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "16-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "VAN259",
+      "summary": "Jason Garrison (4) Slap Shot, assists: Dan Hamhuis (4), Daniel Sedin (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN584",
+      "summary": "David Moss (3) Wrist Shot, assists: Rob Klinkhammer (6), Mike Ribeiro (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN59",
+      "summary": "Ryan Stanton Slap Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN764",
+      "summary": "Chris Higgins (8) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN57",
+      "summary": "Daniel Sedin Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN62",
+      "summary": "Jeff Halpern Wrist Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN297",
+      "summary": "Henrik Sedin (8) Wrist Shot, assists: Daniel Sedin (18), Ryan Stanton (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN578",
+      "summary": "Antoine Vermette (7) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

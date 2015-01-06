@@ -1,0 +1,85 @@
+{
+  "id": "2013020447",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0447",
+  "utcStart": "2013-12-08 03:00:00+0000",
+  "easternStart": "2013-12-07 22:00:00",
+  "summary": "Flames edge Oilers on Hudler's OT goal",
+  "h": {
+    "ab": "EDM",
+    "record": "10-18-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "11-14-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "EDM251",
+      "summary": "Lee Stempniak (6) Snap Shot, assists: Matt Stajan (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM628",
+      "summary": "Taylor Hall (11) Wrist Shot, assists: David Perron (13), Ales Hemsky (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM64",
+      "summary": "Paul Byron Wrist Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM53",
+      "summary": "TJ Brodie Snap Shot saved by Devan Dubnyk",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM647",
+      "summary": "Jiri Hudler (8) Snap Shot, assists: Kris Russell (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM62",
+      "summary": "Ryan Nugent-Hopkins Snap Shot saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "EDM57",
+      "summary": "Ryan Jones Backhand saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

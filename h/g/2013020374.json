@@ -5,24 +5,97 @@
   "gn": "0374",
   "utcStart": "2013-11-28 01:00:00+0000",
   "easternStart": "2013-11-27 20:00:00",
-  "summary": "",
+  "summary": "Coyotes beat Wild to halt three-game skid",
   "h": {
     "ab": "MIN",
-    "record": "14-5-4",
+    "record": "15-7-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "PHX",
-    "record": "14-4-4",
+    "record": "15-6-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "MIN767",
+      "summary": "Radim Vrbata (8) Wrist Shot, assists: Martin Hanzal (14), Antoine Vermette (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN161",
+      "summary": "Kyle Brodziak hit Connor Murphy",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN156",
+      "summary": "Matt Cooke hit David Schlemko",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN17",
+      "summary": "Nino Niederreiter Wrist Shot saved by Thomas Greiss",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN26",
+      "summary": "Mikkel Boedker (6) Wrist Shot, assists: Shane Doan (9), Derek Morris (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN22",
+      "summary": "Michael Stone Wrist Shot saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN548",
+      "summary": "Dany Heatley (5) Wrist Shot, assists: Nino Niederreiter (9), Kyle Brodziak (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN324",
+      "summary": "Radim Vrbata (7) Wrist Shot, assists: Tim Kennedy (5), David Schlemko (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN9",
+      "summary": "Rob Klinkhammer Tip-In saved by Niklas Backstrom",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

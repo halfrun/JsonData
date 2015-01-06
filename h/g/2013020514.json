@@ -1,0 +1,93 @@
+{
+  "id": "2013020514",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0514",
+  "utcStart": "2013-12-18 00:30:00+0000",
+  "easternStart": "2013-12-17 19:30:00",
+  "summary": "Ducks hand Red Wings another home loss",
+  "h": {
+    "ab": "DET",
+    "record": "15-12-9",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "24-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET92",
+      "summary": "Sami Vatanen (4) Slap Shot, assists: Andrew Cogliano (10), Saku Koivu (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET55",
+      "summary": "Tomas Jurco (1) Backhand, assists: Drew Miller (4), Kyle Quincey (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET54",
+      "summary": "Matt Beleskey Backhand saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET631",
+      "summary": "Danny Cleary (3) Wrist Shot, assists: Lucas Glendening (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET382",
+      "summary": "Saku Koivu (4) Backhand, assists: Andrew Cogliano (11), Sami Vatanen (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET89",
+      "summary": "Corey Perry (22) Snap Shot, assists: Ben Lovejoy (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET57",
+      "summary": "Jakob Silfverberg (5) Wrist Shot, assists: Francois Beauchemin (7), Andrew Cogliano (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET61",
+      "summary": "Nick Bonino (10) Wrist Shot, assists: Daniel Winnik (14), Teemu Selanne (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

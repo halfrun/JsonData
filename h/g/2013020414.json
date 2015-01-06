@@ -1,0 +1,109 @@
+{
+  "id": "2013020414",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0414",
+  "utcStart": "2013-12-04 00:30:00+0000",
+  "easternStart": "2013-12-03 19:30:00",
+  "summary": "Corvo, Senators rally past Panthers",
+  "h": {
+    "ab": "FLA",
+    "record": "7-16-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "OTT",
+    "record": "11-13-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "FLA74",
+      "summary": "Jonathan Huberdeau (6) Wrist Shot, assists: Tomas Fleischmann (10), Brian Campbell (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA62",
+      "summary": "Kyle Turris Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA79",
+      "summary": "Brian Campbell (4) Wrist Shot, assists: Scottie Upshall (9), Tom Gilbert (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA365",
+      "summary": "Erik Condra (2) Wrist Shot, assists: Jason Spezza (13), Clarke MacArthur (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA679",
+      "summary": "Bobby Ryan (14) Wrist Shot, assists: Jared Cowen (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA493",
+      "summary": "Colin Greening (2) Tip-In, assists: Joe Corvo (6), Zack Smith (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA54",
+      "summary": "Nick Bjugstad Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA89",
+      "summary": "Joe Corvo (2) Wrist Shot, assists: Clarke MacArthur (13), Chris Phillips (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA56",
+      "summary": "Dylan Olsen Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "FLA65",
+      "summary": "Clarke MacArthur Wrist Shot saved by Tim Thomas",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

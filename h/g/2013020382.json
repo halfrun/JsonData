@@ -1,0 +1,101 @@
+{
+  "id": "2013020382",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0382",
+  "utcStart": "2013-11-29 21:00:00+0000",
+  "easternStart": "2013-11-29 16:00:00",
+  "summary": "Red Wings end losing streak against Islanders",
+  "h": {
+    "ab": "NYI",
+    "record": "8-15-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "DET",
+    "record": "13-7-7",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYI463",
+      "summary": "Daniel Alfredsson (5) Wrist Shot, assists: Brendan Smith (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI457",
+      "summary": "Darren Helm (7) Wrist Shot, assists: Daniel Cleary (3), Jonathan Ericsson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI125",
+      "summary": "Darren Helm (6) Backhand, assists: Daniel Alfredsson (13), Brendan Smith (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI715",
+      "summary": "Daniel Alfredsson (6) Wrist Shot, assists: Justin Abdelkader (7), Niklas Kronwall (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI114",
+      "summary": "Travis Hamonic Slap Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI106",
+      "summary": "Tomas Tatar Backhand saved by Kevin Poulin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI116",
+      "summary": "Casey Cizikas Tip-In saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI484",
+      "summary": "Gustav Nyquist (4) Wrist Shot, assists: Johan Franzen (11), Niklas Kronwall (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYI112",
+      "summary": "Cal Clutterbuck Wrist Shot saved by Jimmy Howard",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

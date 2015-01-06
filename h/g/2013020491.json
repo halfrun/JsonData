@@ -1,0 +1,93 @@
+{
+  "id": "2013020491",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0491",
+  "utcStart": "2013-12-15 00:00:00+0000",
+  "easternStart": "2013-12-14 19:00:00",
+  "summary": "Penguins beat Red Wings, lose Malkin to injury",
+  "h": {
+    "ab": "DET",
+    "record": "15-11-9",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "23-10-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DET64",
+      "summary": "Pavel Datsyuk Deflected saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET438",
+      "summary": "Sidney Crosby (18) Wrist Shot, assists: Joe Vitale (8), Chris Conner (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET248",
+      "summary": "Olli Maatta (2) Tip-In, assists: Chris Kunitz (16), Evgeni Malkin (32)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET54",
+      "summary": "Jonathan Ericsson Slap Shot saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET75",
+      "summary": "Niklas Kronwall (4) Wrist Shot, assists: Justin Abdelkader (10), Daniel Alfredsson (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET81",
+      "summary": "Sidney Crosby (17) Wrist Shot, assists: Jussi Jokinen (11), Evgeni Malkin (31)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET90",
+      "summary": "Evgeni Malkin (9) Wrist Shot, assists: Jussi Jokinen (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DET65",
+      "summary": "Danny Cleary Backhand saved by Jeff Zatkoff",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

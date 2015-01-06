@@ -1,0 +1,28 @@
+{
+  "id": "2013020538",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0538",
+  "utcStart": "2013-12-21 01:00:00+0000",
+  "easternStart": "2013-12-20 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WPG",
+    "record": "15-16-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "13-17-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020552",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0552",
+  "utcStart": "2013-12-23 01:00:00+0000",
+  "easternStart": "2013-12-22 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "VAN",
+    "record": "20-10-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "15-16-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

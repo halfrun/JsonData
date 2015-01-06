@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "id": "2013020392",
+      "utcStart": "2013-11-30 19:00:00+0000",
+      "summary": "Kreider hat trick lifts Rangers past Canucks, Tortorella",
+      "h": "NYR",
+      "a": "VAN"
+    },
+    {
+      "id": "2013020393",
+      "utcStart": "2013-12-01 00:00:00+0000",
+      "summary": "Lucic scores twice to power Bruins past Blue Jackets",
+      "h": "BOS",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020394",
+      "utcStart": "2013-12-01 00:00:00+0000",
+      "summary": "Pacioretty leads Canadiens past Maple Leafs",
+      "h": "MTL",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020395",
+      "utcStart": "2013-12-01 00:00:00+0000",
+      "summary": "Zatkoff, Malkin push Penguins past Panthers",
+      "h": "FLA",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020396",
+      "utcStart": "2013-12-01 00:00:00+0000",
+      "summary": "Devils defeat Sabres with Bernier, Schneider",
+      "h": "NJD",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020397",
+      "utcStart": "2013-12-01 00:00:00+0000",
+      "summary": "Capitals send Islanders to sixth straight loss",
+      "h": "NYI",
+      "a": "WSH"
+    },
+    {
+      "id": "2013020398",
+      "utcStart": "2013-12-01 01:00:00+0000",
+      "summary": "Mason, Flyers beat Predators in shootout",
+      "h": "NSH",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020399",
+      "utcStart": "2013-12-01 01:00:00+0000",
+      "summary": "Blackhawks end 'Circus Trip' with win against Coyotes",
+      "h": "PHX",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020400",
+      "utcStart": "2013-12-01 02:00:00+0000",
+      "summary": "Avalanche squander lead late, beat Wild in shootout",
+      "h": "COL",
+      "a": "MIN"
+    },
+    {
+      "id": "2013020401",
+      "utcStart": "2013-12-01 03:00:00+0000",
+      "summary": "Flames edge Kings on Cammalleri's late goal",
+      "h": "LAK",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020402",
+      "utcStart": "2013-12-01 03:30:00+0000",
+      "summary": "Sharks top Ducks in shootout",
+      "h": "SJS",
+      "a": "ANA"
+    }
+  ]
+}

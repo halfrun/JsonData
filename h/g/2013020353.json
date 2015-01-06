@@ -5,24 +5,97 @@
   "gn": "0353",
   "utcStart": "2013-11-24 22:00:00+0000",
   "easternStart": "2013-11-24 17:00:00",
-  "summary": "",
+  "summary": "Red Wings hand Sabres fourth straight loss",
   "h": {
     "ab": "BUF",
-    "record": "5-18-1",
+    "record": "5-19-1",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "DET",
-    "record": "10-6-7",
+    "record": "11-7-7",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "BUF216",
+      "summary": "Darren Helm (5) Backhand, assists: Daniel Alfredsson (12), Justin Abdelkader (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF71",
+      "summary": "Cody Hodgson (8) Backhand, assists: Drew Stafford (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF63",
+      "summary": "Tyler Ennis Snap Shot saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF69",
+      "summary": "Jonathan Ericsson Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF628",
+      "summary": "Daniel Alfredsson (4) Wrist Shot, assists: Johan Franzen (7)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF68",
+      "summary": "Justin Abdelkader Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF53",
+      "summary": "Gustav Nyquist Wrist Shot saved by Ryan Miller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF607",
+      "summary": "Johan Franzen (6) Wrist Shot, assists: Henrik Zetterberg (18), Niklas Kronwall (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BUF54",
+      "summary": "Drew Stafford Backhand saved by Jonas Gustavsson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
 }

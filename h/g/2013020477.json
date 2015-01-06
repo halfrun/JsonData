@@ -1,0 +1,117 @@
+{
+  "id": "2013020477",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0477",
+  "utcStart": "2013-12-13 01:00:00+0000",
+  "easternStart": "2013-12-12 20:00:00",
+  "summary": "Blues use dominant first period to top Maple Leafs",
+  "h": {
+    "ab": "STL",
+    "record": "21-6-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "16-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "STL64",
+      "summary": "David Backes (14) Snap Shot, assists: Alexander Steen (13), Jay Bouwmeester (20)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL613",
+      "summary": "James van Riemsdyk (14) Backhand, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL203",
+      "summary": "Derek Roy (8) Snap Shot, assists: Chris Stewart (7), Jaden Schwartz (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL58",
+      "summary": "Brenden Morrow Slap Shot saved by James Reimer",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL218",
+      "summary": "Chris Stewart (6) Wrist Shot, assists: Vladimir Sobotka (10), Jaden Schwartz (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL435",
+      "summary": "Alexander Steen (22) Wrist Shot, assists: TJ Oshie (23), Alex Pietrangelo (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL90",
+      "summary": "Jaden Schwartz (8) Wrist Shot, assists: Vladimir Sobotka (9), Barret Jackman (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL54",
+      "summary": "Trevor Smith Wrist Shot saved by Brian Elliott",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL621",
+      "summary": "David Backes (15) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL224",
+      "summary": "Nazem Kadri (10) Wrist Shot, assists: Phil Kessel (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "STL606",
+      "summary": "Nikolai Kulemin (3) Wrist Shot, assists: Mason Raymond (10), Trevor Smith (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

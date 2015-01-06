@@ -1,0 +1,117 @@
+{
+  "id": "2013020452",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0452",
+  "utcStart": "2013-12-09 00:00:00+0000",
+  "easternStart": "2013-12-08 19:00:00",
+  "summary": "Blackhawks lose Crawford, rout Panthers",
+  "h": {
+    "ab": "CHI",
+    "record": "21-6-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "FLA",
+    "record": "9-17-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CHI402",
+      "summary": "Dylan Olsen (2) Wrist Shot, assists: Tomas Kopecky (3), Erik Gudbranson (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI16",
+      "summary": "Nick Leddy Slap Shot saved by Scott Clemmensen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI59",
+      "summary": "Dmitry Kulikov hit Patrick Kane",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI687",
+      "summary": "Brandon Saad (9) Backhand, assists: Jeremy Morin (4), Kris Versteeg (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI242",
+      "summary": "Marian Hossa (13) Wrist Shot, assists: Patrick Sharp (14), Jonathan Toews (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI11",
+      "summary": "Patrick Sharp (12) Slap Shot, assists: Jonathan Toews (14), Patrick Kane (19)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI444",
+      "summary": "Michal Handzus (2) Backhand, assists: Brent Seabrook (17), Patrick Kane (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI43",
+      "summary": "Brent Seabrook (2) Slap Shot, assists: Brandon Saad (12), Marian Hossa (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI13",
+      "summary": "Michal Rozsival Wrist Shot saved by Scott Clemmensen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI523",
+      "summary": "Andrew Shaw (9) Tip-In, assists: Patrick Sharp (15), Patrick Kane (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI426",
+      "summary": "Marcel Goc (7) Slap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

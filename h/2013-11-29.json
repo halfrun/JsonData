@@ -1,0 +1,88 @@
+{
+  "games": [
+    {
+      "id": "2013020383",
+      "utcStart": "2013-11-29 16:30:00+0000",
+      "summary": "Flyers head off on trip with win against Jets ",
+      "h": "PHI",
+      "a": "WPG"
+    },
+    {
+      "id": "2013020380",
+      "utcStart": "2013-11-29 18:00:00+0000",
+      "summary": "Chara excels in Bruins' win against Rangers",
+      "h": "BOS",
+      "a": "NYR"
+    },
+    {
+      "id": "2013020381",
+      "utcStart": "2013-11-29 21:00:00+0000",
+      "summary": "Fleury bounces back, Penguins shut out Lightning",
+      "h": "TBL",
+      "a": "PIT"
+    },
+    {
+      "id": "2013020382",
+      "utcStart": "2013-11-29 21:00:00+0000",
+      "summary": "Red Wings end losing streak against Islanders",
+      "h": "NYI",
+      "a": "DET"
+    },
+    {
+      "id": "2013020384",
+      "utcStart": "2013-11-29 21:00:00+0000",
+      "summary": "Ducks get Koivu back, roll over Flames",
+      "h": "ANA",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020385",
+      "utcStart": "2013-11-29 21:00:00+0000",
+      "summary": "Burns' hat trick powers Sharks past Blues",
+      "h": "SJS",
+      "a": "STL"
+    },
+    {
+      "id": "2013020386",
+      "utcStart": "2013-11-29 22:00:00+0000",
+      "summary": "Capitals rally to beat Canadiens in shootout",
+      "h": "WSH",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020387",
+      "utcStart": "2013-11-29 23:00:00+0000",
+      "summary": "Avalanche beat Wild in first of home-and-home series",
+      "h": "MIN",
+      "a": "COL"
+    },
+    {
+      "id": "2013020389",
+      "utcStart": "2013-11-30 00:00:00+0000",
+      "summary": "Devils score four in third to defeat Hurricanes",
+      "h": "CAR",
+      "a": "NJD"
+    },
+    {
+      "id": "2013020390",
+      "utcStart": "2013-11-30 00:00:00+0000",
+      "summary": "Blue Jackets get payback, beat Oilers",
+      "h": "CBJ",
+      "a": "EDM"
+    },
+    {
+      "id": "2013020388",
+      "utcStart": "2013-11-30 00:30:00+0000",
+      "summary": "Ehrhoff scores in OT to lift Sabres past Maple Leafs",
+      "h": "BUF",
+      "a": "TOR"
+    },
+    {
+      "id": "2013020391",
+      "utcStart": "2013-11-30 01:30:00+0000",
+      "summary": "Crawford, Blackhawks top Lehtonen, Stars in SO",
+      "h": "DAL",
+      "a": "CHI"
+    }
+  ]
+}

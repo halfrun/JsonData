@@ -1,0 +1,93 @@
+{
+  "id": "2013020463",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0463",
+  "utcStart": "2013-12-11 00:30:00+0000",
+  "easternStart": "2013-12-10 19:30:00",
+  "summary": "Fourth line carries Predators past Rangers",
+  "h": {
+    "ab": "NYR",
+    "record": "15-16-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "14-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR725",
+      "summary": "Paul Gaustad (4) Wrist Shot, assists: David Legwand (17), Roman Josi (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR58",
+      "summary": "Eric Nystrom Backhand saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR470",
+      "summary": "Matt Hendricks (2) Wrist Shot, assists: Rich Clune (1), Paul Gaustad (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR100",
+      "summary": "Rich Clune (1) Backhand, assists: Matt Hendricks (1), Paul Gaustad (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR9",
+      "summary": "Mats Zuccarello hit Ryan Ellis",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR380",
+      "summary": "Rick Nash (6) Wrist Shot, assists: Brad Richards (15), Derick Brassard (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR85",
+      "summary": "Nick Spaling (5) Snap Shot, assists: Patric Hornqvist (10), David Legwand (16)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR53",
+      "summary": "Michael Del Zotto Slap Shot saved by Carter Hutton",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

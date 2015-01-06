@@ -1,0 +1,28 @@
+{
+  "id": "2013020558",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0558",
+  "utcStart": "2013-12-24 00:30:00+0000",
+  "easternStart": "2013-12-23 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "DET",
+    "record": "15-12-9",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NYI",
+    "record": "9-19-7",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

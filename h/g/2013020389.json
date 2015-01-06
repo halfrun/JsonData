@@ -1,0 +1,109 @@
+{
+  "id": "2013020389",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0389",
+  "utcStart": "2013-11-30 00:00:00+0000",
+  "easternStart": "2013-11-29 19:00:00",
+  "summary": "Devils score four in third to defeat Hurricanes",
+  "h": {
+    "ab": "CAR",
+    "record": "10-11-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "11-11-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CAR9",
+      "summary": "Adam Henrique Wrist Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR232",
+      "summary": "Jordan Staal (4) Wrist Shot, assists: Justin Faulk (9), Ron Hainsey (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR484",
+      "summary": "Dainius Zubrus (4) Tip-In, assists: Jon Merrill (1), Jaromir Jagr (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR483",
+      "summary": "Adam Henrique (6) Wrist Shot, assists: Eric Gelinas (8), Andy Greene (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR13",
+      "summary": "Jon Merrill Slap Shot saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR50",
+      "summary": "Mark Fayne (1) Wrist Shot, assists: Dainius Zubrus (8), Jaromir Jagr (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR473",
+      "summary": "Andrei Loktionov (2) Snap Shot, assists: Damien Brunner (4), Michael Ryder (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR492",
+      "summary": "Jaromir Jagr (11) Wrist Shot, assists: Travis Zajac (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR10",
+      "summary": "Travis Zajac Backhand saved by Cam Ward",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "CAR214",
+      "summary": "Jeff Skinner (4) Snap Shot, assists: Ryan Murphy (6), Riley Nash (3)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

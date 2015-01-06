@@ -1,0 +1,28 @@
+{
+  "id": "2013020547",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0547",
+  "utcStart": "2013-12-22 00:00:00+0000",
+  "easternStart": "2013-12-21 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CBJ",
+    "record": "14-16-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "PHI",
+    "record": "15-15-4",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

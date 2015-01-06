@@ -1,0 +1,101 @@
+{
+  "id": "2013020424",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0424",
+  "utcStart": "2013-12-06 00:00:00+0000",
+  "easternStart": "2013-12-05 19:00:00",
+  "summary": "Kunitz's two goals lead Penguins past Sharks",
+  "h": {
+    "ab": "PIT",
+    "record": "20-9-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "19-5-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PIT295",
+      "summary": "Tomas Hertl (14) Wrist Shot, assists: Joe Thornton (26), Brent Burns (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT439",
+      "summary": "Kris Letang (6) Snap Shot, assists: Olli Maatta (5), Joe Vitale (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT267",
+      "summary": "Jayson Megna (3) Wrist Shot, assists: Simon Despres (1)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 2
+    },
+    {
+      "key": "PIT277",
+      "summary": "Chris Kunitz (15) Backhand, assists: Sidney Crosby (25), James Neal (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT259",
+      "summary": "Pascal Dupuis (4) Tip-In, assists: Brooks Orpik (6), Sidney Crosby (24)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT61",
+      "summary": "Justin Braun Wrist Shot saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT59",
+      "summary": "Andrew Desjardins Backhand saved by Marc-Andre Fleury",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT58",
+      "summary": "Jayson Megna Wrist Shot saved by Antti Niemi",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PIT288",
+      "summary": "Chris Kunitz (16) Snap Shot, assists: James Neal (10), Sidney Crosby (26)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "2013020444",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0444",
+  "utcStart": "2013-12-08 00:30:00+0000",
+  "easternStart": "2013-12-07 19:30:00",
+  "summary": "Gelinas scores in OT to lift Devils past Rangers",
+  "h": {
+    "ab": "NYR",
+    "record": "15-15-1",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "12-13-6",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NYR325",
+      "summary": "Cam Janssen (3) Tip-In, assists: Tim Sestito (1), Martin Brodeur (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR715",
+      "summary": "Chris Kreider (7) Backhand, assists: Ryan Callahan (6), Ryan McDonagh (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR54",
+      "summary": "Eric Gelinas Wrist Shot saved by Henrik Lundqvist",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR722",
+      "summary": "Eric Gelinas (3) Slap Shot, assists: Patrik Elias (11), Jaromir Jagr (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR481",
+      "summary": "Travis Zajac (5) Snap Shot, assists: Jaromir Jagr (12), Dainius Zubrus (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR13",
+      "summary": "Derick Brassard hit Cam Janssen",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR64",
+      "summary": "Brad Richards (9) Snap Shot, assists: Mats Zuccarello (14), Justin Falk (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR310",
+      "summary": "Mats Zuccarello (6) Wrist Shot, assists: Ryan Callahan (5), Dan Girardi (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NYR499",
+      "summary": "Michael Ryder (8) Wrist Shot, assists: Tim Sestito (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

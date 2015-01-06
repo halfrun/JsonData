@@ -1,0 +1,117 @@
+{
+  "id": "2013020430",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0430",
+  "utcStart": "2013-12-06 01:00:00+0000",
+  "easternStart": "2013-12-05 20:00:00",
+  "summary": "Scandella's late goal leads Wild past Blackhawks",
+  "h": {
+    "ab": "MIN",
+    "record": "17-9-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "20-6-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 2
+  },
+  "pbp": [
+    {
+      "key": "MIN753",
+      "summary": "Marco Scandella (1) Wrist Shot, assists: Jared Spurgeon (9), Charlie Coyle (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN344",
+      "summary": "Zach Parise (12) Wrist Shot, assists: Dany Heatley (4), Jason Pominville (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN578",
+      "summary": "Marian Hossa (12) Snap Shot, assists: Kris Versteeg (9), Nick Leddy (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "MIN17",
+      "summary": "Patrick Sharp Wrist Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 3
+    },
+    {
+      "key": "MIN553",
+      "summary": "Jeremy Morin (1) Backhand, assists: Joakim Nordstrom (1), Patrick Kane (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN19",
+      "summary": "Patrick Sharp Slap Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN13",
+      "summary": "Matt Cooke (5) Wrist Shot, assists: Torrey Mitchell (5), Erik Haula (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN12",
+      "summary": "Keith Ballard Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN596",
+      "summary": "Jonas Brodin (5) Wrist Shot, assists: Jared Spurgeon (8), Justin Fontaine (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN9",
+      "summary": "Zach Parise Snap Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN563",
+      "summary": "Brandon Saad (8) Snap Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

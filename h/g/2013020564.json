@@ -1,0 +1,28 @@
+{
+  "id": "2013020564",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0564",
+  "utcStart": "2013-12-24 02:30:00+0000",
+  "easternStart": "2013-12-23 21:30:00",
+  "summary": "",
+  "h": {
+    "ab": "EDM",
+    "record": "11-22-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "15-16-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

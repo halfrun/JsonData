@@ -1,0 +1,85 @@
+{
+  "id": "2013020391",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0391",
+  "utcStart": "2013-11-30 01:30:00+0000",
+  "easternStart": "2013-11-29 20:30:00",
+  "summary": "Crawford, Blackhawks top Lehtonen, Stars in SO",
+  "h": {
+    "ab": "DAL",
+    "record": "12-9-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "20-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "DAL57",
+      "summary": "Ryan Garbutt Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL93",
+      "summary": "Rich Peverley (5) Wrist Shot, assists: Shawn Horcoff (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL60",
+      "summary": "Jamie Benn Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL54",
+      "summary": "Patrick Kane Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL62",
+      "summary": "Ray Whitney Wrist Shot saved by Corey Crawford",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL526",
+      "summary": "Patrick Sharp (10) Deflected, assists: Duncan Keith (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "DAL61",
+      "summary": "Brent Seabrook Wrist Shot saved by Kari Lehtonen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

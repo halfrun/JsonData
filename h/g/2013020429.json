@@ -1,0 +1,93 @@
+{
+  "id": "2013020429",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0429",
+  "utcStart": "2013-12-06 01:00:00+0000",
+  "easternStart": "2013-12-05 20:00:00",
+  "summary": "Skinner's hat trick helps Hurricanes handle Predators",
+  "h": {
+    "ab": "NSH",
+    "record": "13-13-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "13-12-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NSH7",
+      "summary": "Justin Faulk (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH235",
+      "summary": "Jeff Skinner (7) Wrist Shot, assists: Ryan Murphy (7), Tuomo Ruutu (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH403",
+      "summary": "Riley Nash (2) Snap Shot, assists: Patrick Dwyer (4), Ron Hainsey (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH219",
+      "summary": "Mike Fisher (7) Slap Shot, assists: Victor Bartley (1), Seth Jones (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH17",
+      "summary": "Matt Hendricks Snap Shot saved by Justin Peters",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH225",
+      "summary": "Viktor Stalberg (3) Backhand, assists: Nick Spaling (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH626",
+      "summary": "Jeff Skinner (9) Wrist Shot, assists: Justin Faulk (12), Andrej Sekera (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH420",
+      "summary": "Jeff Skinner (8) Slap Shot, assists: Eric Staal (16), Justin Faulk (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "2013020479",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0479",
+  "utcStart": "2013-12-13 01:00:00+0000",
+  "easternStart": "2013-12-12 20:00:00",
+  "summary": "Avalanche rally, beat Jets in shootout",
+  "h": {
+    "ab": "WPG",
+    "record": "14-14-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "21-9-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WPG75",
+      "summary": "Michael Frolik (8) Deflected, assists: Jacob Trouba (5), Grant Clitsome (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG63",
+      "summary": "Olli Jokinen Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG457",
+      "summary": "Matt Duchene (14) Backhand, assists: Nathan MacKinnon (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG54",
+      "summary": "Blake Wheeler (8) Deflected, assists: Tobias Enstrom (8), Bryan Little (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG97",
+      "summary": "Matt Duchene (13) Snap Shot, assists: Ryan O'Reilly (9), Nate Guenin (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG242",
+      "summary": "Ryan O'Reilly (10) Wrist Shot, assists: Matt Duchene (10), Cory Sarich (6)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WPG492",
+      "summary": "Blake Wheeler (9) Wrist Shot, assists: Mark Scheifele (8), Grant Clitsome (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

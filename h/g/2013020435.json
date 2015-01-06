@@ -1,0 +1,69 @@
+{
+  "id": "2013020435",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0435",
+  "utcStart": "2013-12-07 01:00:00+0000",
+  "easternStart": "2013-12-06 20:00:00",
+  "summary": "Ducks get shootout win against Blackhawks",
+  "h": {
+    "ab": "CHI",
+    "record": "20-6-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "20-7-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "CHI249",
+      "summary": "Ryan Getzlaf (15) Wrist Shot, assists: Cam Fowler (14), Nick Bonino (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI430",
+      "summary": "Kris Versteeg (4) Wrist Shot, assists: Marian Hossa (10), Brent Seabrook (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI17",
+      "summary": "Ben Smith (4) Wrist Shot, assists: Patrick Kane (18), Kris Versteeg (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI14",
+      "summary": "Corey Perry (17) Tip-In, assists: Ryan Getzlaf (19), Dustin Penner (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "CHI8",
+      "summary": "Brandon Bollig Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

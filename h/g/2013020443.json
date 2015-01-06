@@ -1,0 +1,109 @@
+{
+  "id": "2013020443",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0443",
+  "utcStart": "2013-12-08 00:00:00+0000",
+  "easternStart": "2013-12-07 19:00:00",
+  "summary": "Three-goal first leads Capitals past Predators",
+  "h": {
+    "ab": "WSH",
+    "record": "16-12-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "13-14-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH648",
+      "summary": "Eric Fehr (4) Wrist Shot, assists: Mikhail Grabovski (16)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH612",
+      "summary": "Nate Schmidt (1) Slap Shot, assists: Martin Erat (8), Joel Ward (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH613",
+      "summary": "Eric Nystrom (5) Wrist Shot, assists: Viktor Stalberg (5), Roman Josi (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH24",
+      "summary": "Troy Brouwer (6) Backhand, assists: Eric Fehr (7), Mikhail Grabovski (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH19",
+      "summary": "Alex Ovechkin Snap Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH224",
+      "summary": "Roman Josi (1) Wrist Shot, assists: Shea Weber (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH44",
+      "summary": "Alex Ovechkin (22) Slap Shot, assists: Nicklas Backstrom (20)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH16",
+      "summary": "Jason Chimera Wrist Shot saved by Marek Mazanec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH13",
+      "summary": "Shea Weber Slap Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH211",
+      "summary": "Karl Alzner (1) Slap Shot, assists: Mike Green (13), Nicklas Backstrom (21)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

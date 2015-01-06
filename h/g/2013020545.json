@@ -1,0 +1,28 @@
+{
+  "id": "2013020545",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0545",
+  "utcStart": "2013-12-21 18:00:00+0000",
+  "easternStart": "2013-12-21 13:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PIT",
+    "record": "25-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "13-16-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

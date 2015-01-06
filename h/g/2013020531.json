@@ -1,0 +1,28 @@
+{
+  "id": "2013020531",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0531",
+  "utcStart": "2013-12-20 01:30:00+0000",
+  "easternStart": "2013-12-19 20:30:00",
+  "summary": "Stars try to string consecutive wins against Canucks",
+  "h": {
+    "ab": "DAL",
+    "record": "16-12-5",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "20-10-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

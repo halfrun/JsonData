@@ -1,0 +1,117 @@
+{
+  "id": "2013020384",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0384",
+  "utcStart": "2013-11-29 21:00:00+0000",
+  "easternStart": "2013-11-29 16:00:00",
+  "summary": "Ducks get Koivu back, roll over Flames",
+  "h": {
+    "ab": "ANA",
+    "record": "18-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "9-13-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "ANA64",
+      "summary": "Joe Colborne Wrist Shot saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA242",
+      "summary": "Dustin Penner (8) Tip-In, assists: Ryan Getzlaf (16), Nick Bonino (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA430",
+      "summary": "David Jones (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA58",
+      "summary": "Lee Stempniak Wrist Shot saved by Frederik Andersen",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA202",
+      "summary": "Corey Perry (14) Slap Shot, assists: Ben Lovejoy (4), Nolan Yonkman (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA70",
+      "summary": "Matt Beleskey Deflected saved by Reto Berra",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA492",
+      "summary": "Dustin Penner (9) Wrist Shot, assists: Ryan Getzlaf (17), Corey Perry (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA97",
+      "summary": "Sami Vatanen (3) Slap Shot, assists: Andrew Cogliano (6), Saku Koivu (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA8",
+      "summary": "Ben Lovejoy hit Matt Stajan",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA415",
+      "summary": "Andrew Cogliano (7) Backhand, assists: Daniel Winnik (8), Saku Koivu (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "ANA405",
+      "summary": "David Jones (5) Deflected, assists: Ladislav Smid (2), Lance Bouma (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": "2013020454",
+      "utcStart": "2013-12-10 00:30:00+0000",
+      "summary": "Senators edge Flyers in shootout",
+      "h": "OTT",
+      "a": "PHI"
+    },
+    {
+      "id": "2013020455",
+      "utcStart": "2013-12-10 00:30:00+0000",
+      "summary": "Malkin helps Penguins edge Blue Jackets",
+      "h": "PIT",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020456",
+      "utcStart": "2013-12-10 03:00:00+0000",
+      "summary": "Canucks blank Hurricanes for fifth straight win",
+      "h": "VAN",
+      "a": "CAR"
+    },
+    {
+      "id": "2013020457",
+      "utcStart": "2013-12-10 03:00:00+0000",
+      "summary": "Ducks hand Islanders 10th straight loss",
+      "h": "ANA",
+      "a": "NYI"
+    }
+  ]
+}

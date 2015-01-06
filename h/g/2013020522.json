@@ -1,0 +1,77 @@
+{
+  "id": "2013020522",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0522",
+  "utcStart": "2013-12-19 01:00:00+0000",
+  "easternStart": "2013-12-18 20:00:00",
+  "summary": "Penguins edge Rangers for fifth straight win",
+  "h": {
+    "ab": "NYR",
+    "record": "16-17-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PIT",
+    "record": "25-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "NYR808",
+      "summary": "Mats Zuccarello (7) Backhand, assists: John Moore (5), Justin Falk (2)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR824",
+      "summary": "Derick Brassard (6) Wrist Shot, assists: Benoit Pouliot (5), Mats Zuccarello (16)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR580",
+      "summary": "Pascal Dupuis (6) Wrist Shot, assists: Sidney Crosby (30), Chris Kunitz (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR584",
+      "summary": "Brandon Sutter (7) Backhand, assists: Olli Maatta (7)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR555",
+      "summary": "Carl Hagelin (7) Backhand, assists: John Moore (4), Brad Richards (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    },
+    {
+      "key": "NYR394",
+      "summary": "Chris Kunitz (18) Slap Shot, assists: Jussi Jokinen (13), Sidney Crosby (29)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": null,
+      "awayNumber": 0
+    }
+  ]
+}

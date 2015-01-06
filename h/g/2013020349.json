@@ -5,24 +5,89 @@
   "gn": "0349",
   "utcStart": "2013-11-24 01:00:00+0000",
   "easternStart": "2013-11-23 20:00:00",
-  "summary": "",
+  "summary": "Ducks hand Coyotes first regulation loss at home",
   "h": {
     "ab": "PHX",
-    "record": "14-4-4",
+    "record": "14-5-4",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
   "a": {
     "ab": "ANA",
-    "record": "15-6-3",
+    "record": "17-6-3",
     "live": "",
-    "replayShort": "",
-    "replayShortNumber": 0,
-    "replayFull": "",
-    "replayFullNumber": 0
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
   },
-  "pbp": []
+  "pbp": [
+    {
+      "key": "PHX423",
+      "summary": "Sami Vatanen (2) Wrist Shot, assists: Mathieu Perreault (10), Matt Beleskey (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX407",
+      "summary": "Corey Perry (13) Wrist Shot, assists: Ryan Getzlaf (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX652",
+      "summary": "Shane Doan (11) Tip-In, assists: Oliver Ekman-Larsson (13), Radim Vrbata (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX91",
+      "summary": "Dustin Penner (5) Wrist Shot, assists: Cam Fowler (11), Nick Bonino (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX244",
+      "summary": "Mike Ribeiro (7) Wrist Shot, assists: Derek Morris (7), Shane Doan (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX61",
+      "summary": "David Rundblad Slap Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX56",
+      "summary": "Keith Yandle Wrist Shot saved by Jonas Hiller",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX248",
+      "summary": "Dustin Penner (6) Wrist Shot, assists: Ben Lovejoy (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
 }

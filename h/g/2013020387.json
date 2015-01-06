@@ -1,0 +1,85 @@
+{
+  "id": "2013020387",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0387",
+  "utcStart": "2013-11-29 23:00:00+0000",
+  "easternStart": "2013-11-29 18:00:00",
+  "summary": "Avalanche beat Wild in first of home-and-home series",
+  "h": {
+    "ab": "MIN",
+    "record": "15-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "19-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MIN626",
+      "summary": "Gabriel Landeskog (8) Snap Shot, assists: Marc-Andre Cliche (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN9",
+      "summary": "Jan Hejda (3) Slap Shot, assists: Gabriel Landeskog (10), Nathan MacKinnon (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN223",
+      "summary": "Nathan MacKinnon (4) Deflected, assists: Gabriel Landeskog (11), Erik Johnson (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN15",
+      "summary": "Nino Niederreiter Wrist Shot saved by Jean-Sebastien Giguere",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN62",
+      "summary": "Patrick Bordeleau hit Clayton Stoner",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN19",
+      "summary": "Nathan MacKinnon Slap Shot saved by Josh Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN249",
+      "summary": "Dany Heatley (6) Deflected, assists: Nino Niederreiter (10), Erik Haula (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

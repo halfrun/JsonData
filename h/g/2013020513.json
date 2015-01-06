@@ -1,0 +1,101 @@
+{
+  "id": "2013020513",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0513",
+  "utcStart": "2013-12-18 00:30:00+0000",
+  "easternStart": "2013-12-17 19:30:00",
+  "summary": "Canadiens break out in third period to top Coyotes",
+  "h": {
+    "ab": "MTL",
+    "record": "21-12-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "18-10-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MTL437",
+      "summary": "Andrei Markov (3) Slap Shot, assists: Max Pacioretty (4), David Desharnais (9)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL622",
+      "summary": "Max Pacioretty (13) Wrist Shot, assists: David Desharnais (10), P.K. Subban (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL63",
+      "summary": "Radim Vrbata Tip-In saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL55",
+      "summary": "Travis Moen Tip-In saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL642",
+      "summary": "Max Pacioretty (14) Wrist Shot, assists: Brian Gionta (13)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL75",
+      "summary": "Mikkel Boedker (10) Backhand, assists: Kyle Chipchura (5), Connor Murphy (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL59",
+      "summary": "Oliver Ekman-Larsson Slap Shot saved by Carey Price",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL9",
+      "summary": "Douglas Murray hit Mike Ribeiro",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "MTL53",
+      "summary": "Max Pacioretty Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

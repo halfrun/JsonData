@@ -1,0 +1,28 @@
+{
+  "id": "2013020554",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0554",
+  "utcStart": "2013-12-24 00:00:00+0000",
+  "easternStart": "2013-12-23 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "NYR",
+    "record": "16-17-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "17-16-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020566",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0566",
+  "utcStart": "2013-12-24 03:30:00+0000",
+  "easternStart": "2013-12-23 22:30:00",
+  "summary": "",
+  "h": {
+    "ab": "SJS",
+    "record": "21-7-6",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "COL",
+    "record": "22-10-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

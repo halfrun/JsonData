@@ -1,0 +1,69 @@
+{
+  "id": "2013020400",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0400",
+  "utcStart": "2013-12-01 02:00:00+0000",
+  "easternStart": "2013-11-30 21:00:00",
+  "summary": "Avalanche squander lead late, beat Wild in shootout",
+  "h": {
+    "ab": "COL",
+    "record": "19-6-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "15-8-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "COL655",
+      "summary": "Matt Cooke (4) Wrist Shot, assists: Torrey Mitchell (4), Kyle Brodziak (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL664",
+      "summary": "Mikko Koivu (6) Wrist Shot, assists: Zach Parise (12), Jason Pominville (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL58",
+      "summary": "Gabriel Landeskog (9) Backhand, assists: John Mitchell (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL344",
+      "summary": "Nathan MacKinnon (5) Wrist Shot, assists: John Mitchell (5), Ryan O'Reilly (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "COL59",
+      "summary": "Zach Parise Wrist Shot saved by Semyon Varlamov",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

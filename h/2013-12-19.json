@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "id": "2013020523",
+      "utcStart": "2013-12-20 00:00:00+0000",
+      "summary": "Sabres aim for second straight as they host Bruins",
+      "h": "BUF",
+      "a": "BOS"
+    },
+    {
+      "id": "2013020524",
+      "utcStart": "2013-12-20 00:00:00+0000",
+      "summary": "Maple Leafs, Coyotes try to get back on winning path",
+      "h": "TOR",
+      "a": "PHX"
+    },
+    {
+      "id": "2013020525",
+      "utcStart": "2013-12-20 00:00:00+0000",
+      "summary": "Flyers' Mason to face Blue Jackets for first time",
+      "h": "PHI",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020526",
+      "utcStart": "2013-12-20 00:00:00+0000",
+      "summary": "Penguins aim to extend streak vs. Wild",
+      "h": "PIT",
+      "a": "MIN"
+    },
+    {
+      "id": "2013020527",
+      "utcStart": "2013-12-20 00:30:00+0000",
+      "summary": "Red-hot Panthers set to face Senators",
+      "h": "OTT",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020528",
+      "utcStart": "2013-12-20 00:30:00+0000",
+      "summary": "Red Wings look to turn fortunes at home vs. Flames",
+      "h": "DET",
+      "a": "CGY"
+    },
+    {
+      "id": "2013020529",
+      "utcStart": "2013-12-20 00:30:00+0000",
+      "summary": "Lightning return home to face Predators",
+      "h": "TBL",
+      "a": "NSH"
+    },
+    {
+      "id": "2013020530",
+      "utcStart": "2013-12-20 01:00:00+0000",
+      "summary": "Blues look to overcome injuries, Canadiens",
+      "h": "STL",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020531",
+      "utcStart": "2013-12-20 01:30:00+0000",
+      "summary": "Stars try to string consecutive wins against Canucks",
+      "h": "DAL",
+      "a": "VAN"
+    },
+    {
+      "id": "2013020532",
+      "utcStart": "2013-12-20 02:30:00+0000",
+      "summary": "Avalanche look for response to Oilers' rout",
+      "h": "COL",
+      "a": "EDM"
+    },
+    {
+      "id": "2013020533",
+      "utcStart": "2013-12-20 03:30:00+0000",
+      "summary": "Sharks seek road success against Kings",
+      "h": "LAK",
+      "a": "SJS"
+    }
+  ]
+}

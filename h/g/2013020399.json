@@ -1,0 +1,109 @@
+{
+  "id": "2013020399",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0399",
+  "utcStart": "2013-12-01 01:00:00+0000",
+  "easternStart": "2013-11-30 20:00:00",
+  "summary": "Blackhawks end 'Circus Trip' with win against Coyotes",
+  "h": {
+    "ab": "PHX",
+    "record": "15-7-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "20-4-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "PHX672",
+      "summary": "Marian Hossa (11) Wrist Shot, assists: Jonathan Toews (13), Brent Seabrook (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX452",
+      "summary": "Martin Hanzal (8) Tip-In, assists: Radim Vrbata (14), Mike Ribeiro (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX60",
+      "summary": "Patrick Kane (16) Slap Shot, assists: Marian Hossa (9), Duncan Keith (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX80",
+      "summary": "Niklas Hjalmarsson (3) Wrist Shot, assists: Patrick Kane (14), Michal Handzus (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX496",
+      "summary": "Brandon Bollig (3) Wrist Shot, assists: Marcus Kruger (9), Ben Smith (6)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX77",
+      "summary": "Andrew Shaw (8) Backhand, assists: Brent Seabrook (14), Duncan Keith (23)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX62",
+      "summary": "Ben Smith Snap Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX56",
+      "summary": "Jonathan Toews Wrist Shot saved by Mike Smith",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX276",
+      "summary": "Rob Klinkhammer (5) Wrist Shot, assists: Michael Stone (1), Oliver Ekman-Larsson (14)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "PHX63",
+      "summary": "Derek Morris Wrist Shot saved by Antti Raanta",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

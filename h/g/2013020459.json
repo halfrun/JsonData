@@ -1,0 +1,117 @@
+{
+  "id": "2013020459",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0459",
+  "utcStart": "2013-12-11 00:00:00+0000",
+  "easternStart": "2013-12-10 19:00:00",
+  "summary": "Ovechkin's four goals help Capitals edge Lightning",
+  "h": {
+    "ab": "WSH",
+    "record": "17-12-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TBL",
+    "record": "17-10-3",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH31",
+      "summary": "Nikita Kucherov (2) Slap Shot, assists: Teddy Purcell (10), Matt Carle (11)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH470",
+      "summary": "Alex Ovechkin (25) Slap Shot, assists: Mike Green (14), Nicklas Backstrom (24)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH12",
+      "summary": "Richard Panik Wrist Shot saved by Braden Holtby",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH41",
+      "summary": "Alex Ovechkin (23) Snap Shot, assists: Nicklas Backstrom (22)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH676",
+      "summary": "Alex Ovechkin (26) Slap Shot, assists: John Carlson (7), Nicklas Backstrom (25)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH282",
+      "summary": "Nicklas Backstrom (7) Wrist Shot, assists: Mikhail Grabovski (17), Troy Brouwer (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH15",
+      "summary": "Martin St Louis (13) Snap Shot, assists: Sami Salo (5), Tyler Johnson (9)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH654",
+      "summary": "Ondrej Palat (5) Wrist Shot, assists: Tyler Johnson (10), Martin St Louis (17)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH455",
+      "summary": "Tyler Johnson (7) Backhand, assists: Ondrej Palat (6), Martin St Louis (16)",
+      "homeType": "goal",
+      "homeNumber": 2,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH463",
+      "summary": "Alex Ovechkin (24) Wrist Shot, assists: Marcus Johansson (17), Nicklas Backstrom (23)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH32",
+      "summary": "Nate Thompson (3) Wrist Shot, assists: J.T. Brown (2), BJ Crombeen (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

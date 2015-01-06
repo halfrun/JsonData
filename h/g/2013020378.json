@@ -1,0 +1,109 @@
+{
+  "id": "2013020378",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0378",
+  "utcStart": "2013-11-29 00:30:00+0000",
+  "easternStart": "2013-11-28 19:30:00",
+  "summary": "Daniel Sedin scores 300th goal in Canucks win",
+  "h": {
+    "ab": "OTT",
+    "record": "10-12-4",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "13-9-5",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "OTT465",
+      "summary": "Jason Garrison (3) Snap Shot, assists: Henrik Sedin (20), Daniel Sedin (15)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT9",
+      "summary": "Alexandre Burrows Wrist Shot saved by Craig Anderson",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT252",
+      "summary": "Clarke MacArthur (7) Wrist Shot, assists: Marc Methot (5), Bobby Ryan (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT299",
+      "summary": "David Booth (2) Wrist Shot, assists: Mike Santorelli (10)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT19",
+      "summary": "Colin Greening Snap Shot saved by Roberto Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT711",
+      "summary": "Mike Santorelli (6) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT13",
+      "summary": "David Booth hit Zack Smith",
+      "homeType": "hit",
+      "homeNumber": 1,
+      "awayType": "hit",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT581",
+      "summary": "Mika Zibanejad (7) Backhand, assists: Joe Corvo (5), Jason Spezza (12)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT296",
+      "summary": "Daniel Sedin (9) Snap Shot, assists: Henrik Sedin (19), Christopher Tanev (8)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "OTT482",
+      "summary": "Dale Weise (2) Wrist Shot, assists: Jason Garrison (10), David Booth (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}
