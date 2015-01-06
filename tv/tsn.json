@@ -1,7 +1,7 @@
 {
 	"Channels": [
 		{
-			"Name": "TSN1",
+			"Name": "TSN1Test",
 			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn1/schedules",
 			"Feed": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen{quality}.m3u8",
 			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png"
