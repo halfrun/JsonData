@@ -24,6 +24,6 @@
 			Name: "TSN5",
 			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn5/schedules",
 			FeedURL: "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open{quality}.m3u8"
-		},
+		}
 	]
 }
