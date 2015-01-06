@@ -1,1 +1,0 @@
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open{quality}.m3u8

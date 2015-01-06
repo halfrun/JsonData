@@ -1,0 +1,29 @@
+{
+	Channels: [
+		{
+			Name: "TSN1",
+			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn1/schedules",
+			FeedURL: "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen{quality}.m3u8"
+		},
+		{
+			Name: "TSN2",
+			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn2/schedules",
+			FeedURL: "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open{quality}.m3u8"
+		},
+		{
+			Name: "TSN3",
+			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn3/schedules",
+			FeedURL: "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open{quality}.m3u8"
+		},
+		{
+			Name: "TSN4",
+			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn4/schedules",
+			FeedURL: "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open{quality}.m3u8"
+		},
+		{
+			Name: "TSN5",
+			ScheduleURL: "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn5/schedules",
+			FeedURL: "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open{quality}.m3u8"
+		},
+	]
+}
