@@ -29,24 +29,6 @@
 			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn5/schedules",
 			"Feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open{quality}.m3u8",
 			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png"
-		},
-		{
-			"Name": "RDS",
-			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/rds/schedules",
-			"Feed": "http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8",
-			"Logo": "http://www.bellaliant.net/binaries/content/gallery/common_en/tv/channel-logos/rds.png"
-		},
-		{
-			"Name": "RDS2",
-			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/rds2/schedules",
-			"Feed": "http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8",
-			"Logo": "http://www.bellaliant.net/binaries/content/gallery/common_en/tv/channel-logos/rds2.png"
-		},
-		{
-			"Name": "RDSi",
-			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/rdsi/schedules",
-			"Feed": "http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8",
-			"Logo": "http://www.bellaliant.net/binaries/content/gallery/common_en/tv/channel-logos/rds_info.png"
 		}
 	]
 }
