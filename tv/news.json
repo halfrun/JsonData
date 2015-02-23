@@ -3,26 +3,14 @@
 		{
 			"Name": "CTV News",
 			"Schedule": "",
-			"Feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8",
+			"Feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen{quality}.m3u8",
 			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/ctv_news.png"
 		},
 		{
 			"Name": "CP24",
 			"Schedule": "",
-			"Feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8",
+			"Feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open{quality}.m3u8",
 			"Logo": "http://assets.bellmedia.ca.s3.amazonaws.com/uploads/2014/02/tv_cp24-300x300.png"
-		},
-		{
-			"Name": "CPAC English",
-			"Schedule": "",
-			"Feed": "http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8",
-			"Logo": ""
-		},
-		{
-			"Name": "CPAC Floor",
-			"Schedule": "",
-			"Feed": "http://bcliveuniv-lh.akamaihd.net/i/cpac1flr2014_01@51230/index_2000_av-p.m3u8",
-			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png"
 		}
 	]
 }
