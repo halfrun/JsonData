@@ -17,7 +17,12 @@
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
 			"logo_key": "cp24"
+		},
+		{
+			"name": "French",
+			"type": "folder",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/channels.json",
+			"logo_key": "french_folder"
 		}
-		
 	]
 }
