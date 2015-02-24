@@ -1,5 +1,7 @@
 {
 	"name": "TSN4",
 	"feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open{quality}.m3u8",
+	"now_playing": "",
+	"next_playing": "",
 	"logo_key": "tsn4"
 }

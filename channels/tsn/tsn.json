@@ -1,5 +1,7 @@
 {
 	"name": "TSN",
 	"feed": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen{quality}.m3u8",
+	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=e525af04fc148aadf8815ef8e738f60b&_render=json",
+	"next_playing": "",
 	"logo_key": "tsn"
 }

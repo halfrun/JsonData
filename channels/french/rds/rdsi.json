@@ -1,5 +1,7 @@
 {
 	"name": "RDSi",
 	"feed": "http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen{quality}.m3u8",
+	"now_playing": "",
+	"next_playing": "",
 	"logo_key": "rdsi"
 }

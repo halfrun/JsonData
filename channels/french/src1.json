@@ -1,5 +1,7 @@
 {
 	"name": "SRC 1",
 	"feed": "http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-b.m3u8",
+	"now_playing": "",
+	"next_playing": "",
 	"logo_key": "src1"
 }
