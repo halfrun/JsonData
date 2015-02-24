@@ -1,7 +1,7 @@
 {
 	"name": "TSN4",
 	"feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open{quality}.m3u8",
-	"now_playing": "",
+	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=696e2f7cc4970c2c374b84e65a8af055&_render=json",
 	"next_playing": "",
 	"logo_key": "tsn4"
 }
