@@ -10,13 +10,13 @@
 			"name": "CTV News",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/ctvnews.json",
-			"logo": "http://ctv1.ctv.ca/sales/sales2008/Specialty/images/ctvnews.jpg"
+			"logo": "http://i.imgur.com/KHVDR2m.png"
 		},
 		{
 			"name": "CP24",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
-			"logo": "http://www.logovaults.com/stock_thumb/big-cablepulse24-cp24-Nzg2MQ==.jpg"
+			"logo": "http://i.imgur.com/n7C0Ort.png"
 		}
 		
 	]
