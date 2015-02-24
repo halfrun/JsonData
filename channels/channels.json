@@ -4,7 +4,7 @@
 			"name": "TSN",
 			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/channels.json",
-			"logo_key": "tsn"
+			"logo_key": "tsn_folder"
 		},
 		{
 			"name": "CTV News",
