@@ -1,0 +1,5 @@
+{
+	"name": "RDS1",
+	"feed": "http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen{quality}.m3u8",
+	"logo_key": "rds1"
+}

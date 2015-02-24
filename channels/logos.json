@@ -9,6 +9,30 @@
 			"url": "http://i.imgur.com/Oa5g2eq.png"
 		},
 		{
+			"key": "rds_folder",
+			"url": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/rds.png"
+		},
+		{
+			"key": "rds1",
+			"url": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/rds.png"
+		},
+		{
+			"key": "rds2",
+			"url": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/rds2.png"
+		},
+		{
+			"key": "rdsi",
+			"url": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png"
+		},
+		{
+			"key": "src1",
+			"url": "http://i.imgur.com/ikEqtsm.png"
+		},
+		{
+			"key": "src2",
+			"url": "http://i.imgur.com/nR7sNoj.png"
+		},
+		{
 			"key": "tsn_folder",
 			"url": "http://i.imgur.com/72Q46MD.jpg"
 		},

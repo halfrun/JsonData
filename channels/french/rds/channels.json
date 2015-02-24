@@ -1,0 +1,22 @@
+{
+	"channels": [
+		{
+			"name": "RDS1",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/rds/rds1.json",
+			"logo_key": "rds1"
+		},
+		{
+			"name": "RDS2",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/rds/rds2.json",
+			"logo_key": "rds2"
+		},
+		{
+			"name": "RDSi",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/rds/rdsi.json",
+			"logo_key": "rdsi"
+		}
+	]
+}
