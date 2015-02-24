@@ -1,7 +1,7 @@
 {
 	"name": "CP24",
 	"feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open{quality}.m3u8",
-	"now_playing": "",
+	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=cd0650778e6efb31a1988030ce8bc4cf&_render=json",
 	"next_playing": "",
 	"logo_key": "cp24"
 }
