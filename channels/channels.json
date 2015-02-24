@@ -2,7 +2,7 @@
 	"channels": [
 		{
 			"name": "TSN",
-			"type": "folder"
+			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/channels.json",
 			"logo": ""
 		},
