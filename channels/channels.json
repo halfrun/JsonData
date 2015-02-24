@@ -1,0 +1,23 @@
+{
+	"channels": [
+		{
+			"name": "TSN",
+			"type": "folder"
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/channels.json",
+			"logo": ""
+		},
+		{
+			"name": "CTV News",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
+			"Logo": "http://ctv1.ctv.ca/sales/sales2008/Specialty/images/ctvnews.jpg"
+		},
+		{
+			"name": "CP24",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
+			"logo": "http://www.logovaults.com/stock_thumb/big-cablepulse24-cp24-Nzg2MQ==.jpg"
+		}
+		
+	]
+}
