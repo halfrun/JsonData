@@ -1,12 +1,6 @@
 {
 	"channels": [
 		{
-			"name": "Sportsnet Ontario",
-			"type": "channel",
-			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/sportsnet/ontario.json",
-			"logo_key": "sn_ontario"
-		},
-		{
 			"name": "TSN",
 			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/channels.json",
