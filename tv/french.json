@@ -1,0 +1,35 @@
+{
+	// Should be a CPAC french available.
+	"Channels": [
+		{
+			"Name": "CBC-p",
+			"Schedule": "",
+			"Feed": "http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-b.m3u8",
+			"Logo": ""
+		},
+		{
+			"Name": "CBC-b",
+			"Schedule": "",
+			"Feed": "http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-b.m3u8",
+			"Logo": ""
+		},
+		{
+			"Name": "TSN3",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn3/schedules",
+			"Feed": "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open{quality}.m3u8",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png"
+		},
+		{
+			"Name": "TSN4",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn4/schedules",
+			"Feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open{quality}.m3u8",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png"
+		},
+		{
+			"Name": "TSN5",
+			"Schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn5/schedules",
+			"Feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open{quality}.m3u8",
+			"Logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png"
+		}
+	]
+}
