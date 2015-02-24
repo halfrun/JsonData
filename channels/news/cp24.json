@@ -1,5 +1,5 @@
 {
 	"name": "CP24",
 	"feed": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open{quality}.m3u8",
-	"logo": "http://i.imgur.com/n7C0Ort.png"
+	"logo_key": "cp24"
 }

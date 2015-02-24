@@ -4,31 +4,31 @@
 			"name": "TSN",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/tsn.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png"
+			"logo_key": "tsn"
 		},
 		{
 			"name": "TSN2",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/tsn2.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png"
+			"logo_key": "tsn2"
 		},
 		{
 			"name": "TSN3",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/tsn3.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png"
+			"logo_key": "tsn3"
 		},
 		{
 			"name": "TSN4",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/tsn4.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png"
+			"logo_key": "tsn4"
 		},
 		{
 			"name": "TSN5",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/tsn5.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png"
+			"logo_key": "tsn5"
 		}
 	]
 }

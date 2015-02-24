@@ -4,19 +4,19 @@
 			"name": "TSN",
 			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/tsn/channels.json",
-			"logo": "http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png"
+			"logo_key": "tsn"
 		},
 		{
 			"name": "CTV News",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/ctvnews.json",
-			"logo": "http://i.imgur.com/KHVDR2m.png"
+			"logo_key": "ctvnews"
 		},
 		{
 			"name": "CP24",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
-			"logo": "http://i.imgur.com/n7C0Ort.png"
+			"logo_key": "cp24"
 		}
 		
 	]

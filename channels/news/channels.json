@@ -4,13 +4,13 @@
 			"name": "CTV News",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
-			"logo": "http://i.imgur.com/KHVDR2m.png"
+			"logo_key": "ctvnews"
 		},
 		{
 			"name": "CP24",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
-			"logo": "http://i.imgur.com/n7C0Ort.png"
+			"logo_key": "cp24"
 		}
 	]
 }
