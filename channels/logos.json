@@ -1,16 +1,40 @@
 {
 	"logos": [
 		{
+			"key": "abcnews", 
+			"url": "http://img4.wikia.nocookie.net/__cb20130610165528/logopedia/images/c/cd/ABC_News_2013.png"
+		},
+		{
+			"key": "bbc_worldnews",
+			"url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/500px-BBC_World_News_red.svg.png"
+		},
+		{
+			"key": "big10network",
+			"url": "https://bigtennetworks.files.wordpress.com/2011/06/new-logo-square.jpg"
+		},
+		{
+			"key": "cnbc",
+			"url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/500px-CNBC_logo.svg.png"
+		},
+		{
+			"key": "cnn",
+			"url": "http://img3.wikia.nocookie.net/__cb20140910201936/logopedia/images/4/47/CNN_International_logo_2014.png"
+		},
+		{
 			"key": "cp24",
-			"url": "http://i.imgur.com/eVLNe9Q.png"
+			"url": "http://assets.bellmedia.ca.s3.amazonaws.com/uploads/2014/02/tv_cp24-300x300.png"
 		},
 		{
 			"key": "ctvnews",
-			"url": "http://i.imgur.com/Oa5g2eq.png"
+			"url": "https://lh5.googleusercontent.com/-NpbPNHE8HwE/UEESHbp-1_I/AAAAAAAAAEI/ddFnujwyocY/w1226-h1226/ctv_news_logo.jpg"
 		},
 		{
 			"key": "french_folder",
 			"url": "http://www.brandcrowd.com/gallery/brands/thumbs/thumb13994776471182.jpg"
+		},
+		{
+			"key": "news_folder",
+			"url": "https://yt3.ggpht.com/-ejVCGbJy3sU/AAAAAAAAAAI/AAAAAAAAAAA/GXSpy6_BbZc/s900-c-k-no/photo.jpg"
 		},
 		{
 			"key": "rds_folder",
@@ -31,6 +55,10 @@
 		{
 			"key": "sn_ontario",
 			"url": ""
+		},
+		{
+			"key": "sports_folder",
+			"url": "http://www.adweek.com/socialtimes/files/2013/01/sports-balls.png"
 		},
 		{
 			"key": "src1",

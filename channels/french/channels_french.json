@@ -15,7 +15,7 @@
 		{
 			"name": "RDS",
 			"type": "folder",
-			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/rds/channels.json",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/french/rds/channels_rds.json",
 			"logo_key": "rds_folder"
 		}
 	]
