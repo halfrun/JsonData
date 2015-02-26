@@ -8,7 +8,7 @@
 		},
 		{
 			"name": "News",
-			"type": "channel",
+			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/channels_news.json",
 			"logo_key": "news_folder"
 		}
