@@ -1,7 +1,7 @@
 {
 	"channels": [
 		{
-			"name": "TSN",
+			"name": "Sports",
 			"type": "folder",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/sports/channels_sports.json",
 			"logo_key": "sports_folder"
