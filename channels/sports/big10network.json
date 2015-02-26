@@ -1,7 +1,7 @@
 {
 	"name": "Big 10 Network",
 	"feed": "http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8",
-	"now_playing": "",
+	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=f7ede85b9307b36e51fd78dd6cf62ae2&_render=json",
 	"next_playing": "",
 	"logo_key": "big10network"
 }
