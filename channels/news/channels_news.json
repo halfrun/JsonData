@@ -1,0 +1,40 @@
+{
+	"channels": [
+		{
+			"name": "ABC News",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/abcnews.json",
+			"logo_key": "abcnews"
+		},
+		{
+			"name": "BBC World News",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/bbc_worldnews.json",
+			"logo_key": "ctvnews"
+		},
+		{
+			"name": "CNBC",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cnbc.json",
+			"logo_key": "ctvnews"
+		},
+		{
+			"name": "CNN",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cnn.json",
+			"logo_key": "ctvnews"
+		},		
+		{
+			"name": "CTV News",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
+			"logo_key": "ctvnews"
+		},
+		{
+			"name": "CP24",
+			"type": "channel",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
+			"logo_key": "cp24"
+		}
+	]
+}

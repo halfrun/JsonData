@@ -1,0 +1,7 @@
+{
+	"name": "BBC World News",
+	"feed": "http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8",
+	"now_playing": "",
+	"next_playing": "",
+	"logo_key": "bbc_worldnews"
+}

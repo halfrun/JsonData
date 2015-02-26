@@ -1,0 +1,7 @@
+{
+	"name": "ABC News",
+	"feed": "http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8",
+	"now_playing": "",
+	"next_playing": "",
+	"logo_key": "abcnews"
+}
