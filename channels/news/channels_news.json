@@ -21,7 +21,7 @@
 		{
 			"name": "CTV News",
 			"type": "channel",
-			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cp24.json",
+			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/ctvnews.json",
 			"logo_key": "ctvnews"
 		},
 		{
