@@ -13,12 +13,6 @@
 			"logo_key": "bbc_worldnews"
 		},
 		{
-			"name": "CNBC",
-			"type": "channel",
-			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cnbc.json",
-			"logo_key": "cnbc"
-		},
-		{
 			"name": "CNN",
 			"type": "channel",
 			"path": "https://raw.githubusercontent.com/pudds/JsonData/master/channels/news/cnn.json",
