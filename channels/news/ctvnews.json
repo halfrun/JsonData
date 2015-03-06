@@ -1,7 +1,6 @@
 {
 	"name": "CTV News",
 	"feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen{quality}.m3u8",
-	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=66a27e1dc9472a52f84f80818fd74832&_render=json",
-	"next_playing": "",
-	"logo_key": "ctvnews"
+	"schedule": "",
+	"logo_key": "ctvnews.jpg"
 }
