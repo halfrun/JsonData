@@ -1,7 +1,47 @@
 {
 	"name": "TSN4",
-	"feed": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open{quality}.m3u8",
-	"now_playing": "https://pipes.yahoo.com/pipes/pipe.run?_id=696e2f7cc4970c2c374b84e65a8af055&_render=json",
-	"next_playing": "",
-	"logo_key": "tsn4"
+	"schedule": "http://capi.9c9media.com/destinations/tsn_web/platforms/desktop/channelAffiliates/tsn4/schedules",
+	"logo_key": "tsn4.png",
+	"feeds": [
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8",
+			"bitrate": "2048",
+			"resolution": "720"
+		},		
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open7.m3u8",
+			"bitrate": "1856",
+			"resolution": "540"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open6.m3u8",
+			"bitrate": "1536",
+			"resolution": "540"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open5.m3u8",
+			"bitrate": "1280",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open4.m3u8",
+			"bitrate": "896",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open3.m3u8",
+			"bitrate": "640",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open2.m3u8",
+			"bitrate": "480",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open1.m3u8",
+			"bitrate": "300",
+			"resolution": "240"
+		}	
+	]
 }

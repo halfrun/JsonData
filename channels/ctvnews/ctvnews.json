@@ -1,5 +1,7 @@
 {
 	"name": "CTV News",
+	"schedule": "",
+	"logo_key": "ctvnews.jpg",
 	"feeds": [
 		{
 			"url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8",
@@ -41,7 +43,5 @@
 			"bitrate": "300",
 			"resolution": "240"
 		}		
-	],
-	"schedule": "",
-	"logo_key": "ctvnews.jpg"
+	]
 }
