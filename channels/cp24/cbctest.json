@@ -1,0 +1,12 @@
+{
+	"name": "CBC Vancouver",
+	"schedule": "",
+	"logo_key": "cp24.png",
+	"feeds": [
+		{
+			"url": "http://t2.llcdn.quickplay.com/live/hls/3505/s/livech1708/playlist_hd.m3u8",
+			"bitrate": "2048",
+			"resolution": "720"
+		}
+	]
+}
