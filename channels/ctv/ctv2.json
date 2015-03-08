@@ -2,7 +2,7 @@
 	"name": "CTV 2",
 	"feed": "",
 	"schedule": "",
-	"logo_key": "ctv2.png",
+	"logo_key": "cp24.png",
 	"feeds": [
 		{
 			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI8.m3u8",
