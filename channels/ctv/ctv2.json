@@ -1,0 +1,48 @@
+{
+	"name": "CTV 2",
+	"feed": "",
+	"schedule": "",
+	"logo_key": "ctv2.png",
+	"feeds": [
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI8.m3u8",
+			"bitrate": "2048",
+			"resolution": "720"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI7.m3u8",
+			"bitrate": "1856",
+			"resolution": "540"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI6.m3u8",
+			"bitrate": "1536",
+			"resolution": "540"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI5.m3u8",
+			"bitrate": "1280",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI4.m3u8",
+			"bitrate": "896",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI3.m3u8",
+			"bitrate": "640",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI2.m3u8",
+			"bitrate": "480",
+			"resolution": "360"
+		},
+		{
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveevent/CIVI1.m3u8",
+			"bitrate": "300",
+			"resolution": "240"
+		}		
+	]
+}
