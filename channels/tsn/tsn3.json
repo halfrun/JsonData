@@ -4,7 +4,7 @@
 	"logo_key": "tsn3.png",
 	"feeds": [
 		{
-			"url": "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8",
+			"url": "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveevent/TSN38.m3u8",
 			"bitrate": "2048",
 			"resolution": "720"
 		},		
